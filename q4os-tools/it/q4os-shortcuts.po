@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: q4os-shortcuts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-09 11:25+0200\n"
-"PO-Revision-Date: 2021-04-12 22:44+0100\n"
+"PO-Revision-Date: 2025-11-19 14:49+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 3.4.2\n"
 
 msgid "A KDE panel applet for a WINE menu"
 msgstr "Un applet del pannello KDE per un menu di WINE"
@@ -60,37 +60,37 @@ msgid "Create, reorganize, and delete partitions"
 msgstr "Crea, riorganizza e cancella le partizioni"
 
 msgid "Curls on Green"
-msgstr ""
+msgstr "Ricci sul verde"
 
 msgid "Damselfly"
-msgstr ""
+msgstr "Libellula"
 
 msgid "Debian Future prototype"
-msgstr ""
+msgstr "Prototipo Futuro di Debian"
 
 msgid "Debian Lines"
-msgstr ""
+msgstr "Linee Debian"
 
 msgid "Debian Softwaves"
-msgstr ""
+msgstr "Onde delicate di Debian"
 
 msgid "Debonaire"
-msgstr ""
+msgstr "Elegante"
 
 msgid "Documents"
 msgstr "Documenti"
 
 msgid "Dolomiti"
-msgstr ""
+msgstr "Dolomiti"
 
 msgid "Dolomiti Cimerlo"
-msgstr ""
+msgstr "Dolomiti Cimerlo"
 
 msgid "Dropbox"
-msgstr ""
+msgstr "Dropbox"
 
 msgid "Ethais"
-msgstr ""
+msgstr "Ethais"
 
 msgid "File Synchronizer"
 msgstr "Sincronizzatore dei file"
@@ -102,19 +102,19 @@ msgid "Find"
 msgstr "Trova"
 
 msgid "Firefox"
-msgstr ""
+msgstr "Firefox"
 
 msgid "GParted"
-msgstr ""
+msgstr "GParted"
 
 msgid "Games"
 msgstr "Giochi"
 
 msgid "Google Chrome"
-msgstr ""
+msgstr "Google Chrome"
 
 msgid "Green curtain"
-msgstr ""
+msgstr "Tendina verde"
 
 msgid "Help"
 msgstr "Aiuto"
@@ -129,19 +129,19 @@ msgid "Install, remove and upgrade software packages"
 msgstr "Installa, rimuovi e aggiorna applicazioni"
 
 msgid "Internet"
-msgstr ""
+msgstr "Internet"
 
 msgid "K3B"
-msgstr ""
+msgstr "K3B"
 
 msgid "Konqueror"
-msgstr ""
+msgstr "Konqueror"
 
 msgid "Konsole"
-msgstr ""
+msgstr "Konsole"
 
 msgid "Landscape Keltern"
-msgstr ""
+msgstr "Paesaggio di Keltern"
 
 msgid "Language Pack installation"
 msgstr "Installazione dei pacchetti della lingua"
@@ -150,16 +150,16 @@ msgid "Lineart Logo"
 msgstr "Logo Lineart"
 
 msgid "Look Switcher"
-msgstr ""
+msgstr "Selettore Aspetto"
 
 msgid "Mail Client"
 msgstr "Client Email"
 
 msgid "Media player"
-msgstr ""
+msgstr "Media Player"
 
 msgid "Mozilla Thunderbird"
-msgstr ""
+msgstr "Mozilla Thunderbird"
 
 msgid "My Documents"
 msgstr "I miei documenti"
@@ -174,19 +174,19 @@ msgid "Network connections"
 msgstr "Connessioni di rete"
 
 msgid "Nightfear"
-msgstr ""
+msgstr "Terrore notturno"
 
 msgid "Open Terminal"
 msgstr "Apri il terminale"
 
 msgid "Origami 1"
-msgstr ""
+msgstr "Origami 1"
 
 msgid "Origami 2"
-msgstr ""
+msgstr "Origami 2"
 
 msgid "Origami 3"
-msgstr ""
+msgstr "Origami 3"
 
 msgid "Package Manager"
 msgstr "Gestore dei pacchetti"
@@ -204,22 +204,22 @@ msgid "Programs"
 msgstr "Programmi"
 
 msgid "Q-Blue flat"
-msgstr ""
+msgstr "Q-Blue flat"
 
 msgid "Q4OS Centaurus1"
-msgstr ""
+msgstr "Q4OS Centaurus1"
 
 msgid "Q4OS Design 1"
-msgstr ""
+msgstr "Q4OS Design 1"
 
 msgid "Q4OS Design 2"
-msgstr ""
+msgstr "Q4OS Design 2"
 
 msgid "Q4OS Hex2"
-msgstr ""
+msgstr "Q4OS Hex2"
 
 msgid "Q4OS Matrix"
-msgstr ""
+msgstr "Q4OS Matrix"
 
 msgid "Q4OS Software Centre"
 msgstr "Centro Programmi di Q4OS"
@@ -246,34 +246,34 @@ msgid "Simple Screen Recorder"
 msgstr "Semplice registratore dello schermo"
 
 msgid "SimpleOutlook Glass"
-msgstr ""
+msgstr "SimpleOutlook Glass"
 
 msgid "SimpleOutlook Glass Adaptive"
-msgstr ""
+msgstr "SimpleOutlook Glass Adaptive"
 
 msgid "SimpleOutlook Pyramids"
-msgstr ""
+msgstr "SimpleOutlook Pyramids"
 
 msgid "SimpleOutlook Ridge"
-msgstr ""
+msgstr "SimpleOutlook Ridge"
 
 msgid "SimpleOutlook Sunset"
-msgstr ""
+msgstr "SimpleOutlook Sunset"
 
 msgid "Skype"
-msgstr ""
+msgstr "Skype"
 
 msgid "Skype Internet Telephony"
-msgstr ""
+msgstr "Skype Internet Telephony"
 
 msgid "Start menu"
 msgstr "Menu start"
 
 msgid "StartUp"
-msgstr ""
+msgstr "StartUp"
 
 msgid "Storm Blue"
-msgstr ""
+msgstr "Storm Blue"
 
 msgid "Synaptic Package Manager"
 msgstr "Gestore dei pacchetti Synaptic"
@@ -285,19 +285,19 @@ msgid "System"
 msgstr "Sistema"
 
 msgid "TDevelop - Q4OS Development Pack"
-msgstr ""
+msgstr "TDevelop - Pacchetto di sviluppo Q4OS"
 
 msgid "TDevelop Q4OS"
-msgstr ""
+msgstr "TDevelop Q4OS"
 
 msgid "Terminal Program"
 msgstr "Terminale"
 
 msgid "The Bay"
-msgstr ""
+msgstr "The Bay"
 
 msgid "Thunderbird"
-msgstr ""
+msgstr "Thunderbird"
 
 msgid "Trash"
 msgstr "Cestino"
@@ -324,7 +324,7 @@ msgid "VLC media player"
 msgstr "Lettore multimediale VLC"
 
 msgid "Vector 2"
-msgstr ""
+msgstr "Vector 2"
 
 msgid "Web Browser"
 msgstr "Browser Web"
@@ -342,10 +342,10 @@ msgid "X2Go Client"
 msgstr "Client X2Go"
 
 msgid "crystalsvg-kde4"
-msgstr ""
+msgstr "crystalsvg-kde4"
 
 msgid "substitute_application_name for Q4OS"
 msgstr "substitute_application_name per Q4OS"
 
 msgid "substitute_application_name_desc"
-msgstr ""
+msgstr "substitute_application_name_desc"

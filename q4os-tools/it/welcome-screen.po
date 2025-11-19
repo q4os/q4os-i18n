@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: Q4OS Welcome Screen\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-14 21:11+0200\n"
-"PO-Revision-Date: 2021-04-12 22:50+0100\n"
+"PO-Revision-Date: 2025-11-19 22:08+0100\n"
 "Last-Translator: vendobici2010@gmail.com <vendobici2010@gmail.com>\n"
 "Language-Team: \n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 3.2.2\n"
 
 msgid "<font size=\"4\"><p align=justify><b>Welcome to Q4OS</b>, fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface.</p><p align=justify>Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below.</p></font>"
 msgstr "<font size=\"4\"><p align=justify><b>Benvenuto in Q4OS</b>, un sistema operativo veloce e potente focalizzato sulla stabilità a lungo termine, sull'affidabilità e su un'interfaccia dallo stile classico.</p><p align=justify>Q4OS è installato in maniera molto minimale e pulita con pochi programmi aggiuntivi. Ora puoi scegliere di configurare il tuo nuovo desktop, e le scorciatoie qui sotto sono un ottimo inizio.</p></font>"
@@ -90,7 +90,7 @@ msgid "Automatic login"
 msgstr "Login automatico"
 
 msgid "Bourbon"
-msgstr ""
+msgstr "Menu Bourbon"
 
 msgid "Cancel"
 msgstr "Annulla"
@@ -99,7 +99,7 @@ msgid "Categories"
 msgstr "Categorie"
 
 msgid "Classic"
-msgstr ""
+msgstr "Classico"
 
 msgid "Classic style cascading menu"
 msgstr "Menu a cascata in stile Classic"
@@ -107,9 +107,8 @@ msgstr "Menu a cascata in stile Classic"
 msgid "Desktop effects"
 msgstr "Effetti grafici del desktop"
 
-#, fuzzy
 msgid "Do you want to turn Desktop Effects on ?"
-msgstr "<p>Vuoi abilitare gli effetti grafici del desktop ?</p>"
+msgstr "Vuoi abilitare gli effetti grafici del desktop ?"
 
 msgid "Documents online"
 msgstr "Documenti online"
@@ -121,7 +120,7 @@ msgid "Enable Autologin"
 msgstr "Abilita login automatico"
 
 msgid "Form2"
-msgstr ""
+msgstr "Form2"
 
 msgid "Hardware info"
 msgstr "Informazioni dell'hardware"
@@ -136,7 +135,7 @@ msgid "Install Proprietary Codecs"
 msgstr "Installa Codec proprietari"
 
 msgid "KickOff"
-msgstr ""
+msgstr "KickOff"
 
 msgid "KickOff type menu"
 msgstr "Menu stile Kickoff"
@@ -156,19 +155,17 @@ msgstr "Tipo del menu"
 msgid "More options  >"
 msgstr "Più opzioni  >"
 
-#, fuzzy
 msgid "Note, desktop effects will work flawlessly on modern hardware only, it's not recommended to use it with legacy hardware. A short system testing will be performed to ensure the hardware is ready to accept the configuration."
-msgstr "<font size=\"4\"><p>Cliccando su questo pulsante abiliterai gli effetti grafici del desktop.</p><p>Nota che questi effetti funzioneranno senza problemi solo su hardware moderno, e sono sconsigliati su pc vecchi. Un rapido controllo del sistema verrà eseguito per assicurarsi che il tuo hardware possa accettare la configurazione.</p></font>"
+msgstr "Nota: gli effetti del desktop funzioneranno perfettamente solo su hardware moderno; non è consigliato usarli su hardware obsoleto. Verrà eseguito un breve test di sistema per assicurarsi che l’hardware sia pronto ad accettare la configurazione."
 
 msgid "Q4OS"
-msgstr ""
+msgstr "Q4OA"
 
-#, fuzzy
 msgid "Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below."
-msgstr "<font size=\"4\"><p align=justify><b>Benvenuto in Q4OS</b>, un sistema operativo veloce e potente focalizzato sulla stabilità a lungo termine, sull'affidabilità e su un'interfaccia dallo stile classico.</p><p align=justify>Q4OS è installato in maniera molto minimale e pulita con pochi programmi aggiuntivi. Ora puoi scegliere di configurare il tuo nuovo desktop, e le scorciatoie qui sotto sono un ottimo inizio.</p></font>"
+msgstr "Q4OS è installato con un ambiente desktop molto semplice e pulito, con il kit software minimo. Ora è il momento giusto per personalizzare il tuo nuovo desktop; potresti voler sfruttare le scorciatoie di personalizzazione riportate di seguito."
 
 msgid "Resize fonts and icons to adjust them according to the current screen resolution and make them more readable."
-msgstr ""
+msgstr "Ridimensiona caratteri e icone per adattarli alla risoluzione dello schermo attuale e renderli più leggibili."
 
 msgid "Revert to Classic"
 msgstr "Ritorna al menu classico"
@@ -180,10 +177,10 @@ msgid "Run Desktop Profiler"
 msgstr "Esegui Desktop Profiler"
 
 msgid "Screen scaling"
-msgstr ""
+msgstr "Screen scaling"
 
 msgid "Screen scaling tool not found."
-msgstr ""
+msgstr "Tool di screen scaling non trovato."
 
 msgid "Set Autologin"
 msgstr "Imposta login automatico"
@@ -195,11 +192,10 @@ msgid "Start menu configuration"
 msgstr "Configurazione del menu di avvio"
 
 msgid "Support us on Patreon"
-msgstr ""
+msgstr "Supportaci su Patreon"
 
-#, fuzzy
 msgid "Switch start menu"
-msgstr "Usa il menu di avvio Kickoff"
+msgstr "Cambia menu start"
 
 msgid "Switch to Bourbon"
 msgstr "Usa il menu Bourbon"
@@ -208,7 +204,7 @@ msgid "Switch to Kickoff"
 msgstr "Usa il menu Kickoff"
 
 msgid "This option is to turn smoothing and beautifying desktop effects on."
-msgstr ""
+msgstr "Questa opzione consente di abilitare gli effetti grafici desktop, come l’anti-aliasing, le transizioni fluide e altri effetti visivi di miglioramento dell’interfaccia, per rendere il desktop più gradevole e uniforme."
 
 msgid "Turn ON"
 msgstr "Abilita"
@@ -222,33 +218,32 @@ msgstr "Attenzione !"
 msgid "Welcome screen"
 msgstr "Schermata di benvenuto"
 
-#, fuzzy
 msgid "Welcome to Q4OS"
-msgstr "Dona al team di Q4OS"
+msgstr "Benvenuti su Q4OS"
 
 msgid "Well arranged system hardware information."
-msgstr ""
+msgstr "Informazioni sull’hardware di sistema ben organizzate."
 
 msgid "Working ..."
 msgstr "Sto lavorando …"
 
 msgid "fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface."
-msgstr ""
+msgstr "sistema operativo desktop veloce e potente, focalizzato su stabilità e affidabilità a lungo termine, con un'interfaccia utente in stile classico."
 
 msgid "pushButton1"
-msgstr ""
+msgstr "premiBottone1"
 
 msgid "pushButton2"
-msgstr ""
+msgstr "premiBottone2"
 
 msgid "pushButton3"
-msgstr ""
+msgstr "premiBottone3"
 
 msgid "pushButton4"
-msgstr ""
+msgstr "premiBottone4"
 
 msgid "textLabel1"
-msgstr ""
+msgstr "etichettaditesto1"
 
 #~ msgid "Turn on Desktop effects"
 #~ msgstr "Attiva effetti grafici"
