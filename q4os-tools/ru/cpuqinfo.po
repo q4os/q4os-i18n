@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Q4OS CPU-Q\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-26 10:59+0200\n"
-"PO-Revision-Date: 2024-05-10 22:22+0400\n"
+"PO-Revision-Date: 2026-01-10 17:49+0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru\n"
@@ -28,7 +28,7 @@ msgid "Bogomips"
 msgstr "Богомипы"
 
 msgid "Bus"
-msgstr ""
+msgstr "Шина"
 
 msgid "Bus Speed"
 msgstr "Скорость шины"
@@ -79,10 +79,10 @@ msgid "Graphics"
 msgstr "Графика"
 
 msgid "HW Summary"
-msgstr "Сводка апп. обеспеч."
+msgstr "Сводка по оборудованию"
 
 msgid "Hardware Info"
-msgstr "Сведения апп. обеспеч."
+msgstr "Сведения об оборудовании"
 
 msgid "Hardware info - Details"
 msgstr "Сведения об оборудовании — Подробности"
@@ -97,10 +97,10 @@ msgid "Kernel"
 msgstr "Ядро ОС"
 
 msgid "L1 Data"
-msgstr "Данные L1"
+msgstr "Ур. 1 данные"
 
 msgid "L1 Inst."
-msgstr "Инструк. L1"
+msgstr "Ур. 1 инструк."
 
 msgid "L2 Cache"
 msgstr "Кэш L2"
@@ -139,7 +139,7 @@ msgid "Processor #1"
 msgstr "Процессор №1"
 
 msgid "RAM Total"
-msgstr "Всего оператив. памяти"
+msgstr "Всего ОЗУ"
 
 msgid "Rated FSB"
 msgstr "Номинальная FSB"
@@ -157,7 +157,7 @@ msgid "Stepping"
 msgstr "Степпинг"
 
 msgid "Storage Total"
-msgstr "Хранилище в общем"
+msgstr "Всего места"
 
 msgid "System"
 msgstr "Система"

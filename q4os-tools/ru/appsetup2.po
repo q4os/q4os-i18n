@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Q4OS Setup\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-21 12:30+0100\n"
-"PO-Revision-Date: 2015-06-01 20:55+0700\n"
+"PO-Revision-Date: 2025-01-10 17:40+0700\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru\n"
@@ -74,7 +74,7 @@ msgid "<p>Warning: Canceling installation during this phase could result in pack
 msgstr "<p>Предупреждение: Отмена установки на этом этапе может привести к сбою системы пакетов.</p><p>Вы уверены, что хотите прервать процесс установки сейчас?</p>"
 
 msgid "<p>result:&nbsp;&nbsp;<b>passed OK !</b></p>"
-msgstr "<p>результат:&nbsp;&nbsp;<b>успешно пройдено!</b></p>"
+msgstr "<p>Результат:&nbsp;&nbsp;<b>успешно выполнено!</b></p>"
 
 msgid "Adding security keys ..."
 msgstr "Добавляются ключи защиты…"
@@ -206,10 +206,10 @@ msgid "Flatpak isn't installed, exiting ..."
 msgstr "Flatpak не установлен, выход…"
 
 msgid "I Agree"
-msgstr "Согласен"
+msgstr "Согласиться"
 
 msgid "If you accept the terms of the agreement, click I Agree to continue. You must accept the agreement to install _SUBST_SWNAME_ software."
-msgstr "Нажмите «Согласен», если вы принимаете условия соглашения. Согласие необходимо для продолжения установки _SUBST_SWNAME_."
+msgstr "Нажмите «Согласиться», если вы принимаете условия соглашения. Согласие необходимо для продолжения установки приложения _SUBST_SWNAME_."
 
 msgid "Install >"
 msgstr "Установить >"
