@@ -36,7 +36,7 @@ msgid "<p>"
 msgstr "<p>"
 
 msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
-msgstr "<p>Обнаружена установка NVIDIA !</p><p>Действия отключены во время установки NVIDIA, пожалуйста, дождитесь окончания установки NVIDIA.</p>"
+msgstr "<p>Обнаружена установка NVIDIA!</p><p>Действия отключены во время установки NVIDIA, пожалуйста, дождитесь окончания установки NVIDIA.</p>"
 
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, most likely, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p>"
 msgstr "<p>Система пакетов занята и не готова к установке. Установку нельзя продолжить.</p><p>Блокировка, скорее всего, вызвана текущими фоновыми обновлениями системы. В этом случае вам придётся подождать некоторое время, пока система пакетов завершит эти операции. Убедитесь, что вы не устанавливаете другое приложение, и повторите установку через несколько минут.</p>"
@@ -102,7 +102,7 @@ msgid "Install or uninstall selected application from the featured applications 
 msgstr "Установить или удалить выбранное приложение из следующего списка рекомендуемых приложений"
 
 msgid "More options"
-msgstr "Больше параметров"
+msgstr "Другие действия"
 
 msgid "Open Flathub repository in the preferred web browser"
 msgstr "Открыть репозиторий Flathub в предпочитаемом веб-браузере"
@@ -159,7 +159,7 @@ msgid "download"
 msgstr "загрузка"
 
 msgid "no selection"
-msgstr "нет выбора"
+msgstr "ничего не выбрано"
 
 msgid "origin"
 msgstr "исходный"

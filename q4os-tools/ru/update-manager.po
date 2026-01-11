@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Q4OS Update Manager\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-27 14:26+0200\n"
-"PO-Revision-Date: 2024-05-06 20:06+0400\n"
+"PO-Revision-Date: 2026-01-10 17:56+0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru\n"
@@ -100,11 +100,10 @@ msgid "Additional updates have been detected"
 msgstr "Обнаружены дополнительные обновления"
 
 msgid "Running Synaptic"
-msgstr ""
+msgstr "Запускается Synaptic"
 
-#, fuzzy
 msgid "Synaptic package manager is not installed so using default updater for now ..."
-msgstr "Не удалось найти исполняемый файл Synaptic, пожалуйста, для начала установите его. Сейчас используется стандартное средство обновления…"
+msgstr "Менеджер пакетов Synaptic не установлен, поэтому сейчас используется стандартное средство обновления…"
 
 msgid "Closing.."
 msgstr "Закрывается…"

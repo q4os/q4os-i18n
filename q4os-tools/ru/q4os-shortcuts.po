@@ -310,10 +310,10 @@ msgid "Uninstall Chromium"
 msgstr "Удалить Chromium"
 
 msgid "Uninstall Q4OS Development Pack"
-msgstr "Удалит пакет разработки Q4OS"
+msgstr "Удалить пакет разработки Q4OS"
 
 msgid "Uninstall substitute_application_name_desc"
-msgstr "Удаление substitute_application_name_desc"
+msgstr "Удалить substitute_application_name_desc"
 
 msgid "Update Manager"
 msgstr "Менеджер обновлений"
@@ -322,7 +322,7 @@ msgid "Users and groups"
 msgstr "Пользователи и группы"
 
 msgid "VLC media player"
-msgstr "Медиапроигрыватель VLC"
+msgstr "VLC медиапроигрыватель"
 
 msgid "Vector 2"
 msgstr "Вектор 2"
