@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-06 17:15+0200\n"
+"POT-Creation-Date: 2026-01-23 10:23+0100\n"
 "PO-Revision-Date: 2025-02-12 13:41+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -26,9 +26,6 @@ msgstr "#Jelentések:"
 
 msgid "---  Menu  ---"
 msgstr "---  Menü  ---"
-
-msgid "1"
-msgstr "1"
 
 msgid "<"
 msgstr "<"
@@ -51,6 +48,9 @@ msgstr "<p>A Virtualbox telepítését észleltük !</p><p>A Virtualbox telepít
 #, fuzzy
 msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Desktop Profiler</b> tool to choose and apply a profile.</p>"
 msgstr "<p>Még nem választottál asztal profilt. Az alkalmazások telepítése előtt erősen ajánlott egy asztal profilt alkalmazni</p><p>Kérlek, futtasd az <b>Asztal profilkészítő</b> eszközt a profil kiválasztásához és alkalmazásához.</p>"
+
+msgid ">"
+msgstr ""
 
 msgid "APT database hasn't been updated yet."
 msgstr "Az APT adatbázist még nem frissítettük."
@@ -130,6 +130,9 @@ msgstr "A kényelmes csomag telepítő és a Flatpak telepítő futtatása"
 msgid "Search:"
 msgstr "Keresés:"
 
+msgid "Settings"
+msgstr ""
+
 msgid "Status"
 msgstr "Állapot"
 
@@ -180,3 +183,6 @@ msgstr "tárolók"
 
 msgid "textLabel"
 msgstr "textLabel"
+
+#~ msgid "1"
+#~ msgstr "1"

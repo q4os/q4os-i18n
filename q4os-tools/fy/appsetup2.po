@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Setup\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-21 12:30+0100\n"
+"POT-Creation-Date: 2026-01-23 10:25+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -64,9 +64,6 @@ msgid "<p>Simulation not successful, sorry, I cannot install now.</p><p>Cleaning
 msgstr ""
 
 msgid "<p>Warning: Canceling installation during this phase could result in package system failure.</p><p>Are you really sure, you want to interrupt the install process now ?</p>"
-msgstr ""
-
-msgid "<p>result:&nbsp;&nbsp;<b>passed OK !</b></p>"
 msgstr ""
 
 msgid "Adding security keys ..."
@@ -240,6 +237,9 @@ msgstr ""
 msgid "No Flathub repository, exiting ..."
 msgstr ""
 
+msgid "Not ready"
+msgstr ""
+
 msgid "Package"
 msgstr ""
 
@@ -259,6 +259,9 @@ msgid "Partial update sw database ..."
 msgstr ""
 
 msgid "Partial update sw database ... Done"
+msgstr ""
+
+msgid "Passed OK"
 msgstr ""
 
 msgid "Please make sure you are not installing another software and repeat setup few moments later."
@@ -393,6 +396,9 @@ msgstr ""
 msgid "clean"
 msgstr ""
 
+msgid "evaluating..."
+msgstr ""
+
 msgid "fine"
 msgstr ""
 
@@ -408,5 +414,11 @@ msgstr ""
 msgid "ready"
 msgstr ""
 
+msgid "result:"
+msgstr ""
+
 msgid "software is already installed, so cancelling installation ..."
+msgstr ""
+
+msgid "type:"
 msgstr ""

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-06 17:15+0200\n"
+"POT-Creation-Date: 2026-01-23 10:23+0100\n"
 "PO-Revision-Date: 2025-11-19 21:42+0100\n"
 "Last-Translator: vendobici2010@gmail.com <vendobici2010@gmail.com>\n"
 "Language-Team: \n"
@@ -25,9 +25,6 @@ msgstr "# Records: "
 
 msgid "---  Menu  ---"
 msgstr "---  Menu  ---"
-
-msgid "1"
-msgstr "1"
 
 msgid "<"
 msgstr "1"
@@ -49,6 +46,9 @@ msgstr "<p>Installazione di Virtualbox rilevata !</p><p>Alcune azioni sono disab
 
 msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Desktop Profiler</b> tool to choose and apply a profile.</p>"
 msgstr "<p>Non hai ancora selezionato un profilo del desktop. È altamente consigliato selezionare un profilo del desktop prima di installare altre applicazioni.</p><p>Per favore, esegui <b>Desktop Profiler</b> per selezionare e applicare un profilo.</p>"
+
+msgid ">"
+msgstr ""
 
 msgid "APT database hasn't been updated yet."
 msgstr "Il database APT non è ancora stato aggiornati."
@@ -128,6 +128,9 @@ msgstr "Esegui il programma di installazione dei pacchetti Comfortable e l’ins
 msgid "Search:"
 msgstr "Cerca:"
 
+msgid "Settings"
+msgstr ""
+
 msgid "Status"
 msgstr "Stato"
 
@@ -178,6 +181,9 @@ msgstr "repositories"
 
 msgid "textLabel"
 msgstr "etichetta di testo"
+
+#~ msgid "1"
+#~ msgstr "1"
 
 #~ msgid "Package manager"
 #~ msgstr "Gestore dei pacchetti"

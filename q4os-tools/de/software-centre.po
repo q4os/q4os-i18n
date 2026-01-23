@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-06 17:15+0200\n"
+"POT-Creation-Date: 2026-01-23 10:23+0100\n"
 "PO-Revision-Date: 2025-06-24 14:40+0200\n"
 "Last-Translator: Beckerich Mika <beckerichmika@gmail.com>\n"
 "Language-Team: \n"
@@ -25,9 +25,6 @@ msgstr "#Datensätze: "
 
 msgid "---  Menu  ---"
 msgstr "---  Menü  ---"
-
-msgid "1"
-msgstr "1"
 
 msgid "<"
 msgstr "<"
@@ -49,6 +46,9 @@ msgstr "<p>Virtualbox-Installation ist erkannt worden!</p><p>Aktionen sind währ
 
 msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Desktop Profiler</b> tool to choose and apply a profile.</p>"
 msgstr "<p>Sie haben noch kein Desktop-Profil angewendet. Es wird dringend empfohlen, vor der Installation von Anwendungen ein Desktop-Profil anzuwenden.</p><p>Bitte führen Sie das Tool <b>Desktop-Profiler</b>aus, um ein Profil zu wählen und anzuwenden.</p>"
+
+msgid ">"
+msgstr ""
 
 msgid "APT database hasn't been updated yet."
 msgstr "APT-Datenbank ist noch nicht aktualisiert worden."
@@ -128,6 +128,9 @@ msgstr "Komfortablen Paket-Installer und den Flatpak-Installer ausführen"
 msgid "Search:"
 msgstr "Suche:"
 
+msgid "Settings"
+msgstr ""
+
 msgid "Status"
 msgstr "Status"
 
@@ -178,6 +181,9 @@ msgstr "Repositories"
 
 msgid "textLabel"
 msgstr "textLabel"
+
+#~ msgid "1"
+#~ msgstr "1"
 
 #~ msgid "Package manager"
 #~ msgstr "Paket-Manager"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-06 17:15+0200\n"
+"POT-Creation-Date: 2026-01-23 10:23+0100\n"
 "PO-Revision-Date: 2022-01-06 13:43+0100\n"
 "Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
 "Language-Team: Dutch <vistausss@outlook.com>\n"
@@ -25,9 +25,6 @@ msgstr "#Items: "
 
 msgid "---  Menu  ---"
 msgstr "---  Menu  ---"
-
-msgid "1"
-msgstr ""
 
 msgid "<"
 msgstr "<"
@@ -50,6 +47,9 @@ msgstr "<p>VirtualBox-installatie aangetroffen!</p><p>Acties zijn uitgeschakeld 
 #, fuzzy
 msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Desktop Profiler</b> tool to choose and apply a profile.</p>"
 msgstr "<p>U heeft nog geen werkomgevingsprofiel toegepast.</p><p>Wij raden aan om het programma <b>Werkomgevingsprofielen</b> te openen en zo spoedig mogelijk één van de beschikbare profielen toe te passen.</p>"
+
+msgid ">"
+msgstr ""
 
 msgid "APT database hasn't been updated yet."
 msgstr ""
@@ -131,6 +131,9 @@ msgstr "Open de eenvoudige pakket- en Flatpak-installatie"
 
 msgid "Search:"
 msgstr "Zoeken:"
+
+msgid "Settings"
+msgstr ""
 
 msgid "Status"
 msgstr "Status"

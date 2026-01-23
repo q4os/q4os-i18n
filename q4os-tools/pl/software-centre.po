@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-06 17:15+0200\n"
+"POT-Creation-Date: 2026-01-23 10:23+0100\n"
 "PO-Revision-Date: 2021-04-20 22:45+0200\n"
 "Last-Translator: oloke <olokelo@gmail.com>\n"
 "Language-Team: \n"
@@ -25,9 +25,6 @@ msgid "#Records: "
 msgstr ""
 
 msgid "---  Menu  ---"
-msgstr ""
-
-msgid "1"
 msgstr ""
 
 msgid "<"
@@ -52,6 +49,9 @@ msgstr "<p>Została wykryta instalacja Virtualbox !</p><p>Wszystkie działania s
 #, fuzzy
 msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Desktop Profiler</b> tool to choose and apply a profile.</p>"
 msgstr "<p>Nie ustawiłeś jeszcze żadnego profilu pulpitu. Bardzo zalecane jest jego wybranie przed instalacją programów.</p><p>Proszę uruchomić <b>Konfigurator Pulpitu</b> by wybrać i zastosować profil.</p>"
+
+msgid ">"
+msgstr ""
 
 msgid "APT database hasn't been updated yet."
 msgstr ""
@@ -138,6 +138,9 @@ msgstr ""
 
 msgid "Search:"
 msgstr "Szukaj:"
+
+msgid "Settings"
+msgstr ""
 
 msgid "Status"
 msgstr ""

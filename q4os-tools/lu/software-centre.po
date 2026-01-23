@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-06 17:15+0200\n"
+"POT-Creation-Date: 2026-01-23 10:23+0100\n"
 "PO-Revision-Date: 2015-05-30 11:23+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -23,9 +23,6 @@ msgid "#Records: "
 msgstr ""
 
 msgid "---  Menu  ---"
-msgstr ""
-
-msgid "1"
 msgstr ""
 
 msgid "<"
@@ -47,6 +44,9 @@ msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled
 msgstr ""
 
 msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Desktop Profiler</b> tool to choose and apply a profile.</p>"
+msgstr ""
+
+msgid ">"
 msgstr ""
 
 msgid "APT database hasn't been updated yet."
@@ -125,6 +125,9 @@ msgid "Run comfortable package installer and Flatpak installer"
 msgstr ""
 
 msgid "Search:"
+msgstr ""
+
+msgid "Settings"
 msgstr ""
 
 msgid "Status"

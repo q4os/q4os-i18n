@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Setup\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-21 12:30+0100\n"
+"POT-Creation-Date: 2026-01-23 10:25+0100\n"
 "PO-Revision-Date: 2025-07-01 22:22+0200\n"
 "Last-Translator: Beckerich Mika <beckerichmika@gmail.com>\n"
 "Language-Team: \n"
@@ -72,9 +72,6 @@ msgstr "<p>Simulation nicht erfolgreich. Sorry, ich kann jetzt nicht installiere
 
 msgid "<p>Warning: Canceling installation during this phase could result in package system failure.</p><p>Are you really sure, you want to interrupt the install process now ?</p>"
 msgstr "<p>Warnung: Ein Abbruch der Installation während dieser Phase könnte in einem Ausfall des Paketsystems resultieren.</p><p>Sind Sie wirklich sicher, dass Sie den Installationsprozess jetzt unterbrechen wollen?</p>"
-
-msgid "<p>result:&nbsp;&nbsp;<b>passed OK !</b></p>"
-msgstr "<p>Ergebnis:&nbsp;&nbsp;<b>Bestanden OK!</b></p>"
 
 msgid "Adding security keys ..."
 msgstr "Hinzufügen von Sicherheitsschlüsseln ..."
@@ -247,6 +244,10 @@ msgstr "Kein Flathub-Repository ... Abbrechen!"
 msgid "No Flathub repository, exiting ..."
 msgstr "Kein Flathub-Repository, wird beendet ..."
 
+#, fuzzy
+msgid "Not ready"
+msgstr "Bereit"
+
 msgid "Package"
 msgstr "Paket"
 
@@ -267,6 +268,10 @@ msgstr "SW-Datenbank partiell aktualisieren ..."
 
 msgid "Partial update sw database ... Done"
 msgstr "SW-Datenbank partiell aktualisieren ... Erledigt"
+
+#, fuzzy
+msgid "Passed OK"
+msgstr "Erfolgreich !"
 
 msgid "Please make sure you are not installing another software and repeat setup few moments later."
 msgstr "Bitte vergewissern Sie sich, dass Sie keine andere Software installieren und wiederholen Sie das Setup einen Moment später."
@@ -400,6 +405,9 @@ msgstr "Bereits installiert, wird beendet ..."
 msgid "clean"
 msgstr "Clean"
 
+msgid "evaluating..."
+msgstr ""
+
 msgid "fine"
 msgstr "Fein"
 
@@ -415,8 +423,17 @@ msgstr "Nicht unterstützt, wird beendet ..."
 msgid "ready"
 msgstr "Bereit"
 
+msgid "result:"
+msgstr "Resultat:"
+
 msgid "software is already installed, so cancelling installation ..."
 msgstr "Software ist bereits installiert, daher Abbruch der Installation ..."
+
+msgid "type:"
+msgstr ""
+
+#~ msgid "<p>result:&nbsp;&nbsp;<b>passed OK !</b></p>"
+#~ msgstr "<p>Ergebnis:&nbsp;&nbsp;<b>Bestanden OK!</b></p>"
 
 #~ msgid "Fast system checks"
 #~ msgstr "Schnelle Systemüberprüfung"
@@ -441,9 +458,3 @@ msgstr "Software ist bereits installiert, daher Abbruch der Installation ..."
 
 #~ msgid "I Agree >"
 #~ msgstr "Ich Stimme Zu >"
-
-#~ msgid "passed OK !"
-#~ msgstr "Erfolgreich !"
-
-#~ msgid "result:"
-#~ msgstr "Resultat:"
