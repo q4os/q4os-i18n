@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# Hugo Carvalho <hugokarvalho@hotmail.com>, 2018, 2019, 2020, 2021, 2022, 2023, 2024.
+# Hugo Carvalho <hugokarvalho@hotmail.com>, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-01-23 10:23+0100\n"
-"PO-Revision-Date: 2025-07-25 17:08+0100\n"
+"PO-Revision-Date: 2026-04-20 16:45+0100\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <hugokarvalho@hotmail.com>\n"
 "Language: pt\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Poedit 3.4.2\n"
 "X-Language: pt_PT\n"
 "X-Source-Language: C\n"
 
@@ -47,12 +47,11 @@ msgstr "<p>Selecione uma aplicação a instalar a partir da lista de aplicaçõe
 msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
 msgstr "<p>Uma instalação Virtualbox foi detectada !</p><p>As ações estão desativadas durante a instalação Virtualbox, aguarde até ao final da instalação do Virtualbox.</p>"
 
-#, fuzzy
 msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Desktop Profiler</b> tool to choose and apply a profile.</p>"
-msgstr "<p>Ainda não aplicou nenhum perfil do ambiente de trabalho. É altamente recomendado aplicar um perfil de ambiente de trabalho antes de instalar aplicações.</p><p>Execute a ferramenta <b>Perfil de ambiente de trabalho</b> para escolher e aplicar um perfil.</p>"
+msgstr "<p>Ainda não aplicou nenhum perfil de ambiente de trabalho. É altamente recomendável aplicar um perfil de ambiente de trabalho antes de instalar aplicações.</p><p>Execute a ferramenta <b>Desktop Profiler</b> para escolher e aplicar um perfil.</p>"
 
 msgid ">"
-msgstr ""
+msgstr ">"
 
 msgid "APT database hasn't been updated yet."
 msgstr "A base de dados APT ainda não foi atualizada."
@@ -88,7 +87,7 @@ msgid "In order to get more applications in the featured list, refresh APT datab
 msgstr "Para obter mais aplicações na lista em destaque, atualize a base de dados APT e inicie novamente o Centro de Software."
 
 msgid "Info"
-msgstr "Info"
+msgstr "Informação"
 
 msgid "Install"
 msgstr "Instalar"
@@ -130,10 +129,10 @@ msgid "Run comfortable package installer and Flatpak installer"
 msgstr "Executar instalador de pacote confortável e instalador Flatpak"
 
 msgid "Search:"
-msgstr "Pesquisa:"
+msgstr "Pesquisar:"
 
 msgid "Settings"
-msgstr ""
+msgstr "Definições"
 
 msgid "Status"
 msgstr "Estado"
@@ -151,10 +150,10 @@ msgid "Uninstall now"
 msgstr "Desinstalar agora"
 
 msgid "action1"
-msgstr "action1"
+msgstr "acção1"
 
 msgid "action2"
-msgstr "action2"
+msgstr "acção2"
 
 msgid "config_file"
 msgstr "config_file"

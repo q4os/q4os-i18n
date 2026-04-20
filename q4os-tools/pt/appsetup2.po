@@ -1,14 +1,14 @@
 # Portuguese translation for appsetup2.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# Hugo Carvalho <hugokarvalho@hotmail.com>, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025.
+# Hugo Carvalho <hugokarvalho@hotmail.com>, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Setup\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-01-23 10:25+0100\n"
-"PO-Revision-Date: 2025-03-02 17:34+0000\n"
+"PO-Revision-Date: 2026-04-20 16:40+0100\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <hugokarvalho@hotmail.com>\n"
 "Language: pt\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.4.2\n"
 "X-Language: pt_PT\n"
 "X-Source-Language: C\n"
 
@@ -247,9 +247,8 @@ msgstr "Nenhum repositório Flathub ... Cancelar !"
 msgid "No Flathub repository, exiting ..."
 msgstr "Nenhum repositório Flathub, a sair ..."
 
-#, fuzzy
 msgid "Not ready"
-msgstr "pronto"
+msgstr "Ainda não está pronto"
 
 msgid "Package"
 msgstr "Pacote"
@@ -261,20 +260,19 @@ msgid "Package system is busy, another application is being installed just now."
 msgstr "O sistema de pacotes está ocupado, está a ser instalada outra aplicação neste momento."
 
 msgid "Package system not consistent ..."
-msgstr "Sistema de pacotes não consistente ..."
+msgstr "O sistema de pacotes não está consistente ..."
 
 msgid "Package system still not consistent, canceling installation ..."
-msgstr "Sistema de pacotes ainda não consistente, a cancelar a instalação ..."
+msgstr "O sistema de pacotes ainda não está consistente, a cancelar a instalação ..."
 
 msgid "Partial update sw database ..."
-msgstr "Atualização parcial da base de dados sw ..."
+msgstr "Atualização parcial da base de dados do software ..."
 
 msgid "Partial update sw database ... Done"
-msgstr "Atualização parcial da base de dados sw ... Concluído"
+msgstr "Atualização parcial da base de dados do software ... Concluído"
 
-#, fuzzy
 msgid "Passed OK"
-msgstr "passou OK !"
+msgstr "Aprovado"
 
 msgid "Please make sure you are not installing another software and repeat setup few moments later."
 msgstr "Certifique-se de que não está a instalar outro software e repita a configuração alguns momentos mais tarde."
@@ -367,16 +365,16 @@ msgid "Trying to recover APT integrity ..."
 msgstr "A tentar recuperar a integridade do APT ..."
 
 msgid "Unsupported distro"
-msgstr "Distro não suportada"
+msgstr "Distribuição não suportada"
 
 msgid "Update Apt database ..."
-msgstr "Atualizar a base de dados Apt ..."
+msgstr "Atualizar a base de dados do Apt ..."
 
 msgid "Update sw database ..."
-msgstr "Atualizar a base de dados sw ..."
+msgstr "Atualizar a base de dados do software ..."
 
 msgid "Update sw database ... Done"
-msgstr "Atualizar a base de dados sw ... Concluído"
+msgstr "Atualizar a base de dados do software ... Concluído"
 
 msgid "Update system cache ..."
 msgstr "Atualizar cache do sistema ..."
@@ -385,7 +383,7 @@ msgid "Update system cache ... Done"
 msgstr "Atualizar cache do sistema ... Concluído"
 
 msgid "Upgrade Apt database ..."
-msgstr "Atualizar a base de dados Apt ..."
+msgstr "Atualizar a base de dados do Apt ..."
 
 msgid "Verified ... OK"
 msgstr "Verificado ... OK"
@@ -409,7 +407,7 @@ msgid "clean"
 msgstr "limpar"
 
 msgid "evaluating..."
-msgstr ""
+msgstr "a avaliar..."
 
 msgid "fine"
 msgstr "ótimo"
@@ -433,7 +431,7 @@ msgid "software is already installed, so cancelling installation ..."
 msgstr "o software já está instalado, a cancelar a instalação ..."
 
 msgid "type:"
-msgstr ""
+msgstr "tipo:"
 
 #~ msgid "<p>result:&nbsp;&nbsp;<b>passed OK !</b></p>"
 #~ msgstr "<p>resultado:&nbsp;&nbsp;<b>aprovado OK !</b></p>"
