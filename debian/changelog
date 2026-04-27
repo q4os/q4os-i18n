@@ -9,7 +9,11 @@ q4os-i18n (3.16.3-a1) UNRELEASED; urgency=medium
   [ Hugo Carvalho ]
   * Update Portuguese translations
 
- -- Q4OS Team <devteam@q4os.org>  Mon, 27 Apr 2026 16:45:15 +0200
+  [ Q4OS Team ]
+  * Move to debhelper 13 compatibility level
+  * Update q4os-base strings
+
+ -- Q4OS Team <devteam@q4os.org>  Mon, 27 Apr 2026 16:54:21 +0200
 
 q4os-i18n (3.16.2-a1) UNRELEASED; urgency=medium
 
