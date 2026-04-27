@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: q4os-base\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-13 21:32+0200\n"
+"POT-Creation-Date: 2026-04-27 16:49+0200\n"
 "PO-Revision-Date: 2025-11-19 14:19+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -36,10 +36,6 @@ msgstr "Rilevato laptop modello Asus Eee PC, verrà eseguita una configurazione 
 #, sh-format
 msgid "Check Internet connection, please."
 msgstr "Verifica la connessione ad Internet, per favore."
-
-#, sh-format
-msgid "Click \"Ok\" button to run the tool."
-msgstr "Clicca su \"Ok\" per far partire lo strumento."
 
 #, sh-format
 msgid "Click \"Ok\" button to show the MenuEditor window."
@@ -114,14 +110,6 @@ msgid "Downloading language pack, please wait ..."
 msgstr "Download del pacchetto della lingua, attendi per favore ..."
 
 #, sh-format
-msgid "External repositories"
-msgstr "Repository esterni"
-
-#, sh-format
-msgid "External repositories to add"
-msgstr "Repository esterni da aggiungere"
-
-#, sh-format
 msgid "For more detailed info read Q4OS documentation at https://www.q4os.org"
 msgstr "Per informazioni più dettagliate, leggi la documentazione di Q4OS all'indirizzo https://www.q4os.org"
 
@@ -162,10 +150,6 @@ msgid "Installer needs to download packages from Q4OS Internet resources, but no
 msgstr "L'assistente all'installazione deve connettersi ad Internet e scaricare i pacchetti dai server di Q4OS, ma non è stato possibile recuperare alcuna informazione. Ti verrà richiesta l'installazione di ${APF1} al prossimo avvio di Konqueror, o puoi farlo manualmente in qualsiasi momento dal Centro Programmi di Q4OS."
 
 #, sh-format
-msgid "Keep in mind, adding external third party repositories is low level system action, and it could deeply influence package database integrity and dependencies. Fortunately, APT package management system contains strong tools for administrators to fix broken dependencies, so you should be always able to revert into a clean state."
-msgstr "Tieni a mente: aggiungere repository di terze parti è un'azione di sistema di \"basso livello\", e potrebbe danneggiare l'integrità del database dei pacchetti e la gestione delle dipendenze. Fortunatamente, il sistema di gestione dei pacchetti APT contiene solidi strumenti di amministrazione per riparare dipendenze incorrette, perciò dovresti essere in grado di ritornare ad un sistema stabile."
-
-#, sh-format
 msgid "Language"
 msgstr "Lingua"
 
@@ -184,10 +168,6 @@ msgstr "Supporto Live (USB-DVD) rilevato. La gestione delle stampanti non è com
 #, sh-format
 msgid "Look Switcher installer and icons will be removed from control panel now, you can download it anytime from Q4OS software centre."
 msgstr "L'installatore dello strumento Look Switcher e le relative icone verranno rimosse dal pannello di controllo. Puoi riscaricarlo in qualunque momento dal Centro Programmi di Q4OS."
-
-#, sh-format
-msgid "Moving filesystem to RAM, it will take a while. Please wait ..."
-msgstr "Sto spostando il file system sulla RAM, ci vorrà un po' di tempo. Attendi, per favore ..."
 
 #, sh-format
 msgid "Newly created items will appear in the start menu <b>after closing</b> the MenuEditor window."
@@ -222,20 +202,12 @@ msgid "Please login again to take changes effect."
 msgstr "Per favore, esci e rifai il login perché le modifiche abbiano effetto."
 
 #, sh-format
-msgid "Please use this tool only if you exactly understand what you are doing."
-msgstr "Per favore, usa questo strumento solo se comprendi esattamente quello che stai facendo."
-
-#, sh-format
 msgid "Printing subsystem is now deactivated, you need to install <b>CUPS layer and printer driver</b> first. If you want to activate printing subsystem and full set of drivers, install following packages:"
 msgstr "Il sottosistema di gestione di stampa è disattivato: devi prima installare i componenti <b>CUPS layer and printer driver</b>. Se vuoi attivarlo e scaricare tutti i driver, installa i seguenti pacchetti:"
 
 #, sh-format
 msgid "Q4OS autodetected <b>${APF}</b> available <b>!</b>"
 msgstr "Q4OS ha rilevato automaticamente che <b>${APF}</b> è disponibile <b>!</b>"
-
-#, sh-format
-msgid "Select a repository:"
-msgstr "Seleziona un repository:"
 
 #, sh-format
 msgid "Select your language:"
@@ -290,14 +262,6 @@ msgid "Unable to update, check Internet connection please."
 msgstr "Impossibile effettuare l'aggiornamento, verifica la connessione ad Internet."
 
 #, sh-format
-msgid "Virtualbox Guest Additions setup"
-msgstr "Configurazione di VirtualBox Guest Additions"
-
-#, sh-format
-msgid "Warning: This system is low in memory, it will be most likely unusable with the Plasma desktop. Please use Trinity desktop installation media instead."
-msgstr "Attenzione: il sistema ha poca memoria RAM: sarà probabilmente inutilizzabile con l'ambiente desktop KDE Plasma. Per favore, scarica dal sito q4os.org la versione con l'ambiente desktop Trinity."
-
-#, sh-format
 msgid "Wireless network card detected, WiFi support enabled."
 msgstr "Scheda di rete wireless rilevata, supporto alle connessioni Wi-Fi attivato."
 
@@ -326,10 +290,6 @@ msgid "Yes, you can install proprietary NVIDIA video drivers right now. This set
 msgstr "Si, puoi installare driver video proprietari di NVIDIA adesso. Questa configurazione scaricherà e installerà automaticamente tutto il necessario."
 
 #, sh-format
-msgid "You are going to add an external repository. This is intended specifically for power users familiar to Debian package management system."
-msgstr "Stai per aggiungere un repository esterno. Questa funzione è adatta ad utenti esperti che abbiano familiarità con il sistema di gestione di pacchetti di Debian."
-
-#, sh-format
 msgid "You are going to edit Start Menu."
 msgstr "Stai per modificare il menu start."
 
@@ -352,6 +312,46 @@ msgstr "download in corso ..."
 #, sh-format
 msgid "message"
 msgstr "messaggio"
+
+#, sh-format
+#~ msgid "Click \"Ok\" button to run the tool."
+#~ msgstr "Clicca su \"Ok\" per far partire lo strumento."
+
+#, sh-format
+#~ msgid "External repositories"
+#~ msgstr "Repository esterni"
+
+#, sh-format
+#~ msgid "External repositories to add"
+#~ msgstr "Repository esterni da aggiungere"
+
+#, sh-format
+#~ msgid "Keep in mind, adding external third party repositories is low level system action, and it could deeply influence package database integrity and dependencies. Fortunately, APT package management system contains strong tools for administrators to fix broken dependencies, so you should be always able to revert into a clean state."
+#~ msgstr "Tieni a mente: aggiungere repository di terze parti è un'azione di sistema di \"basso livello\", e potrebbe danneggiare l'integrità del database dei pacchetti e la gestione delle dipendenze. Fortunatamente, il sistema di gestione dei pacchetti APT contiene solidi strumenti di amministrazione per riparare dipendenze incorrette, perciò dovresti essere in grado di ritornare ad un sistema stabile."
+
+#, sh-format
+#~ msgid "Moving filesystem to RAM, it will take a while. Please wait ..."
+#~ msgstr "Sto spostando il file system sulla RAM, ci vorrà un po' di tempo. Attendi, per favore ..."
+
+#, sh-format
+#~ msgid "Please use this tool only if you exactly understand what you are doing."
+#~ msgstr "Per favore, usa questo strumento solo se comprendi esattamente quello che stai facendo."
+
+#, sh-format
+#~ msgid "Select a repository:"
+#~ msgstr "Seleziona un repository:"
+
+#, sh-format
+#~ msgid "Virtualbox Guest Additions setup"
+#~ msgstr "Configurazione di VirtualBox Guest Additions"
+
+#, sh-format
+#~ msgid "Warning: This system is low in memory, it will be most likely unusable with the Plasma desktop. Please use Trinity desktop installation media instead."
+#~ msgstr "Attenzione: il sistema ha poca memoria RAM: sarà probabilmente inutilizzabile con l'ambiente desktop KDE Plasma. Per favore, scarica dal sito q4os.org la versione con l'ambiente desktop Trinity."
+
+#, sh-format
+#~ msgid "You are going to add an external repository. This is intended specifically for power users familiar to Debian package management system."
+#~ msgstr "Stai per aggiungere un repository esterno. Questa funzione è adatta ad utenti esperti che abbiano familiarità con il sistema di gestione di pacchetti di Debian."
 
 #~ msgid "Check Internet connection, please.</p><p>Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved. You will be asked for ${APD} installation at the next login, or you can install anytime from Software centre."
 #~ msgstr "Verifica la connessione ad Internet, per favore.</p><p> L'assistente ne ha bisogno per connettersi ai server di Q4OS e scaricare i pacchetti, ma non è stato possibile recuperare alcuna informazione. Ti verrà richiesta l'installazione di ${APD} al prossimo login, o puoi farlo manualmente in qualsiasi momento dal Centro Programmi di Q4OS."

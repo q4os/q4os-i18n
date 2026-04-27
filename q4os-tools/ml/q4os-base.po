@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: q4os-base\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-13 21:32+0200\n"
+"POT-Creation-Date: 2026-04-27 16:49+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -35,10 +35,6 @@ msgstr ""
 
 #, sh-format
 msgid "Check Internet connection, please."
-msgstr ""
-
-#, sh-format
-msgid "Click \"Ok\" button to run the tool."
 msgstr ""
 
 #, sh-format
@@ -114,14 +110,6 @@ msgid "Downloading language pack, please wait ..."
 msgstr ""
 
 #, sh-format
-msgid "External repositories"
-msgstr ""
-
-#, sh-format
-msgid "External repositories to add"
-msgstr ""
-
-#, sh-format
 msgid "For more detailed info read Q4OS documentation at https://www.q4os.org"
 msgstr ""
 
@@ -162,10 +150,6 @@ msgid "Installer needs to download packages from Q4OS Internet resources, but no
 msgstr ""
 
 #, sh-format
-msgid "Keep in mind, adding external third party repositories is low level system action, and it could deeply influence package database integrity and dependencies. Fortunately, APT package management system contains strong tools for administrators to fix broken dependencies, so you should be always able to revert into a clean state."
-msgstr ""
-
-#, sh-format
 msgid "Language"
 msgstr ""
 
@@ -183,10 +167,6 @@ msgstr ""
 
 #, sh-format
 msgid "Look Switcher installer and icons will be removed from control panel now, you can download it anytime from Q4OS software centre."
-msgstr ""
-
-#, sh-format
-msgid "Moving filesystem to RAM, it will take a while. Please wait ..."
 msgstr ""
 
 #, sh-format
@@ -222,19 +202,11 @@ msgid "Please login again to take changes effect."
 msgstr ""
 
 #, sh-format
-msgid "Please use this tool only if you exactly understand what you are doing."
-msgstr ""
-
-#, sh-format
 msgid "Printing subsystem is now deactivated, you need to install <b>CUPS layer and printer driver</b> first. If you want to activate printing subsystem and full set of drivers, install following packages:"
 msgstr ""
 
 #, sh-format
 msgid "Q4OS autodetected <b>${APF}</b> available <b>!</b>"
-msgstr ""
-
-#, sh-format
-msgid "Select a repository:"
 msgstr ""
 
 #, sh-format
@@ -290,14 +262,6 @@ msgid "Unable to update, check Internet connection please."
 msgstr ""
 
 #, sh-format
-msgid "Virtualbox Guest Additions setup"
-msgstr ""
-
-#, sh-format
-msgid "Warning: This system is low in memory, it will be most likely unusable with the Plasma desktop. Please use Trinity desktop installation media instead."
-msgstr ""
-
-#, sh-format
 msgid "Wireless network card detected, WiFi support enabled."
 msgstr ""
 
@@ -323,10 +287,6 @@ msgstr ""
 
 #, sh-format
 msgid "Yes, you can install proprietary NVIDIA video drivers right now. This setup will download and auto-install all the needed."
-msgstr ""
-
-#, sh-format
-msgid "You are going to add an external repository. This is intended specifically for power users familiar to Debian package management system."
 msgstr ""
 
 #, sh-format

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: q4os-base\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-13 21:32+0200\n"
+"POT-Creation-Date: 2026-04-27 16:49+0200\n"
 "PO-Revision-Date: 2024-05-10 22:18+0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -37,10 +37,6 @@ msgstr "Обнаружен ноутбук Asus Eee PC, будет выполне
 #, sh-format
 msgid "Check Internet connection, please."
 msgstr "Пожалуйста, проверьте подключение к Интернету."
-
-#, sh-format
-msgid "Click \"Ok\" button to run the tool."
-msgstr "Щёлкните кнопку «Хорошо», чтобы запустить инструмент."
 
 #, sh-format
 msgid "Click \"Ok\" button to show the MenuEditor window."
@@ -115,14 +111,6 @@ msgid "Downloading language pack, please wait ..."
 msgstr "Загружается языковой пакет, пожалуйста, подождите…"
 
 #, sh-format
-msgid "External repositories"
-msgstr "Сторонние репозитории"
-
-#, sh-format
-msgid "External repositories to add"
-msgstr "Сторонние репозитории для добавления"
-
-#, sh-format
 msgid "For more detailed info read Q4OS documentation at https://www.q4os.org"
 msgstr "Подробности можно найти в документации Q4OS по адресу https://www.q4os.org"
 
@@ -163,10 +151,6 @@ msgid "Installer needs to download packages from Q4OS Internet resources, but no
 msgstr "Установщик должен загрузить пакеты с сетевых ресурсов Q4OS, но информацию получить не удалось. Вам будет предложено установить ${APF1} при следующем запуске Konqueror, или вы можете установить его в любое время из Центра приложений Q4OS."
 
 #, sh-format
-msgid "Keep in mind, adding external third party repositories is low level system action, and it could deeply influence package database integrity and dependencies. Fortunately, APT package management system contains strong tools for administrators to fix broken dependencies, so you should be always able to revert into a clean state."
-msgstr "Помните, что добавление внешних сторонних репозиториев — это низкоуровневое системное действие, и оно может сильно повлиять на целостность базы данных пакетов и их зависимостей. К счастью, система управления пакетами APT содержит мощные инструменты для администраторов по исправлению нарушенных зависимостей, поэтому вы всегда сможете вернуться в чистое состояние."
-
-#, sh-format
 msgid "Language"
 msgstr "Язык"
 
@@ -185,10 +169,6 @@ msgstr "Обнаружен носитель в режиме «Live». Управ
 #, sh-format
 msgid "Look Switcher installer and icons will be removed from control panel now, you can download it anytime from Q4OS software centre."
 msgstr "Установщик и значки Переключателя вида будут удалены из панели управления, вы можете загрузить их в любое время из Центра приложений Q4OS."
-
-#, sh-format
-msgid "Moving filesystem to RAM, it will take a while. Please wait ..."
-msgstr "Файловая система переносится в оперативную память, это займёт некоторое время. Пожалуйста, подождите…"
 
 #, sh-format
 msgid "Newly created items will appear in the start menu <b>after closing</b> the MenuEditor window."
@@ -223,20 +203,12 @@ msgid "Please login again to take changes effect."
 msgstr "Пожалуйста, войдите в систему ещё раз, чтобы изменения вступили в силу."
 
 #, sh-format
-msgid "Please use this tool only if you exactly understand what you are doing."
-msgstr "Пожалуйста, используйте этот инструмент только в том случае, если вы точно понимаете, что делаете."
-
-#, sh-format
 msgid "Printing subsystem is now deactivated, you need to install <b>CUPS layer and printer driver</b> first. If you want to activate printing subsystem and full set of drivers, install following packages:"
 msgstr "Подсистема печати сейчас отключена, вам необходимо сначала установить <b>прослойку CUPS и драйвер принтера</b>. Если вы хотите включить подсистему печати и полный набор драйверов, установите следующие пакеты:"
 
 #, sh-format
 msgid "Q4OS autodetected <b>${APF}</b> available <b>!</b>"
 msgstr "Q4OS автоматически обнаружила доступность <b>${APF}</b><b>!</b>"
-
-#, sh-format
-msgid "Select a repository:"
-msgstr "Выберите репозиторий:"
 
 #, sh-format
 msgid "Select your language:"
@@ -291,14 +263,6 @@ msgid "Unable to update, check Internet connection please."
 msgstr "Не удаётся обновить, пожалуйста, проверьте подключение к Интернету."
 
 #, sh-format
-msgid "Virtualbox Guest Additions setup"
-msgstr "Установка гостевых дополнений VirtualBox"
-
-#, sh-format
-msgid "Warning: This system is low in memory, it will be most likely unusable with the Plasma desktop. Please use Trinity desktop installation media instead."
-msgstr "Предупреждение: В этой системе мало памяти, и она, скорее всего, не сможет работать с рабочим столом Plasma. Пожалуйста, используйте установочный носитель рабочего стола Trinity."
-
-#, sh-format
 msgid "Wireless network card detected, WiFi support enabled."
 msgstr "Беспроводная сетевая карта обнаружена, поддержка Wi-Fi включена."
 
@@ -327,10 +291,6 @@ msgid "Yes, you can install proprietary NVIDIA video drivers right now. This set
 msgstr "Да, вы можете установить проприетарные видеодрайверы NVIDIA прямо сейчас. Эта установка загрузит и автоматически установит всё необходимое."
 
 #, sh-format
-msgid "You are going to add an external repository. This is intended specifically for power users familiar to Debian package management system."
-msgstr "Вы собираетесь добавить внешний репозиторий. Это предназначено специально для опытных пользователей, знакомых с системой управления пакетами Debian."
-
-#, sh-format
 msgid "You are going to edit Start Menu."
 msgstr "Вы собираетесь изменить Главное меню."
 
@@ -353,3 +313,43 @@ msgstr "скачивание…"
 #, sh-format
 msgid "message"
 msgstr "сообщение"
+
+#, sh-format
+#~ msgid "Click \"Ok\" button to run the tool."
+#~ msgstr "Щёлкните кнопку «Хорошо», чтобы запустить инструмент."
+
+#, sh-format
+#~ msgid "External repositories"
+#~ msgstr "Сторонние репозитории"
+
+#, sh-format
+#~ msgid "External repositories to add"
+#~ msgstr "Сторонние репозитории для добавления"
+
+#, sh-format
+#~ msgid "Keep in mind, adding external third party repositories is low level system action, and it could deeply influence package database integrity and dependencies. Fortunately, APT package management system contains strong tools for administrators to fix broken dependencies, so you should be always able to revert into a clean state."
+#~ msgstr "Помните, что добавление внешних сторонних репозиториев — это низкоуровневое системное действие, и оно может сильно повлиять на целостность базы данных пакетов и их зависимостей. К счастью, система управления пакетами APT содержит мощные инструменты для администраторов по исправлению нарушенных зависимостей, поэтому вы всегда сможете вернуться в чистое состояние."
+
+#, sh-format
+#~ msgid "Moving filesystem to RAM, it will take a while. Please wait ..."
+#~ msgstr "Файловая система переносится в оперативную память, это займёт некоторое время. Пожалуйста, подождите…"
+
+#, sh-format
+#~ msgid "Please use this tool only if you exactly understand what you are doing."
+#~ msgstr "Пожалуйста, используйте этот инструмент только в том случае, если вы точно понимаете, что делаете."
+
+#, sh-format
+#~ msgid "Select a repository:"
+#~ msgstr "Выберите репозиторий:"
+
+#, sh-format
+#~ msgid "Virtualbox Guest Additions setup"
+#~ msgstr "Установка гостевых дополнений VirtualBox"
+
+#, sh-format
+#~ msgid "Warning: This system is low in memory, it will be most likely unusable with the Plasma desktop. Please use Trinity desktop installation media instead."
+#~ msgstr "Предупреждение: В этой системе мало памяти, и она, скорее всего, не сможет работать с рабочим столом Plasma. Пожалуйста, используйте установочный носитель рабочего стола Trinity."
+
+#, sh-format
+#~ msgid "You are going to add an external repository. This is intended specifically for power users familiar to Debian package management system."
+#~ msgstr "Вы собираетесь добавить внешний репозиторий. Это предназначено специально для опытных пользователей, знакомых с системой управления пакетами Debian."

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: q4os-base\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-13 21:32+0200\n"
+"POT-Creation-Date: 2026-04-27 16:49+0200\n"
 "PO-Revision-Date: 2022-01-06 13:46+0100\n"
 "Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
 "Language-Team: Dutch <vistausss@outlook.com>\n"
@@ -36,10 +36,6 @@ msgstr "U gebruikt een Asus Eee PC; er worden extra instellingen verricht."
 #, sh-format
 msgid "Check Internet connection, please."
 msgstr "Controleer uw internetverbinding."
-
-#, sh-format
-msgid "Click \"Ok\" button to run the tool."
-msgstr "Klik op ‘Oké’ om het programma uit te voeren."
 
 #, sh-format
 msgid "Click \"Ok\" button to show the MenuEditor window."
@@ -114,14 +110,6 @@ msgid "Downloading language pack, please wait ..."
 msgstr "Bezig met downloaden van taalpakket; even geduld…"
 
 #, sh-format
-msgid "External repositories"
-msgstr "Externe pakketbronnen"
-
-#, sh-format
-msgid "External repositories to add"
-msgstr "Toe te voegen externe pakketbronnen"
-
-#, sh-format
 msgid "For more detailed info read Q4OS documentation at https://www.q4os.org"
 msgstr "Ga voor meer informatie naar de Q4OS-documentatiepagina op https://www.q4os.org"
 
@@ -162,10 +150,6 @@ msgid "Installer needs to download packages from Q4OS Internet resources, but no
 msgstr "Er moeten pakketten worden gedownload uit Q4OS's online pakketbronnen, maar er kan geen informatie worden opgehaald. U wordt gevraagd om ${APF1} te installeren zodra u Konqueror (her)opent. Ook kunt u ${APF1} zelf installeren middels het softwarecentrum."
 
 #, sh-format
-msgid "Keep in mind, adding external third party repositories is low level system action, and it could deeply influence package database integrity and dependencies. Fortunately, APT package management system contains strong tools for administrators to fix broken dependencies, so you should be always able to revert into a clean state."
-msgstr "Let op: het toevoegen van externe pakketbronnen kan de databankintegriteit en pakketafhankelijkheden aantasten. Gelukkig biedt APT goed gereedschap aan aan administrators om gebroken afhankelijkheden te herstellen. Zo kunt u uw systeem altijd weer werkbaar maken."
-
-#, sh-format
 msgid "Language"
 msgstr "Taal"
 
@@ -184,10 +168,6 @@ msgstr "Livemedium gedetecteerd. Er is geen volledige ondersteuning voor printer
 #, sh-format
 msgid "Look Switcher installer and icons will be removed from control panel now, you can download it anytime from Q4OS software centre."
 msgstr "De installatiehulp en pictogrammen van de themakiezer worden verwijderd van het configuratieschem. U kunt dit programma altijd installeren middels het Softwarecentrum."
-
-#, sh-format
-msgid "Moving filesystem to RAM, it will take a while. Please wait ..."
-msgstr "Bezig met plaatsen van bestandssysteem in werkgeheugen; even geduld…"
 
 #, sh-format
 msgid "Newly created items will appear in the start menu <b>after closing</b> the MenuEditor window."
@@ -222,20 +202,12 @@ msgid "Please login again to take changes effect."
 msgstr "Meldt u af en weer aan om de wijzigingen toe te passen."
 
 #, sh-format
-msgid "Please use this tool only if you exactly understand what you are doing."
-msgstr "Gebruik dit programma alleen als u weet wat u doet."
-
-#, sh-format
 msgid "Printing subsystem is now deactivated, you need to install <b>CUPS layer and printer driver</b> first. If you want to activate printing subsystem and full set of drivers, install following packages:"
 msgstr "Het afdruksysteem is uitgeschakeld; u dient <b>CUPS en zijn afdrukstuurprogramma</b> te installeren. Als u het afdruksysteem wilt inschakelen met álle stuurprogramma's, installeer dan de volgende pakketten:"
 
 #, sh-format
 msgid "Q4OS autodetected <b>${APF}</b> available <b>!</b>"
 msgstr "Q4OS heeft vastgesteld dat <b>${APF}</b> beschikbaar is."
-
-#, sh-format
-msgid "Select a repository:"
-msgstr "Kies een pakketbron:"
 
 #, sh-format
 msgid "Select your language:"
@@ -290,14 +262,6 @@ msgid "Unable to update, check Internet connection please."
 msgstr "Bijwerken mislukt. Controleer uw internetverbinding."
 
 #, sh-format
-msgid "Virtualbox Guest Additions setup"
-msgstr "Virtualbox Guest Additions-installatie"
-
-#, sh-format
-msgid "Warning: This system is low in memory, it will be most likely unusable with the Plasma desktop. Please use Trinity desktop installation media instead."
-msgstr "Waarschuwing: dit systeem beschikt over weinig werkgeheugen, waardoor Plasma mogelijk onwerkbaar zal zijn. Schakel over op het installatiemedium voor de Trinity-werkomgeving."
-
-#, sh-format
 msgid "Wireless network card detected, WiFi support enabled."
 msgstr "Draadloze netwerkkaart gedetecteerd. Wi-Fi-ondersteuning is ingeschakeld."
 
@@ -326,10 +290,6 @@ msgid "Yes, you can install proprietary NVIDIA video drivers right now. This set
 msgstr "U kunt de gesloten NVIDIA-stuurprogramma's installeren. Deze instelhulp downloadt en installeert al het nodige."
 
 #, sh-format
-msgid "You are going to add an external repository. This is intended specifically for power users familiar to Debian package management system."
-msgstr "U staat op het punt een externe pakketbron toe te voegen. Dit is vooral bedoeld voor gevorderde gebruikers die bekend zijn met het Debian-pakketsysteem."
-
-#, sh-format
 msgid "You are going to edit Start Menu."
 msgstr "U staat op het punt om het startmenu aan te passen."
 
@@ -352,6 +312,46 @@ msgstr "Bezig met downloaden…"
 #, sh-format
 msgid "message"
 msgstr "Bericht"
+
+#, sh-format
+#~ msgid "Click \"Ok\" button to run the tool."
+#~ msgstr "Klik op ‘Oké’ om het programma uit te voeren."
+
+#, sh-format
+#~ msgid "External repositories"
+#~ msgstr "Externe pakketbronnen"
+
+#, sh-format
+#~ msgid "External repositories to add"
+#~ msgstr "Toe te voegen externe pakketbronnen"
+
+#, sh-format
+#~ msgid "Keep in mind, adding external third party repositories is low level system action, and it could deeply influence package database integrity and dependencies. Fortunately, APT package management system contains strong tools for administrators to fix broken dependencies, so you should be always able to revert into a clean state."
+#~ msgstr "Let op: het toevoegen van externe pakketbronnen kan de databankintegriteit en pakketafhankelijkheden aantasten. Gelukkig biedt APT goed gereedschap aan aan administrators om gebroken afhankelijkheden te herstellen. Zo kunt u uw systeem altijd weer werkbaar maken."
+
+#, sh-format
+#~ msgid "Moving filesystem to RAM, it will take a while. Please wait ..."
+#~ msgstr "Bezig met plaatsen van bestandssysteem in werkgeheugen; even geduld…"
+
+#, sh-format
+#~ msgid "Please use this tool only if you exactly understand what you are doing."
+#~ msgstr "Gebruik dit programma alleen als u weet wat u doet."
+
+#, sh-format
+#~ msgid "Select a repository:"
+#~ msgstr "Kies een pakketbron:"
+
+#, sh-format
+#~ msgid "Virtualbox Guest Additions setup"
+#~ msgstr "Virtualbox Guest Additions-installatie"
+
+#, sh-format
+#~ msgid "Warning: This system is low in memory, it will be most likely unusable with the Plasma desktop. Please use Trinity desktop installation media instead."
+#~ msgstr "Waarschuwing: dit systeem beschikt over weinig werkgeheugen, waardoor Plasma mogelijk onwerkbaar zal zijn. Schakel over op het installatiemedium voor de Trinity-werkomgeving."
+
+#, sh-format
+#~ msgid "You are going to add an external repository. This is intended specifically for power users familiar to Debian package management system."
+#~ msgstr "U staat op het punt een externe pakketbron toe te voegen. Dit is vooral bedoeld voor gevorderde gebruikers die bekend zijn met het Debian-pakketsysteem."
 
 #~ msgid "Check Internet connection, please.</p><p>Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved. You will be asked for ${APD} installation at the next login, or you can install anytime from Software centre."
 #~ msgstr "Er moeten pakketten worden gedownload uit Q4OS's online pakketbronnen, maar er kan geen informatie worden opgehaald. Controleer uw internetverbinding. U wordt gevraagd om ${APD} te installeren zodra u zich opnieuw aanmeldt. Ook kunt u ${APD} zelf installeren middels het softwarecentrum."
