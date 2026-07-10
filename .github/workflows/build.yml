@@ -1,0 +1,79 @@
+name: Validate translations and build package
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  validate-po:
+    runs-on: ubuntu-latest
+
+    container:
+      image: debian:bookworm-slim
+
+    steps:
+
+      - name: Install gettext
+        run: |
+          apt-get update
+          apt-get install -y gettext
+
+      - name: Checkout source
+        uses: actions/checkout@v4
+
+      - name: Check every .po file compiles
+        run: |
+          fail=0
+          while IFS= read -r -d '' f; do
+            if ! msgfmt --check -o /dev/null "$f" 2>/tmp/err.log; then
+              echo "::error file=$f::$(tr '\n' ' ' < /tmp/err.log)"
+              fail=1
+            fi
+          done < <(find q4os-tools -name '*.po' -print0)
+          exit $fail
+
+  build:
+    runs-on: ubuntu-latest
+
+    # No codename matrix here: this is an Architecture:-all translations
+    # package with no per-release logic, so one representative codename
+    # is enough to confirm the packaging pipeline (buildfs.sh + dh_install)
+    # still works.
+    container:
+      image: debian:bookworm
+
+    steps:
+
+      - name: Install base tools
+        run: |
+          apt-get update
+          apt-get install -y \
+            git build-essential devscripts debhelper gettext fakeroot lintian dpkg-dev
+
+      - name: Checkout source
+        uses: actions/checkout@v4
+
+      - name: Remove .git directory
+        run: rm -rf .git
+
+      - name: Build binary package
+        run: |
+          dpkg-buildpackage -us -uc -b
+
+      - name: Run lintian
+        run: |
+          lintian ../*.changes || true
+
+      - name: Collect artifacts
+        run: |
+          mkdir -p artifacts
+          mv ../*.deb artifacts/ 2>/dev/null || true
+          mv ../*.changes artifacts/ 2>/dev/null || true
+          mv ../*.buildinfo artifacts/ 2>/dev/null || true
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: q4os-i18n-package
+          path: artifacts/*
