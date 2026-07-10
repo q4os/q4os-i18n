@@ -14,23 +14,26 @@ jobs:
 
     steps:
 
-      - name: Install git and gettext
+      - name: Install tooling
         run: |
           apt-get update
-          apt-get install -y git gettext
+          apt-get install -y git gettext findutils
 
       - name: Checkout source
         uses: actions/checkout@v4
 
       - name: Check every .po file compiles
+        shell: bash
         run: |
+          find q4os-tools -name '*.po' > /tmp/po-list.txt
           fail=0
-          while IFS= read -r -d '' f; do
-            if ! msgfmt --check -o /dev/null "$f" 2>/tmp/err.log; then
-              echo "::error file=$f::$(tr '\n' ' ' < /tmp/err.log)"
+          while IFS= read -r f; do
+            err=$(msgfmt --check -o /dev/null "$f" 2>&1)
+            if [ $? -ne 0 ]; then
+              echo "::error file=$f::$err"
               fail=1
             fi
-          done < <(find q4os-tools -name '*.po' -print0)
+          done < /tmp/po-list.txt
           exit $fail
 
   build:
