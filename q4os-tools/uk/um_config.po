@@ -1,39 +1,115 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the Q4OS Update Manager package.
+# This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Update Manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-09 14:30+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2026-08-03 17:05+0200\n"
+"PO-Revision-Date: 2026-08-03 19:23+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "Apply"
-msgstr ""
+msgid "less than a minute"
+msgstr "менше хвилини"
 
-msgid "Auto close updater window on finish"
-msgstr ""
+#, c-format
+msgid "%n minute(s)"
+msgstr "%n хвилина(и)"
 
-msgid "Close"
-msgstr ""
+#, c-format
+msgid "%n hour(s)"
+msgstr "%n година(и)"
 
-msgid "Make use of Synaptic package manager, if available"
-msgstr ""
+msgid "Next upgrade attempt scheduled in %1."
+msgstr "Наступну спробу оновлення заплановано через %1."
 
-msgid "Show upgradable packages lists and confirmation dialogs"
-msgstr ""
-
-msgid "Start updater window minimized"
-msgstr ""
+msgid "Next check scheduled in %1."
+msgstr "Наступну перевірку заплановано через %1."
 
 msgid "Update Manager - configuration"
-msgstr ""
+msgstr "Менеджер оновлень - налаштування"
+
+msgid "<b>Note:</b> Plasma's Discover update notifier is installed and already shows update notifications on this system, so the Q4OS Updater tray icon stays hidden here to avoid showing two icons for the same thing."
+msgstr "<b>Примітка:</b> у цій системі встановлено та вже показує сповіщення про оновлення сповіщувач Discover середовища Plasma, тому піктограма Q4OS Updater у лотку тут прихована, щоб не показувати дві піктограми для того самого."
+
+msgid "Updater mode: Standard"
+msgstr "Режим засобу оновлення: стандартний"
+
+msgid "Standard interactive mode"
+msgstr "Стандартний інтерактивний режим"
+
+msgid "Full unattended-upgrades"
+msgstr "Повністю автоматичні оновлення (unattended-upgrades)"
+
+msgid "Standard mode options"
+msgstr "Параметри стандартного режиму"
+
+msgid "Hide updater tray icon when no updates are available"
+msgstr "Приховувати піктограму засобу оновлення в лотку, якщо оновлень немає"
+
+msgid "Add all repositories to Allowed-origins"
+msgstr "Додати всі репозиторії до дозволених джерел (Allowed-origins)"
+
+msgid "Hide upgradable packages lists and confirmation dialogs"
+msgstr "Приховувати списки пакунків для оновлення та діалоги підтвердження"
+
+msgid "Start updater window minimized"
+msgstr "Запускати вікно засобу оновлення згорнутим"
+
+msgid "Auto close updater window on finish"
+msgstr "Автоматично закривати вікно засобу оновлення після завершення"
+
+msgid "Make use of Synaptic package manager, if available"
+msgstr "Використовувати менеджер пакунків Synaptic, якщо доступний"
+
+msgid "Update Flatpak applications"
+msgstr "Оновлювати застосунки Flatpak"
+
+msgid "Apply"
+msgstr "Застосувати"
+
+msgid "Close"
+msgstr "Закрити"
+
+msgid "Flatpak is not installed"
+msgstr "Flatpak не встановлено"
+
+msgid "Flatpak access isn't set up on this system"
+msgstr "У цій системі не налаштовано доступ до Flatpak"
+
+msgid "Requires access to qunattended-ctl, which isn't set up on this system"
+msgstr "Потребує доступу до qunattended-ctl, який не налаштовано в цій системі"
+
+msgid "Enables Debian's unattended-upgrades for system updates."
+msgstr "Вмикає unattended-upgrades Debian для оновлень системи."
+
+msgid "Checked: unattended-upgrades installs from every currently configured repository, matching the interactive updater, and stays current if a repository is added later. Unchecked: restrict to unattended-upgrades' own already-configured allowed origins (e.g. security updates only)."
+msgstr "Позначено: unattended-upgrades встановлює оновлення з усіх наразі налаштованих репозиторіїв, як і інтерактивний засіб оновлення, і залишається актуальним, якщо репозиторій буде додано пізніше. Не позначено: обмежується вже налаштованими дозволеними джерелами самого unattended-upgrades (наприклад, лише оновлення безпеки)."
+
+msgid "Updater mode: Unattended"
+msgstr "Режим засобу оновлення: автоматичний"
+
+msgid "Unattended upgrades options"
+msgstr "Параметри автоматичного оновлення"
+
+msgid "Package required"
+msgstr "Потрібен пакунок"
+
+msgid "Fully unattended updates require the 'unattended-upgrades' package, which isn't installed. Install it (e.g. via Synaptic or 'sudo apt install unattended-upgrades'), then enable this option again."
+msgstr "Для повністю автоматичних оновлень потрібен пакунок 'unattended-upgrades', який не встановлено. Встановіть його (наприклад, через Synaptic або командою 'sudo apt install unattended-upgrades'), а потім увімкніть цей параметр знову."
+
+#, c-format
+msgid "%n minute"
+msgstr "%n хвилина(и)"
+
+#, c-format
+msgid "%n hour"
+msgstr "%n година(и)"
+

@@ -1,39 +1,115 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the Q4OS Update Manager package.
+# This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Update Manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-09 14:30+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2026-08-03 17:05+0200\n"
+"PO-Revision-Date: 2026-08-03 19:23+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "Apply"
-msgstr ""
+msgid "less than a minute"
+msgstr "不到一分钟"
 
-msgid "Auto close updater window on finish"
-msgstr ""
+#, c-format
+msgid "%n minute(s)"
+msgstr "%n 分钟"
 
-msgid "Close"
-msgstr ""
+#, c-format
+msgid "%n hour(s)"
+msgstr "%n 小时"
 
-msgid "Make use of Synaptic package manager, if available"
-msgstr ""
+msgid "Next upgrade attempt scheduled in %1."
+msgstr "下一次升级尝试计划在 %1 后进行。"
 
-msgid "Show upgradable packages lists and confirmation dialogs"
-msgstr ""
-
-msgid "Start updater window minimized"
-msgstr ""
+msgid "Next check scheduled in %1."
+msgstr "下一次检查计划在 %1 后进行。"
 
 msgid "Update Manager - configuration"
-msgstr ""
+msgstr "更新管理器 - 配置"
+
+msgid "<b>Note:</b> Plasma's Discover update notifier is installed and already shows update notifications on this system, so the Q4OS Updater tray icon stays hidden here to avoid showing two icons for the same thing."
+msgstr "<b>注意:</b> 此系统已安装 Plasma 的 Discover 更新通知程序,并已显示更新通知,因此为避免重复显示同一内容的两个图标,Q4OS 更新程序的托盘图标在此处保持隐藏。"
+
+msgid "Updater mode: Standard"
+msgstr "更新程序模式:标准"
+
+msgid "Standard interactive mode"
+msgstr "标准交互模式"
+
+msgid "Full unattended-upgrades"
+msgstr "完全无人值守升级"
+
+msgid "Standard mode options"
+msgstr "标准模式选项"
+
+msgid "Hide updater tray icon when no updates are available"
+msgstr "没有可用更新时隐藏更新程序托盘图标"
+
+msgid "Add all repositories to Allowed-origins"
+msgstr "将所有软件源添加到允许来源(Allowed-origins)"
+
+msgid "Hide upgradable packages lists and confirmation dialogs"
+msgstr "隐藏可升级软件包列表和确认对话框"
+
+msgid "Start updater window minimized"
+msgstr "以最小化方式启动更新程序窗口"
+
+msgid "Auto close updater window on finish"
+msgstr "完成后自动关闭更新程序窗口"
+
+msgid "Make use of Synaptic package manager, if available"
+msgstr "如果可用,则使用 Synaptic 软件包管理器"
+
+msgid "Update Flatpak applications"
+msgstr "更新 Flatpak 应用程序"
+
+msgid "Apply"
+msgstr "应用"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Flatpak is not installed"
+msgstr "未安装 Flatpak"
+
+msgid "Flatpak access isn't set up on this system"
+msgstr "此系统尚未设置 Flatpak 访问权限"
+
+msgid "Requires access to qunattended-ctl, which isn't set up on this system"
+msgstr "需要访问 qunattended-ctl,但此系统尚未设置该功能"
+
+msgid "Enables Debian's unattended-upgrades for system updates."
+msgstr "为系统更新启用 Debian 的 unattended-upgrades。"
+
+msgid "Checked: unattended-upgrades installs from every currently configured repository, matching the interactive updater, and stays current if a repository is added later. Unchecked: restrict to unattended-upgrades' own already-configured allowed origins (e.g. security updates only)."
+msgstr "选中:unattended-upgrades 将从当前配置的所有软件源安装,与交互式更新程序一致,并在以后添加软件源时保持最新。未选中:仅限于 unattended-upgrades 自身已配置的允许来源(例如仅安全更新)。"
+
+msgid "Updater mode: Unattended"
+msgstr "更新程序模式:无人值守"
+
+msgid "Unattended upgrades options"
+msgstr "无人值守升级选项"
+
+msgid "Package required"
+msgstr "需要软件包"
+
+msgid "Fully unattended updates require the 'unattended-upgrades' package, which isn't installed. Install it (e.g. via Synaptic or 'sudo apt install unattended-upgrades'), then enable this option again."
+msgstr "完全无人值守更新需要 'unattended-upgrades' 软件包,但尚未安装。请安装它(例如通过 Synaptic 或运行 'sudo apt install unattended-upgrades'),然后再次启用此选项。"
+
+#, c-format
+msgid "%n minute"
+msgstr "%n 分钟"
+
+#, c-format
+msgid "%n hour"
+msgstr "%n 小时"
+

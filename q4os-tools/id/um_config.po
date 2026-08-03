@@ -1,39 +1,115 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the Q4OS Update Manager package.
+# This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Update Manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-09 14:30+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2026-08-03 17:05+0200\n"
+"PO-Revision-Date: 2026-08-03 19:23+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "Apply"
-msgstr ""
+msgid "less than a minute"
+msgstr "kurang dari satu menit"
 
-msgid "Auto close updater window on finish"
-msgstr ""
+#, c-format
+msgid "%n minute(s)"
+msgstr "%n menit"
 
-msgid "Close"
-msgstr ""
+#, c-format
+msgid "%n hour(s)"
+msgstr "%n jam"
 
-msgid "Make use of Synaptic package manager, if available"
-msgstr ""
+msgid "Next upgrade attempt scheduled in %1."
+msgstr "Percobaan peningkatan berikutnya dijadwalkan dalam %1."
 
-msgid "Show upgradable packages lists and confirmation dialogs"
-msgstr ""
-
-msgid "Start updater window minimized"
-msgstr ""
+msgid "Next check scheduled in %1."
+msgstr "Pemeriksaan berikutnya dijadwalkan dalam %1."
 
 msgid "Update Manager - configuration"
-msgstr ""
+msgstr "Manajer Pembaruan - konfigurasi"
+
+msgid "<b>Note:</b> Plasma's Discover update notifier is installed and already shows update notifications on this system, so the Q4OS Updater tray icon stays hidden here to avoid showing two icons for the same thing."
+msgstr "<b>Catatan:</b> Pemberitahu pembaruan Discover milik Plasma telah terpasang dan sudah menampilkan pemberitahuan pembaruan di sistem ini, sehingga ikon baki Q4OS Updater tetap disembunyikan di sini untuk menghindari tampilan dua ikon untuk hal yang sama."
+
+msgid "Updater mode: Standard"
+msgstr "Mode pembaru: Standar"
+
+msgid "Standard interactive mode"
+msgstr "Mode interaktif standar"
+
+msgid "Full unattended-upgrades"
+msgstr "Peningkatan tanpa pengawasan penuh"
+
+msgid "Standard mode options"
+msgstr "Opsi mode standar"
+
+msgid "Hide updater tray icon when no updates are available"
+msgstr "Sembunyikan ikon baki pembaru saat tidak ada pembaruan yang tersedia"
+
+msgid "Add all repositories to Allowed-origins"
+msgstr "Tambahkan semua repositori ke Allowed-origins"
+
+msgid "Hide upgradable packages lists and confirmation dialogs"
+msgstr "Sembunyikan daftar paket yang dapat ditingkatkan dan dialog konfirmasi"
+
+msgid "Start updater window minimized"
+msgstr "Mulai jendela pembaru dalam keadaan minimal"
+
+msgid "Auto close updater window on finish"
+msgstr "Tutup otomatis jendela pembaru setelah selesai"
+
+msgid "Make use of Synaptic package manager, if available"
+msgstr "Gunakan manajer paket Synaptic, jika tersedia"
+
+msgid "Update Flatpak applications"
+msgstr "Perbarui aplikasi Flatpak"
+
+msgid "Apply"
+msgstr "Terapkan"
+
+msgid "Close"
+msgstr "Tutup"
+
+msgid "Flatpak is not installed"
+msgstr "Flatpak tidak terpasang"
+
+msgid "Flatpak access isn't set up on this system"
+msgstr "Akses Flatpak belum disiapkan pada sistem ini"
+
+msgid "Requires access to qunattended-ctl, which isn't set up on this system"
+msgstr "Memerlukan akses ke qunattended-ctl, yang belum disiapkan pada sistem ini"
+
+msgid "Enables Debian's unattended-upgrades for system updates."
+msgstr "Mengaktifkan unattended-upgrades milik Debian untuk pembaruan sistem."
+
+msgid "Checked: unattended-upgrades installs from every currently configured repository, matching the interactive updater, and stays current if a repository is added later. Unchecked: restrict to unattended-upgrades' own already-configured allowed origins (e.g. security updates only)."
+msgstr "Dicentang: unattended-upgrades memasang dari setiap repositori yang saat ini dikonfigurasi, sesuai dengan pembaru interaktif, dan tetap mutakhir jika repositori ditambahkan nanti. Tidak dicentang: batasi ke allowed origins milik unattended-upgrades sendiri yang sudah dikonfigurasi (misalnya hanya pembaruan keamanan)."
+
+msgid "Updater mode: Unattended"
+msgstr "Mode pembaru: Tanpa pengawasan"
+
+msgid "Unattended upgrades options"
+msgstr "Opsi peningkatan tanpa pengawasan"
+
+msgid "Package required"
+msgstr "Paket diperlukan"
+
+msgid "Fully unattended updates require the 'unattended-upgrades' package, which isn't installed. Install it (e.g. via Synaptic or 'sudo apt install unattended-upgrades'), then enable this option again."
+msgstr "Pembaruan tanpa pengawasan penuh memerlukan paket 'unattended-upgrades', yang belum terpasang. Pasang paket tersebut (misalnya melalui Synaptic atau 'sudo apt install unattended-upgrades'), lalu aktifkan opsi ini lagi."
+
+#, c-format
+msgid "%n minute"
+msgstr "%n menit"
+
+#, c-format
+msgid "%n hour"
+msgstr "%n jam"
+

@@ -1,180 +1,255 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the Q4OS Update Manager package.
+# This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Update Manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-27 14:26+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2026-08-03 17:05+0200\n"
+"PO-Revision-Date: 2026-08-03 19:23+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "Update Manager - install progress"
-msgstr ""
+#, c-format
+msgid "%n important update available"
+msgstr "%n önemli güncelleme mevcut"
 
-msgid "textLabel1"
-msgstr ""
+#, c-format
+msgid "%n other update available"
+msgstr "%n diğer güncelleme mevcut"
 
-msgid "Cancel"
-msgstr ""
+#, c-format
+msgid "%n update available"
+msgstr "%n güncelleme mevcut"
 
-msgid "Available updates"
-msgstr ""
+msgid "No updates available."
+msgstr "Kullanılabilir güncelleme yok."
 
-msgid "textLabel2"
-msgstr ""
+msgid "&Configure"
+msgstr "&Yapılandır"
 
-msgid "textLabel3"
-msgstr ""
+msgid "&Check for updates"
+msgstr "Güncellemeleri &denetle"
 
-msgid "Don't show this dialog again"
-msgstr ""
+msgid "Software Updates"
+msgstr "Yazılım Güncellemeleri"
 
-msgid "<p>If checked, next updates will be performed without user confirmation.</p><p>You can also configure update manager in the control panel -> system administration.</p>"
-msgstr ""
+msgid "Reboot required"
+msgstr "Yeniden başlatma gerekli"
 
-msgid "pushButton1"
-msgstr ""
+msgid "System has installed important updates. Please reboot your computer as soon as possible to complete the upgrade."
+msgstr "Sisteme önemli güncellemeler yüklendi. Yükseltmeyi tamamlamak için lütfen bilgisayarınızı en kısa sürede yeniden başlatın."
 
-msgid "pushButton2"
-msgstr ""
+msgid "A reboot is required to complete the update. Reboot now? Any unsaved work will be lost."
+msgstr "Güncellemeyi tamamlamak için yeniden başlatma gerekiyor. Şimdi yeniden başlatılsın mı? Kaydedilmemiş çalışmalar kaybolacaktır."
 
-msgid "Show details"
-msgstr ""
+msgid "&Reboot now"
+msgstr "Şimdi yeniden &başlat"
 
-msgid "<p>Another instance of Update Manager is running, leaving ...<p>"
-msgstr ""
+msgid "No updates available"
+msgstr "Kullanılabilir güncelleme yok"
 
-msgid "<p>You are not allowed to perform system upgrades. You need to be member of administrative group \"sudo\" first, please contact system administrator.</p>"
-msgstr ""
+msgid "&Update now"
+msgstr "Şimdi &güncelle"
 
-msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations.</p><p>Please make sure you are not installing another application and repeat setup few minutes later.</p>"
-msgstr ""
+msgid "Update Manager"
+msgstr "Güncelleme Yöneticisi"
 
-msgid "Checking permissions"
-msgstr ""
-
-msgid "Ok"
-msgstr ""
-
-msgid "Checking SW database to be free"
-msgstr ""
-
-msgid "Locking SW database"
-msgstr ""
-
-msgid "System updater has been started.."
-msgstr ""
-
-msgid "Waiting"
-msgstr ""
-
-msgid "Canceled !"
-msgstr ""
-
-msgid "Close"
-msgstr ""
-
-msgid "! Reboot required"
-msgstr ""
-
-msgid "<p>System has received security fixes and important updates.</p><p>Please <b>Reboot</b> your computer as soon as possible to complete the upgrade.</p>"
-msgstr ""
-
-msgid "Please, try to run Update Manager a few minutes later again."
-msgstr ""
-
-msgid "Update manager has been exited with <b>error code: "
-msgstr ""
-
-msgid "Additional updates have been detected"
-msgstr ""
-
-msgid "Running Synaptic"
-msgstr ""
-
-msgid "Synaptic package manager is not installed so using default updater for now ..."
-msgstr ""
-
-msgid "Closing.."
-msgstr ""
-
-msgid "<b>Reboot is required<b> to complete the upgrade."
-msgstr ""
-
-msgid "Success. The most recent update has been implemented."
-msgstr ""
-
-msgid "Your system is up to date and healthy."
-msgstr ""
-
-msgid "Finish >"
-msgstr ""
-
-msgid "Do you want to continue ?"
-msgstr ""
-
-msgid "No"
-msgstr ""
-
-msgid "Yes"
-msgstr ""
+msgid "Another instance of Update Manager is running, leaving ..."
+msgstr "Güncelleme Yöneticisi'nin başka bir örneği çalışıyor, çıkılıyor ..."
 
 msgid "Checking apt pinning"
-msgstr ""
+msgstr "apt sabitlemesi denetleniyor"
+
+msgid "Ok"
+msgstr "Tamam"
 
 msgid "need to be fixed"
-msgstr ""
-
-msgid "Performing upgrade"
-msgstr ""
-
-msgid "Failed!"
-msgstr ""
-
-msgid "System update completed successfully."
-msgstr ""
-
-msgid "Finished :)"
-msgstr ""
+msgstr "onarılması gerekiyor"
 
 msgid "Checking Internet connection"
-msgstr ""
+msgstr "İnternet bağlantısı denetleniyor"
 
 msgid "Not available!"
-msgstr ""
+msgstr "Kullanılamıyor!"
 
 msgid "Update SW database"
-msgstr ""
+msgstr "Yazılım veritabanı güncelleniyor"
 
 msgid "Done"
-msgstr ""
+msgstr "Tamamlandı"
 
 msgid "Failed"
-msgstr ""
-
-msgid "Checking apt database"
-msgstr ""
-
-msgid "Fixing apt database"
-msgstr ""
-
-msgid "Downloading packages"
-msgstr ""
+msgstr "Başarısız"
 
 msgid "Listing updates"
-msgstr ""
+msgstr "Güncellemeler listeleniyor"
+
+msgid "Checking apt database"
+msgstr "apt veritabanı denetleniyor"
+
+msgid "Fixing apt database"
+msgstr "apt veritabanı onarılıyor"
+
+msgid "Downloading packages"
+msgstr "Paketler indiriliyor"
+
+msgid "Performing upgrade"
+msgstr "Yükseltme gerçekleştiriliyor"
+
+msgid "Failed!"
+msgstr "Başarısız!"
 
 msgid "Removing unnecessary packages"
-msgstr ""
+msgstr "Gereksiz paketler kaldırılıyor"
+
+msgid "Updating Flatpak applications"
+msgstr "Flatpak uygulamaları güncelleniyor"
+
+msgid "System update completed successfully."
+msgstr "Sistem güncellemesi başarıyla tamamlandı."
+
+msgid "Finished :)"
+msgstr "Tamamlandı :)"
+
+msgid "Running Synaptic"
+msgstr "Synaptic çalıştırılıyor"
+
+msgid "Synaptic package manager is not installed"
+msgstr "Synaptic paket yöneticisi kurulu değil"
+
+msgid "using default updater instead"
+msgstr "bunun yerine varsayılan güncelleyici kullanılıyor"
+
+msgid "Show details"
+msgstr "Ayrıntıları göster"
+
+msgid "Cancel"
+msgstr "İptal"
+
+msgid "You are not allowed to perform system upgrades. You need to be member of administrative group \"sudo\" first, please contact system administrator."
+msgstr "Sistem yükseltmeleri gerçekleştirmenize izin verilmiyor. Önce \"sudo\" yönetici grubunun üyesi olmanız gerekiyor, lütfen sistem yöneticinizle iletişime geçin."
+
+msgid "Checking permissions"
+msgstr "İzinler denetleniyor"
+
+msgid "Checking SW database to be free"
+msgstr "Yazılım veritabanının boşta olup olmadığı denetleniyor"
+
+msgid "Locking SW database"
+msgstr "Yazılım veritabanı kilitleniyor"
+
+msgid "System updater has been started.."
+msgstr "Sistem güncelleyici başlatıldı.."
+
+msgid "Package system is busy, not ready to install now. Setup cannot continue.\n\nThe lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations.\n\nPlease make sure you are not installing another application and repeat setup a few minutes later."
+msgstr "Paket sistemi meşgul, şu anda kuruluma hazır değil. Kurulum devam edemiyor.\n\nBu kilitlenmeye çok büyük olasılıkla devam eden arka plan sistem güncellemeleri neden oluyor. Durum buysa, paket sisteminin bu işlemleri bitirmesi için bir süre beklemeniz gerekir.\n\nLütfen başka bir uygulama kurmadığınızdan emin olun ve kurulumu birkaç dakika sonra tekrar deneyin."
+
+msgid "Close"
+msgstr "Kapat"
+
+msgid "Update manager has been exited with error code: %1.\n\nPlease, try to run Update Manager a few minutes later again."
+msgstr "Güncelleme Yöneticisi şu hata koduyla sonlandırıldı: %1.\n\nLütfen birkaç dakika sonra Güncelleme Yöneticisi'ni tekrar çalıştırmayı deneyin."
+
+msgid "Available updates"
+msgstr "Kullanılabilir güncellemeler"
+
+msgid "Additional updates have been detected"
+msgstr "Ek güncellemeler tespit edildi"
+
+msgid "Synaptic package manager is not installed so using default updater for now ..."
+msgstr "Synaptic paket yöneticisi kurulu değil, bu yüzden şimdilik varsayılan güncelleyici kullanılıyor ..."
+
+msgid "Couldn't run Synaptic. Using default updater for now ..."
+msgstr "Synaptic çalıştırılamadı. Şimdilik varsayılan güncelleyici kullanılıyor ..."
+
+msgid "Closing.."
+msgstr "Kapatılıyor.."
+
+msgid "Success. The most recent update has been implemented. Reboot is required to complete the upgrade."
+msgstr "Başarılı. En son güncelleme uygulandı. Yükseltmeyi tamamlamak için yeniden başlatma gerekiyor."
+
+msgid "Success. The most recent update has been implemented. Your system is up to date and healthy."
+msgstr "Başarılı. En son güncelleme uygulandı. Sisteminiz güncel ve sorunsuz durumda."
+
+msgid "Finish"
+msgstr "Bitir"
+
+msgid "Waiting"
+msgstr "Bekleniyor"
+
+msgid "Do you want to continue?"
+msgstr "Devam etmek istiyor musunuz?"
+
+msgid "Don't show this dialog again"
+msgstr "Bu iletişim kutusunu tekrar gösterme"
+
+msgid "If checked, next updates will be performed without user confirmation.\nYou can also configure update manager later."
+msgstr "İşaretlenirse, sonraki güncellemeler kullanıcı onayı olmadan gerçekleştirilir.\nGüncelleme yöneticisini daha sonra da yapılandırabilirsiniz."
+
+msgid "No"
+msgstr "Hayır"
+
+msgid "Yes"
+msgstr "Evet"
+
+msgid "Canceled!"
+msgstr "İptal edildi!"
+
+msgid "System has received security fixes and important updates.\n\nPlease Reboot your computer as soon as possible to complete the upgrade."
+msgstr "Sisteme güvenlik düzeltmeleri ve önemli güncellemeler yüklendi.\n\nYükseltmeyi tamamlamak için lütfen bilgisayarınızı en kısa sürede Yeniden Başlatın."
+
+msgid "<p>Another instance of Update Manager is running, leaving ...<p>"
+msgstr "<p>Güncelleme Yöneticisi'nin başka bir örneği çalışıyor, çıkılıyor ...<p>"
+
+msgid "<p>You are not allowed to perform system upgrades. You need to be member of administrative group \"sudo\" first, please contact system administrator.</p>"
+msgstr "<p>Sistem yükseltmeleri gerçekleştirmenize izin verilmiyor. Önce \"sudo\" yönetici grubunun üyesi olmanız gerekiyor, lütfen sistem yöneticinizle iletişime geçin.</p>"
+
+msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations.</p><p>Please make sure you are not installing another application and repeat setup a few minutes later.</p>"
+msgstr "<p>Paket sistemi meşgul, şu anda kuruluma hazır değil. Kurulum devam edemiyor.</p><p>Bu kilitlenmeye çok büyük olasılıkla devam eden arka plan sistem güncellemeleri neden oluyor. Durum buysa, paket sisteminin bu işlemleri bitirmesi için bir süre beklemeniz gerekir.</p><p>Lütfen başka bir uygulama kurmadığınızdan emin olun ve kurulumu birkaç dakika sonra tekrar deneyin.</p>"
+
+msgid "Canceled !"
+msgstr "İptal edildi !"
+
+msgid "! Reboot required"
+msgstr "! Yeniden başlatma gerekli"
+
+msgid "<p>System has received security fixes and important updates.</p><p>Please <b>Reboot</b> your computer as soon as possible to complete the upgrade.</p>"
+msgstr "<p>Sisteme güvenlik düzeltmeleri ve önemli güncellemeler yüklendi.</p><p>Yükseltmeyi tamamlamak için lütfen bilgisayarınızı en kısa sürede <b>Yeniden Başlatın</b>.</p>"
+
+msgid "Please, try to run Update Manager a few minutes later again."
+msgstr "Lütfen birkaç dakika sonra Güncelleme Yöneticisi'ni tekrar çalıştırmayı deneyin."
+
+msgid "Update manager has been exited with <b>error code: "
+msgstr "Güncelleme Yöneticisi şu <b>hata koduyla sonlandırıldı: "
+
+msgid "<b>Reboot is required<b> to complete the upgrade."
+msgstr "Yükseltmeyi tamamlamak için <b>yeniden başlatma gerekiyor<b>."
+
+msgid "Success. The most recent update has been implemented."
+msgstr "Başarılı. En son güncelleme uygulandı."
+
+msgid "Your system is up to date and healthy."
+msgstr "Sisteminiz güncel ve sorunsuz durumda."
+
+msgid "Finish >"
+msgstr "Bitir >"
+
+msgid "Do you want to continue ?"
+msgstr "Devam etmek istiyor musunuz ?"
 
 msgid "Installing.."
-msgstr ""
+msgstr "Kuruluyor.."
+
+msgid "Q4OS Update Notifier"
+msgstr "Q4OS Güncelleme Bildirici"
+
+msgid "Please install \"q4os-updater-plasma\" package in order to get better experience."
+msgstr "Daha iyi bir deneyim için lütfen \"q4os-updater-plasma\" paketini kurun."
+

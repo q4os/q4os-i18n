@@ -1,39 +1,115 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the Q4OS Update Manager package.
+# This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Update Manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-09 14:30+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2026-08-03 17:05+0200\n"
+"PO-Revision-Date: 2026-08-03 19:23+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "Apply"
-msgstr ""
+msgid "less than a minute"
+msgstr "1分未満"
 
-msgid "Auto close updater window on finish"
-msgstr ""
+#, c-format
+msgid "%n minute(s)"
+msgstr "%n 分"
 
-msgid "Close"
-msgstr ""
+#, c-format
+msgid "%n hour(s)"
+msgstr "%n 時間"
 
-msgid "Make use of Synaptic package manager, if available"
-msgstr ""
+msgid "Next upgrade attempt scheduled in %1."
+msgstr "次回のアップグレード試行は %1 後に予定されています。"
 
-msgid "Show upgradable packages lists and confirmation dialogs"
-msgstr ""
-
-msgid "Start updater window minimized"
-msgstr ""
+msgid "Next check scheduled in %1."
+msgstr "次回の確認は %1 後に予定されています。"
 
 msgid "Update Manager - configuration"
-msgstr ""
+msgstr "アップデートマネージャー - 設定"
+
+msgid "<b>Note:</b> Plasma's Discover update notifier is installed and already shows update notifications on this system, so the Q4OS Updater tray icon stays hidden here to avoid showing two icons for the same thing."
+msgstr "<b>注意:</b> Plasma の Discover 更新通知がインストールされており、このシステムではすでに更新通知を表示しています。そのため、同じ内容を二重に表示しないよう、Q4OS アップデーターのトレイアイコンはここでは非表示になっています。"
+
+msgid "Updater mode: Standard"
+msgstr "アップデーターモード: 標準"
+
+msgid "Standard interactive mode"
+msgstr "標準の対話モード"
+
+msgid "Full unattended-upgrades"
+msgstr "完全自動アップグレード (unattended-upgrades)"
+
+msgid "Standard mode options"
+msgstr "標準モードのオプション"
+
+msgid "Hide updater tray icon when no updates are available"
+msgstr "更新がない場合はトレイアイコンを非表示にする"
+
+msgid "Add all repositories to Allowed-origins"
+msgstr "すべてのリポジトリを許可されたオリジン (Allowed-origins) に追加する"
+
+msgid "Hide upgradable packages lists and confirmation dialogs"
+msgstr "更新可能なパッケージの一覧と確認ダイアログを非表示にする"
+
+msgid "Start updater window minimized"
+msgstr "アップデーターウィンドウを最小化して起動する"
+
+msgid "Auto close updater window on finish"
+msgstr "完了時にアップデーターウィンドウを自動的に閉じる"
+
+msgid "Make use of Synaptic package manager, if available"
+msgstr "利用可能な場合は Synaptic パッケージマネージャーを使用する"
+
+msgid "Update Flatpak applications"
+msgstr "Flatpak アプリケーションを更新する"
+
+msgid "Apply"
+msgstr "適用"
+
+msgid "Close"
+msgstr "閉じる"
+
+msgid "Flatpak is not installed"
+msgstr "Flatpak がインストールされていません"
+
+msgid "Flatpak access isn't set up on this system"
+msgstr "このシステムでは Flatpak へのアクセスが設定されていません"
+
+msgid "Requires access to qunattended-ctl, which isn't set up on this system"
+msgstr "qunattended-ctl へのアクセスが必要ですが、このシステムでは設定されていません"
+
+msgid "Enables Debian's unattended-upgrades for system updates."
+msgstr "システム更新に Debian の unattended-upgrades を有効にします。"
+
+msgid "Checked: unattended-upgrades installs from every currently configured repository, matching the interactive updater, and stays current if a repository is added later. Unchecked: restrict to unattended-upgrades' own already-configured allowed origins (e.g. security updates only)."
+msgstr "チェックした場合: unattended-upgrades は現在設定されているすべてのリポジトリからインストールを行い、対話型アップデーターと同じ動作になり、後でリポジトリが追加されても最新の状態を保ちます。チェックしない場合: unattended-upgrades 自体にすでに設定されている許可されたオリジンのみに制限します (例: セキュリティ更新のみ)。"
+
+msgid "Updater mode: Unattended"
+msgstr "アップデーターモード: 自動"
+
+msgid "Unattended upgrades options"
+msgstr "自動アップグレードのオプション"
+
+msgid "Package required"
+msgstr "パッケージが必要です"
+
+msgid "Fully unattended updates require the 'unattended-upgrades' package, which isn't installed. Install it (e.g. via Synaptic or 'sudo apt install unattended-upgrades'), then enable this option again."
+msgstr "完全自動更新には 'unattended-upgrades' パッケージが必要ですが、インストールされていません。(Synaptic 経由、または 'sudo apt install unattended-upgrades' コマンドなどで) インストールしてから、このオプションを再度有効にしてください。"
+
+#, c-format
+msgid "%n minute"
+msgstr "%n 分"
+
+#, c-format
+msgid "%n hour"
+msgstr "%n 時間"
+

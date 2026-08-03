@@ -1,39 +1,115 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the Q4OS Update Manager package.
+# This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Update Manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-09 14:30+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2026-08-03 17:05+0200\n"
+"PO-Revision-Date: 2026-08-03 19:23+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "Apply"
-msgstr ""
+msgid "less than a minute"
+msgstr "bir dakikadan az"
 
-msgid "Auto close updater window on finish"
-msgstr ""
+#, c-format
+msgid "%n minute(s)"
+msgstr "%n dakika"
 
-msgid "Close"
-msgstr ""
+#, c-format
+msgid "%n hour(s)"
+msgstr "%n saat"
 
-msgid "Make use of Synaptic package manager, if available"
-msgstr ""
+msgid "Next upgrade attempt scheduled in %1."
+msgstr "Sonraki yükseltme denemesi %1 sonra planlandı."
 
-msgid "Show upgradable packages lists and confirmation dialogs"
-msgstr ""
-
-msgid "Start updater window minimized"
-msgstr ""
+msgid "Next check scheduled in %1."
+msgstr "Sonraki denetim %1 sonra planlandı."
 
 msgid "Update Manager - configuration"
-msgstr ""
+msgstr "Güncelleme Yöneticisi - yapılandırma"
+
+msgid "<b>Note:</b> Plasma's Discover update notifier is installed and already shows update notifications on this system, so the Q4OS Updater tray icon stays hidden here to avoid showing two icons for the same thing."
+msgstr "<b>Not:</b> Plasma'nın Discover güncelleme bildiricisi kurulu ve bu sistemde zaten güncelleme bildirimlerini gösteriyor, bu nedenle aynı şey için iki simge gösterilmesini önlemek amacıyla Q4OS Updater sistem tepsisi simgesi burada gizli tutuluyor."
+
+msgid "Updater mode: Standard"
+msgstr "Güncelleyici modu: Standart"
+
+msgid "Standard interactive mode"
+msgstr "Standart etkileşimli mod"
+
+msgid "Full unattended-upgrades"
+msgstr "Tam gözetimsiz yükseltmeler"
+
+msgid "Standard mode options"
+msgstr "Standart mod seçenekleri"
+
+msgid "Hide updater tray icon when no updates are available"
+msgstr "Kullanılabilir güncelleme yokken güncelleyici sistem tepsisi simgesini gizle"
+
+msgid "Add all repositories to Allowed-origins"
+msgstr "Tüm depoları İzin Verilen kaynaklara (Allowed-origins) ekle"
+
+msgid "Hide upgradable packages lists and confirmation dialogs"
+msgstr "Yükseltilebilir paket listelerini ve onay iletişim kutularını gizle"
+
+msgid "Start updater window minimized"
+msgstr "Güncelleyici penceresini simge durumuna küçültülmüş olarak başlat"
+
+msgid "Auto close updater window on finish"
+msgstr "Bittiğinde güncelleyici penceresini otomatik kapat"
+
+msgid "Make use of Synaptic package manager, if available"
+msgstr "Mevcutsa Synaptic paket yöneticisini kullan"
+
+msgid "Update Flatpak applications"
+msgstr "Flatpak uygulamalarını güncelle"
+
+msgid "Apply"
+msgstr "Uygula"
+
+msgid "Close"
+msgstr "Kapat"
+
+msgid "Flatpak is not installed"
+msgstr "Flatpak kurulu değil"
+
+msgid "Flatpak access isn't set up on this system"
+msgstr "Bu sistemde Flatpak erişimi ayarlanmamış"
+
+msgid "Requires access to qunattended-ctl, which isn't set up on this system"
+msgstr "Bu sistemde ayarlanmamış olan qunattended-ctl erişimi gerektirir"
+
+msgid "Enables Debian's unattended-upgrades for system updates."
+msgstr "Sistem güncellemeleri için Debian'ın unattended-upgrades özelliğini etkinleştirir."
+
+msgid "Checked: unattended-upgrades installs from every currently configured repository, matching the interactive updater, and stays current if a repository is added later. Unchecked: restrict to unattended-upgrades' own already-configured allowed origins (e.g. security updates only)."
+msgstr "İşaretli: unattended-upgrades, etkileşimli güncelleyiciyle eşleşecek şekilde, o anda yapılandırılmış her depodan kurulum yapar ve daha sonra bir depo eklenirse güncel kalır. İşaretsiz: unattended-upgrades'in kendi zaten yapılandırılmış izin verilen kaynaklarıyla (ör. yalnızca güvenlik güncellemeleri) sınırlandırılır."
+
+msgid "Updater mode: Unattended"
+msgstr "Güncelleyici modu: Gözetimsiz"
+
+msgid "Unattended upgrades options"
+msgstr "Gözetimsiz yükseltme seçenekleri"
+
+msgid "Package required"
+msgstr "Paket gerekli"
+
+msgid "Fully unattended updates require the 'unattended-upgrades' package, which isn't installed. Install it (e.g. via Synaptic or 'sudo apt install unattended-upgrades'), then enable this option again."
+msgstr "Tam gözetimsiz güncellemeler, kurulu olmayan 'unattended-upgrades' paketini gerektirir. Paketi kurun (ör. Synaptic üzerinden veya 'sudo apt install unattended-upgrades' ile), ardından bu seçeneği tekrar etkinleştirin."
+
+#, c-format
+msgid "%n minute"
+msgstr "%n dakika"
+
+#, c-format
+msgid "%n hour"
+msgstr "%n saat"
+

@@ -20,6 +20,9 @@ q4os-i18n (3.16.3-a1) UNRELEASED; urgency=medium
     q4os-tools/<lang>/{update-manager,um_config}.po files via lconvert at
     q4os-updater's own build time) - nothing new here for volunteers to
     learn or sync, the same .po sources now feed both toolkits.
+  * Filled in full update-manager/um_config translations for ja, zh_CN,
+    id, tr and uk (previously empty stubs here), matching the same new
+    languages q4os-updater just added its own build side for.
 
   [ Andrei Stepanov ]
   * Update Russian translation
