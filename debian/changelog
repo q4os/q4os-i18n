@@ -15,6 +15,11 @@ q4os-i18n (3.16.3-a1) UNRELEASED; urgency=medium
     now dropped before packaging (buildfs.sh, same treatment
     calamares-debian/q4os-shortcuts already got) - it would just be a
     duplicate of what q4os-updater-common now ships itself.
+  * q4os-updater-plasma's 3 Qt5 binaries now also compile and ship their
+    own translation catalogs (converted from these exact same
+    q4os-tools/<lang>/{update-manager,um_config}.po files via lconvert at
+    q4os-updater's own build time) - nothing new here for volunteers to
+    learn or sync, the same .po sources now feed both toolkits.
 
   [ Andrei Stepanov ]
   * Update Russian translation
