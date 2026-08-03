@@ -1,3 +1,10 @@
+q4os-i18n (3.17.1-a1) UNRELEASED; urgency=medium
+
+  [ Q4OS Team ]
+  * Version bump for public release build.
+
+ -- Q4OS Team <devteam@q4os.org>  Mon, 03 Aug 2026 19:08:38 +0000
+
 q4os-i18n (3.16.3-a1) UNRELEASED; urgency=medium
 
   [ Q4OS Team ]
