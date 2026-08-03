@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Update Manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-09 14:30+0200\n"
+"POT-Creation-Date: 2026-08-03 16:41+0200\n"
 "PO-Revision-Date: 2019-10-18 20:14+0200\n"
 "Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
 "Language-Team: Dutch <vistausss@outlook.com>\n"
@@ -17,23 +17,109 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Lokalize 19.08.2\n"
 
-msgid "Apply"
-msgstr "Toepassen"
+msgid "less than a minute"
+msgstr "minder dan een minuut"
 
-msgid "Auto close updater window on finish"
-msgstr "Updatevenster sluiten als na installeren van updates"
+#, c-format
+msgid "%n minute(s)"
+msgstr "%n minuut/minuten"
 
-msgid "Close"
-msgstr "Sluiten"
+#, c-format
+msgid "%n hour(s)"
+msgstr "%n uur/uren"
 
-msgid "Make use of Synaptic package manager, if available"
-msgstr "Synaptic-pakketbeheer gebruiken (indien beschikbaar)"
+msgid "Next upgrade attempt scheduled in %1."
+msgstr "Volgende updatepoging gepland over %1."
 
-msgid "Show upgradable packages lists and confirmation dialogs"
-msgstr "Pakketlijstbijwerkingen en bevestigingsschermen tonen"
+msgid "Next check scheduled in %1."
+msgstr "Volgende controle gepland over %1."
+
+msgid "Update Manager - configuration"
+msgstr "Updatebeheer - Instellingen"
+
+msgid ""
+"<b>Note:</b> Plasma's Discover update notifier is installed and already "
+"shows update notifications on this system, so the Q4OS Updater tray icon "
+"stays hidden here to avoid showing two icons for the same thing."
+msgstr "<b>Let op:</b> Plasma's Discover-updatemelder is geïnstalleerd en toont al updatemeldingen op dit systeem, dus het pictogram van Q4OS Updater blijft hier verborgen om te voorkomen dat twee pictogrammen voor hetzelfde worden getoond."
+
+msgid "Updater mode: Standard"
+msgstr "Updatermodus: Standaard"
+
+msgid "Standard interactive mode"
+msgstr "Standaard interactieve modus"
+
+msgid "Full unattended-upgrades"
+msgstr "Volledig onbeheerde updates"
+
+msgid "Standard mode options"
+msgstr "Opties voor standaardmodus"
+
+msgid "Hide updater tray icon when no updates are available"
+msgstr "Updatepictogram verbergen als er geen updates beschikbaar zijn"
+
+msgid "Add all repositories to Allowed-origins"
+msgstr "Alle repository's toevoegen aan toegestane bronnen"
+
+msgid "Hide upgradable packages lists and confirmation dialogs"
+msgstr "Lijsten met bijwerkbare pakketten en bevestigingsvensters verbergen"
 
 msgid "Start updater window minimized"
 msgstr "Updatevenster geminimaliseerd starten"
 
-msgid "Update Manager - configuration"
-msgstr "Updatebeheer - Instellingen"
+msgid "Auto close updater window on finish"
+msgstr "Updatevenster sluiten als na installeren van updates"
+
+msgid "Make use of Synaptic package manager, if available"
+msgstr "Synaptic-pakketbeheer gebruiken (indien beschikbaar)"
+
+msgid "Update Flatpak applications"
+msgstr "Flatpak-toepassingen bijwerken"
+
+msgid "Apply"
+msgstr "Toepassen"
+
+msgid "Close"
+msgstr "Sluiten"
+
+msgid "Flatpak is not installed"
+msgstr "Flatpak is niet geïnstalleerd"
+
+msgid "Flatpak access isn't set up on this system"
+msgstr "Flatpak-toegang is niet ingesteld op dit systeem"
+
+msgid "Requires access to qunattended-ctl, which isn't set up on this system"
+msgstr "Vereist toegang tot qunattended-ctl, dat niet is ingesteld op dit systeem"
+
+msgid "Enables Debian's unattended-upgrades for system updates."
+msgstr "Schakelt Debians unattended-upgrades in voor systeemupdates."
+
+msgid ""
+"Checked: unattended-upgrades installs from every currently configured "
+"repository, matching the interactive updater, and stays current if a "
+"repository is added later. Unchecked: restrict to unattended-upgrades' own "
+"already-configured allowed origins (e.g. security updates only)."
+msgstr "Aangevinkt: unattended-upgrades installeert vanuit elke momenteel geconfigureerde opslagplaats, net als de interactieve updater, en blijft actueel als er later een opslagplaats wordt toegevoegd. Niet aangevinkt: beperkt tot de reeds geconfigureerde toegestane bronnen van unattended-upgrades zelf (bijv. alleen beveiligingsupdates)."
+
+msgid "Updater mode: Unattended"
+msgstr "Updatermodus: Onbeheerd"
+
+msgid "Unattended upgrades options"
+msgstr "Opties voor onbeheerde updates"
+
+msgid "Package required"
+msgstr "Pakket vereist"
+
+msgid ""
+"Fully unattended updates require the 'unattended-upgrades' package, which "
+"isn't installed. Install it (e.g. via Synaptic or 'sudo apt install "
+"unattended-upgrades'), then enable this option again."
+msgstr "Volledig onbeheerde updates vereisen het pakket \\\"unattended-upgrades\\\", dat niet is geïnstalleerd. Installeer het (bijv. via Synaptic of met \\\"sudo apt install unattended-upgrades\\\") en schakel deze optie daarna opnieuw in."
+
+#, c-format
+msgid "%n minute"
+msgstr "%n minuut"
+
+#, c-format
+msgid "%n hour"
+msgstr "%n uur"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Update Manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-09 14:30+0200\n"
+"POT-Creation-Date: 2026-08-03 16:41+0200\n"
 "PO-Revision-Date: 2020-12-24 14:30-0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -17,23 +17,109 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.2.1\n"
 
-msgid "Apply"
-msgstr "Aplicar"
+msgid "less than a minute"
+msgstr "menos de un minuto"
 
-msgid "Auto close updater window on finish"
-msgstr "Cerrar automáticamente la ventana del actualizador al finalizar"
+#, c-format
+msgid "%n minute(s)"
+msgstr "%n minuto(s)"
 
-msgid "Close"
-msgstr "Cerrar"
+#, c-format
+msgid "%n hour(s)"
+msgstr "%n hora(s)"
 
-msgid "Make use of Synaptic package manager, if available"
-msgstr "Utilice el administrador de paquetes Synaptic, si está disponible"
+msgid "Next upgrade attempt scheduled in %1."
+msgstr "Próximo intento de actualización programado en %1."
 
-msgid "Show upgradable packages lists and confirmation dialogs"
-msgstr "Mostrar listas de paquetes actualizables y cuadros de diálogo de confirmación"
+msgid "Next check scheduled in %1."
+msgstr "Próxima comprobación programada en %1."
+
+msgid "Update Manager - configuration"
+msgstr "Administrador de actualización - configuración"
+
+msgid ""
+"<b>Note:</b> Plasma's Discover update notifier is installed and already "
+"shows update notifications on this system, so the Q4OS Updater tray icon "
+"stays hidden here to avoid showing two icons for the same thing."
+msgstr "<b>Nota:</b> El notificador de actualizaciones Discover de Plasma está instalado y ya muestra notificaciones de actualización en este sistema, por lo que el icono del Administrador de actualización de Q4OS permanece oculto para evitar mostrar dos iconos para lo mismo."
+
+msgid "Updater mode: Standard"
+msgstr "Modo del actualizador: Estándar"
+
+msgid "Standard interactive mode"
+msgstr "Modo interactivo estándar"
+
+msgid "Full unattended-upgrades"
+msgstr "Actualizaciones totalmente automáticas"
+
+msgid "Standard mode options"
+msgstr "Opciones del modo estándar"
+
+msgid "Hide updater tray icon when no updates are available"
+msgstr "Ocultar el icono del actualizador cuando no haya actualizaciones disponibles"
+
+msgid "Add all repositories to Allowed-origins"
+msgstr "Añadir todos los repositorios a los orígenes permitidos"
+
+msgid "Hide upgradable packages lists and confirmation dialogs"
+msgstr "Ocultar las listas de paquetes actualizables y los diálogos de confirmación"
 
 msgid "Start updater window minimized"
 msgstr "Iniciar ventana de actualización minimizada"
 
-msgid "Update Manager - configuration"
-msgstr "Administrador de actualización - configuración"
+msgid "Auto close updater window on finish"
+msgstr "Cerrar automáticamente la ventana del actualizador al finalizar"
+
+msgid "Make use of Synaptic package manager, if available"
+msgstr "Utilice el administrador de paquetes Synaptic, si está disponible"
+
+msgid "Update Flatpak applications"
+msgstr "Actualizar las aplicaciones Flatpak"
+
+msgid "Apply"
+msgstr "Aplicar"
+
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "Flatpak is not installed"
+msgstr "Flatpak no está instalado"
+
+msgid "Flatpak access isn't set up on this system"
+msgstr "El acceso a Flatpak no está configurado en este sistema"
+
+msgid "Requires access to qunattended-ctl, which isn't set up on this system"
+msgstr "Requiere acceso a qunattended-ctl, que no está configurado en este sistema"
+
+msgid "Enables Debian's unattended-upgrades for system updates."
+msgstr "Activa unattended-upgrades de Debian para las actualizaciones del sistema."
+
+msgid ""
+"Checked: unattended-upgrades installs from every currently configured "
+"repository, matching the interactive updater, and stays current if a "
+"repository is added later. Unchecked: restrict to unattended-upgrades' own "
+"already-configured allowed origins (e.g. security updates only)."
+msgstr "Marcado: unattended-upgrades instala desde cada repositorio actualmente configurado, igual que el actualizador interactivo, y se mantiene al día si se añade un repositorio más adelante. Sin marcar: se restringe a los orígenes permitidos ya configurados de unattended-upgrades (por ejemplo, solo actualizaciones de seguridad)."
+
+msgid "Updater mode: Unattended"
+msgstr "Modo del actualizador: Automático"
+
+msgid "Unattended upgrades options"
+msgstr "Opciones de actualizaciones automáticas"
+
+msgid "Package required"
+msgstr "Paquete necesario"
+
+msgid ""
+"Fully unattended updates require the 'unattended-upgrades' package, which "
+"isn't installed. Install it (e.g. via Synaptic or 'sudo apt install "
+"unattended-upgrades'), then enable this option again."
+msgstr "Las actualizaciones totalmente automáticas requieren el paquete \\\"unattended-upgrades\\\", que no está instalado. Instálelo (por ejemplo, mediante Synaptic o con \\\"sudo apt install unattended-upgrades\\\") y vuelva a activar esta opción."
+
+#, c-format
+msgid "%n minute"
+msgstr "%n minuto"
+
+#, c-format
+msgid "%n hour"
+msgstr "%n hora"

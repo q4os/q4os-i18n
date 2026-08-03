@@ -28,6 +28,13 @@ cd $BUILDDIR1/
 find . -name calamares-debian.mo -execdir rm '{}' \;
 #remove q4os-shortcuts files
 find . -name q4os-shortcuts.mo -execdir rm '{}' \;
+#remove update-manager/um_config files - q4os-updater-common now compiles
+#and ships these itself (same install path), so this package must never
+#produce them too. The .po sources stay in q4os-tools/ so volunteers can
+#keep translating them here with the rest - only the generated .mo output
+#is dropped before packaging.
+find . -name update-manager.mo -execdir rm '{}' \;
+find . -name um_config.mo -execdir rm '{}' \;
 
 #remove untranslated files - 1
 cd $BUILDDIR1/
@@ -45,12 +52,8 @@ done
 echo "Processing-3"
 rm he/LC_MESSAGES/desktop-profiler.mo
 rm he/LC_MESSAGES/software-centre.mo
-rm he/LC_MESSAGES/update-manager.mo
-rm he/LC_MESSAGES/um_config.mo
 rm he/LC_MESSAGES/appsetup2.mo
 # rm ja/LC_MESSAGES/software-centre.mo
-# rm ja/LC_MESSAGES/update-manager.mo
-# rm ja/LC_MESSAGES/um_config.mo
 # rm ja/LC_MESSAGES/appsetup2.mo
 
 echo "Processing-4"

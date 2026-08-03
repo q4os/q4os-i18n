@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Update Manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-27 14:26+0200\n"
+"POT-Creation-Date: 2026-08-03 16:41+0200\n"
 "PO-Revision-Date: 2021-04-12 22:47+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -17,136 +17,64 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.4.2\n"
 
-msgid "Update Manager - install progress"
-msgstr "Gestore degli aggiornamenti - progresso dell'installazione"
+#, c-format
+msgid "%n important update available"
+msgstr "%n aggiornamento importante disponibile"
 
-msgid "textLabel1"
-msgstr ""
+msgid "%n other update available"
+msgstr "%n altro aggiornamento disponibile"
 
-msgid "Cancel"
-msgstr "Annulla"
+msgid "%n update available"
+msgstr "%n aggiornamento disponibile"
 
-msgid "Available updates"
-msgstr "Aggiornamenti disponibili"
+msgid "No updates available."
+msgstr "Nessun aggiornamento disponibile."
 
-msgid "textLabel2"
-msgstr ""
+msgid "&Configure"
+msgstr "&Configura"
 
-msgid "textLabel3"
-msgstr ""
+msgid "&Check for updates"
+msgstr "&Verifica aggiornamenti"
 
-msgid "Don't show this dialog again"
-msgstr "Non mostrare questa finestra di dialogo in futuro"
+msgid "Software Updates"
+msgstr "Aggiornamenti software"
 
-msgid "<p>If checked, next updates will be performed without user confirmation.</p><p>You can also configure update manager in the control panel -> system administration.</p>"
-msgstr "<p>Se selezionato, i prossimi aggiornamenti verranno effettuati senza richiedere conferma all'utente.</p><p>Puoi anche configurare il gestore degli aggiornamenti nel Pannello di Controllo -> Amministrazione di Sistema.</p>"
+msgid "Reboot required"
+msgstr "Riavvio richiesto"
 
-msgid "pushButton1"
-msgstr ""
+msgid ""
+"System has installed important updates. Please reboot your computer as soon "
+"as possible to complete the upgrade."
+msgstr "Il sistema ha installato aggiornamenti importanti. Riavviare il computer il prima possibile per completare l'aggiornamento."
 
-msgid "pushButton2"
-msgstr ""
+msgid ""
+"A reboot is required to complete the update. Reboot now? Any unsaved work "
+"will be lost."
+msgstr "È necessario un riavvio per completare l'aggiornamento. Riavviare ora? Qualsiasi lavoro non salvato andrà perso."
 
-msgid "Show details"
-msgstr "Mostra dettagli"
+msgid "&Reboot now"
+msgstr "&Riavvia ora"
 
-msgid "<p>Another instance of Update Manager is running, leaving ...<p>"
-msgstr "<p>Un'altra finestra del gestore degli aggiornamenti è già aperta, annullamento di quest'operazione ...<p>"
+msgid "No updates available"
+msgstr "Nessun aggiornamento disponibile"
 
-msgid "<p>You are not allowed to perform system upgrades. You need to be member of administrative group \"sudo\" first, please contact system administrator.</p>"
-msgstr "<p>Non hai le autorizzazioni per effettuare aggiornamenti di sistema. Devi essere membro del gruppo di amministrazione \"sudo\". Contatta l'amministrazione del sistema, per favore.</p>"
+msgid "&Update now"
+msgstr "&Aggiorna ora"
 
-msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations.</p><p>Please make sure you are not installing another application and repeat setup few minutes later.</p>"
-msgstr "<p>Il gestore di pacchetti di sistema è occupato, non è possibile installare ora. L'installazione non può continuare.</p><p>Il blocco è molto probabilmente causato dall'installazione in background di aggiornamenti di sistema. Nel caso, è sufficiente aspettare che il gestore di pacchetti di sistema termini queste operazioni. Assicurati di non installare contemporaneamente altre applicazioni e ripeti l'installazione tra qualche minuto.</p>"
+msgid "Update Manager"
+msgstr "Gestore degli aggiornamenti"
 
-msgid "Checking permissions"
-msgstr "Controllo dei permessi"
-
-msgid "Ok"
-msgstr ""
-
-msgid "Checking SW database to be free"
-msgstr "Controllo se il database delle applicazioni è libero"
-
-msgid "Locking SW database"
-msgstr "Blocco del database delle applicazioni"
-
-msgid "System updater has been started.."
-msgstr "Il gestore degli aggiornamenti di sistema è stato avviato.."
-
-msgid "Waiting"
-msgstr "In attesa"
-
-msgid "Canceled !"
-msgstr "Cancellato !"
-
-msgid "Close"
-msgstr "Chiudi"
-
-msgid "! Reboot required"
-msgstr "! Riavvio necessario"
-
-msgid "<p>System has received security fixes and important updates.</p><p>Please <b>Reboot</b> your computer as soon as possible to complete the upgrade.</p>"
-msgstr "<p>Il sistema ha ricevuto dei fix di sicurezza e aggiornamenti importanti.</p><p>Per favore <b>Riavvia</b> il tuo computer al più presto per completare l'aggiornamento.</p>"
-
-msgid "Please, try to run Update Manager a few minutes later again."
-msgstr "Per favore, prova a far partire il gestore degli aggiornamenti tra qualche minuto."
-
-msgid "Update manager has been exited with <b>error code: "
-msgstr "Il gestore degli aggiornamenti è stato terminato con <b>il codice di errore: "
-
-#, fuzzy
-msgid "Additional updates have been detected"
-msgstr "Aggiornamenti addizionali sono stati rilevati"
-
-msgid "Running Synaptic"
-msgstr ""
-
-#, fuzzy
-msgid "Synaptic package manager is not installed so using default updater for now ..."
-msgstr "Non ho trovato l'eseguibile Synaptic, per favore installalo prima di procedere. Per ora, utilizzo il gestore degli aggiornamenti predefinito ..."
-
-msgid "Closing.."
-msgstr "Chiusura.."
-
-msgid "<b>Reboot is required<b> to complete the upgrade."
-msgstr "<b>Riavvio necessario<b> per completare l'aggiornamento."
-
-msgid "Success. The most recent update has been implemented."
-msgstr "Successo. L'aggiornamento più recente è stato installato."
-
-msgid "Your system is up to date and healthy."
-msgstr "Il tuo sistema è aggiornato e a posto."
-
-msgid "Finish >"
-msgstr "Fine >"
-
-msgid "Do you want to continue ?"
-msgstr "Vuoi continuare?"
-
-msgid "No"
-msgstr ""
-
-msgid "Yes"
-msgstr "Sì"
+msgid "Another instance of Update Manager is running, leaving ..."
+msgstr "Un'altra istanza di Gestore degli aggiornamenti è già in esecuzione, uscita in corso..."
 
 msgid "Checking apt pinning"
 msgstr "Controllo del pinning del gestore apt"
 
+msgid "Ok"
+msgstr "Ok"
+
 msgid "need to be fixed"
 msgstr "deve essere aggiustato"
-
-msgid "Performing upgrade"
-msgstr "Aggiornando"
-
-msgid "Failed!"
-msgstr "Fallito!"
-
-msgid "System update completed successfully."
-msgstr "Aggiornamento del sistema completato con successo."
-
-msgid "Finished :)"
-msgstr "Finito :)"
 
 msgid "Checking Internet connection"
 msgstr "Verifica della connessione Internet"
@@ -163,6 +91,9 @@ msgstr "Fatto"
 msgid "Failed"
 msgstr "Fallito"
 
+msgid "Listing updates"
+msgstr "Elenco degli aggiornamenti"
+
 msgid "Checking apt database"
 msgstr "Controllo del database apt"
 
@@ -172,11 +103,204 @@ msgstr "Aggiustando il database apt"
 msgid "Downloading packages"
 msgstr "Download dei pacchetti"
 
-msgid "Listing updates"
-msgstr "Elenco degli aggiornamenti"
+msgid "Performing upgrade"
+msgstr "Aggiornando"
+
+msgid "Failed!"
+msgstr "Fallito!"
 
 msgid "Removing unnecessary packages"
 msgstr "Rimozione dei pacchetti non necessari"
 
+msgid "Updating Flatpak applications"
+msgstr "Aggiornamento delle applicazioni Flatpak"
+
+msgid "System update completed successfully."
+msgstr "Aggiornamento del sistema completato con successo."
+
+msgid "Finished :)"
+msgstr "Finito :)"
+
+msgid "Running Synaptic"
+msgstr "Synaptic è in esecuzione"
+
+msgid "Synaptic package manager is not installed"
+msgstr "Il gestore dei pacchetti Synaptic non è installato"
+
+msgid "using default updater instead"
+msgstr "verrà utilizzato invece l'aggiornatore predefinito"
+
+msgid "Show details"
+msgstr "Mostra dettagli"
+
+msgid "Cancel"
+msgstr "Annulla"
+
+msgid ""
+"You are not allowed to perform system upgrades. You need to be member of "
+"administrative group \"sudo\" first, please contact system administrator."
+msgstr "Non sei autorizzato a eseguire aggiornamenti di sistema. Devi prima essere membro del gruppo amministrativo \\\"sudo\\\", contatta l'amministratore di sistema."
+
+msgid "Checking permissions"
+msgstr "Controllo dei permessi"
+
+msgid "Checking SW database to be free"
+msgstr "Controllo se il database delle applicazioni è libero"
+
+msgid "Locking SW database"
+msgstr "Blocco del database delle applicazioni"
+
+msgid "System updater has been started.."
+msgstr "Il gestore degli aggiornamenti di sistema è stato avviato.."
+
+msgid ""
+"Package system is busy, not ready to install now. Setup cannot continue.\n"
+"\n"
+"The lock is caused, very probably, by ongoing background system updates. If "
+"this is the case, you have to wait a moment for package system to finish "
+"these operations.\n"
+"\n"
+"Please make sure you are not installing another application and repeat setup "
+"a few minutes later."
+msgstr "Il sistema dei pacchetti è occupato, non è pronto per l'installazione ora. L'impostazione non può continuare.\n\nIl blocco è molto probabilmente causato da aggiornamenti di sistema in corso in background. Se è così, è necessario attendere un momento affinché il sistema dei pacchetti completi queste operazioni.\n\nAssicurati di non stare installando un'altra applicazione e ripeti l'impostazione qualche minuto più tardi."
+
+msgid "Close"
+msgstr "Chiudi"
+
+msgid ""
+"Update manager has been exited with error code: %1.\n"
+"\n"
+"Please, try to run Update Manager a few minutes later again."
+msgstr "Il gestore degli aggiornamenti è uscito con codice di errore: %1.\n\nProva a eseguire di nuovo il gestore degli aggiornamenti tra qualche minuto."
+
+msgid "Available updates"
+msgstr "Aggiornamenti disponibili"
+
+msgid "Additional updates have been detected"
+msgstr "Sono stati rilevati ulteriori aggiornamenti"
+
+msgid ""
+"Synaptic package manager is not installed so using default updater for "
+"now ..."
+msgstr "Il gestore dei pacchetti Synaptic non è installato, verrà utilizzato per ora l'aggiornatore predefinito..."
+
+msgid "Couldn't run Synaptic. Using default updater for now ..."
+msgstr "Impossibile avviare Synaptic. Verrà utilizzato per ora l'aggiornatore predefinito..."
+
+msgid "Closing.."
+msgstr "Chiusura.."
+
+msgid ""
+"Success. The most recent update has been implemented. Reboot is required to "
+"complete the upgrade."
+msgstr "Operazione riuscita. L'ultimo aggiornamento è stato applicato. È necessario un riavvio per completare l'aggiornamento."
+
+msgid ""
+"Success. The most recent update has been implemented. Your system is up to "
+"date and healthy."
+msgstr "Operazione riuscita. L'ultimo aggiornamento è stato applicato. Il sistema è aggiornato e funziona correttamente."
+
+msgid "Finish"
+msgstr "Fine"
+
+msgid "Waiting"
+msgstr "In attesa"
+
+msgid "Do you want to continue?"
+msgstr "Vuoi continuare?"
+
+msgid "Don't show this dialog again"
+msgstr "Non mostrare questa finestra di dialogo in futuro"
+
+msgid ""
+"If checked, next updates will be performed without user confirmation.\n"
+"You can also configure update manager later."
+msgstr "Se selezionato, i prossimi aggiornamenti verranno eseguiti senza conferma dell'utente.\nPuoi anche configurare il gestore degli aggiornamenti più tardi."
+
+msgid "No"
+msgstr "No"
+
+msgid "Yes"
+msgstr "Sì"
+
+msgid "Canceled!"
+msgstr "Annullato!"
+
+msgid ""
+"System has received security fixes and important updates.\n"
+"\n"
+"Please Reboot your computer as soon as possible to complete the upgrade."
+msgstr "Il sistema ha ricevuto correzioni di sicurezza e aggiornamenti importanti.\n\nRiavviare il computer il prima possibile per completare l'aggiornamento."
+
+msgid "<p>Another instance of Update Manager is running, leaving ...<p>"
+msgstr ""
+"<p>Un'altra finestra del gestore degli aggiornamenti è già aperta, "
+"annullamento di quest'operazione ...<p>"
+
+msgid ""
+"<p>You are not allowed to perform system upgrades. You need to be member of "
+"administrative group \"sudo\" first, please contact system administrator.</p>"
+msgstr ""
+"<p>Non hai le autorizzazioni per effettuare aggiornamenti di sistema. Devi "
+"essere membro del gruppo di amministrazione \"sudo\". Contatta "
+"l'amministrazione del sistema, per favore.</p>"
+
+msgid ""
+"<p>Package system is busy, not ready to install now. Setup cannot continue.</"
+"p><p>The lock is caused, very probably, by ongoing background system "
+"updates. If this is the case, you have to wait a moment for package system "
+"to finish these operations.</p><p>Please make sure you are not installing "
+"another application and repeat setup a few minutes later.</p>"
+msgstr "<p>Il sistema dei pacchetti è occupato, non è pronto per l'installazione ora. L'impostazione non può continuare.</p><p>Il blocco è molto probabilmente causato da aggiornamenti di sistema in corso in background. Se è così, è necessario attendere un momento affinché il sistema dei pacchetti completi queste operazioni.</p><p>Assicurati di non stare installando un'altra applicazione e ripeti l'impostazione qualche minuto più tardi.</p>"
+
+msgid "Canceled !"
+msgstr "Cancellato !"
+
+msgid "! Reboot required"
+msgstr "! Riavvio necessario"
+
+msgid ""
+"<p>System has received security fixes and important updates.</p><p>Please "
+"<b>Reboot</b> your computer as soon as possible to complete the upgrade.</p>"
+msgstr ""
+"<p>Il sistema ha ricevuto dei fix di sicurezza e aggiornamenti importanti.</"
+"p><p>Per favore <b>Riavvia</b> il tuo computer al più presto per completare "
+"l'aggiornamento.</p>"
+
+msgid "Please, try to run Update Manager a few minutes later again."
+msgstr ""
+"Per favore, prova a far partire il gestore degli aggiornamenti tra qualche "
+"minuto."
+
+msgid "Update manager has been exited with <b>error code: "
+msgstr ""
+"Il gestore degli aggiornamenti è stato terminato con <b>il codice di errore: "
+
+msgid "<b>Reboot is required<b> to complete the upgrade."
+msgstr "<b>Riavvio necessario<b> per completare l'aggiornamento."
+
+msgid "Success. The most recent update has been implemented."
+msgstr "Successo. L'aggiornamento più recente è stato installato."
+
+msgid "Your system is up to date and healthy."
+msgstr "Il tuo sistema è aggiornato e a posto."
+
+msgid "Finish >"
+msgstr "Fine >"
+
+msgid "Do you want to continue ?"
+msgstr "Vuoi continuare?"
+
 msgid "Installing.."
 msgstr "Installando ..."
+
+msgid "Q4OS Update Notifier"
+msgstr "Notificatore di aggiornamenti Q4OS"
+
+msgid ""
+"Please install \"q4os-updater-plasma\" package in order to get better "
+"experience."
+msgstr "Installa il pacchetto \\\"q4os-updater-plasma\\\" per un'esperienza migliore."
+
+#~ msgid "Update Manager - install progress"
+#~ msgstr "Gestore degli aggiornamenti - progresso dell'installazione"

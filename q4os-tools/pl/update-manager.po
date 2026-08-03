@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Update Manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-27 14:26+0200\n"
+"POT-Creation-Date: 2026-08-03 16:41+0200\n"
 "PO-Revision-Date: 2021-04-20 21:09+0200\n"
 "Last-Translator: oloke <olokelo@gmail.com>\n"
 "Language-Team: \n"
@@ -18,137 +18,64 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.4.1\n"
 
-msgid "Update Manager - install progress"
-msgstr "Menedżer aktualizacji - postęp instalacji"
+#, c-format
+msgid "%n important update available"
+msgstr "%n ważna aktualizacja dostępna"
 
-msgid "textLabel1"
-msgstr ""
+msgid "%n other update available"
+msgstr "%n inna aktualizacja dostępna"
 
-msgid "Cancel"
-msgstr "Anuluj"
+msgid "%n update available"
+msgstr "%n aktualizacja dostępna"
 
-msgid "Available updates"
-msgstr "Dostępne aktualizacje"
+msgid "No updates available."
+msgstr "Brak dostępnych aktualizacji."
 
-msgid "textLabel2"
-msgstr ""
+msgid "&Configure"
+msgstr "&Konfiguracja"
 
-msgid "textLabel3"
-msgstr ""
+msgid "&Check for updates"
+msgstr "&Sprawdź dostępność aktualizacji"
 
-msgid "Don't show this dialog again"
-msgstr "Nie pokazuj tego okna dialogowego ponownie"
+msgid "Software Updates"
+msgstr "Aktualizacje oprogramowania"
 
-#, fuzzy
-msgid "<p>If checked, next updates will be performed without user confirmation.</p><p>You can also configure update manager in the control panel -> system administration.</p>"
-msgstr "<p>Jeśli zaznaczone, następne aktualizacje będą przeprowadzone bez konieczności ich zatwierdzenia.</p><p>Możesz też konfigurować menedżer aktualizacji w panel zarządzania -> administracja systemu.</p>"
+msgid "Reboot required"
+msgstr "Wymagane ponowne uruchomienie"
 
-msgid "pushButton1"
-msgstr ""
+msgid ""
+"System has installed important updates. Please reboot your computer as soon "
+"as possible to complete the upgrade."
+msgstr "System zainstalował ważne aktualizacje. Uruchom ponownie komputer jak najszybciej, aby zakończyć aktualizację."
 
-msgid "pushButton2"
-msgstr ""
+msgid ""
+"A reboot is required to complete the update. Reboot now? Any unsaved work "
+"will be lost."
+msgstr "Aby zakończyć aktualizację, wymagane jest ponowne uruchomienie. Uruchomić ponownie teraz? Niezapisana praca zostanie utracona."
 
-msgid "Show details"
-msgstr "Pokaż szczegóły"
+msgid "&Reboot now"
+msgstr "&Uruchom ponownie teraz"
 
-msgid "<p>Another instance of Update Manager is running, leaving ...<p>"
-msgstr "<p>Inna instancja Menedżera Aktualizacji jest już uruchomiona, wychodzenie ...<p>"
+msgid "No updates available"
+msgstr "Brak dostępnych aktualizacji"
 
-msgid "<p>You are not allowed to perform system upgrades. You need to be member of administrative group \"sudo\" first, please contact system administrator.</p>"
-msgstr "<p>Nie masz uprawnień do przeprowadzenia aktualizacji. Musisz być członkiem grupy \"sudo\", skontaktuj się z administratorem Twojego systemu.</p>"
+msgid "&Update now"
+msgstr "&Aktualizuj teraz"
 
-msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations.</p><p>Please make sure you are not installing another application and repeat setup few minutes later.</p>"
-msgstr "<p>Menedżer pakietów jest zajęty i nie może instalować w tej chwili. Instalator nie może kontynuować.</p><p>Blokada prawdopodobnie jest spowodowana aktualizacją systemu odbywającą się w tle. Jeżeli tak jest, musisz zaczekać chwilę aż menedżer zakończy swoją pracę. Proszę upewnij się, że nie instalujesz innej aplikacji w tle i spróbuj ponownie za kilka minut.</p>"
+msgid "Update Manager"
+msgstr "Menedżer Aktualizacji"
 
-msgid "Checking permissions"
-msgstr "Sprawdzanie uprawnień"
-
-msgid "Ok"
-msgstr "Ok"
-
-msgid "Checking SW database to be free"
-msgstr "Sprawdzanie czy baza danych jest wolna"
-
-msgid "Locking SW database"
-msgstr "Blokowanie bazy danych"
-
-msgid "System updater has been started.."
-msgstr "Aktualizator systemu został uruchomiony.."
-
-msgid "Waiting"
-msgstr "Oczekiwanie"
-
-msgid "Canceled !"
-msgstr "Anulowano !"
-
-msgid "Close"
-msgstr "Zamknij"
-
-msgid "! Reboot required"
-msgstr "! Wymagane ponowne uruchomienie"
-
-msgid "<p>System has received security fixes and important updates.</p><p>Please <b>Reboot</b> your computer as soon as possible to complete the upgrade.</p>"
-msgstr "<p>System otrzymał ważne aktualizacje bezpieczeństwa.</p><p>Proszę <b>uruchomić ponownie</b> Twój komputer tak szybko jak to możliwe aby dokończyć aktualizacje.</p>"
-
-msgid "Please, try to run Update Manager a few minutes later again."
-msgstr "Proszę, spróbuj uruchomić ponownie Menedżer Aktualizacji za kilka minut."
-
-msgid "Update manager has been exited with <b>error code: "
-msgstr "Menedżer aktualizacji zakończył z <b>kodem: "
-
-#, fuzzy
-msgid "Additional updates have been detected"
-msgstr "Wykryto dodatkowe aktualizacje"
-
-msgid "Running Synaptic"
-msgstr ""
-
-#, fuzzy
-msgid "Synaptic package manager is not installed so using default updater for now ..."
-msgstr "Nie znaleziono binarki 'Synaptic', najpierw ją zainstaluj. Póki co używam domyślnego systemu aktualizacji ..."
-
-msgid "Closing.."
-msgstr "Zamykanie.."
-
-msgid "<b>Reboot is required<b> to complete the upgrade."
-msgstr "<b>Wymagane ponowne uruchomienie<b> aby dokończyć aktualizacje."
-
-msgid "Success. The most recent update has been implemented."
-msgstr "Sukces. Najnowsza aktualizacja została przeprowadzona."
-
-msgid "Your system is up to date and healthy."
-msgstr "Twój system jest aktualny i sprawny."
-
-msgid "Finish >"
-msgstr "Zakończ >"
-
-msgid "Do you want to continue ?"
-msgstr "Czy chcesz kontynuować ?"
-
-msgid "No"
-msgstr "Nie"
-
-msgid "Yes"
-msgstr "Tak"
+msgid "Another instance of Update Manager is running, leaving ..."
+msgstr "Inna instancja Menedżera Aktualizacji jest już uruchomiona, zamykanie..."
 
 msgid "Checking apt pinning"
 msgstr "Sprawdzanie APT pinning"
 
+msgid "Ok"
+msgstr "Ok"
+
 msgid "need to be fixed"
 msgstr "musi być naprawione"
-
-msgid "Performing upgrade"
-msgstr "Przeprowadzanie aktualizacji"
-
-msgid "Failed!"
-msgstr "Nie powiodło się!"
-
-msgid "System update completed successfully."
-msgstr "Aktualizacja systemu zakończona pomyślnie."
-
-msgid "Finished :)"
-msgstr "Zakończono :)"
 
 msgid "Checking Internet connection"
 msgstr "Sprawdzanie połączenia internetowego"
@@ -165,6 +92,9 @@ msgstr "Gotowe"
 msgid "Failed"
 msgstr "Nie powiodło się"
 
+msgid "Listing updates"
+msgstr "Wypisywanie aktualizacji"
+
 msgid "Checking apt database"
 msgstr "Sprawdzanie bazy danych APT"
 
@@ -174,12 +104,201 @@ msgstr "Naprawianie bazy danych APT"
 msgid "Downloading packages"
 msgstr "Pobieranie pakietów"
 
-#, fuzzy
-msgid "Listing updates"
-msgstr "Wymienianie aktualizacji"
+msgid "Performing upgrade"
+msgstr "Przeprowadzanie aktualizacji"
+
+msgid "Failed!"
+msgstr "Nie powiodło się!"
 
 msgid "Removing unnecessary packages"
 msgstr "Usuwanie niepotrzebnych pakietów"
 
+msgid "Updating Flatpak applications"
+msgstr "Aktualizowanie aplikacji Flatpak"
+
+msgid "System update completed successfully."
+msgstr "Aktualizacja systemu zakończona pomyślnie."
+
+msgid "Finished :)"
+msgstr "Zakończono :)"
+
+msgid "Running Synaptic"
+msgstr "Uruchamianie Synaptic"
+
+msgid "Synaptic package manager is not installed"
+msgstr "Menedżer pakietów Synaptic nie jest zainstalowany"
+
+msgid "using default updater instead"
+msgstr "zamiast tego zostanie użyty domyślny aktualizator"
+
+msgid "Show details"
+msgstr "Pokaż szczegóły"
+
+msgid "Cancel"
+msgstr "Anuluj"
+
+msgid ""
+"You are not allowed to perform system upgrades. You need to be member of "
+"administrative group \"sudo\" first, please contact system administrator."
+msgstr "Nie masz uprawnień do wykonywania aktualizacji systemu. Musisz najpierw być członkiem grupy administracyjnej „sudo”, skontaktuj się z administratorem systemu."
+
+msgid "Checking permissions"
+msgstr "Sprawdzanie uprawnień"
+
+msgid "Checking SW database to be free"
+msgstr "Sprawdzanie czy baza danych jest wolna"
+
+msgid "Locking SW database"
+msgstr "Blokowanie bazy danych"
+
+msgid "System updater has been started.."
+msgstr "Aktualizator systemu został uruchomiony.."
+
+msgid ""
+"Package system is busy, not ready to install now. Setup cannot continue.\n"
+"\n"
+"The lock is caused, very probably, by ongoing background system updates. If "
+"this is the case, you have to wait a moment for package system to finish "
+"these operations.\n"
+"\n"
+"Please make sure you are not installing another application and repeat setup "
+"a few minutes later."
+msgstr "System pakietów jest zajęty, nie jest teraz gotowy do instalacji. Konfiguracja nie może być kontynuowana.\n\nBlokada jest najprawdopodobniej spowodowana trwającymi aktualizacjami systemu w tle. Jeśli tak jest, musisz chwilę poczekać, aż system pakietów zakończy te operacje.\n\nUpewnij się, że nie instalujesz innej aplikacji, i powtórz konfigurację za kilka minut."
+
+msgid "Close"
+msgstr "Zamknij"
+
+msgid ""
+"Update manager has been exited with error code: %1.\n"
+"\n"
+"Please, try to run Update Manager a few minutes later again."
+msgstr "Menedżer aktualizacji zakończył działanie z kodem błędu: %1.\n\nSpróbuj ponownie uruchomić Menedżera Aktualizacji za kilka minut."
+
+msgid "Available updates"
+msgstr "Dostępne aktualizacje"
+
+msgid "Additional updates have been detected"
+msgstr "Wykryto dodatkowe aktualizacje"
+
+msgid ""
+"Synaptic package manager is not installed so using default updater for "
+"now ..."
+msgstr "Menedżer pakietów Synaptic nie jest zainstalowany, na razie zostanie użyty domyślny aktualizator..."
+
+msgid "Couldn't run Synaptic. Using default updater for now ..."
+msgstr "Nie udało się uruchomić Synaptic. Na razie zostanie użyty domyślny aktualizator..."
+
+msgid "Closing.."
+msgstr "Zamykanie.."
+
+msgid ""
+"Success. The most recent update has been implemented. Reboot is required to "
+"complete the upgrade."
+msgstr "Sukces. Najnowsza aktualizacja została zainstalowana. Aby zakończyć aktualizację, wymagane jest ponowne uruchomienie."
+
+msgid ""
+"Success. The most recent update has been implemented. Your system is up to "
+"date and healthy."
+msgstr "Sukces. Najnowsza aktualizacja została zainstalowana. Twój system jest aktualny i działa poprawnie."
+
+msgid "Finish"
+msgstr "Zakończ"
+
+msgid "Waiting"
+msgstr "Oczekiwanie"
+
+msgid "Do you want to continue?"
+msgstr "Czy chcesz kontynuować?"
+
+msgid "Don't show this dialog again"
+msgstr "Nie pokazuj tego okna dialogowego ponownie"
+
+msgid ""
+"If checked, next updates will be performed without user confirmation.\n"
+"You can also configure update manager later."
+msgstr "Jeśli zaznaczone, kolejne aktualizacje zostaną wykonane bez potwierdzenia użytkownika.\nMożesz też skonfigurować menedżera aktualizacji później."
+
+msgid "No"
+msgstr "Nie"
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "Canceled!"
+msgstr "Anulowano!"
+
+msgid ""
+"System has received security fixes and important updates.\n"
+"\n"
+"Please Reboot your computer as soon as possible to complete the upgrade."
+msgstr "System otrzymał poprawki bezpieczeństwa i ważne aktualizacje.\n\nUruchom ponownie komputer jak najszybciej, aby zakończyć aktualizację."
+
+msgid "<p>Another instance of Update Manager is running, leaving ...<p>"
+msgstr ""
+"<p>Inna instancja Menedżera Aktualizacji jest już uruchomiona, "
+"wychodzenie ...<p>"
+
+msgid ""
+"<p>You are not allowed to perform system upgrades. You need to be member of "
+"administrative group \"sudo\" first, please contact system administrator.</p>"
+msgstr ""
+"<p>Nie masz uprawnień do przeprowadzenia aktualizacji. Musisz być członkiem "
+"grupy \"sudo\", skontaktuj się z administratorem Twojego systemu.</p>"
+
+msgid ""
+"<p>Package system is busy, not ready to install now. Setup cannot continue.</"
+"p><p>The lock is caused, very probably, by ongoing background system "
+"updates. If this is the case, you have to wait a moment for package system "
+"to finish these operations.</p><p>Please make sure you are not installing "
+"another application and repeat setup a few minutes later.</p>"
+msgstr "<p>System pakietów jest zajęty, nie jest teraz gotowy do instalacji. Konfiguracja nie może być kontynuowana.</p><p>Blokada jest najprawdopodobniej spowodowana trwającymi aktualizacjami systemu w tle. Jeśli tak jest, musisz chwilę poczekać, aż system pakietów zakończy te operacje.</p><p>Upewnij się, że nie instalujesz innej aplikacji, i powtórz konfigurację za kilka minut.</p>"
+
+msgid "Canceled !"
+msgstr "Anulowano !"
+
+msgid "! Reboot required"
+msgstr "! Wymagane ponowne uruchomienie"
+
+msgid ""
+"<p>System has received security fixes and important updates.</p><p>Please "
+"<b>Reboot</b> your computer as soon as possible to complete the upgrade.</p>"
+msgstr ""
+"<p>System otrzymał ważne aktualizacje bezpieczeństwa.</p><p>Proszę "
+"<b>uruchomić ponownie</b> Twój komputer tak szybko jak to możliwe aby "
+"dokończyć aktualizacje.</p>"
+
+msgid "Please, try to run Update Manager a few minutes later again."
+msgstr ""
+"Proszę, spróbuj uruchomić ponownie Menedżer Aktualizacji za kilka minut."
+
+msgid "Update manager has been exited with <b>error code: "
+msgstr "Menedżer aktualizacji zakończył z <b>kodem: "
+
+msgid "<b>Reboot is required<b> to complete the upgrade."
+msgstr "<b>Wymagane ponowne uruchomienie<b> aby dokończyć aktualizacje."
+
+msgid "Success. The most recent update has been implemented."
+msgstr "Sukces. Najnowsza aktualizacja została przeprowadzona."
+
+msgid "Your system is up to date and healthy."
+msgstr "Twój system jest aktualny i sprawny."
+
+msgid "Finish >"
+msgstr "Zakończ >"
+
+msgid "Do you want to continue ?"
+msgstr "Czy chcesz kontynuować ?"
+
 msgid "Installing.."
 msgstr "Instalowanie.."
+
+msgid "Q4OS Update Notifier"
+msgstr "Powiadamiacz aktualizacji Q4OS"
+
+msgid ""
+"Please install \"q4os-updater-plasma\" package in order to get better "
+"experience."
+msgstr "Zainstaluj pakiet „q4os-updater-plasma”, aby uzyskać lepsze wrażenia z korzystania."
+
+#~ msgid "Update Manager - install progress"
+#~ msgstr "Menedżer aktualizacji - postęp instalacji"

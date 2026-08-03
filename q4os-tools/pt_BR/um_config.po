@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Update Manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-09 14:30+0200\n"
+"POT-Creation-Date: 2026-08-03 16:41+0200\n"
 "PO-Revision-Date: 2019-10-08 11:50+0100\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <kde-i18n-doc@kde.org>\n"
@@ -19,47 +19,160 @@ msgstr ""
 "X-Language: pt_PT\n"
 "X-Source-Language: C\n"
 
-msgid "Apply"
-msgstr "Aplicar"
+msgid "less than a minute"
+msgstr "menos de um minuto"
 
-msgid "Auto close updater window on finish"
-msgstr "Fechar automaticamente a janela de atualização no final"
+#, c-format
+msgid "%n minute(s)"
+msgstr "%n minuto(s)"
 
-msgid "Close"
-msgstr "Fechar"
+#, c-format
+msgid "%n hour(s)"
+msgstr "%n hora(s)"
 
-msgid "Make use of Synaptic package manager, if available"
-msgstr "Faça uso do gerenciador de pacotes Synaptic, se disponível"
+msgid "Next upgrade attempt scheduled in %1."
+msgstr "Próxima tentativa de atualização agendada para daqui a %1."
 
-msgid "Show upgradable packages lists and confirmation dialogs"
-msgstr "Mostrar listas de pacotes atualizáveis e diálogos de confirmação"
-
-msgid "Start updater window minimized"
-msgstr "Iniciar a janela do atualizador minimizada"
+msgid "Next check scheduled in %1."
+msgstr "Próxima verificação agendada para daqui a %1."
 
 msgid "Update Manager - configuration"
 msgstr "Gerenciador de atualizações - configuração"
 
-#~ msgid "! Reboot required"
-#~ msgstr "! Necessita de reiniciar"
+msgid ""
+"<b>Note:</b> Plasma's Discover update notifier is installed and already "
+"shows update notifications on this system, so the Q4OS Updater tray icon "
+"stays hidden here to avoid showing two icons for the same thing."
+msgstr "<b>Nota:</b> O notificador de atualizações Discover do Plasma está instalado e já mostra notificações de atualização neste sistema, então o ícone do Gerenciador de Atualizações do Q4OS permanece oculto aqui para evitar mostrar dois ícones para a mesma coisa."
+
+msgid "Updater mode: Standard"
+msgstr "Modo do atualizador: Padrão"
+
+msgid "Standard interactive mode"
+msgstr "Modo interativo padrão"
+
+msgid "Full unattended-upgrades"
+msgstr "Atualizações totalmente automáticas"
+
+msgid "Standard mode options"
+msgstr "Opções do modo padrão"
+
+msgid "Hide updater tray icon when no updates are available"
+msgstr "Ocultar o ícone do atualizador quando não houver atualizações disponíveis"
+
+msgid "Add all repositories to Allowed-origins"
+msgstr "Adicionar todos os repositórios às origens permitidas"
+
+msgid "Hide upgradable packages lists and confirmation dialogs"
+msgstr "Ocultar as listas de pacotes atualizáveis e as caixas de diálogo de confirmação"
+
+msgid "Start updater window minimized"
+msgstr "Iniciar a janela do atualizador minimizada"
+
+msgid "Auto close updater window on finish"
+msgstr "Fechar automaticamente a janela de atualização no final"
+
+msgid "Make use of Synaptic package manager, if available"
+msgstr "Faça uso do gerenciador de pacotes Synaptic, se disponível"
+
+msgid "Update Flatpak applications"
+msgstr "Atualizar os aplicativos Flatpak"
+
+msgid "Apply"
+msgstr "Aplicar"
+
+msgid "Close"
+msgstr "Fechar"
+
+msgid "Flatpak is not installed"
+msgstr "O Flatpak não está instalado"
+
+msgid "Flatpak access isn't set up on this system"
+msgstr "O acesso ao Flatpak não está configurado neste sistema"
+
+msgid "Requires access to qunattended-ctl, which isn't set up on this system"
+msgstr "Requer acesso ao qunattended-ctl, que não está configurado neste sistema"
+
+msgid "Enables Debian's unattended-upgrades for system updates."
+msgstr "Ativa o unattended-upgrades do Debian para as atualizações do sistema."
+
+msgid ""
+"Checked: unattended-upgrades installs from every currently configured "
+"repository, matching the interactive updater, and stays current if a "
+"repository is added later. Unchecked: restrict to unattended-upgrades' own "
+"already-configured allowed origins (e.g. security updates only)."
+msgstr "Marcado: o unattended-upgrades instala a partir de todos os repositórios atualmente configurados, assim como o atualizador interativo, e permanece atualizado se um repositório for adicionado depois. Desmarcado: restringe-se às origens permitidas já configuradas do próprio unattended-upgrades (por exemplo, somente atualizações de segurança)."
+
+msgid "Updater mode: Unattended"
+msgstr "Modo do atualizador: Automático"
+
+msgid "Unattended upgrades options"
+msgstr "Opções das atualizações automáticas"
+
+msgid "Package required"
+msgstr "Pacote necessário"
+
+msgid ""
+"Fully unattended updates require the 'unattended-upgrades' package, which "
+"isn't installed. Install it (e.g. via Synaptic or 'sudo apt install "
+"unattended-upgrades'), then enable this option again."
+msgstr "As atualizações totalmente automáticas exigem o pacote \\\"unattended-upgrades\\\", que não está instalado. Instale-o (por exemplo, pelo Synaptic ou com \\\"sudo apt install unattended-upgrades\\\") e ative esta opção novamente."
+
+#, c-format
+msgid "%n minute"
+msgstr "%n minuto"
+
+#, c-format
+msgid "%n hour"
+msgstr "%n hora"
 
 #~ msgid "<b>Reboot is required<b> to complete the upgrade."
 #~ msgstr "<b>A reinicialização é necessária<b> para concluir a atualização."
 
 #~ msgid "<p>Another instance of Update Manager is running, leaving ...<p>"
-#~ msgstr "<p>Outra instância do Gestor de Atualizações está em execução, deixando …<p>"
+#~ msgstr ""
+#~ "<p>Outra instância do Gestor de Atualizações está em execução, deixando …"
+#~ "<p>"
 
-#~ msgid "<p>If checked, next updates will be performed without user confirmation.</p><p>You can also configure update manager in the control panel -> system administration.</p>"
-#~ msgstr "<p>Se marcado, as próximas atualizações serão realizadas sem confirmação do utilizador.</p><p>Você também pode configurar o gestor de atualizações no painel de controlo -> administração do sistema.</p>"
+#~ msgid ""
+#~ "<p>If checked, next updates will be performed without user confirmation.</"
+#~ "p><p>You can also configure update manager in the control panel -> system "
+#~ "administration.</p>"
+#~ msgstr ""
+#~ "<p>Se marcado, as próximas atualizações serão realizadas sem confirmação "
+#~ "do utilizador.</p><p>Você também pode configurar o gestor de atualizações "
+#~ "no painel de controlo -> administração do sistema.</p>"
 
-#~ msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations.</p><p>Please make sure you are not installing another application and repeat setup few minutes later.</p>"
-#~ msgstr "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations.</p><p>Please make sure you are not installing another application and repeat setup few minutes later.</p>"
+#~ msgid ""
+#~ "<p>Package system is busy, not ready to install now. Setup cannot "
+#~ "continue.</p><p>The lock is caused, very probably, by ongoing background "
+#~ "system updates. If this is the case, you have to wait a moment for "
+#~ "package system to finish these operations.</p><p>Please make sure you are "
+#~ "not installing another application and repeat setup few minutes later.</p>"
+#~ msgstr ""
+#~ "<p>Package system is busy, not ready to install now. Setup cannot "
+#~ "continue.</p><p>The lock is caused, very probably, by ongoing background "
+#~ "system updates. If this is the case, you have to wait a moment for "
+#~ "package system to finish these operations.</p><p>Please make sure you are "
+#~ "not installing another application and repeat setup few minutes later.</p>"
 
-#~ msgid "<p>System has received security fixes and important updates.</p><p>Please <b>Reboot</b> your computer as soon as possible to complete the upgrade.</p>"
-#~ msgstr "<p>O sistema recebeu correções de segurança e atualizações importantes.</p><p>Por favor <b>Reinicie</b> seu computador o mais rápido possível para concluir a atualização.</p>"
+#~ msgid ""
+#~ "<p>System has received security fixes and important updates.</p><p>Please "
+#~ "<b>Reboot</b> your computer as soon as possible to complete the upgrade.</"
+#~ "p>"
+#~ msgstr ""
+#~ "<p>O sistema recebeu correções de segurança e atualizações importantes.</"
+#~ "p><p>Por favor <b>Reinicie</b> seu computador o mais rápido possível para "
+#~ "concluir a atualização.</p>"
 
-#~ msgid "<p>You are not allowed to perform system upgrades. You need to be member of administrative group \"sudo\" first, please contact system administrator.</p>"
-#~ msgstr "<p>Você não tem permissão para realizar atualizações do sistema. Você precisa ser membro do grupo administrativo \"sudo\" primeiro, entre em contato com o administrador do sistema.</p>"
+#~ msgid ""
+#~ "<p>You are not allowed to perform system upgrades. You need to be member "
+#~ "of administrative group \"sudo\" first, please contact system "
+#~ "administrator.</p>"
+#~ msgstr ""
+#~ "<p>Você não tem permissão para realizar atualizações do sistema. Você "
+#~ "precisa ser membro do grupo administrativo \"sudo\" primeiro, entre em "
+#~ "contato com o administrador do sistema.</p>"
 
 #~ msgid "Additional updates has been detected"
 #~ msgstr "Atualizações adicionais foram detetadas"
@@ -91,8 +204,12 @@ msgstr "Gerenciador de atualizações - configuração"
 #~ msgid "Closing.."
 #~ msgstr "Fechando.."
 
-#~ msgid "Couldn't find Synaptic binary, please install it first. Using default updater for now ..."
-#~ msgstr "Não foi possível encontrar o binário do Synaptic, instale-o primeiro. Utilizando o atualizador padrão por enquanto …"
+#~ msgid ""
+#~ "Couldn't find Synaptic binary, please install it first. Using default "
+#~ "updater for now ..."
+#~ msgstr ""
+#~ "Não foi possível encontrar o binário do Synaptic, instale-o primeiro. "
+#~ "Utilizando o atualizador padrão por enquanto …"
 
 #~ msgid "Do you want to continue ?"
 #~ msgstr "Você quer continuar ?"
@@ -143,7 +260,9 @@ msgstr "Gerenciador de atualizações - configuração"
 #~ msgstr "Realizando atualização"
 
 #~ msgid "Please, try to run Update Manager a few minutes later again."
-#~ msgstr "Por favor, tente executar o Gestor de Atualização alguns minutos depois novamente."
+#~ msgstr ""
+#~ "Por favor, tente executar o Gestor de Atualização alguns minutos depois "
+#~ "novamente."
 
 #~ msgid "Removing unnecessary packages"
 #~ msgstr "Removendo pacotes desnecessários"

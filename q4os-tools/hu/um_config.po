@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Update Manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-09 14:30+0200\n"
+"POT-Creation-Date: 2026-08-03 16:41+0200\n"
 "PO-Revision-Date: 2025-01-28 21:26+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -18,23 +18,109 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.5\n"
 
-msgid "Apply"
-msgstr "Alkalmazz"
+msgid "less than a minute"
+msgstr "kevesebb mint egy perc"
 
-msgid "Auto close updater window on finish"
-msgstr "Automatikusan bezárjuk a frissítés ablakot befejezéskor"
+#, c-format
+msgid "%n minute(s)"
+msgstr "%n perc"
 
-msgid "Close"
-msgstr "Bezár"
+#, c-format
+msgid "%n hour(s)"
+msgstr "%n óra"
 
-msgid "Make use of Synaptic package manager, if available"
-msgstr "Használd a Synaptic csomagkezelőt, ha rendelkezésre áll"
+msgid "Next upgrade attempt scheduled in %1."
+msgstr "A következő frissítési kísérlet ütemezve %1 múlva."
 
-msgid "Show upgradable packages lists and confirmation dialogs"
-msgstr "Frissíthető csomag lista és megerősítő párbeszédpanel megjelenítése"
+msgid "Next check scheduled in %1."
+msgstr "A következő ellenőrzés ütemezve %1 múlva."
+
+msgid "Update Manager - configuration"
+msgstr "Frissítéskezelő - konfigurálás"
+
+msgid ""
+"<b>Note:</b> Plasma's Discover update notifier is installed and already "
+"shows update notifications on this system, so the Q4OS Updater tray icon "
+"stays hidden here to avoid showing two icons for the same thing."
+msgstr "<b>Megjegyzés:</b> A Plasma Discover frissítésértesítője telepítve van, és már megjeleníti a frissítési értesítéseket ezen a rendszeren, így a Q4OS Frissítéskezelő ikonja itt rejtve marad, hogy ne jelenjen meg két ikon ugyanarra a dologra."
+
+msgid "Updater mode: Standard"
+msgstr "Frissítő mód: Szabványos"
+
+msgid "Standard interactive mode"
+msgstr "Szabványos interaktív mód"
+
+msgid "Full unattended-upgrades"
+msgstr "Teljesen felügyelet nélküli frissítések"
+
+msgid "Standard mode options"
+msgstr "Szabványos mód beállításai"
+
+msgid "Hide updater tray icon when no updates are available"
+msgstr "A frissítő ikon elrejtése, ha nincs elérhető frissítés"
+
+msgid "Add all repositories to Allowed-origins"
+msgstr "Minden tároló hozzáadása az engedélyezett forrásokhoz"
+
+msgid "Hide upgradable packages lists and confirmation dialogs"
+msgstr "A frissíthető csomagok listáinak és a megerősítő párbeszédablakoknak az elrejtése"
 
 msgid "Start updater window minimized"
 msgstr "A frissítés ablakának indítása minimalizálva"
 
-msgid "Update Manager - configuration"
-msgstr "Frissítéskezelő - konfigurálás"
+msgid "Auto close updater window on finish"
+msgstr "Automatikusan bezárjuk a frissítés ablakot befejezéskor"
+
+msgid "Make use of Synaptic package manager, if available"
+msgstr "Használd a Synaptic csomagkezelőt, ha rendelkezésre áll"
+
+msgid "Update Flatpak applications"
+msgstr "Flatpak alkalmazások frissítése"
+
+msgid "Apply"
+msgstr "Alkalmazz"
+
+msgid "Close"
+msgstr "Bezár"
+
+msgid "Flatpak is not installed"
+msgstr "A Flatpak nincs telepítve"
+
+msgid "Flatpak access isn't set up on this system"
+msgstr "A Flatpak-hozzáférés nincs beállítva ezen a rendszeren"
+
+msgid "Requires access to qunattended-ctl, which isn't set up on this system"
+msgstr "A qunattended-ctl elérése szükséges, amely nincs beállítva ezen a rendszeren"
+
+msgid "Enables Debian's unattended-upgrades for system updates."
+msgstr "Bekapcsolja a Debian unattended-upgrades funkcióját a rendszerfrissítésekhez."
+
+msgid ""
+"Checked: unattended-upgrades installs from every currently configured "
+"repository, matching the interactive updater, and stays current if a "
+"repository is added later. Unchecked: restrict to unattended-upgrades' own "
+"already-configured allowed origins (e.g. security updates only)."
+msgstr "Bejelölve: az unattended-upgrades minden jelenleg beállított tárolóból telepít, megegyezően az interaktív frissítővel, és naprakész marad, ha később egy tárolót hozzáadnak. Nincs bejelölve: az unattended-upgrades saját, már beállított engedélyezett forrásaira korlátozódik (pl. csak biztonsági frissítések)."
+
+msgid "Updater mode: Unattended"
+msgstr "Frissítő mód: Felügyelet nélküli"
+
+msgid "Unattended upgrades options"
+msgstr "Felügyelet nélküli frissítések beállításai"
+
+msgid "Package required"
+msgstr "Csomag szükséges"
+
+msgid ""
+"Fully unattended updates require the 'unattended-upgrades' package, which "
+"isn't installed. Install it (e.g. via Synaptic or 'sudo apt install "
+"unattended-upgrades'), then enable this option again."
+msgstr "A teljesen felügyelet nélküli frissítésekhez szükséges az „unattended-upgrades” csomag, amely nincs telepítve. Telepítse (pl. a Synaptic segítségével vagy a „sudo apt install unattended-upgrades” paranccsal), majd engedélyezze újra ezt a beállítást."
+
+#, c-format
+msgid "%n minute"
+msgstr "%n perc"
+
+#, c-format
+msgid "%n hour"
+msgstr "%n óra"

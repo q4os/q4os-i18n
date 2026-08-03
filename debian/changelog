@@ -1,5 +1,21 @@
 q4os-i18n (3.16.3-a1) UNRELEASED; urgency=medium
 
+  [ Q4OS Team ]
+  * q4os-updater-common now compiles and ships its own Trinity
+    localization for the update-manager/um_config domains directly, at
+    the same /opt/trinity/share/locale/<lang>/LC_MESSAGES/ path this
+    package used to install to - so this package must stop shipping the
+    same two files itself, or the two packages would fight over the same
+    installed path. The q4os-tools/<lang>/{update-manager,um_config}.po
+    sources themselves stay right here, alongside every other domain's -
+    volunteers keep translating them in this same tree with Poedit, same
+    as always (the coupling to q4os-updater was only ever by domain-name
+    convention, never a build dependency, so nothing else changes for
+    translators). Only the compiled .mo output for these two domains is
+    now dropped before packaging (buildfs.sh, same treatment
+    calamares-debian/q4os-shortcuts already got) - it would just be a
+    duplicate of what q4os-updater-common now ships itself.
+
   [ Andrei Stepanov ]
   * Update Russian translation
 

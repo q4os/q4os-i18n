@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Update Manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-27 14:26+0200\n"
+"POT-Creation-Date: 2026-08-03 16:41+0200\n"
 "PO-Revision-Date: 2022-09-10 18:10+0200\n"
 "Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
 "Language-Team: Dutch <vistausss@outlook.com>\n"
@@ -17,136 +17,64 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.1.1\n"
 
-msgid "Update Manager - install progress"
-msgstr "Updatebeheer - Installatievoortgang"
+#, c-format
+msgid "%n important update available"
+msgstr "%n belangrijke update beschikbaar"
 
-msgid "textLabel1"
-msgstr "textLabel1"
+msgid "%n other update available"
+msgstr "%n andere update beschikbaar"
 
-msgid "Cancel"
-msgstr "Annuleren"
+msgid "%n update available"
+msgstr "%n update beschikbaar"
 
-msgid "Available updates"
-msgstr "Beschikbare updates"
+msgid "No updates available."
+msgstr "Geen updates beschikbaar."
 
-msgid "textLabel2"
-msgstr "textLabel2"
+msgid "&Configure"
+msgstr "&Configureren"
 
-msgid "textLabel3"
-msgstr "textLabel3"
+msgid "&Check for updates"
+msgstr "&Controleren op updates"
 
-msgid "Don't show this dialog again"
-msgstr "Nooit meer tonen"
+msgid "Software Updates"
+msgstr "Software-updates"
 
-msgid "<p>If checked, next updates will be performed without user confirmation.</p><p>You can also configure update manager in the control panel -> system administration.</p>"
-msgstr "<p>Vink dit aan om vanaf nu updates te installeren zonder bevestiging.</p><p>U kunt Updatebeheer ook instellen via Configuratiescherm --> Systeembeheer.</p>"
+msgid "Reboot required"
+msgstr "Opnieuw opstarten vereist"
 
-msgid "pushButton1"
-msgstr "pushButton1"
+msgid ""
+"System has installed important updates. Please reboot your computer as soon "
+"as possible to complete the upgrade."
+msgstr "Het systeem heeft belangrijke updates geïnstalleerd. Herstart uw computer zo snel mogelijk om de update te voltooien."
 
-msgid "pushButton2"
-msgstr "pushButton2"
+msgid ""
+"A reboot is required to complete the update. Reboot now? Any unsaved work "
+"will be lost."
+msgstr "Een herstart is vereist om de update te voltooien. Nu opnieuw opstarten? Niet-opgeslagen werk gaat verloren."
 
-msgid "Show details"
-msgstr "Informatie tonen"
+msgid "&Reboot now"
+msgstr "&Nu opnieuw opstarten"
 
-msgid "<p>Another instance of Update Manager is running, leaving ...<p>"
-msgstr "<p>Er is al een venster van Updatebeheer geopend - bezig met afsluiten...</p>"
+msgid "No updates available"
+msgstr "Geen updates beschikbaar"
 
-msgid "<p>You are not allowed to perform system upgrades. You need to be member of administrative group \"sudo\" first, please contact system administrator.</p>"
-msgstr "<p>U bent niet gemachtigd om systeemupgrades uit te voeren - hiervoor dient u lid te zijn van de beheerdersgroep 'sudo'. Neem contact op met uw systeemadministrator.</p>"
+msgid "&Update now"
+msgstr "&Nu updaten"
 
-msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations.</p><p>Please make sure you are not installing another application and repeat setup few minutes later.</p>"
-msgstr "<p>Het pakketsysteem is bezig; het installeren kan niet doorgaan.</p>De vergrendeling wordt hoogstwaarschijnlijk veroorzaakt door systeemupdates die op de achtergrond worden geïnstalleerd. Als dat zo is, dan moet u wachten totdat de updates volledig zijn geïnstalleerd. Controleer ook of u niet een ander programma gelijktijdig porbeert te installeren.<p>Bezig met opschonen en afbreken</p>"
+msgid "Update Manager"
+msgstr "Updatebeheer"
 
-msgid "Checking permissions"
-msgstr "Bezig met controleren van machtigingen…"
-
-msgid "Ok"
-msgstr "Oké"
-
-msgid "Checking SW database to be free"
-msgstr "Bezig met controleren van softwaredatabank…"
-
-msgid "Locking SW database"
-msgstr "Bezig met vergrendelen van softwaredatabank…"
-
-msgid "System updater has been started.."
-msgstr "Updatebeheer wordt gestart..."
-
-msgid "Waiting"
-msgstr "Bezig met wachten…"
-
-msgid "Canceled !"
-msgstr "Geannuleerd!"
-
-msgid "Close"
-msgstr "Sluiten"
-
-msgid "! Reboot required"
-msgstr "! Opnieuw opstarten vereist"
-
-msgid "<p>System has received security fixes and important updates.</p><p>Please <b>Reboot</b> your computer as soon as possible to complete the upgrade.</p>"
-msgstr "<p>Er zijn beveiligingsupdates en andere belangrijke updates geïnstalleerd.</p><p><b>Start uw computer zo spoedig mogelijk opnieuw op</b> om de upgrade af te ronden.</p>"
-
-msgid "Please, try to run Update Manager a few minutes later again."
-msgstr "Start Updatebeheer later nogmaals."
-
-msgid "Update manager has been exited with <b>error code: "
-msgstr "Updatebeheer is afgesloten met <b>afsluitcode: "
-
-#, fuzzy
-msgid "Additional updates have been detected"
-msgstr "Aanvullende updates aangetroffen"
-
-msgid "Running Synaptic"
-msgstr ""
-
-#, fuzzy
-msgid "Synaptic package manager is not installed so using default updater for now ..."
-msgstr "Synaptic is niet aangetroffen - installeer Synaptic. Standaard updatebeheer wordt gestart..."
-
-msgid "Closing.."
-msgstr "Bezig met sluiten..."
-
-msgid "<b>Reboot is required<b> to complete the upgrade."
-msgstr "<b>Start opnieuw op</b> om de upgrade af te ronden."
-
-msgid "Success. The most recent update has been implemented."
-msgstr "Geslaagd. De recentste update is toegepast."
-
-msgid "Your system is up to date and healthy."
-msgstr "Uw systeem is bijgewerkt en helemaal in orde."
-
-msgid "Finish >"
-msgstr "Afronden >"
-
-msgid "Do you want to continue ?"
-msgstr "Wilt u doorgaan?"
-
-msgid "No"
-msgstr "Nee"
-
-msgid "Yes"
-msgstr "Ja"
+msgid "Another instance of Update Manager is running, leaving ..."
+msgstr "Er is al een andere instantie van Updatebeheer actief, wordt afgesloten..."
 
 msgid "Checking apt pinning"
 msgstr "Bezig met controleren van apt-vastzettingen…"
 
+msgid "Ok"
+msgstr "Oké"
+
 msgid "need to be fixed"
 msgstr "moet(en) worden gerepareerd"
-
-msgid "Performing upgrade"
-msgstr "Bezig met uitvoeren van upgrade…"
-
-msgid "Failed!"
-msgstr "Mislukt!"
-
-msgid "System update completed successfully."
-msgstr "De systeemupgrade is afgerond."
-
-msgid "Finished :)"
-msgstr "Afgerond :)"
 
 msgid "Checking Internet connection"
 msgstr "Bezig met controleren van internetverbinding…"
@@ -163,6 +91,9 @@ msgstr "Klaar"
 msgid "Failed"
 msgstr "Mislukt"
 
+msgid "Listing updates"
+msgstr "Bezig met opsommen van updates…"
+
 msgid "Checking apt database"
 msgstr "Bezig met controleren van apt-databank…"
 
@@ -172,11 +103,215 @@ msgstr "Bezig met repareren van apt-databank…"
 msgid "Downloading packages"
 msgstr "Bezig met downloaden van pakketten…"
 
-msgid "Listing updates"
-msgstr "Bezig met opsommen van updates…"
+msgid "Performing upgrade"
+msgstr "Bezig met uitvoeren van upgrade…"
+
+msgid "Failed!"
+msgstr "Mislukt!"
 
 msgid "Removing unnecessary packages"
 msgstr "Bezig met verwijderen van onnodige pakketten…"
 
+msgid "Updating Flatpak applications"
+msgstr "Flatpak-toepassingen bijwerken"
+
+msgid "System update completed successfully."
+msgstr "De systeemupgrade is afgerond."
+
+msgid "Finished :)"
+msgstr "Afgerond :)"
+
+msgid "Running Synaptic"
+msgstr "Synaptic wordt uitgevoerd"
+
+msgid "Synaptic package manager is not installed"
+msgstr "Het pakketbeheer Synaptic is niet geïnstalleerd"
+
+msgid "using default updater instead"
+msgstr "in plaats daarvan wordt de standaard-updater gebruikt"
+
+msgid "Show details"
+msgstr "Informatie tonen"
+
+msgid "Cancel"
+msgstr "Annuleren"
+
+msgid ""
+"You are not allowed to perform system upgrades. You need to be member of "
+"administrative group \"sudo\" first, please contact system administrator."
+msgstr "U mag geen systeemupgrades uitvoeren. U moet eerst lid zijn van de administratieve groep \\\"sudo\\\", neem contact op met de systeembeheerder."
+
+msgid "Checking permissions"
+msgstr "Bezig met controleren van machtigingen…"
+
+msgid "Checking SW database to be free"
+msgstr "Bezig met controleren van softwaredatabank…"
+
+msgid "Locking SW database"
+msgstr "Bezig met vergrendelen van softwaredatabank…"
+
+msgid "System updater has been started.."
+msgstr "Updatebeheer wordt gestart..."
+
+msgid ""
+"Package system is busy, not ready to install now. Setup cannot continue.\n"
+"\n"
+"The lock is caused, very probably, by ongoing background system updates. If "
+"this is the case, you have to wait a moment for package system to finish "
+"these operations.\n"
+"\n"
+"Please make sure you are not installing another application and repeat setup "
+"a few minutes later."
+msgstr "Het pakketsysteem is bezig en momenteel niet gereed om te installeren. De installatie kan niet doorgaan.\n\nDe vergrendeling wordt zeer waarschijnlijk veroorzaakt door lopende systeemupdates op de achtergrond. Als dit het geval is, moet u even wachten tot het pakketsysteem deze bewerkingen heeft voltooid.\n\nZorg ervoor dat u geen andere toepassing aan het installeren bent en herhaal de installatie over een paar minuten."
+
+msgid "Close"
+msgstr "Sluiten"
+
+msgid ""
+"Update manager has been exited with error code: %1.\n"
+"\n"
+"Please, try to run Update Manager a few minutes later again."
+msgstr "Updatebeheer is afgesloten met foutcode: %1.\n\nProbeer Updatebeheer over een paar minuten opnieuw uit te voeren."
+
+msgid "Available updates"
+msgstr "Beschikbare updates"
+
+msgid "Additional updates have been detected"
+msgstr "Er zijn extra updates gevonden"
+
+msgid ""
+"Synaptic package manager is not installed so using default updater for "
+"now ..."
+msgstr "Het pakketbeheer Synaptic is niet geïnstalleerd, de standaard-updater wordt voorlopig gebruikt..."
+
+msgid "Couldn't run Synaptic. Using default updater for now ..."
+msgstr "Kon Synaptic niet starten. De standaard-updater wordt voorlopig gebruikt..."
+
+msgid "Closing.."
+msgstr "Bezig met sluiten..."
+
+msgid ""
+"Success. The most recent update has been implemented. Reboot is required to "
+"complete the upgrade."
+msgstr "Gelukt. De meest recente update is toegepast. Een herstart is vereist om de update te voltooien."
+
+msgid ""
+"Success. The most recent update has been implemented. Your system is up to "
+"date and healthy."
+msgstr "Gelukt. De meest recente update is toegepast. Uw systeem is up-to-date en gezond."
+
+msgid "Finish"
+msgstr "Voltooien"
+
+msgid "Waiting"
+msgstr "Bezig met wachten…"
+
+msgid "Do you want to continue?"
+msgstr "Wilt u doorgaan?"
+
+msgid "Don't show this dialog again"
+msgstr "Nooit meer tonen"
+
+msgid ""
+"If checked, next updates will be performed without user confirmation.\n"
+"You can also configure update manager later."
+msgstr "Indien aangevinkt, worden volgende updates uitgevoerd zonder bevestiging van de gebruiker.\nU kunt Updatebeheer ook later instellen."
+
+msgid "No"
+msgstr "Nee"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "Canceled!"
+msgstr "Geannuleerd!"
+
+msgid ""
+"System has received security fixes and important updates.\n"
+"\n"
+"Please Reboot your computer as soon as possible to complete the upgrade."
+msgstr "Het systeem heeft beveiligingscorrecties en belangrijke updates ontvangen.\n\nHerstart uw computer zo snel mogelijk om de update te voltooien."
+
+msgid "<p>Another instance of Update Manager is running, leaving ...<p>"
+msgstr ""
+"<p>Er is al een venster van Updatebeheer geopend - bezig met afsluiten...</p>"
+
+msgid ""
+"<p>You are not allowed to perform system upgrades. You need to be member of "
+"administrative group \"sudo\" first, please contact system administrator.</p>"
+msgstr ""
+"<p>U bent niet gemachtigd om systeemupgrades uit te voeren - hiervoor dient "
+"u lid te zijn van de beheerdersgroep 'sudo'. Neem contact op met uw "
+"systeemadministrator.</p>"
+
+msgid ""
+"<p>Package system is busy, not ready to install now. Setup cannot continue.</"
+"p><p>The lock is caused, very probably, by ongoing background system "
+"updates. If this is the case, you have to wait a moment for package system "
+"to finish these operations.</p><p>Please make sure you are not installing "
+"another application and repeat setup a few minutes later.</p>"
+msgstr "<p>Het pakketsysteem is bezig en momenteel niet gereed om te installeren. De installatie kan niet doorgaan.</p><p>De vergrendeling wordt zeer waarschijnlijk veroorzaakt door lopende systeemupdates op de achtergrond. Als dit het geval is, moet u even wachten tot het pakketsysteem deze bewerkingen heeft voltooid.</p><p>Zorg ervoor dat u geen andere toepassing aan het installeren bent en herhaal de installatie over een paar minuten.</p>"
+
+msgid "Canceled !"
+msgstr "Geannuleerd!"
+
+msgid "! Reboot required"
+msgstr "! Opnieuw opstarten vereist"
+
+msgid ""
+"<p>System has received security fixes and important updates.</p><p>Please "
+"<b>Reboot</b> your computer as soon as possible to complete the upgrade.</p>"
+msgstr ""
+"<p>Er zijn beveiligingsupdates en andere belangrijke updates geïnstalleerd.</"
+"p><p><b>Start uw computer zo spoedig mogelijk opnieuw op</b> om de upgrade "
+"af te ronden.</p>"
+
+msgid "Please, try to run Update Manager a few minutes later again."
+msgstr "Start Updatebeheer later nogmaals."
+
+msgid "Update manager has been exited with <b>error code: "
+msgstr "Updatebeheer is afgesloten met <b>afsluitcode: "
+
+msgid "<b>Reboot is required<b> to complete the upgrade."
+msgstr "<b>Start opnieuw op</b> om de upgrade af te ronden."
+
+msgid "Success. The most recent update has been implemented."
+msgstr "Geslaagd. De recentste update is toegepast."
+
+msgid "Your system is up to date and healthy."
+msgstr "Uw systeem is bijgewerkt en helemaal in orde."
+
+msgid "Finish >"
+msgstr "Afronden >"
+
+msgid "Do you want to continue ?"
+msgstr "Wilt u doorgaan?"
+
 msgid "Installing.."
 msgstr "Bezig met installeren..."
+
+msgid "Q4OS Update Notifier"
+msgstr "Q4OS Update-melder"
+
+msgid ""
+"Please install \"q4os-updater-plasma\" package in order to get better "
+"experience."
+msgstr "Installeer het pakket \\\"q4os-updater-plasma\\\" voor een betere ervaring."
+
+#~ msgid "Update Manager - install progress"
+#~ msgstr "Updatebeheer - Installatievoortgang"
+
+#~ msgid "textLabel1"
+#~ msgstr "textLabel1"
+
+#~ msgid "textLabel2"
+#~ msgstr "textLabel2"
+
+#~ msgid "textLabel3"
+#~ msgstr "textLabel3"
+
+#~ msgid "pushButton1"
+#~ msgstr "pushButton1"
+
+#~ msgid "pushButton2"
+#~ msgstr "pushButton2"
