@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Update Manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-09 14:30+0200\n"
+"POT-Creation-Date: 2026-08-03 17:05+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,23 +17,99 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "Apply"
+msgid "less than a minute"
 msgstr ""
 
-msgid "Auto close updater window on finish"
+#, c-format
+msgid "%n minute(s)"
 msgstr ""
 
-msgid "Close"
+#, c-format
+msgid "%n hour(s)"
 msgstr ""
 
-msgid "Make use of Synaptic package manager, if available"
+msgid "Next upgrade attempt scheduled in %1."
 msgstr ""
 
-msgid "Show upgradable packages lists and confirmation dialogs"
+msgid "Next check scheduled in %1."
+msgstr ""
+
+msgid "Update Manager - configuration"
+msgstr ""
+
+msgid "<b>Note:</b> Plasma's Discover update notifier is installed and already shows update notifications on this system, so the Q4OS Updater tray icon stays hidden here to avoid showing two icons for the same thing."
+msgstr ""
+
+msgid "Updater mode: Standard"
+msgstr ""
+
+msgid "Standard interactive mode"
+msgstr ""
+
+msgid "Full unattended-upgrades"
+msgstr ""
+
+msgid "Standard mode options"
+msgstr ""
+
+msgid "Hide updater tray icon when no updates are available"
+msgstr ""
+
+msgid "Add all repositories to Allowed-origins"
+msgstr ""
+
+msgid "Hide upgradable packages lists and confirmation dialogs"
 msgstr ""
 
 msgid "Start updater window minimized"
 msgstr ""
 
-msgid "Update Manager - configuration"
+msgid "Auto close updater window on finish"
+msgstr ""
+
+msgid "Make use of Synaptic package manager, if available"
+msgstr ""
+
+msgid "Update Flatpak applications"
+msgstr ""
+
+msgid "Apply"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Flatpak is not installed"
+msgstr ""
+
+msgid "Flatpak access isn't set up on this system"
+msgstr ""
+
+msgid "Requires access to qunattended-ctl, which isn't set up on this system"
+msgstr ""
+
+msgid "Enables Debian's unattended-upgrades for system updates."
+msgstr ""
+
+msgid "Checked: unattended-upgrades installs from every currently configured repository, matching the interactive updater, and stays current if a repository is added later. Unchecked: restrict to unattended-upgrades' own already-configured allowed origins (e.g. security updates only)."
+msgstr ""
+
+msgid "Updater mode: Unattended"
+msgstr ""
+
+msgid "Unattended upgrades options"
+msgstr ""
+
+msgid "Package required"
+msgstr ""
+
+msgid "Fully unattended updates require the 'unattended-upgrades' package, which isn't installed. Install it (e.g. via Synaptic or 'sudo apt install unattended-upgrades'), then enable this option again."
+msgstr ""
+
+#, c-format
+msgid "%n minute"
+msgstr ""
+
+#, c-format
+msgid "%n hour"
 msgstr ""
