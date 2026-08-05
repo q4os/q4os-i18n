@@ -130,9 +130,8 @@ msgstr "натомість використовується типовий за�
 msgid "Show details"
 msgstr "Показати подробиці"
 
-#, fuzzy
 msgid "Hide details"
-msgstr "Показати подробиці"
+msgstr "Приховати подробиці"
 
 msgid "Cancel"
 msgstr "Скасувати"

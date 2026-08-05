@@ -132,9 +132,8 @@ msgstr "helyette az alapértelmezett frissítő kerül használatra"
 msgid "Show details"
 msgstr "Részletek mutatása"
 
-#, fuzzy
 msgid "Hide details"
-msgstr "Részletek mutatása"
+msgstr "Részletek elrejtése"
 
 msgid "Cancel"
 msgstr "Mégsem"

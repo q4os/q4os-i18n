@@ -131,9 +131,8 @@ msgstr "verrà utilizzato invece l'aggiornatore predefinito"
 msgid "Show details"
 msgstr "Mostra dettagli"
 
-#, fuzzy
 msgid "Hide details"
-msgstr "Mostra dettagli"
+msgstr "Nascondi dettagli"
 
 msgid "Cancel"
 msgstr "Annulla"

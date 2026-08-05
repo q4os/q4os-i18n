@@ -131,9 +131,8 @@ msgstr "in plaats daarvan wordt de standaard-updater gebruikt"
 msgid "Show details"
 msgstr "Informatie tonen"
 
-#, fuzzy
 msgid "Hide details"
-msgstr "Informatie tonen"
+msgstr "Informatie verbergen"
 
 msgid "Cancel"
 msgstr "Annuleren"

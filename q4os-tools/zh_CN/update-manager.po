@@ -130,9 +130,8 @@ msgstr "将改用默认更新程序"
 msgid "Show details"
 msgstr "显示详情"
 
-#, fuzzy
 msgid "Hide details"
-msgstr "显示详情"
+msgstr "隐藏详情"
 
 msgid "Cancel"
 msgstr "取消"

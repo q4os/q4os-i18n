@@ -134,9 +134,8 @@ msgstr "a usar o atualizador predefinido em alternativa"
 msgid "Show details"
 msgstr "Mostrar detalhes"
 
-#, fuzzy
 msgid "Hide details"
-msgstr "Mostrar detalhes"
+msgstr "Ocultar detalhes"
 
 msgid "Cancel"
 msgstr "Cancelar"

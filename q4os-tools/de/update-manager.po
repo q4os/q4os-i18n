@@ -131,9 +131,8 @@ msgstr "stattdessen wird der Standard-Updater verwendet"
 msgid "Show details"
 msgstr "Details zeigen"
 
-#, fuzzy
 msgid "Hide details"
-msgstr "Details zeigen"
+msgstr "Details ausblenden"
 
 msgid "Cancel"
 msgstr "Abbrechen"

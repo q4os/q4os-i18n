@@ -131,9 +131,8 @@ msgstr "utilisation du gestionnaire de mises à jour par défaut à la place"
 msgid "Show details"
 msgstr "Afficher les détails"
 
-#, fuzzy
 msgid "Hide details"
-msgstr "Afficher les détails"
+msgstr "Masquer les détails"
 
 msgid "Cancel"
 msgstr "Annuler"

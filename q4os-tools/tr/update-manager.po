@@ -130,9 +130,8 @@ msgstr "bunun yerine varsayılan güncelleyici kullanılıyor"
 msgid "Show details"
 msgstr "Ayrıntıları göster"
 
-#, fuzzy
 msgid "Hide details"
-msgstr "Ayrıntıları göster"
+msgstr "Ayrıntıları gizle"
 
 msgid "Cancel"
 msgstr "İptal"

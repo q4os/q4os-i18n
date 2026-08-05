@@ -130,9 +130,8 @@ msgstr "代わりに標準のアップデーターを使用します"
 msgid "Show details"
 msgstr "詳細を表示"
 
-#, fuzzy
 msgid "Hide details"
-msgstr "詳細を表示"
+msgstr "詳細を非表示"
 
 msgid "Cancel"
 msgstr "キャンセル"

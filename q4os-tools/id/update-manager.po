@@ -130,9 +130,8 @@ msgstr "menggunakan pembaru bawaan sebagai gantinya"
 msgid "Show details"
 msgstr "Tampilkan rincian"
 
-#, fuzzy
 msgid "Hide details"
-msgstr "Tampilkan rincian"
+msgstr "Sembunyikan rincian"
 
 msgid "Cancel"
 msgstr "Batal"
