@@ -2,6 +2,24 @@ q4os-i18n (3.17.1-a1) UNRELEASED; urgency=medium
 
   [ Q4OS Team ]
   * Version bump for public release build.
+  * Synced q4os-tools/.pot_empty/update-manager.pot with q4os-updater's
+    current source (two new msgids: "Hide details", added for the Plasma
+    updater window's details-toggle button now actually reflecting its
+    state; and the reworded Trinity-tray-icon-under-Plasma notice text,
+    replacing the now-unused old wording). Propagated into all 174
+    q4os-tools/<lang>/update-manager.po files via msgmerge -U (same
+    mechanism as a_q4os/locales_update.sh) - existing translations
+    preserved via msgmerge's own matching, only the changed/new msgids
+    are now untranslated. This is a source-only, translator-facing sync:
+    buildfs.sh already drops this package's own compiled
+    update-manager.mo/um_config.mo before packaging (q4os-updater-common
+    ships its own compiled catalogs instead), so no rebuild of this
+    package is needed for this change to take effect anywhere.
+  * Note for later: q4os-updater's own common/po/ (a curated 16-language
+    subset, decoupled from this tree since q4os-updater commit bc879f7)
+    was NOT touched here and still lacks these two strings - it needs its
+    own separate sync before they'll actually show translated in a built
+    q4os-updater-common/-plasma binary.
 
  -- Q4OS Team <devteam@q4os.org>  Mon, 03 Aug 2026 19:08:38 +0000
 
