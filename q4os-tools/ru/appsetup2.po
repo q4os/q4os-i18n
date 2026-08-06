@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Q4OS Setup\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-01-23 10:25+0100\n"
-"PO-Revision-Date: 2025-01-10 17:40+0700\n"
+"PO-Revision-Date: 2026-08-07 00:50+0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru\n"
@@ -244,9 +244,8 @@ msgstr "Нет репозитория Flayhub… Отмена!"
 msgid "No Flathub repository, exiting ..."
 msgstr "Нет репозитория Flayhub, выход…"
 
-#, fuzzy
 msgid "Not ready"
-msgstr "готово"
+msgstr "Не готово"
 
 msgid "Package"
 msgstr "Пакет"
@@ -269,9 +268,8 @@ msgstr "Частичное обновление базы данных ПО…"
 msgid "Partial update sw database ... Done"
 msgstr "Частичное обновление базы данных ПО… Готово"
 
-#, fuzzy
 msgid "Passed OK"
-msgstr "ОК!"
+msgstr "Прошло успешно"
 
 msgid "Please make sure you are not installing another software and repeat setup few moments later."
 msgstr "Пожалуйста, убедитесь, что вы не устанавливаете другое ПО, и повторите настройку через несколько минут."
@@ -406,7 +404,7 @@ msgid "clean"
 msgstr "чисто"
 
 msgid "evaluating..."
-msgstr ""
+msgstr "оценивание…"
 
 msgid "fine"
 msgstr "хорошо"
@@ -430,7 +428,7 @@ msgid "software is already installed, so cancelling installation ..."
 msgstr "программное обеспечение уже установлено, поэтому установка отменяется…"
 
 msgid "type:"
-msgstr ""
+msgstr "тип:"
 
 #~ msgid "<p>result:&nbsp;&nbsp;<b>passed OK !</b></p>"
 #~ msgstr "<p>Результат:&nbsp;&nbsp;<b>успешно выполнено!</b></p>"
