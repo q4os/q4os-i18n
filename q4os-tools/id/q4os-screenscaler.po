@@ -3,15 +3,14 @@
 # This file is distributed under the same license as the Screen scaler for Trinity desktop package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Screen scaler for Trinity desktop\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-26 14:30+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2026-08-08 12:59+0000\n"
+"PO-Revision-Date: 2026-08-08 15:10+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,49 +20,52 @@ msgid "1.00"
 msgstr ""
 
 msgid "Apply"
-msgstr ""
+msgstr "Terapkan"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Batal"
+
+msgid "Defaults"
+msgstr "Standar"
 
 msgid "Form (ui_form1)"
-msgstr ""
+msgstr "Formulir (ui_form1)"
 
 msgid "Form1"
-msgstr ""
+msgstr "Formulir1"
 
 msgid "If you align the scale, fonts and elements on primary screen will match the real size."
-msgstr ""
-
-msgid "Reset"
-msgstr ""
+msgstr "Jika Anda menyelaraskan skala, font dan elemen pada layar utama akan sesuai dengan ukuran sebenarnya."
 
 msgid "Reset screen scaling configuration to system defaults"
-msgstr ""
+msgstr "Atur ulang konfigurasi penskalaan layar ke standar sistem"
+
+msgid "Reset screen scaling configuration to system defaults now?"
+msgstr "Atur ulang konfigurasi penskalaan layar ke standar sistem sekarang?"
 
 msgid "Ruler [cm]:"
-msgstr ""
+msgstr "Penggaris [cm]:"
 
 msgid "Sample:"
-msgstr ""
+msgstr "Contoh:"
 
 msgid "Save changes, you will need to login again"
-msgstr ""
+msgstr "Simpan perubahan, Anda perlu masuk lagi"
 
 msgid "Scaling factor"
-msgstr ""
+msgstr "Faktor penskalaan"
 
 msgid "Scaling factor  /  DPI value to apply  /  Primary screen guessed"
-msgstr ""
+msgstr "Faktor penskalaan  /  Nilai DPI yang akan diterapkan  /  Perkiraan layar utama"
 
 msgid "Screen scaling configuration has been saved. You need to login again for changes to take effect."
-msgstr ""
+msgstr "Konfigurasi penskalaan layar telah disimpan. Anda perlu masuk lagi agar perubahan diterapkan."
 
 msgid "Screen scaling setup"
-msgstr ""
+msgstr "Pengaturan penskalaan layar"
 
 msgid "Show advanced options"
-msgstr ""
+msgstr "Tampilkan opsi lanjutan"
 
 msgid "This tool sets screen scaling up for Trinity desktop only, exiting ..."
-msgstr ""
+msgstr "Alat ini hanya mengatur penskalaan layar untuk desktop Trinity, keluar ..."

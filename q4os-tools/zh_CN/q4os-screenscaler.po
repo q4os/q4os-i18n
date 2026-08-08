@@ -3,15 +3,14 @@
 # This file is distributed under the same license as the Screen scaler for Trinity desktop package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Screen scaler for Trinity desktop\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-26 14:30+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2026-08-08 12:59+0000\n"
+"PO-Revision-Date: 2026-08-08 15:10+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,49 +20,52 @@ msgid "1.00"
 msgstr ""
 
 msgid "Apply"
-msgstr ""
+msgstr "应用"
 
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
+
+msgid "Defaults"
+msgstr "默认"
 
 msgid "Form (ui_form1)"
-msgstr ""
+msgstr "表单 (ui_form1)"
 
 msgid "Form1"
-msgstr ""
+msgstr "表单1"
 
 msgid "If you align the scale, fonts and elements on primary screen will match the real size."
-msgstr ""
-
-msgid "Reset"
-msgstr ""
+msgstr "如果您对齐比例尺，主屏幕上的字体和元素将与实际尺寸相符。"
 
 msgid "Reset screen scaling configuration to system defaults"
-msgstr ""
+msgstr "将屏幕缩放配置重置为系统默认值"
+
+msgid "Reset screen scaling configuration to system defaults now?"
+msgstr "确定现在将屏幕缩放配置重置为系统默认值吗？"
 
 msgid "Ruler [cm]:"
-msgstr ""
+msgstr "标尺 [cm]："
 
 msgid "Sample:"
-msgstr ""
+msgstr "示例："
 
 msgid "Save changes, you will need to login again"
-msgstr ""
+msgstr "保存更改，您需要重新登录"
 
 msgid "Scaling factor"
-msgstr ""
+msgstr "缩放比例"
 
 msgid "Scaling factor  /  DPI value to apply  /  Primary screen guessed"
-msgstr ""
+msgstr "缩放比例  /  将应用的 DPI 值  /  推测的主屏幕"
 
 msgid "Screen scaling configuration has been saved. You need to login again for changes to take effect."
-msgstr ""
+msgstr "屏幕缩放配置已保存。您需要重新登录才能使更改生效。"
 
 msgid "Screen scaling setup"
-msgstr ""
+msgstr "屏幕缩放设置"
 
 msgid "Show advanced options"
-msgstr ""
+msgstr "显示高级选项"
 
 msgid "This tool sets screen scaling up for Trinity desktop only, exiting ..."
-msgstr ""
+msgstr "此工具仅为 Trinity 桌面设置屏幕缩放，正在退出……"

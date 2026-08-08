@@ -35,6 +35,12 @@ find . -name q4os-shortcuts.mo -execdir rm '{}' \;
 #is dropped before packaging.
 find . -name update-manager.mo -execdir rm '{}' \;
 find . -name um_config.mo -execdir rm '{}' \;
+#remove q4os-screenscaler files - q4os-screenscaler now compiles and ships
+#this itself (same install path), so this package must never produce it
+#too. The .po source stays in q4os-tools/ so volunteers can keep
+#translating it here with the rest - only the generated .mo output is
+#dropped before packaging.
+find . -name q4os-screenscaler.mo -execdir rm '{}' \;
 
 #remove untranslated files - 1
 cd $BUILDDIR1/

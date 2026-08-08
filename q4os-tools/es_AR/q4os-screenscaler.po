@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Screen scaler for Trinity desktop\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-26 14:30+0200\n"
+"POT-Creation-Date: 2026-08-08 12:59+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,6 +26,9 @@ msgstr "Aplicar"
 msgid "Cancel"
 msgstr "Cancelar"
 
+msgid "Defaults"
+msgstr "Predeterminados"
+
 msgid "Form (ui_form1)"
 msgstr "Formulario (ui_form1)"
 
@@ -35,11 +38,11 @@ msgstr "Formulario1"
 msgid "If you align the scale, fonts and elements on primary screen will match the real size."
 msgstr "Si ajustás la escala, las fuentes y los elementos en la pantalla principal van a coincidir con el tamaño real."
 
-msgid "Reset"
-msgstr "Restablecer"
-
 msgid "Reset screen scaling configuration to system defaults"
 msgstr "Restablecer la configuración de escala de pantalla a los valores predeterminados del sistema"
+
+msgid "Reset screen scaling configuration to system defaults now?"
+msgstr "¿Restablecer ahora la configuración de escala de pantalla a los valores predeterminados del sistema?"
 
 msgid "Ruler [cm]:"
 msgstr "Regla [cm]:"
@@ -67,3 +70,6 @@ msgstr "Mostrar opciones avanzadas"
 
 msgid "This tool sets screen scaling up for Trinity desktop only, exiting ..."
 msgstr "Esta herramienta solo configura la escala de pantalla para Trinity Desktop, saliendo..."
+
+#~ msgid "Reset"
+#~ msgstr "Restablecer"

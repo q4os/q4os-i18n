@@ -20,6 +20,36 @@ q4os-i18n (3.17.1-a1) UNRELEASED; urgency=medium
     was NOT touched here and still lacks these two strings - it needs its
     own separate sync before they'll actually show translated in a built
     q4os-updater-common/-plasma binary.
+  * Refreshed q4os-tools/.pot_empty/q4os-screenscaler.pot against the
+    package's current source (stale since 2019): the "Reset" button was
+    retexted to "Defaults", and a new reset-confirmation dialog string
+    ("Reset screen scaling configuration to system defaults now?") was
+    added - 18 msgids total, up from 17. Propagated into all 174
+    q4os-tools/<lang>/q4os-screenscaler.po files via msgmerge -U (same
+    mechanism as a_q4os/locales_update.sh) - existing translations
+    preserved via msgmerge's own matching, only the changed/new msgids
+    are now untranslated (or fuzzy, for the reworded confirmation
+    string).
+  * q4os-screenscaler now compiles and ships its own q4os-screenscaler.mo
+    directly (same /opt/trinity/share/locale/<lang>/LC_MESSAGES/ path
+    this package used to install to), so buildfs.sh now drops this
+    package's own copy to avoid a file conflict - same treatment
+    update-manager/um_config already got. The .po source stays here for
+    volunteers.
+  * Filled in full q4os-screenscaler translations for id, ja, tr, uk and
+    zh_CN (previously empty stubs here), matching the same 5 languages
+    update-manager/um_config got filled in for previously - brings
+    q4os-screenscaler's translated-language set in line with
+    q4os-updater's own curated 16-language set.
+  * Closed the remaining q4os-screenscaler translation gaps in the other
+    11 languages (de es es_AR fr hu it nl pl pt pt_BR ru): "Defaults" was
+    universally untranslated, and the reset-confirmation dialog string
+    carried a stale fuzzy auto-match (missing the "now?" wording) that
+    msgfmt was silently dropping from every one of these 11 - plus a few
+    older pre-existing gaps (Designer-placeholder "Form (ui_form1)"/
+    "Form1" in es/fr/pl, "Ruler [cm]:" in es, and two more stale fuzzy
+    markers on already-correct pl translations). Every real string in
+    all 16 bundled languages is now translated and non-fuzzy.
 
  -- Q4OS Team <devteam@q4os.org>  Mon, 03 Aug 2026 19:08:38 +0000
 

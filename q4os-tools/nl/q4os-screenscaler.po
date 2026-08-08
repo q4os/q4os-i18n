@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Screen scaler for Trinity desktop\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-26 14:30+0200\n"
+"POT-Creation-Date: 2026-08-08 12:59+0000\n"
 "PO-Revision-Date: 2019-10-18 18:14+0200\n"
 "Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
 "Language-Team: Dutch <vistausss@outlook.com>\n"
@@ -26,24 +26,23 @@ msgstr "Toepassen"
 msgid "Cancel"
 msgstr "Annuleren"
 
+msgid "Defaults"
+msgstr "Standaardwaarden"
+
 msgid "Form (ui_form1)"
 msgstr "Formulier (ui_form1)"
 
 msgid "Form1"
 msgstr "Form1"
 
-msgid ""
-"If you align the scale, fonts and elements on primary screen will match the"
-" real size."
-msgstr ""
-"Als u de schaal goed instelt, dan worden lettertypen en elementen op het "
-"primaire beeldscherm goed afgesteld."
-
-msgid "Reset"
-msgstr "Standaardwaarden"
+msgid "If you align the scale, fonts and elements on primary screen will match the real size."
+msgstr "Als u de schaal goed instelt, dan worden lettertypen en elementen op het primaire beeldscherm goed afgesteld."
 
 msgid "Reset screen scaling configuration to system defaults"
 msgstr "Zet de beeldscherminstellingen terug op de standaard instellingen"
+
+msgid "Reset screen scaling configuration to system defaults now?"
+msgstr "Beeldscherminstellingen nu terugzetten op de standaardinstellingen?"
 
 msgid "Ruler [cm]:"
 msgstr "Liniaal [cm]:"
@@ -58,15 +57,10 @@ msgid "Scaling factor"
 msgstr "Schaalfactor"
 
 msgid "Scaling factor  /  DPI value to apply  /  Primary screen guessed"
-msgstr ""
-"Schaalfactor  /  Toe te passen DPI-waarde  /  Primair beeldscherm vastgesteld"
+msgstr "Schaalfactor  /  Toe te passen DPI-waarde  /  Primair beeldscherm vastgesteld"
 
-msgid ""
-"Screen scaling configuration has been saved. You need to login again for"
-" changes to take effect."
-msgstr ""
-"De instellingen zijn opgeslagen. Meldt u af en weer aan om de wijzigingen "
-"toe te passen."
+msgid "Screen scaling configuration has been saved. You need to login again for changes to take effect."
+msgstr "De instellingen zijn opgeslagen. Meldt u af en weer aan om de wijzigingen toe te passen."
 
 msgid "Screen scaling setup"
 msgstr "Beeldscherminstellingen"
@@ -76,3 +70,6 @@ msgstr "Geavanceerde opties tonen"
 
 msgid "This tool sets screen scaling up for Trinity desktop only, exiting ..."
 msgstr "Dit hulpmiddel werkt alleen op Trinity - bezig met afsluiten..."
+
+#~ msgid "Reset"
+#~ msgstr "Standaardwaarden"

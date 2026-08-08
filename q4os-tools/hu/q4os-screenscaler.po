@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Screen scaler for Trinity desktop\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-26 14:30+0200\n"
+"POT-Creation-Date: 2026-08-08 12:59+0000\n"
 "PO-Revision-Date: 2025-02-12 12:15+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -27,6 +27,9 @@ msgstr "Alkalmazás"
 msgid "Cancel"
 msgstr "Mégsem"
 
+msgid "Defaults"
+msgstr "Alapértelmezés"
+
 msgid "Form (ui_form1)"
 msgstr "Űrlap (ui_form1)"
 
@@ -36,11 +39,11 @@ msgstr "Űrlap1"
 msgid "If you align the scale, fonts and elements on primary screen will match the real size."
 msgstr "Ha összehangolod a méretarányt, az elsődleges képernyőn megjelenő betűtípusok és elemek a valós méretnek fognak megfelelni."
 
-msgid "Reset"
-msgstr "Visszaállítás"
-
 msgid "Reset screen scaling configuration to system defaults"
 msgstr "A képernyő méretezési konfigurációjának visszaállítása a rendszer alapértelmezett beállításaira"
+
+msgid "Reset screen scaling configuration to system defaults now?"
+msgstr "Visszaállítja most a képernyő méretezési konfigurációját a rendszer alapértelmezett beállításaira?"
 
 msgid "Ruler [cm]:"
 msgstr "Vonalzó [cm]:"
@@ -68,3 +71,6 @@ msgstr "Speciális opciók megjelenítése"
 
 msgid "This tool sets screen scaling up for Trinity desktop only, exiting ..."
 msgstr "Ez az eszköz a képernyő méretezését csak a Trinity desktopra állítja be, kilépés ..."
+
+#~ msgid "Reset"
+#~ msgstr "Visszaállítás"

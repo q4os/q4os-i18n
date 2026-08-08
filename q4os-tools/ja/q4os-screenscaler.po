@@ -3,15 +3,14 @@
 # This file is distributed under the same license as the Screen scaler for Trinity desktop package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Screen scaler for Trinity desktop\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-26 14:30+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2026-08-08 12:59+0000\n"
+"PO-Revision-Date: 2026-08-08 15:10+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,49 +20,52 @@ msgid "1.00"
 msgstr ""
 
 msgid "Apply"
-msgstr ""
+msgstr "適用"
 
 msgid "Cancel"
-msgstr ""
+msgstr "キャンセル"
+
+msgid "Defaults"
+msgstr "デフォルト"
 
 msgid "Form (ui_form1)"
-msgstr ""
+msgstr "フォーム (ui_form1)"
 
 msgid "Form1"
-msgstr ""
+msgstr "フォーム1"
 
 msgid "If you align the scale, fonts and elements on primary screen will match the real size."
-msgstr ""
-
-msgid "Reset"
-msgstr ""
+msgstr "スケールを合わせると、プライマリスクリーン上のフォントや要素が実際のサイズに一致します。"
 
 msgid "Reset screen scaling configuration to system defaults"
-msgstr ""
+msgstr "画面スケーリングの設定をシステムの初期値にリセットします"
+
+msgid "Reset screen scaling configuration to system defaults now?"
+msgstr "画面スケーリングの設定を今すぐシステムの初期値にリセットしますか?"
 
 msgid "Ruler [cm]:"
-msgstr ""
+msgstr "定規 [cm]:"
 
 msgid "Sample:"
-msgstr ""
+msgstr "サンプル:"
 
 msgid "Save changes, you will need to login again"
-msgstr ""
+msgstr "変更を保存します。再度ログインする必要があります"
 
 msgid "Scaling factor"
-msgstr ""
+msgstr "拡大縮小率"
 
 msgid "Scaling factor  /  DPI value to apply  /  Primary screen guessed"
-msgstr ""
+msgstr "拡大縮小率  /  適用する DPI 値  /  推定されたプライマリスクリーン"
 
 msgid "Screen scaling configuration has been saved. You need to login again for changes to take effect."
-msgstr ""
+msgstr "画面スケーリングの設定を保存しました。変更を有効にするには、再度ログインする必要があります。"
 
 msgid "Screen scaling setup"
-msgstr ""
+msgstr "画面スケーリングの設定"
 
 msgid "Show advanced options"
-msgstr ""
+msgstr "詳細オプションを表示"
 
 msgid "This tool sets screen scaling up for Trinity desktop only, exiting ..."
-msgstr ""
+msgstr "このツールは Trinity デスクトップ専用の画面スケーリング設定です。終了します..."

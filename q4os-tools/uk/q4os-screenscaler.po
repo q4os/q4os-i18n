@@ -3,15 +3,14 @@
 # This file is distributed under the same license as the Screen scaler for Trinity desktop package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Screen scaler for Trinity desktop\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-26 14:30+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2026-08-08 12:59+0000\n"
+"PO-Revision-Date: 2026-08-08 15:10+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,49 +20,52 @@ msgid "1.00"
 msgstr ""
 
 msgid "Apply"
-msgstr ""
+msgstr "Застосувати"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
+
+msgid "Defaults"
+msgstr "За замовчуванням"
 
 msgid "Form (ui_form1)"
-msgstr ""
+msgstr "Форма (ui_form1)"
 
 msgid "Form1"
-msgstr ""
+msgstr "Форма1"
 
 msgid "If you align the scale, fonts and elements on primary screen will match the real size."
-msgstr ""
-
-msgid "Reset"
-msgstr ""
+msgstr "Якщо ви вирівняєте масштаб, шрифти та елементи на основному екрані відповідатимуть реальному розміру."
 
 msgid "Reset screen scaling configuration to system defaults"
-msgstr ""
+msgstr "Скинути налаштування масштабування екрана до системних значень за замовчуванням"
+
+msgid "Reset screen scaling configuration to system defaults now?"
+msgstr "Скинути налаштування масштабування екрана до системних значень за замовчуванням зараз?"
 
 msgid "Ruler [cm]:"
-msgstr ""
+msgstr "Лінійка [см]:"
 
 msgid "Sample:"
-msgstr ""
+msgstr "Зразок:"
 
 msgid "Save changes, you will need to login again"
-msgstr ""
+msgstr "Зберегти зміни, вам потрібно буде увійти знову"
 
 msgid "Scaling factor"
-msgstr ""
+msgstr "Коефіцієнт масштабування"
 
 msgid "Scaling factor  /  DPI value to apply  /  Primary screen guessed"
-msgstr ""
+msgstr "Коефіцієнт масштабування  /  Значення DPI для застосування  /  Визначений основний екран"
 
 msgid "Screen scaling configuration has been saved. You need to login again for changes to take effect."
-msgstr ""
+msgstr "Налаштування масштабування екрана збережено. Щоб зміни набули чинності, потрібно увійти знову."
 
 msgid "Screen scaling setup"
-msgstr ""
+msgstr "Налаштування масштабування екрана"
 
 msgid "Show advanced options"
-msgstr ""
+msgstr "Показати додаткові параметри"
 
 msgid "This tool sets screen scaling up for Trinity desktop only, exiting ..."
-msgstr ""
+msgstr "Цей інструмент налаштовує масштабування екрана лише для стільниці Trinity, завершення роботи..."
