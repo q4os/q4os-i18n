@@ -39,14 +39,17 @@ find . -name um_config.mo -execdir rm '{}' \;
 #this itself (same install path), so this package must never produce it
 #too. The .po source stays in q4os-tools/ so volunteers can keep
 #translating it here with the rest - only the generated .mo output is
-#dropped before packaging.
-find . -name q4os-screenscaler.mo -execdir rm '{}' \;
+#dropped before packaging. Catalog domain is q4os_screenscaler (matches
+#the TDEInstance name in kcm/kcmmodule.cpp), not the source/package name.
+find . -name q4os_screenscaler.mo -execdir rm '{}' \;
 #remove lookswitcher-trinity files - lookswitcher-trinity now compiles
 #and ships this itself (same install path), so this package must never
 #produce it too. The .po source stays in q4os-tools/ so volunteers can
 #keep translating it here with the rest - only the generated .mo output
-#is dropped before packaging.
-find . -name lookswitcher-trinity.mo -execdir rm '{}' \;
+#is dropped before packaging. Catalog domain is q4os_lookswitcher
+#(matches the TDEInstance name in src/kcmmodule.cpp), not the source
+#package name.
+find . -name q4os_lookswitcher.mo -execdir rm '{}' \;
 
 #remove untranslated files - 1
 cd $BUILDDIR1/

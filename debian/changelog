@@ -70,6 +70,23 @@ q4os-i18n (3.17.1-a1) UNRELEASED; urgency=medium
     own copy to avoid a file conflict - same treatment update-manager/
     um_config/q4os-screenscaler already got. The .po source stays here
     for volunteers.
+  * Fix: renamed q4os-tools/<lang>/q4os-screenscaler.po ->
+    q4os_screenscaler.po and q4os-tools/<lang>/lookswitcher-trinity.po ->
+    q4os_lookswitcher.po (plus the two .pot_empty templates), and updated
+    buildfs.sh's drop lines to match. Both domains' bundled catalogs were
+    being compiled and installed under the wrong name in their owning
+    packages - TDE's KGenericFactoryBase::setupTranslations() looks up
+    the catalog by the exact TDEInstance name given to each module's
+    KGenericFactory (KcmScreenscalerConfigFactory("q4os_screenscaler"),
+    KcmLookswitcherLauncherFactory("q4os_lookswitcher")), not the source/
+    package name, and gettext catalog lookup is an exact filename match.
+    Caught via a live-desktop screenshot showing lookswitcher-trinity's
+    "Launching Look Switcher..." staying in English while the rest of a
+    German desktop translated correctly. This package's own copies were
+    already unused (dropped by buildfs.sh before packaging either way),
+    so this is a rename-only, no-functional-change commit here - the
+    actual runtime fix lives in q4os-screenscaler's and
+    lookswitcher-trinity's own repos.
 
  -- Q4OS Team <devteam@q4os.org>  Mon, 03 Aug 2026 19:08:38 +0000
 
