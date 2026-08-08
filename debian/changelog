@@ -50,6 +50,26 @@ q4os-i18n (3.17.1-a1) UNRELEASED; urgency=medium
     "Form1" in es/fr/pl, "Ruler [cm]:" in es, and two more stale fuzzy
     markers on already-correct pl translations). Every real string in
     all 16 bundled languages is now translated and non-fuzzy.
+  * Added q4os-tools/.pot_empty/lookswitcher-trinity.pot (brand-new
+    domain - lookswitcher-trinity has never had a .pot/.po here before,
+    confirmed via git log --all) for the module's single translatable
+    string, "Launching Look Switcher...". Propagated into all 174
+    q4os-tools/<lang>/lookswitcher-trinity.po files (same "Creating"
+    mechanism a_q4os/locales_update.sh uses for a new domain: copy the
+    pot, set charset UTF-8 and Language: <code>); filled in real
+    translations for the same 16-language curated set used by
+    update-manager/q4os-screenscaler (de es es_AR fr hu id it ja nl pl pt
+    pt_BR ru tr uk zh_CN), verified byte-identical to
+    lookswitcher-trinity's own po/<lang>/lookswitcher-trinity.po; the
+    other 158 language dirs are left as untranslated stubs for
+    volunteers, matching the existing q4os-screenscaler.po pattern in
+    minor language dirs.
+  * lookswitcher-trinity now compiles and ships its own
+    lookswitcher-trinity.mo directly (same /opt/trinity/share/locale/
+    <lang>/LC_MESSAGES/ path), so buildfs.sh now drops this package's
+    own copy to avoid a file conflict - same treatment update-manager/
+    um_config/q4os-screenscaler already got. The .po source stays here
+    for volunteers.
 
  -- Q4OS Team <devteam@q4os.org>  Mon, 03 Aug 2026 19:08:38 +0000
 
