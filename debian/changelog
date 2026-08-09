@@ -1,4 +1,4 @@
-q4os-i18n (3.17.1-a1) UNRELEASED; urgency=medium
+q4os-i18n (3.17.2-a1) UNRELEASED; urgency=medium
 
   [ Q4OS Team ]
   * Version bump for public release build.
@@ -88,7 +88,7 @@ q4os-i18n (3.17.1-a1) UNRELEASED; urgency=medium
     actual runtime fix lives in q4os-screenscaler's and
     lookswitcher-trinity's own repos.
 
- -- Q4OS Team <devteam@q4os.org>  Mon, 03 Aug 2026 19:08:38 +0000
+ -- Q4OS Team <devteam@q4os.org>  Sun, 09 Aug 2026 19:42:16 +0200
 
 q4os-i18n (3.16.3-a1) UNRELEASED; urgency=medium
 
