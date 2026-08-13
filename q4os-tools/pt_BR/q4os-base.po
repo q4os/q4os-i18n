@@ -22,7 +22,7 @@ msgstr ""
 msgid "<b>Press Yes</b> button to run auto-install wizard, which will guide you through installation process of the latest stable version with automatic updates. Otherwise click No and use Konqueror as a default option. It is possible to get ${APF1} installer from Q4OS Software Centre anytime."
 msgstr "<b>Prima o botão Sim</b> para executar o assistente de instalação automática, que irá guiá-lo através do processo de instalação da última versão estável com atualizações automáticas. Caso contrário, clique em Não e use o Konqueror como opção padrão. É possível obter o instalador ${APF1} do Cenro de Software Q4OS a qualquer momento."
 
-#, fuzzy, sh-format
+#, sh-format
 msgid "<b>Q4OS optimized</b> ${APD} is preferred to original Oracle's CD, to achieve the best performance. This setup will download and auto-install all the needed just now."
 msgstr "<b>Q4OS otimizado</b> ${APD} é precedido do CD original da Oracle, para alcançar o melhor desempenho. Esta configuração irá transferir e instalar automáticamente tudo o que é necessário agora mesmo."
 
@@ -46,7 +46,7 @@ msgstr "Clique no botão \"Ok\" para mostrar a janela do MenuEditor."
 msgid "Click OK to get login screen now."
 msgstr "Clique em OK para obter o ecrã de início de sessão agora."
 
-#, fuzzy, sh-format
+#, sh-format
 msgid "Click OK to run WiFi connection tool to create a network connection."
 msgstr "Clique em OK para executar uma ferramenta de ligação WiFi para criar uma ligação de rede."
 
@@ -72,7 +72,7 @@ msgstr "Parabéns, a instalação acabou."
 
 #, sh-format
 msgid "Connection not successful, check the Wifi password please."
-msgstr ""
+msgstr "Conexão sem sucesso, verifique a senha do Wifi, por favor."
 
 #, sh-format
 msgid "Current system language: <b>English</b>"
@@ -162,7 +162,7 @@ msgstr "O idioma <b>${LANC}</b> foi adicionado ao sistema."
 msgid "Language pack"
 msgstr "Pacote de idioma"
 
-#, fuzzy, sh-format
+#, sh-format
 msgid "Live media detected. Printers management may be limited within the live media environment. It will be fully available after Q4OS installation."
 msgstr "Live media detetada. A gestão de impressoras não é totalmente suportado dentro da 'live media' agora. Estará disponível após a instalação do Q4OS."
 
@@ -244,11 +244,11 @@ msgstr "Obrigado por utilizar o sistema operativo Q4OS. Após a configuração d
 
 #, sh-format
 msgid "Trinity session not detected. Please run this tool within Trinity desktop."
-msgstr ""
+msgstr "Sessão do Trinity não detectada. Execute esta ferramenta dentro do ambiente de trabalho Trinity."
 
 #, sh-format
 msgid "Trying to setup wireless network ..."
-msgstr ""
+msgstr "Tentando configurar a rede sem fio ..."
 
 #, sh-format
 msgid "Unable to download ${APD}, check Internet connection, please."

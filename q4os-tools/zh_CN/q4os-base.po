@@ -19,296 +19,296 @@ msgstr ""
 
 #, sh-format
 msgid "<b>Press Yes</b> button to run auto-install wizard, which will guide you through installation process of the latest stable version with automatic updates. Otherwise click No and use Konqueror as a default option. It is possible to get ${APF1} installer from Q4OS Software Centre anytime."
-msgstr ""
+msgstr "点击<b>“是”</b>按钮运行自动安装向导，它将引导您完成最新稳定版本的安装过程并自动更新。否则请点击“否”并使用 Konqueror 作为默认选项。您随时可以从 Q4OS 软件中心获取 ${APF1} 安装程序。"
 
 #, sh-format
 msgid "<b>Q4OS optimized</b> ${APD} is preferred to original Oracle's CD, to achieve the best performance. This setup will download and auto-install all the needed just now."
-msgstr ""
+msgstr "为获得最佳性能，建议使用<b>针对 Q4OS 优化</b>的 ${APD}，而非 Oracle 原版光盘。此安装程序现在将下载并自动安装所有需要的内容。"
 
 #, sh-format
 msgid "<b>Warning</b>"
-msgstr ""
+msgstr "<b>警告</b>"
 
 #, sh-format
 msgid "Asus Eee PC laptop detected, extra configuration will be performed."
-msgstr ""
+msgstr "检测到华硕 Eee PC 笔记本电脑，将执行额外的配置。"
 
 #, sh-format
 msgid "Check Internet connection, please."
-msgstr ""
+msgstr "请检查网络连接。"
 
 #, sh-format
 msgid "Click \"Ok\" button to show the MenuEditor window."
-msgstr ""
+msgstr "点击\"Ok\"按钮以显示 MenuEditor 窗口。"
 
 #, sh-format
 msgid "Click OK to get login screen now."
-msgstr ""
+msgstr "点击“确定”立即进入登录界面。"
 
 #, sh-format
 msgid "Click OK to run WiFi connection tool to create a network connection."
-msgstr ""
+msgstr "点击“确定”运行 WiFi 连接工具以创建网络连接。"
 
 #, sh-format
 msgid "Click Ok to reboot your computer now."
-msgstr ""
+msgstr "点击“确定”立即重新启动计算机。"
 
 #, sh-format
 msgid "Configuring desktop theme ..."
-msgstr ""
+msgstr "正在配置桌面主题……"
 
 #, sh-format
 msgid "Configuring the profile ..."
-msgstr ""
+msgstr "正在配置配置文件……"
 
 #, sh-format
 msgid "Configuring the system ..."
-msgstr ""
+msgstr "正在配置系统……"
 
 #, sh-format
 msgid "Congratulations, setup has finished."
-msgstr ""
+msgstr "恭喜，安装已完成。"
 
 #, sh-format
 msgid "Connection not successful, check the Wifi password please."
-msgstr ""
+msgstr "连接未成功，请检查 Wifi 密码。"
 
 #, sh-format
 msgid "Current system language: <b>English</b>"
-msgstr ""
+msgstr "当前系统语言：<b>英语</b>"
 
 #, sh-format
 msgid "Default language: <b>${LANC}</b>"
-msgstr ""
+msgstr "默认语言：<b>${LANC}</b>"
 
 #, sh-format
 msgid "Display setup"
-msgstr ""
+msgstr "显示设置"
 
 #, sh-format
 msgid "Do you want to continue ?"
-msgstr ""
+msgstr "您想继续吗？"
 
 #, sh-format
 msgid "Do you want to download and install <b>Look Switcher</b> just now ?"
-msgstr ""
+msgstr "您想现在下载并安装 <b>Look Switcher</b> 吗？"
 
 #, sh-format
 msgid "Do you want to install <b>${APF1}</b> just now ?"
-msgstr ""
+msgstr "您想现在安装 <b>${APF1}</b> 吗？"
 
 #, sh-format
 msgid "Do you want to keep English as default system language ?"
-msgstr ""
+msgstr "您想保留英语作为默认系统语言吗？"
 
 #, sh-format
 msgid "Download failed !"
-msgstr ""
+msgstr "下载失败！"
 
 #, sh-format
 msgid "Downloading language pack, please wait ..."
-msgstr ""
+msgstr "正在下载语言包，请稍候……"
 
 #, sh-format
 msgid "For more detailed info read Q4OS documentation at https://www.q4os.org"
-msgstr ""
+msgstr "有关更多详细信息，请访问 https://www.q4os.org 阅读 Q4OS 文档"
 
 #, sh-format
 msgid "Generating system wide locales, please wait ..."
-msgstr ""
+msgstr "正在生成系统级区域设置，请稍候……"
 
 #, sh-format
 msgid "IBM Thinkpad R51 laptop detected, extra configuration will be performed."
-msgstr ""
+msgstr "检测到 IBM Thinkpad R51 笔记本电脑，将执行额外的配置。"
 
 #, sh-format
 msgid "If you want to get the best experience and latest Internet technologies, we recommend you to install <b>${APF1}</b> within Q4OS system."
-msgstr ""
+msgstr "如果您想获得最佳体验和最新的互联网技术，我们建议您在 Q4OS 系统中安装 <b>${APF1}</b>。"
 
 #, sh-format
 msgid "Install wizard"
-msgstr ""
+msgstr "安装向导"
 
 #, sh-format
 msgid "Installation has not completed, package system is busy. Try it few minutes later please."
-msgstr ""
+msgstr "安装尚未完成，软件包系统正忙。请几分钟后再试。"
 
 #, sh-format
 msgid "Installation has not completed, package system is busy. You can easily install language pack later, using a desktop icon."
-msgstr ""
+msgstr "安装尚未完成，软件包系统正忙。您可以稍后通过桌面图标轻松安装语言包。"
 
 #, sh-format
 msgid "Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved."
-msgstr ""
+msgstr "安装程序需要从 Q4OS 网络资源下载软件包，但无法获取信息。"
 
 #, sh-format
 msgid "Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved. You will be asked for ${APD} installation at the next login, or you can install anytime from Software centre."
-msgstr ""
+msgstr "安装程序需要从 Q4OS 网络资源下载软件包，但无法获取信息。系统将在下次登录时询问您是否安装 ${APD}，您也可以随时从软件中心安装。"
 
 #, sh-format
 msgid "Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved. You will be prompted for ${APF1} installation at next Konqueror run, or you can install anytime from Q4OS Software Centre."
-msgstr ""
+msgstr "安装程序需要从 Q4OS 网络资源下载软件包，但无法获取信息。系统将在下次运行 Konqueror 时提示您安装 ${APF1}，您也可以随时从 Q4OS 软件中心安装。"
 
 #, sh-format
 msgid "Language"
-msgstr ""
+msgstr "语言"
 
 #, sh-format
 msgid "Language <b>${LANC}</b> has been added to system."
-msgstr ""
+msgstr "语言 <b>${LANC}</b> 已添加到系统。"
 
 #, sh-format
 msgid "Language pack"
-msgstr ""
+msgstr "语言包"
 
 #, sh-format
 msgid "Live media detected. Printers management may be limited within the live media environment. It will be fully available after Q4OS installation."
-msgstr ""
+msgstr "检测到实时介质。在实时介质环境中，打印机管理功能可能受到限制。安装 Q4OS 后即可完全使用。"
 
 #, sh-format
 msgid "Look Switcher installer and icons will be removed from control panel now, you can download it anytime from Q4OS software centre."
-msgstr ""
+msgstr "Look Switcher 安装程序及图标现在将从控制面板中移除，您可以随时从 Q4OS 软件中心下载它。"
 
 #, sh-format
 msgid "Newly created items will appear in the start menu <b>after closing</b> the MenuEditor window."
-msgstr ""
+msgstr "新创建的项目将在<b>关闭</b> MenuEditor 窗口后出现在开始菜单中。"
 
 #, sh-format
 msgid "No desktop profile has been applied yet. It's highly recommended to run <b>Desktop Profiler</b> tool and apply one of available profiles as soon as possible."
-msgstr ""
+msgstr "尚未应用任何桌面配置文件。强烈建议尽快运行 <b>Desktop Profiler</b> 工具并应用一个可用的配置文件。"
 
 #, sh-format
 msgid "Package system is busy now, setup cannot continue. You can install anytime from Q4OS software centre."
-msgstr ""
+msgstr "软件包系统当前正忙，安装无法继续。您可以随时从 Q4OS 软件中心安装。"
 
 #, sh-format
 msgid "Package system is busy now, setup cannot continue. You will be asked for ${APD} installation at the next login, or you can install anytime from Software centre."
-msgstr ""
+msgstr "软件包系统当前正忙，安装无法继续。系统将在下次登录时询问您是否安装 ${APD}，您也可以随时从软件中心安装。"
 
 #, sh-format
 msgid "Package system is busy now, setup cannot continue. You will be asked for ${APF1} installation later again, or you can install anytime from Q4OS Software Centre."
-msgstr ""
+msgstr "软件包系统当前正忙，安装无法继续。稍后系统会再次询问您是否安装 ${APF1}，您也可以随时从 Q4OS 软件中心安装。"
 
 #, sh-format
 msgid "Package system is busy now, some other setup is running ! You will be asked for ${APD} installation later again, or you can install anytime from Q4OS software centre."
-msgstr ""
+msgstr "软件包系统当前正忙，有其他安装程序正在运行！稍后系统会再次询问您是否安装 ${APD}，您也可以随时从 Q4OS 软件中心安装。"
 
 #, sh-format
 msgid "Package system is busy now, some other setup is running ! You will be asked for ${APF1} installation later again, or you can install anytime from Q4OS Software Centre."
-msgstr ""
+msgstr "软件包系统当前正忙，有其他安装程序正在运行！稍后系统会再次询问您是否安装 ${APF1}，您也可以随时从 Q4OS 软件中心安装。"
 
 #, sh-format
 msgid "Please login again to take changes effect."
-msgstr ""
+msgstr "请重新登录以使更改生效。"
 
 #, sh-format
 msgid "Printing subsystem is now deactivated, you need to install <b>CUPS layer and printer driver</b> first. If you want to activate printing subsystem and full set of drivers, install following packages:"
-msgstr ""
+msgstr "打印子系统当前已停用，您需要先安装 <b>CUPS 层和打印机驱动程序</b>。如果您想启用打印子系统和完整的驱动程序集，请安装以下软件包："
 
 #, sh-format
 msgid "Q4OS autodetected <b>${APF}</b> available <b>!</b>"
-msgstr ""
+msgstr "Q4OS 自动检测到 <b>${APF}</b> 可用<b>！</b>"
 
 #, sh-format
 msgid "Select your language:"
-msgstr ""
+msgstr "选择您的语言："
 
 #, sh-format
 msgid "Setup cannot continue ..."
-msgstr ""
+msgstr "安装无法继续……"
 
 #, sh-format
 msgid "Setup cannot continue."
-msgstr ""
+msgstr "安装无法继续。"
 
 #, sh-format
 msgid "Sound card not detected, system sound was disabled."
-msgstr ""
+msgstr "未检测到声卡，系统声音已禁用。"
 
 #, sh-format
 msgid "Start menu structure consists of two logical parts mixed, the <b>system global and user part</b>. You can edit, delete and add custom menu entries for the user part only, global menu entries are not visible in the MenuEditor."
-msgstr ""
+msgstr "开始菜单结构由两个混合的逻辑部分组成：<b>系统全局部分和用户部分</b>。您只能编辑、删除和添加用户部分的自定义菜单项，全局菜单项在 MenuEditor 中不可见。"
 
 #, sh-format
 msgid "System is ready to download and install ${LANC} language pack, you need an active Internet link."
-msgstr ""
+msgstr "系统已准备好下载并安装 ${LANC} 语言包，您需要一个可用的互联网连接。"
 
 #, sh-format
 msgid "Thank you for using Konqueror web browser. Konqueror is a minimalist and very fast browser for users who need lightweight Internet access."
-msgstr ""
+msgstr "感谢您使用 Konqueror 网络浏览器。Konqueror 是一款简约且速度极快的浏览器，适合需要轻量级互联网访问的用户。"
 
 #, sh-format
 msgid "Thank you for using Q4OS operating system. After setup of <b>Look Switcher</b>, you will be able to switch between different visual themes."
-msgstr ""
+msgstr "感谢您使用 Q4OS 操作系统。安装 <b>Look Switcher</b> 后，您将能够在不同的视觉主题之间切换。"
 
 #, sh-format
 msgid "Trinity session not detected. Please run this tool within Trinity desktop."
-msgstr ""
+msgstr "未检测到 Trinity 会话。请在 Trinity 桌面环境中运行此工具。"
 
 #, sh-format
 msgid "Trying to setup wireless network ..."
-msgstr ""
+msgstr "正在尝试设置无线网络……"
 
 #, sh-format
 msgid "Unable to download ${APD}, check Internet connection, please."
-msgstr ""
+msgstr "无法下载 ${APD}，请检查网络连接。"
 
 #, sh-format
 msgid "Unable to download, check Internet connection please. You can easily install language pack later, using a desktop icon."
-msgstr ""
+msgstr "无法下载，请检查网络连接。您可以稍后通过桌面图标轻松安装语言包。"
 
 #, sh-format
 msgid "Unable to update, check Internet connection please."
-msgstr ""
+msgstr "无法更新，请检查网络连接。"
 
 #, sh-format
 msgid "Wireless network card detected, WiFi support enabled."
-msgstr ""
+msgstr "检测到无线网卡，已启用 WiFi 支持。"
 
 #, sh-format
 msgid "Would you like to be <b>notified at the next login</b> ? If you say \"No\", this dialog never appears again. You can install ${APD} anytime from <b>Software centre</b>."
-msgstr ""
+msgstr "您希望<b>在下次登录时收到通知</b>吗？如果您选择\"否\"，此对话框将不再出现。您可以随时从<b>软件中心</b>安装 ${APD}。"
 
 #, sh-format
 msgid "Would you like to be notified later ?"
-msgstr ""
+msgstr "您希望稍后收到通知吗？"
 
 #, sh-format
 msgid "Would you like to install the language right now ?"
-msgstr ""
+msgstr "您想现在安装该语言吗？"
 
 #, sh-format
 msgid "Wow, Q4OS autodetected, that it is running inside <b>${APF}</b> host <b>!</b>"
-msgstr ""
+msgstr "哇，Q4OS 自动检测到它正在 <b>${APF}</b> 主机中运行<b>！</b>"
 
 #, sh-format
 msgid "Yes, this is the right way to test Q4OS operating system. It is <b>highly recommended</b> to install <b>${APD}</b> within this virtual machine. It will be possible to display in fullscreen mode, use ${APF} networking, mouse drivers and other functionality."
-msgstr ""
+msgstr "是的，这是测试 Q4OS 操作系统的正确方式。<b>强烈建议</b>在此虚拟机中安装 <b>${APD}</b>。这样便可以全屏显示，并使用 ${APF} 网络、鼠标驱动程序和其他功能。"
 
 #, sh-format
 msgid "Yes, you can install proprietary NVIDIA video drivers right now. This setup will download and auto-install all the needed."
-msgstr ""
+msgstr "是的，您现在可以安装 NVIDIA 专有显卡驱动程序。此安装程序将下载并自动安装所有需要的内容。"
 
 #, sh-format
 msgid "You are going to edit Start Menu."
-msgstr ""
+msgstr "您即将编辑开始菜单。"
 
 #, sh-format
 msgid "You may want to enlarge text and widgets size to improve readability. Click OK to run a configuration tool for screen setup and scaling."
-msgstr ""
+msgstr "您可能希望放大文本和控件的大小以提高可读性。点击“确定”运行屏幕设置和缩放配置工具。"
 
 #, sh-format
 msgid "You will be able to create new custom submenus/folders structure and fill it with desired menu entries. You can create new shortcuts using right mouse click, or drag&drop icons from start menu or desktop into the MenuEditor window."
-msgstr ""
+msgstr "您将能够创建新的自定义子菜单/文件夹结构，并填入所需的菜单项。您可以通过鼠标右键单击创建新的快捷方式，或将图标从开始菜单或桌面拖放到 MenuEditor 窗口中。"
 
 #, sh-format
 msgid "download"
-msgstr ""
+msgstr "下载"
 
 #, sh-format
 msgid "downloading ..."
-msgstr ""
+msgstr "正在下载……"
 
 #, sh-format
 msgid "message"
-msgstr ""
+msgstr "消息"

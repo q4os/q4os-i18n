@@ -19,296 +19,296 @@ msgstr ""
 
 #, sh-format
 msgid "<b>Press Yes</b> button to run auto-install wizard, which will guide you through installation process of the latest stable version with automatic updates. Otherwise click No and use Konqueror as a default option. It is possible to get ${APF1} installer from Q4OS Software Centre anytime."
-msgstr ""
+msgstr "自動インストールウィザードを実行するには<b>「はい」</b>ボタンを押してください。自動更新付きの最新安定版のインストール手順が案内されます。それ以外の場合は「いいえ」をクリックし、Konquerorをデフォルトのオプションとして使用してください。${APF1}のインストーラーはQ4OSソフトウェアセンターからいつでも入手できます。"
 
 #, sh-format
 msgid "<b>Q4OS optimized</b> ${APD} is preferred to original Oracle's CD, to achieve the best performance. This setup will download and auto-install all the needed just now."
-msgstr ""
+msgstr "最高のパフォーマンスを得るために、オリジナルのOracle CDよりも<b>Q4OS最適化版</b>の${APD}を使用することをお勧めします。このセットアップは、必要なものをすべて今すぐダウンロードして自動インストールします。"
 
 #, sh-format
 msgid "<b>Warning</b>"
-msgstr ""
+msgstr "<b>警告</b>"
 
 #, sh-format
 msgid "Asus Eee PC laptop detected, extra configuration will be performed."
-msgstr ""
+msgstr "Asus Eee PCノートパソコンが検出されました。追加の設定が行われます。"
 
 #, sh-format
 msgid "Check Internet connection, please."
-msgstr ""
+msgstr "インターネット接続を確認してください。"
 
 #, sh-format
 msgid "Click \"Ok\" button to show the MenuEditor window."
-msgstr ""
+msgstr "MenuEditorウィンドウを表示するには「Ok」ボタンをクリックしてください。"
 
 #, sh-format
 msgid "Click OK to get login screen now."
-msgstr ""
+msgstr "OKをクリックすると、今すぐログイン画面が表示されます。"
 
 #, sh-format
 msgid "Click OK to run WiFi connection tool to create a network connection."
-msgstr ""
+msgstr "OKをクリックすると、ネットワーク接続を作成するためのWiFi接続ツールが実行されます。"
 
 #, sh-format
 msgid "Click Ok to reboot your computer now."
-msgstr ""
+msgstr "OKをクリックすると、コンピューターが今すぐ再起動します。"
 
 #, sh-format
 msgid "Configuring desktop theme ..."
-msgstr ""
+msgstr "デスクトップテーマを設定しています..."
 
 #, sh-format
 msgid "Configuring the profile ..."
-msgstr ""
+msgstr "プロファイルを設定しています..."
 
 #, sh-format
 msgid "Configuring the system ..."
-msgstr ""
+msgstr "システムを設定しています..."
 
 #, sh-format
 msgid "Congratulations, setup has finished."
-msgstr ""
+msgstr "おめでとうございます、セットアップが完了しました。"
 
 #, sh-format
 msgid "Connection not successful, check the Wifi password please."
-msgstr ""
+msgstr "接続に失敗しました。WiFiのパスワードを確認してください。"
 
 #, sh-format
 msgid "Current system language: <b>English</b>"
-msgstr ""
+msgstr "現在のシステム言語: <b>英語</b>"
 
 #, sh-format
 msgid "Default language: <b>${LANC}</b>"
-msgstr ""
+msgstr "デフォルト言語: <b>${LANC}</b>"
 
 #, sh-format
 msgid "Display setup"
-msgstr ""
+msgstr "ディスプレイ設定"
 
 #, sh-format
 msgid "Do you want to continue ?"
-msgstr ""
+msgstr "続行しますか?"
 
 #, sh-format
 msgid "Do you want to download and install <b>Look Switcher</b> just now ?"
-msgstr ""
+msgstr "今すぐ<b>Look Switcher</b>をダウンロードしてインストールしますか?"
 
 #, sh-format
 msgid "Do you want to install <b>${APF1}</b> just now ?"
-msgstr ""
+msgstr "今すぐ<b>${APF1}</b>をインストールしますか?"
 
 #, sh-format
 msgid "Do you want to keep English as default system language ?"
-msgstr ""
+msgstr "英語をデフォルトのシステム言語のままにしますか?"
 
 #, sh-format
 msgid "Download failed !"
-msgstr ""
+msgstr "ダウンロードに失敗しました！"
 
 #, sh-format
 msgid "Downloading language pack, please wait ..."
-msgstr ""
+msgstr "言語パックをダウンロードしています。しばらくお待ちください..."
 
 #, sh-format
 msgid "For more detailed info read Q4OS documentation at https://www.q4os.org"
-msgstr ""
+msgstr "詳細情報については、https://www.q4os.org のQ4OSドキュメントをご覧ください"
 
 #, sh-format
 msgid "Generating system wide locales, please wait ..."
-msgstr ""
+msgstr "システム全体のロケールを生成しています。しばらくお待ちください..."
 
 #, sh-format
 msgid "IBM Thinkpad R51 laptop detected, extra configuration will be performed."
-msgstr ""
+msgstr "IBM Thinkpad R51ノートパソコンが検出されました。追加の設定が行われます。"
 
 #, sh-format
 msgid "If you want to get the best experience and latest Internet technologies, we recommend you to install <b>${APF1}</b> within Q4OS system."
-msgstr ""
+msgstr "最高のエクスペリエンスと最新のインターネット技術を利用したい場合は、Q4OSシステムに<b>${APF1}</b>をインストールすることをお勧めします。"
 
 #, sh-format
 msgid "Install wizard"
-msgstr ""
+msgstr "インストールウィザード"
 
 #, sh-format
 msgid "Installation has not completed, package system is busy. Try it few minutes later please."
-msgstr ""
+msgstr "インストールが完了していません。パッケージシステムがビジー状態です。数分後にもう一度お試しください。"
 
 #, sh-format
 msgid "Installation has not completed, package system is busy. You can easily install language pack later, using a desktop icon."
-msgstr ""
+msgstr "インストールが完了していません。パッケージシステムがビジー状態です。後でデスクトップアイコンを使って言語パックを簡単にインストールできます。"
 
 #, sh-format
 msgid "Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved."
-msgstr ""
+msgstr "インストーラーはQ4OSのインターネットリソースからパッケージをダウンロードする必要がありますが、情報を取得できませんでした。"
 
 #, sh-format
 msgid "Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved. You will be asked for ${APD} installation at the next login, or you can install anytime from Software centre."
-msgstr ""
+msgstr "インストーラーはQ4OSのインターネットリソースからパッケージをダウンロードする必要がありますが、情報を取得できませんでした。次回のログイン時に${APD}のインストールを求められるか、ソフトウェアセンターからいつでもインストールできます。"
 
 #, sh-format
 msgid "Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved. You will be prompted for ${APF1} installation at next Konqueror run, or you can install anytime from Q4OS Software Centre."
-msgstr ""
+msgstr "インストーラーはQ4OSのインターネットリソースからパッケージをダウンロードする必要がありますが、情報を取得できませんでした。次回Konquerorを実行したときに${APF1}のインストールを求められるか、Q4OSソフトウェアセンターからいつでもインストールできます。"
 
 #, sh-format
 msgid "Language"
-msgstr ""
+msgstr "言語"
 
 #, sh-format
 msgid "Language <b>${LANC}</b> has been added to system."
-msgstr ""
+msgstr "言語<b>${LANC}</b>がシステムに追加されました。"
 
 #, sh-format
 msgid "Language pack"
-msgstr ""
+msgstr "言語パック"
 
 #, sh-format
 msgid "Live media detected. Printers management may be limited within the live media environment. It will be fully available after Q4OS installation."
-msgstr ""
+msgstr "ライブメディアが検出されました。ライブメディア環境ではプリンター管理が制限される場合があります。Q4OSのインストール後に完全に利用可能になります。"
 
 #, sh-format
 msgid "Look Switcher installer and icons will be removed from control panel now, you can download it anytime from Q4OS software centre."
-msgstr ""
+msgstr "Look Switcherのインストーラーとアイコンはコントロールパネルから削除されます。Q4OSソフトウェアセンターからいつでもダウンロードできます。"
 
 #, sh-format
 msgid "Newly created items will appear in the start menu <b>after closing</b> the MenuEditor window."
-msgstr ""
+msgstr "新しく作成された項目は、MenuEditorウィンドウを<b>閉じた後</b>にスタートメニューに表示されます。"
 
 #, sh-format
 msgid "No desktop profile has been applied yet. It's highly recommended to run <b>Desktop Profiler</b> tool and apply one of available profiles as soon as possible."
-msgstr ""
+msgstr "デスクトッププロファイルはまだ適用されていません。<b>Desktop Profiler</b>ツールを実行し、できるだけ早く利用可能なプロファイルのいずれかを適用することを強くお勧めします。"
 
 #, sh-format
 msgid "Package system is busy now, setup cannot continue. You can install anytime from Q4OS software centre."
-msgstr ""
+msgstr "パッケージシステムが現在ビジー状態のため、セットアップを続行できません。Q4OSソフトウェアセンターからいつでもインストールできます。"
 
 #, sh-format
 msgid "Package system is busy now, setup cannot continue. You will be asked for ${APD} installation at the next login, or you can install anytime from Software centre."
-msgstr ""
+msgstr "パッケージシステムが現在ビジー状態のため、セットアップを続行できません。次回のログイン時に${APD}のインストールを求められるか、ソフトウェアセンターからいつでもインストールできます。"
 
 #, sh-format
 msgid "Package system is busy now, setup cannot continue. You will be asked for ${APF1} installation later again, or you can install anytime from Q4OS Software Centre."
-msgstr ""
+msgstr "パッケージシステムが現在ビジー状態のため、セットアップを続行できません。後でもう一度${APF1}のインストールを求められるか、Q4OSソフトウェアセンターからいつでもインストールできます。"
 
 #, sh-format
 msgid "Package system is busy now, some other setup is running ! You will be asked for ${APD} installation later again, or you can install anytime from Q4OS software centre."
-msgstr ""
+msgstr "パッケージシステムが現在ビジー状態で、他のセットアップが実行されています！後でもう一度${APD}のインストールを求められるか、Q4OSソフトウェアセンターからいつでもインストールできます。"
 
 #, sh-format
 msgid "Package system is busy now, some other setup is running ! You will be asked for ${APF1} installation later again, or you can install anytime from Q4OS Software Centre."
-msgstr ""
+msgstr "パッケージシステムが現在ビジー状態で、他のセットアップが実行されています！後でもう一度${APF1}のインストールを求められるか、Q4OSソフトウェアセンターからいつでもインストールできます。"
 
 #, sh-format
 msgid "Please login again to take changes effect."
-msgstr ""
+msgstr "変更を有効にするには、再度ログインしてください。"
 
 #, sh-format
 msgid "Printing subsystem is now deactivated, you need to install <b>CUPS layer and printer driver</b> first. If you want to activate printing subsystem and full set of drivers, install following packages:"
-msgstr ""
+msgstr "印刷サブシステムは現在無効になっています。まず<b>CUPSレイヤーとプリンタードライバー</b>をインストールする必要があります。印刷サブシステムと完全なドライバーセットを有効にするには、次のパッケージをインストールしてください:"
 
 #, sh-format
 msgid "Q4OS autodetected <b>${APF}</b> available <b>!</b>"
-msgstr ""
+msgstr "Q4OSは<b>${APF}</b>が利用可能であることを自動検出しました<b>！</b>"
 
 #, sh-format
 msgid "Select your language:"
-msgstr ""
+msgstr "言語を選択してください:"
 
 #, sh-format
 msgid "Setup cannot continue ..."
-msgstr ""
+msgstr "セットアップを続行できません..."
 
 #, sh-format
 msgid "Setup cannot continue."
-msgstr ""
+msgstr "セットアップを続行できません。"
 
 #, sh-format
 msgid "Sound card not detected, system sound was disabled."
-msgstr ""
+msgstr "サウンドカードが検出されなかったため、システムサウンドが無効になりました。"
 
 #, sh-format
 msgid "Start menu structure consists of two logical parts mixed, the <b>system global and user part</b>. You can edit, delete and add custom menu entries for the user part only, global menu entries are not visible in the MenuEditor."
-msgstr ""
+msgstr "スタートメニューの構造は、<b>システムグローバル部分とユーザー部分</b>という2つの論理的な部分が混在しています。ユーザー部分のみ、カスタムメニュー項目の編集、削除、追加が可能です。グローバルメニュー項目はMenuEditorには表示されません。"
 
 #, sh-format
 msgid "System is ready to download and install ${LANC} language pack, you need an active Internet link."
-msgstr ""
+msgstr "システムは${LANC}言語パックをダウンロードしてインストールする準備ができています。有効なインターネット接続が必要です。"
 
 #, sh-format
 msgid "Thank you for using Konqueror web browser. Konqueror is a minimalist and very fast browser for users who need lightweight Internet access."
-msgstr ""
+msgstr "Konquerorウェブブラウザをご利用いただきありがとうございます。Konquerorは、軽量なインターネットアクセスを必要とするユーザー向けのミニマルで非常に高速なブラウザです。"
 
 #, sh-format
 msgid "Thank you for using Q4OS operating system. After setup of <b>Look Switcher</b>, you will be able to switch between different visual themes."
-msgstr ""
+msgstr "Q4OSオペレーティングシステムをご利用いただきありがとうございます。<b>Look Switcher</b>のセットアップ後、さまざまなビジュアルテーマを切り替えられるようになります。"
 
 #, sh-format
 msgid "Trinity session not detected. Please run this tool within Trinity desktop."
-msgstr ""
+msgstr "Trinityセッションが検出されませんでした。Trinityデスクトップ内でこのツールを実行してください。"
 
 #, sh-format
 msgid "Trying to setup wireless network ..."
-msgstr ""
+msgstr "ワイヤレスネットワークを設定しようとしています..."
 
 #, sh-format
 msgid "Unable to download ${APD}, check Internet connection, please."
-msgstr ""
+msgstr "${APD}をダウンロードできません。インターネット接続を確認してください。"
 
 #, sh-format
 msgid "Unable to download, check Internet connection please. You can easily install language pack later, using a desktop icon."
-msgstr ""
+msgstr "ダウンロードできません。インターネット接続を確認してください。後でデスクトップアイコンを使って言語パックを簡単にインストールできます。"
 
 #, sh-format
 msgid "Unable to update, check Internet connection please."
-msgstr ""
+msgstr "更新できません。インターネット接続を確認してください。"
 
 #, sh-format
 msgid "Wireless network card detected, WiFi support enabled."
-msgstr ""
+msgstr "ワイヤレスネットワークカードが検出され、WiFiサポートが有効になりました。"
 
 #, sh-format
 msgid "Would you like to be <b>notified at the next login</b> ? If you say \"No\", this dialog never appears again. You can install ${APD} anytime from <b>Software centre</b>."
-msgstr ""
+msgstr "<b>次回のログイン時に通知</b>を受け取りますか? 「いいえ」を選択すると、このダイアログは二度と表示されません。${APD}は<b>ソフトウェアセンター</b>からいつでもインストールできます。"
 
 #, sh-format
 msgid "Would you like to be notified later ?"
-msgstr ""
+msgstr "後で通知を受け取りますか?"
 
 #, sh-format
 msgid "Would you like to install the language right now ?"
-msgstr ""
+msgstr "今すぐこの言語をインストールしますか?"
 
 #, sh-format
 msgid "Wow, Q4OS autodetected, that it is running inside <b>${APF}</b> host <b>!</b>"
-msgstr ""
+msgstr "おお、Q4OSは<b>${APF}</b>ホスト内で実行されていることを自動検出しました<b>！</b>"
 
 #, sh-format
 msgid "Yes, this is the right way to test Q4OS operating system. It is <b>highly recommended</b> to install <b>${APD}</b> within this virtual machine. It will be possible to display in fullscreen mode, use ${APF} networking, mouse drivers and other functionality."
-msgstr ""
+msgstr "はい、これはQ4OSオペレーティングシステムをテストする正しい方法です。この仮想マシン内に<b>${APD}</b>をインストールすることを<b>強くお勧めします</b>。フルスクリーン表示や、${APF}のネットワーク機能、マウスドライバーなどの機能を利用できるようになります。"
 
 #, sh-format
 msgid "Yes, you can install proprietary NVIDIA video drivers right now. This setup will download and auto-install all the needed."
-msgstr ""
+msgstr "はい、今すぐNVIDIAのプロプライエタリなビデオドライバーをインストールできます。このセットアップは、必要なものをすべてダウンロードして自動インストールします。"
 
 #, sh-format
 msgid "You are going to edit Start Menu."
-msgstr ""
+msgstr "スタートメニューを編集しようとしています。"
 
 #, sh-format
 msgid "You may want to enlarge text and widgets size to improve readability. Click OK to run a configuration tool for screen setup and scaling."
-msgstr ""
+msgstr "読みやすさを向上させるために、テキストとウィジェットのサイズを大きくすることをお勧めします。OKをクリックすると、画面設定とスケーリングの設定ツールが実行されます。"
 
 #, sh-format
 msgid "You will be able to create new custom submenus/folders structure and fill it with desired menu entries. You can create new shortcuts using right mouse click, or drag&drop icons from start menu or desktop into the MenuEditor window."
-msgstr ""
+msgstr "新しいカスタムサブメニュー・フォルダ構造を作成し、目的のメニュー項目を追加できるようになります。マウスの右クリックで新しいショートカットを作成したり、スタートメニューやデスクトップからMenuEditorウィンドウにアイコンをドラッグ＆ドロップしたりすることもできます。"
 
 #, sh-format
 msgid "download"
-msgstr ""
+msgstr "ダウンロード"
 
 #, sh-format
 msgid "downloading ..."
-msgstr ""
+msgstr "ダウンロード中..."
 
 #, sh-format
 msgid "message"
-msgstr ""
+msgstr "メッセージ"

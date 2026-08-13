@@ -3,7 +3,6 @@
 # This file is distributed under the same license as the q4os-base package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: q4os-base\n"
@@ -45,7 +44,7 @@ msgstr "Cliquez sur le bouton \"Ok\" pour afficher la fenêtre d'éditeur de men
 msgid "Click OK to get login screen now."
 msgstr "Cliquez sur OK pour afficher l'écran de connexion maintenant."
 
-#, fuzzy, sh-format
+#, sh-format
 msgid "Click OK to run WiFi connection tool to create a network connection."
 msgstr "Cliquez sur OK pour exécuter l'outil de connexion WiFi et créer une connexion réseau."
 
@@ -71,7 +70,7 @@ msgstr "Félicitations, l'installation est terminée."
 
 #, sh-format
 msgid "Connection not successful, check the Wifi password please."
-msgstr ""
+msgstr "La connexion a échoué, veuillez vérifier le mot de passe Wifi."
 
 #, sh-format
 msgid "Current system language: <b>English</b>"
@@ -243,11 +242,11 @@ msgstr "Merci d'utiliser le système d'exploitation Q4OS. Après l'installation 
 
 #, sh-format
 msgid "Trinity session not detected. Please run this tool within Trinity desktop."
-msgstr ""
+msgstr "Session Trinity non détectée. Veuillez exécuter cet outil dans le bureau Trinity."
 
 #, sh-format
 msgid "Trying to setup wireless network ..."
-msgstr ""
+msgstr "Tentative de configuration du réseau sans fil ..."
 
 #, sh-format
 msgid "Unable to download ${APD}, check Internet connection, please."
@@ -305,13 +304,13 @@ msgstr "Vous pourrez créer une nouvelle structure de sous-menus/dossiers person
 msgid "download"
 msgstr "télécharger"
 
-#, fuzzy, sh-format
+#, sh-format
 msgid "downloading ..."
 msgstr "télécharger"
 
 #, sh-format
 msgid "message"
-msgstr ""
+msgstr "message"
 
 #, sh-format
 #~ msgid "Click \"Ok\" button to run the tool."

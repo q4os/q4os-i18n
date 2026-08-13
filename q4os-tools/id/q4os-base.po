@@ -19,296 +19,296 @@ msgstr ""
 
 #, sh-format
 msgid "<b>Press Yes</b> button to run auto-install wizard, which will guide you through installation process of the latest stable version with automatic updates. Otherwise click No and use Konqueror as a default option. It is possible to get ${APF1} installer from Q4OS Software Centre anytime."
-msgstr ""
+msgstr "Tekan tombol <b>Ya</b> untuk menjalankan wizard instalasi otomatis, yang akan memandu Anda melalui proses instalasi versi stabil terbaru dengan pembaruan otomatis. Jika tidak, klik Tidak dan gunakan Konqueror sebagai pilihan default. Anda selalu dapat memperoleh installer ${APF1} dari Pusat Perangkat Lunak Q4OS kapan saja."
 
 #, sh-format
 msgid "<b>Q4OS optimized</b> ${APD} is preferred to original Oracle's CD, to achieve the best performance. This setup will download and auto-install all the needed just now."
-msgstr ""
+msgstr "${APD} <b>yang dioptimalkan untuk Q4OS</b> lebih disarankan daripada CD asli Oracle, untuk mencapai performa terbaik. Pengaturan ini akan mengunduh dan menginstal otomatis semua yang diperlukan sekarang."
 
 #, sh-format
 msgid "<b>Warning</b>"
-msgstr ""
+msgstr "<b>Peringatan</b>"
 
 #, sh-format
 msgid "Asus Eee PC laptop detected, extra configuration will be performed."
-msgstr ""
+msgstr "Laptop Asus Eee PC terdeteksi, konfigurasi tambahan akan dilakukan."
 
 #, sh-format
 msgid "Check Internet connection, please."
-msgstr ""
+msgstr "Silakan periksa koneksi Internet Anda."
 
 #, sh-format
 msgid "Click \"Ok\" button to show the MenuEditor window."
-msgstr ""
+msgstr "Klik tombol \"Ok\" untuk menampilkan jendela MenuEditor."
 
 #, sh-format
 msgid "Click OK to get login screen now."
-msgstr ""
+msgstr "Klik OK untuk menuju layar login sekarang."
 
 #, sh-format
 msgid "Click OK to run WiFi connection tool to create a network connection."
-msgstr ""
+msgstr "Klik OK untuk menjalankan alat koneksi WiFi guna membuat koneksi jaringan."
 
 #, sh-format
 msgid "Click Ok to reboot your computer now."
-msgstr ""
+msgstr "Klik Ok untuk memulai ulang komputer Anda sekarang."
 
 #, sh-format
 msgid "Configuring desktop theme ..."
-msgstr ""
+msgstr "Mengonfigurasi tema desktop ..."
 
 #, sh-format
 msgid "Configuring the profile ..."
-msgstr ""
+msgstr "Mengonfigurasi profil ..."
 
 #, sh-format
 msgid "Configuring the system ..."
-msgstr ""
+msgstr "Mengonfigurasi sistem ..."
 
 #, sh-format
 msgid "Congratulations, setup has finished."
-msgstr ""
+msgstr "Selamat, pengaturan telah selesai."
 
 #, sh-format
 msgid "Connection not successful, check the Wifi password please."
-msgstr ""
+msgstr "Koneksi tidak berhasil, silakan periksa kata sandi Wifi."
 
 #, sh-format
 msgid "Current system language: <b>English</b>"
-msgstr ""
+msgstr "Bahasa sistem saat ini: <b>Inggris</b>"
 
 #, sh-format
 msgid "Default language: <b>${LANC}</b>"
-msgstr ""
+msgstr "Bahasa default: <b>${LANC}</b>"
 
 #, sh-format
 msgid "Display setup"
-msgstr ""
+msgstr "Pengaturan tampilan"
 
 #, sh-format
 msgid "Do you want to continue ?"
-msgstr ""
+msgstr "Apakah Anda ingin melanjutkan?"
 
 #, sh-format
 msgid "Do you want to download and install <b>Look Switcher</b> just now ?"
-msgstr ""
+msgstr "Apakah Anda ingin mengunduh dan menginstal <b>Look Switcher</b> sekarang?"
 
 #, sh-format
 msgid "Do you want to install <b>${APF1}</b> just now ?"
-msgstr ""
+msgstr "Apakah Anda ingin menginstal <b>${APF1}</b> sekarang?"
 
 #, sh-format
 msgid "Do you want to keep English as default system language ?"
-msgstr ""
+msgstr "Apakah Anda ingin mempertahankan bahasa Inggris sebagai bahasa default sistem?"
 
 #, sh-format
 msgid "Download failed !"
-msgstr ""
+msgstr "Unduhan gagal!"
 
 #, sh-format
 msgid "Downloading language pack, please wait ..."
-msgstr ""
+msgstr "Mengunduh paket bahasa, harap tunggu ..."
 
 #, sh-format
 msgid "For more detailed info read Q4OS documentation at https://www.q4os.org"
-msgstr ""
+msgstr "Untuk informasi lebih rinci, baca dokumentasi Q4OS di https://www.q4os.org"
 
 #, sh-format
 msgid "Generating system wide locales, please wait ..."
-msgstr ""
+msgstr "Membuat locale seluruh sistem, harap tunggu ..."
 
 #, sh-format
 msgid "IBM Thinkpad R51 laptop detected, extra configuration will be performed."
-msgstr ""
+msgstr "Laptop IBM Thinkpad R51 terdeteksi, konfigurasi tambahan akan dilakukan."
 
 #, sh-format
 msgid "If you want to get the best experience and latest Internet technologies, we recommend you to install <b>${APF1}</b> within Q4OS system."
-msgstr ""
+msgstr "Jika Anda ingin mendapatkan pengalaman terbaik dan teknologi Internet terbaru, kami menyarankan Anda menginstal <b>${APF1}</b> pada sistem Q4OS."
 
 #, sh-format
 msgid "Install wizard"
-msgstr ""
+msgstr "Wizard instalasi"
 
 #, sh-format
 msgid "Installation has not completed, package system is busy. Try it few minutes later please."
-msgstr ""
+msgstr "Instalasi belum selesai, sistem paket sedang sibuk. Silakan coba lagi beberapa menit kemudian."
 
 #, sh-format
 msgid "Installation has not completed, package system is busy. You can easily install language pack later, using a desktop icon."
-msgstr ""
+msgstr "Instalasi belum selesai, sistem paket sedang sibuk. Anda dapat dengan mudah menginstal paket bahasa nanti menggunakan ikon desktop."
 
 #, sh-format
 msgid "Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved."
-msgstr ""
+msgstr "Installer perlu mengunduh paket dari sumber daya Internet Q4OS, tetapi informasi tidak dapat diperoleh."
 
 #, sh-format
 msgid "Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved. You will be asked for ${APD} installation at the next login, or you can install anytime from Software centre."
-msgstr ""
+msgstr "Installer perlu mengunduh paket dari sumber daya Internet Q4OS, tetapi informasi tidak dapat diperoleh. Anda akan diminta untuk menginstal ${APD} pada login berikutnya, atau Anda dapat menginstalnya kapan saja dari Pusat Perangkat Lunak."
 
 #, sh-format
 msgid "Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved. You will be prompted for ${APF1} installation at next Konqueror run, or you can install anytime from Q4OS Software Centre."
-msgstr ""
+msgstr "Installer perlu mengunduh paket dari sumber daya Internet Q4OS, tetapi informasi tidak dapat diperoleh. Anda akan diminta untuk menginstal ${APF1} pada saat Konqueror berikutnya dijalankan, atau Anda dapat menginstalnya kapan saja dari Pusat Perangkat Lunak Q4OS."
 
 #, sh-format
 msgid "Language"
-msgstr ""
+msgstr "Bahasa"
 
 #, sh-format
 msgid "Language <b>${LANC}</b> has been added to system."
-msgstr ""
+msgstr "Bahasa <b>${LANC}</b> telah ditambahkan ke sistem."
 
 #, sh-format
 msgid "Language pack"
-msgstr ""
+msgstr "Paket bahasa"
 
 #, sh-format
 msgid "Live media detected. Printers management may be limited within the live media environment. It will be fully available after Q4OS installation."
-msgstr ""
+msgstr "Media live terdeteksi. Manajemen printer mungkin terbatas dalam lingkungan media live. Fitur ini akan tersedia sepenuhnya setelah instalasi Q4OS."
 
 #, sh-format
 msgid "Look Switcher installer and icons will be removed from control panel now, you can download it anytime from Q4OS software centre."
-msgstr ""
+msgstr "Installer dan ikon Look Switcher akan dihapus dari panel kontrol sekarang, Anda dapat mengunduhnya kapan saja dari pusat perangkat lunak Q4OS."
 
 #, sh-format
 msgid "Newly created items will appear in the start menu <b>after closing</b> the MenuEditor window."
-msgstr ""
+msgstr "Item yang baru dibuat akan muncul di menu start <b>setelah menutup</b> jendela MenuEditor."
 
 #, sh-format
 msgid "No desktop profile has been applied yet. It's highly recommended to run <b>Desktop Profiler</b> tool and apply one of available profiles as soon as possible."
-msgstr ""
+msgstr "Belum ada profil desktop yang diterapkan. Sangat disarankan untuk menjalankan alat <b>Desktop Profiler</b> dan menerapkan salah satu profil yang tersedia sesegera mungkin."
 
 #, sh-format
 msgid "Package system is busy now, setup cannot continue. You can install anytime from Q4OS software centre."
-msgstr ""
+msgstr "Sistem paket sedang sibuk sekarang, pengaturan tidak dapat dilanjutkan. Anda dapat menginstalnya kapan saja dari pusat perangkat lunak Q4OS."
 
 #, sh-format
 msgid "Package system is busy now, setup cannot continue. You will be asked for ${APD} installation at the next login, or you can install anytime from Software centre."
-msgstr ""
+msgstr "Sistem paket sedang sibuk sekarang, pengaturan tidak dapat dilanjutkan. Anda akan diminta untuk menginstal ${APD} pada login berikutnya, atau Anda dapat menginstalnya kapan saja dari Pusat Perangkat Lunak."
 
 #, sh-format
 msgid "Package system is busy now, setup cannot continue. You will be asked for ${APF1} installation later again, or you can install anytime from Q4OS Software Centre."
-msgstr ""
+msgstr "Sistem paket sedang sibuk sekarang, pengaturan tidak dapat dilanjutkan. Anda akan diminta lagi untuk menginstal ${APF1} nanti, atau Anda dapat menginstalnya kapan saja dari Pusat Perangkat Lunak Q4OS."
 
 #, sh-format
 msgid "Package system is busy now, some other setup is running ! You will be asked for ${APD} installation later again, or you can install anytime from Q4OS software centre."
-msgstr ""
+msgstr "Sistem paket sedang sibuk sekarang, ada pengaturan lain yang sedang berjalan! Anda akan diminta lagi untuk menginstal ${APD} nanti, atau Anda dapat menginstalnya kapan saja dari pusat perangkat lunak Q4OS."
 
 #, sh-format
 msgid "Package system is busy now, some other setup is running ! You will be asked for ${APF1} installation later again, or you can install anytime from Q4OS Software Centre."
-msgstr ""
+msgstr "Sistem paket sedang sibuk sekarang, ada pengaturan lain yang sedang berjalan! Anda akan diminta lagi untuk menginstal ${APF1} nanti, atau Anda dapat menginstalnya kapan saja dari Pusat Perangkat Lunak Q4OS."
 
 #, sh-format
 msgid "Please login again to take changes effect."
-msgstr ""
+msgstr "Silakan login kembali agar perubahan berlaku."
 
 #, sh-format
 msgid "Printing subsystem is now deactivated, you need to install <b>CUPS layer and printer driver</b> first. If you want to activate printing subsystem and full set of drivers, install following packages:"
-msgstr ""
+msgstr "Subsistem pencetakan sekarang dinonaktifkan, Anda perlu menginstal <b>lapisan CUPS dan driver printer</b> terlebih dahulu. Jika Anda ingin mengaktifkan subsistem pencetakan dan set lengkap driver, instal paket berikut:"
 
 #, sh-format
 msgid "Q4OS autodetected <b>${APF}</b> available <b>!</b>"
-msgstr ""
+msgstr "Q4OS mendeteksi otomatis <b>${APF}</b> tersedia<b>!</b>"
 
 #, sh-format
 msgid "Select your language:"
-msgstr ""
+msgstr "Pilih bahasa Anda:"
 
 #, sh-format
 msgid "Setup cannot continue ..."
-msgstr ""
+msgstr "Pengaturan tidak dapat dilanjutkan ..."
 
 #, sh-format
 msgid "Setup cannot continue."
-msgstr ""
+msgstr "Pengaturan tidak dapat dilanjutkan."
 
 #, sh-format
 msgid "Sound card not detected, system sound was disabled."
-msgstr ""
+msgstr "Kartu suara tidak terdeteksi, suara sistem dinonaktifkan."
 
 #, sh-format
 msgid "Start menu structure consists of two logical parts mixed, the <b>system global and user part</b>. You can edit, delete and add custom menu entries for the user part only, global menu entries are not visible in the MenuEditor."
-msgstr ""
+msgstr "Struktur menu start terdiri dari dua bagian logis yang tercampur, yaitu <b>bagian global sistem dan bagian pengguna</b>. Anda hanya dapat mengedit, menghapus, dan menambahkan entri menu kustom untuk bagian pengguna saja, entri menu global tidak terlihat di MenuEditor."
 
 #, sh-format
 msgid "System is ready to download and install ${LANC} language pack, you need an active Internet link."
-msgstr ""
+msgstr "Sistem siap untuk mengunduh dan menginstal paket bahasa ${LANC}, Anda memerlukan koneksi Internet aktif."
 
 #, sh-format
 msgid "Thank you for using Konqueror web browser. Konqueror is a minimalist and very fast browser for users who need lightweight Internet access."
-msgstr ""
+msgstr "Terima kasih telah menggunakan peramban web Konqueror. Konqueror adalah peramban minimalis dan sangat cepat untuk pengguna yang membutuhkan akses Internet ringan."
 
 #, sh-format
 msgid "Thank you for using Q4OS operating system. After setup of <b>Look Switcher</b>, you will be able to switch between different visual themes."
-msgstr ""
+msgstr "Terima kasih telah menggunakan sistem operasi Q4OS. Setelah pengaturan <b>Look Switcher</b>, Anda akan dapat beralih di antara berbagai tema visual."
 
 #, sh-format
 msgid "Trinity session not detected. Please run this tool within Trinity desktop."
-msgstr ""
+msgstr "Sesi Trinity tidak terdeteksi. Silakan jalankan alat ini di dalam desktop Trinity."
 
 #, sh-format
 msgid "Trying to setup wireless network ..."
-msgstr ""
+msgstr "Mencoba mengatur jaringan nirkabel ..."
 
 #, sh-format
 msgid "Unable to download ${APD}, check Internet connection, please."
-msgstr ""
+msgstr "Tidak dapat mengunduh ${APD}, silakan periksa koneksi Internet."
 
 #, sh-format
 msgid "Unable to download, check Internet connection please. You can easily install language pack later, using a desktop icon."
-msgstr ""
+msgstr "Tidak dapat mengunduh, silakan periksa koneksi Internet. Anda dapat dengan mudah menginstal paket bahasa nanti menggunakan ikon desktop."
 
 #, sh-format
 msgid "Unable to update, check Internet connection please."
-msgstr ""
+msgstr "Tidak dapat memperbarui, silakan periksa koneksi Internet."
 
 #, sh-format
 msgid "Wireless network card detected, WiFi support enabled."
-msgstr ""
+msgstr "Kartu jaringan nirkabel terdeteksi, dukungan WiFi diaktifkan."
 
 #, sh-format
 msgid "Would you like to be <b>notified at the next login</b> ? If you say \"No\", this dialog never appears again. You can install ${APD} anytime from <b>Software centre</b>."
-msgstr ""
+msgstr "Apakah Anda ingin <b>diberi tahu pada login berikutnya</b>? Jika Anda memilih \"Tidak\", dialog ini tidak akan muncul lagi. Anda dapat menginstal ${APD} kapan saja dari <b>Pusat Perangkat Lunak</b>."
 
 #, sh-format
 msgid "Would you like to be notified later ?"
-msgstr ""
+msgstr "Apakah Anda ingin diberi tahu nanti?"
 
 #, sh-format
 msgid "Would you like to install the language right now ?"
-msgstr ""
+msgstr "Apakah Anda ingin menginstal bahasa ini sekarang?"
 
 #, sh-format
 msgid "Wow, Q4OS autodetected, that it is running inside <b>${APF}</b> host <b>!</b>"
-msgstr ""
+msgstr "Wow, Q4OS mendeteksi otomatis bahwa ia berjalan di dalam host <b>${APF}</b><b>!</b>"
 
 #, sh-format
 msgid "Yes, this is the right way to test Q4OS operating system. It is <b>highly recommended</b> to install <b>${APD}</b> within this virtual machine. It will be possible to display in fullscreen mode, use ${APF} networking, mouse drivers and other functionality."
-msgstr ""
+msgstr "Ya, ini adalah cara yang tepat untuk menguji sistem operasi Q4OS. <b>Sangat disarankan</b> untuk menginstal <b>${APD}</b> di dalam mesin virtual ini. Anda akan dapat menampilkannya dalam mode layar penuh, menggunakan jaringan ${APF}, driver mouse, dan fungsi lainnya."
 
 #, sh-format
 msgid "Yes, you can install proprietary NVIDIA video drivers right now. This setup will download and auto-install all the needed."
-msgstr ""
+msgstr "Ya, Anda dapat menginstal driver video NVIDIA berpemilik sekarang. Pengaturan ini akan mengunduh dan menginstal otomatis semua yang diperlukan."
 
 #, sh-format
 msgid "You are going to edit Start Menu."
-msgstr ""
+msgstr "Anda akan mengedit Menu Start."
 
 #, sh-format
 msgid "You may want to enlarge text and widgets size to improve readability. Click OK to run a configuration tool for screen setup and scaling."
-msgstr ""
+msgstr "Anda mungkin ingin memperbesar ukuran teks dan widget untuk meningkatkan keterbacaan. Klik OK untuk menjalankan alat konfigurasi untuk pengaturan layar dan penskalaan."
 
 #, sh-format
 msgid "You will be able to create new custom submenus/folders structure and fill it with desired menu entries. You can create new shortcuts using right mouse click, or drag&drop icons from start menu or desktop into the MenuEditor window."
-msgstr ""
+msgstr "Anda akan dapat membuat struktur submenu/folder kustom baru dan mengisinya dengan entri menu yang diinginkan. Anda dapat membuat pintasan baru dengan klik kanan mouse, atau menyeret dan melepas ikon dari menu start atau desktop ke jendela MenuEditor."
 
 #, sh-format
 msgid "download"
-msgstr ""
+msgstr "unduh"
 
 #, sh-format
 msgid "downloading ..."
-msgstr ""
+msgstr "mengunduh ..."
 
 #, sh-format
 msgid "message"
-msgstr ""
+msgstr "pesan"

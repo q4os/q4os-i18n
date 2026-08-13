@@ -45,7 +45,7 @@ msgstr "Klik op ‘Oké’ om de menubewerker te openen."
 msgid "Click OK to get login screen now."
 msgstr "Klik op ‘Oké’ om het aanmeldscherm te tonen."
 
-#, fuzzy, sh-format
+#, sh-format
 msgid "Click OK to run WiFi connection tool to create a network connection."
 msgstr "Klik op ‘Oké’ om het Wi-Fi-programma te starten zodat u verbinding kunt maken met internet."
 
@@ -71,7 +71,7 @@ msgstr "De installatie is afgerond."
 
 #, sh-format
 msgid "Connection not successful, check the Wifi password please."
-msgstr ""
+msgstr "Verbinding mislukt, controleer het wifiwachtwoord alstublieft."
 
 #, sh-format
 msgid "Current system language: <b>English</b>"
@@ -243,11 +243,11 @@ msgstr "Bedankt voor het gebruiken van Q4OS. Na het installeren van het programm
 
 #, sh-format
 msgid "Trinity session not detected. Please run this tool within Trinity desktop."
-msgstr ""
+msgstr "Geen Trinity-sessie gedetecteerd. Voer dit hulpmiddel uit binnen het Trinity-bureaublad."
 
 #, sh-format
 msgid "Trying to setup wireless network ..."
-msgstr ""
+msgstr "Bezig met het instellen van het draadloze netwerk ..."
 
 #, sh-format
 msgid "Unable to download ${APD}, check Internet connection, please."

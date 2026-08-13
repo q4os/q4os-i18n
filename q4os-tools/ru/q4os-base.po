@@ -3,7 +3,6 @@
 # This file is distributed under the same license as the q4os-base package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: q4os-base\n"
@@ -46,7 +45,7 @@ msgstr "Щёлкните кнопку «Хорошо», чтобы открыт�
 msgid "Click OK to get login screen now."
 msgstr "Щёлкните «Хорошо», чтобы попасть на экран входа в систему."
 
-#, fuzzy, sh-format
+#, sh-format
 msgid "Click OK to run WiFi connection tool to create a network connection."
 msgstr "Щёлкните «Хорошо», чтобы запустить инструмент подключения Wi-Fi для создания сетевого соединения."
 
@@ -72,7 +71,7 @@ msgstr "Поздравляем, установка завершена."
 
 #, sh-format
 msgid "Connection not successful, check the Wifi password please."
-msgstr ""
+msgstr "Подключение не удалось, проверьте, пожалуйста, пароль Wi-Fi."
 
 #, sh-format
 msgid "Current system language: <b>English</b>"

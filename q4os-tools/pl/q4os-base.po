@@ -22,7 +22,7 @@ msgstr ""
 msgid "<b>Press Yes</b> button to run auto-install wizard, which will guide you through installation process of the latest stable version with automatic updates. Otherwise click No and use Konqueror as a default option. It is possible to get ${APF1} installer from Q4OS Software Centre anytime."
 msgstr "<b>Kliknij Tak</b> aby uruchomić automatyczny instalator, który to przeprowadzi Cię przez proces instalacji najnowszych stabilnych wersji z automatycznymi aktualizacjami. W przeciwnym razie kliknij Nie i używaj Konqueror'a jako Twojej domyślnej opcji. Możesz zainstalować ${APF1} z Centrum Oprogramowania Q4OS kiedy tylko będziesz chciał."
 
-#, fuzzy, sh-format
+#, sh-format
 msgid "<b>Q4OS optimized</b> ${APD} is preferred to original Oracle's CD, to achieve the best performance. This setup will download and auto-install all the needed just now."
 msgstr "<b>Zoptymalizowany dla Q4OS</b> ${APD} jest polecany zamiast CD Oracle aby osiągnąć najlepszą wydajność. Ten instalator pobierze i automatycznie zainstaluje to co trzeba."
 
@@ -46,7 +46,7 @@ msgstr "Kliknij przycisk \"Ok\" aby pokazać okno MenuEditor."
 msgid "Click OK to get login screen now."
 msgstr "Kliknij OK aby wyświetlić ekran logowania."
 
-#, fuzzy, sh-format
+#, sh-format
 msgid "Click OK to run WiFi connection tool to create a network connection."
 msgstr "Kliknij OK aby uruchomić narzędzie WiFi i utworzyć nowe połączenie internetowe."
 
@@ -72,7 +72,7 @@ msgstr "Gratulacje! Instalator zakończył swoją pracę."
 
 #, sh-format
 msgid "Connection not successful, check the Wifi password please."
-msgstr ""
+msgstr "Połączenie nieudane, sprawdź hasło WiFi."
 
 #, sh-format
 msgid "Current system language: <b>English</b>"
@@ -162,7 +162,7 @@ msgstr "Język <b>${LANC}</b> został dodany do systemu."
 msgid "Language pack"
 msgstr "Pakiet językowy"
 
-#, fuzzy, sh-format
+#, sh-format
 msgid "Live media detected. Printers management may be limited within the live media environment. It will be fully available after Q4OS installation."
 msgstr "Wykryto że system jest uruchamiany z bootowalnego nośnika (np. Live USB pendrive). Zarządzanie drukarkami nie jest w pełni wspierane w obecnym trybie. Będzie ono dostępne po zainstalowaniu Q4OS."
 
@@ -170,7 +170,7 @@ msgstr "Wykryto że system jest uruchamiany z bootowalnego nośnika (np. Live US
 msgid "Look Switcher installer and icons will be removed from control panel now, you can download it anytime from Q4OS software centre."
 msgstr "Instalator Konfiguratora Wyglądu i ikony będą teraz usunięte z panelu zarządzania, możesz pobrać je w dowolnej chwili z Centrum Oprogramowania Q4OS."
 
-#, fuzzy, sh-format
+#, sh-format
 msgid "Newly created items will appear in the start menu <b>after closing</b> the MenuEditor window."
 msgstr "Nowo utworzone elementy pojawią się w menu start <b>po zamknięciu</b> okna MenuEditor."
 
@@ -178,7 +178,7 @@ msgstr "Nowo utworzone elementy pojawią się w menu start <b>po zamknięciu</b>
 msgid "No desktop profile has been applied yet. It's highly recommended to run <b>Desktop Profiler</b> tool and apply one of available profiles as soon as possible."
 msgstr "Nie zastosowano jeszcze żadnego profilu pulpitu. Polecane jest, aby uruchomić narzędzie <b>Konfigurator Pulpitu</b> i zastosować jeden z dostępnych profili tak szybko jak to tylko możliwe."
 
-#, fuzzy, sh-format
+#, sh-format
 msgid "Package system is busy now, setup cannot continue. You can install anytime from Q4OS software centre."
 msgstr "System pakietów jest obecnie zajęty, instalator nie może kontynuować. Możesz to zainstalować w dowolnej chwili z Centrum Oprogramowania Q4OS."
 
@@ -244,11 +244,11 @@ msgstr "Dziękujemy za używanie Q4OS. Po skonfigurowaniu <b>Konfiguratora Wygl�
 
 #, sh-format
 msgid "Trinity session not detected. Please run this tool within Trinity desktop."
-msgstr ""
+msgstr "Nie wykryto sesji Trinity. Uruchom to narzędzie w środowisku Trinity."
 
 #, sh-format
 msgid "Trying to setup wireless network ..."
-msgstr ""
+msgstr "Próba skonfigurowania sieci bezprzewodowej ..."
 
 #, sh-format
 msgid "Unable to download ${APD}, check Internet connection, please."
@@ -282,7 +282,7 @@ msgstr "Czy chcesz zainstalować język ?"
 msgid "Wow, Q4OS autodetected, that it is running inside <b>${APF}</b> host <b>!</b>"
 msgstr "Wow, Q4OS wykryło, że jest uruchomione na hoście <b>${APF}</b><b>!</b>"
 
-#, fuzzy, sh-format
+#, sh-format
 msgid "Yes, this is the right way to test Q4OS operating system. It is <b>highly recommended</b> to install <b>${APD}</b> within this virtual machine. It will be possible to display in fullscreen mode, use ${APF} networking, mouse drivers and other functionality."
 msgstr "Tak, to dobry sposób aby przetestować Q4OS. Jest to <b>bardzo zalecane</b> aby zainstalować <b>${APD}</b> w tej maszynie wirtualnej. Będzie możliwe wyświetlenie w trybie pełnoekranowym, używanie internetu ${APF}, sterowników and i innych funkcji."
 

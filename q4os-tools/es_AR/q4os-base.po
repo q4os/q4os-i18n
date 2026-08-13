@@ -3,7 +3,6 @@
 # This file is distributed under the same license as the q4os-base package.
 # Alejo Fernández <alejoo.fernandez.2003@gmail.com>, 2025.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: q4os-base\n"
@@ -271,7 +270,7 @@ msgstr "¿Querés que te <b>notifiquemos en el próximo inicio de sesión</b>? S
 
 #, sh-format
 msgid "Would you like to be notified later ?"
-msgstr ""
+msgstr "¿Desea ser notificado más tarde?"
 
 #, sh-format
 msgid "Would you like to install the language right now ?"
