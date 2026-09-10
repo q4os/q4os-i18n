@@ -1,14 +1,13 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# Hugo Carvalho <hugokarvalho@hotmail.com>, 2018, 2019, 2020, 2021, 2022.
+# Hugo Carvalho <hugokarvalho@hotmail.com>, 2018-2026.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Update Manager\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-05 10:24+0200\n"
-"PO-Revision-Date: 2025-07-25 17:06+0100\n"
+"PO-Revision-Date: 2026-09-10 16:47+0100\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <hugokarvalho@hotmail.com>\n"
 "Language: pt\n"
@@ -16,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Poedit 3.9\n"
 "X-Language: pt_PT\n"
 "X-Source-Language: C\n"
 
@@ -284,10 +283,10 @@ msgid "Q4OS Update Notifier"
 msgstr "Notificador de Atualizações do Q4OS"
 
 msgid "Q4OS Update Notifier for Trinity does not run under a Plasma desktop session. Please install the \"q4os-updater-plasma\" package to get update notifications here."
-msgstr ""
+msgstr "O Notificador de Atualizações do Q4OS para o Trinity não funciona numa sessão do ambiente de trabalho Plasma. Instale o pacote \"q4os-updater-plasma\" para receber notificações de atualizações aqui."
 
 #~ msgid "Please install \"q4os-updater-plasma\" package in order to get better experience."
-#~ msgstr "Instale o pacote \\\"q4os-updater-plasma\\\" para obter uma melhor experiência."
+#~ msgstr "Instale o pacote \"q4os-updater-plasma\" para obter uma melhor experiência."
 
 #~ msgid "Update Manager - install progress"
 #~ msgstr "Gestor de atualizações - progresso da instalação"
