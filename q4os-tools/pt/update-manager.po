@@ -286,7 +286,7 @@ msgid "Q4OS Update Notifier for Trinity does not run under a Plasma desktop sess
 msgstr "O Notificador de Atualizações do Q4OS para o Trinity não funciona numa sessão do ambiente de trabalho Plasma. Instale o pacote \"q4os-updater-plasma\" para receber notificações de atualizações aqui."
 
 #~ msgid "Please install \"q4os-updater-plasma\" package in order to get better experience."
-#~ msgstr "Instale o pacote \\\"q4os-updater-plasma\\\" para obter uma melhor experiência."
+#~ msgstr "Instale o pacote \"q4os-updater-plasma\" para obter uma melhor experiência."
 
 #~ msgid "Update Manager - install progress"
 #~ msgstr "Gestor de atualizações - progresso da instalação"
