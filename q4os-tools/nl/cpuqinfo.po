@@ -7,18 +7,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS CPU-Q\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-26 10:59+0200\n"
+"POT-Creation-Date: 2026-09-20 08:16+0000\n"
 "PO-Revision-Date: 2022-09-12 11:46+0200\n"
 "Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
-"Language-Team: \n"
+"Language-Team: Q4OS nl <devteam@q4os.org>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.1.1\n"
 
-msgid "(C) 2019 Q4OS"
-msgstr "(C) 2019 Q4OS"
+msgid "-"
+msgstr "-"
+
+msgid "Almost done ..."
+msgstr "Bijna klaar ..."
 
 msgid "BIOS"
 msgstr "BIOS"
@@ -26,8 +29,14 @@ msgstr "BIOS"
 msgid "Bogomips"
 msgstr "Bogomips"
 
+msgid "Broadcom WiFi"
+msgstr "Broadcom wifi"
+
+msgid "Broadcom WiFi drivers"
+msgstr "Broadcom wifi-stuurprogramma's"
+
 msgid "Bus"
-msgstr ""
+msgstr "Bus"
 
 msgid "Bus Speed"
 msgstr "Bus-snelheid"
@@ -59,8 +68,17 @@ msgstr "Werkomgeving"
 msgid "Details"
 msgstr "Uitgebreide informatie"
 
+msgid "Device"
+msgstr "Apparaat"
+
 msgid "Distro"
 msgstr "Distro"
+
+msgid "Driver"
+msgstr "Stuurprogramma"
+
+msgid "Drivers"
+msgstr "Stuurprogramma's"
 
 msgid "FW Date"
 msgstr "FW-datum"
@@ -73,6 +91,9 @@ msgstr "Form (ui_form0)"
 
 msgid "Form (ui_form1)"
 msgstr "Form (ui_form1)"
+
+msgid "Gathering data ..."
+msgstr "Gegevens verzamelen ..."
 
 msgid "Graphics"
 msgstr "Grafische kaart"
@@ -88,6 +109,21 @@ msgstr "Hardware-informatie - Uitgebreid"
 
 msgid "Host"
 msgstr "Host"
+
+msgid "Install"
+msgstr "Installeren"
+
+msgid "Installable"
+msgstr "Installeerbaar"
+
+msgid "Installed"
+msgstr "Geïnstalleerd"
+
+msgid "Installed, not active"
+msgstr "Geïnstalleerd, niet actief"
+
+msgid "Installed, restart required"
+msgstr "Geïnstalleerd, herstart vereist"
 
 msgid "Instructions"
 msgstr "Instructies"
@@ -125,8 +161,20 @@ msgstr "Model"
 msgid "Multiplier"
 msgstr "Vermenigvuldiging"
 
+msgid "NVIDIA Graphics"
+msgstr "NVIDIA grafische kaart"
+
+msgid "NVIDIA drivers"
+msgstr "NVIDIA-stuurprogramma's"
+
 msgid "Name"
 msgstr "Naam"
+
+msgid "No device detected"
+msgstr "Geen apparaat gevonden"
+
+msgid "Not installable"
+msgstr "Niet installeerbaar"
 
 msgid "Package"
 msgstr "Pakket"
@@ -143,6 +191,11 @@ msgstr "Werkgeheugen (totaal)"
 msgid "Rated FSB"
 msgstr "Rated FSB"
 
+msgid ""
+"Secure Boot is enabled, the driver will only work once Secure Boot is turned "
+"off."
+msgstr "Secure Boot staat aan; het stuurprogramma werkt pas als Secure Boot is uitgeschakeld."
+
 msgid "SecureBoot"
 msgstr "SecureBoot"
 
@@ -151,6 +204,9 @@ msgstr "Selectie"
 
 msgid "Specification"
 msgstr "Specificatie"
+
+msgid "Status"
+msgstr "Status"
 
 msgid "Stepping"
 msgstr "Stappen"
@@ -161,6 +217,9 @@ msgstr "Opslagruimte (totaal)"
 msgid "System"
 msgstr "Systeem"
 
+msgid "The driver status could not be determined."
+msgstr "De status van het stuurprogramma kon niet worden bepaald."
+
 msgid "Threads"
 msgstr "Aantal threads"
 
@@ -170,5 +229,14 @@ msgstr "Topologie"
 msgid "Type"
 msgstr "Type"
 
+msgid "Unknown"
+msgstr "Onbekend"
+
+#~ msgid "(C) 2019 Q4OS"
+#~ msgstr "(C) 2019 Q4OS"
+
 #~ msgid "Bits"
 #~ msgstr "Bits"
+
+msgid "Uninstall"
+msgstr "Verwijderen"

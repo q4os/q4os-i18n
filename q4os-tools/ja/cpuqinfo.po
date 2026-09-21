@@ -8,164 +8,229 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS CPU-Q\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-26 10:59+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2026-09-20 08:16+0000\n"
+"PO-Revision-Date: 2026-09-20 11:54\n"
+"Last-Translator: Q4OS Team <devteam@q4os.org>\n"
+"Language-Team: Q4OS ja <devteam@q4os.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "(C) 2019 Q4OS"
-msgstr ""
+msgid "-"
+msgstr "-"
+
+msgid "Almost done ..."
+msgstr "もうすぐ完了します ..."
 
 msgid "BIOS"
-msgstr ""
+msgstr "BIOS"
 
 msgid "Bogomips"
-msgstr ""
+msgstr "Bogomips"
+
+msgid "Broadcom WiFi"
+msgstr "Broadcom WiFi"
+
+msgid "Broadcom WiFi drivers"
+msgstr "Broadcom WiFi ドライバー"
 
 msgid "Bus"
-msgstr ""
+msgstr "バス"
 
 msgid "Bus Speed"
-msgstr ""
+msgstr "バス速度"
 
 msgid "CPU"
-msgstr ""
+msgstr "CPU"
 
 msgid "Cache"
-msgstr ""
+msgstr "キャッシュ"
 
 msgid "Clocks"
-msgstr ""
+msgstr "クロック"
 
 msgid "Close"
-msgstr ""
+msgstr "閉じる"
 
 msgid "Code Name"
-msgstr ""
+msgstr "コードネーム"
 
 msgid "Core Speed"
-msgstr ""
+msgstr "コア速度"
 
 msgid "Cores"
-msgstr ""
+msgstr "コア数"
 
 msgid "Desktop"
-msgstr ""
+msgstr "デスクトップ"
 
 msgid "Details"
-msgstr ""
+msgstr "詳細"
+
+msgid "Device"
+msgstr "デバイス"
 
 msgid "Distro"
-msgstr ""
+msgstr "ディストリビューション"
+
+msgid "Driver"
+msgstr "ドライバー"
+
+msgid "Drivers"
+msgstr "ドライバー"
 
 msgid "FW Date"
-msgstr ""
+msgstr "FW 日付"
 
 msgid "Family"
-msgstr ""
+msgstr "ファミリ"
 
 msgid "Form (ui_form0)"
-msgstr ""
+msgstr "Form (ui_form0)"
 
 msgid "Form (ui_form1)"
-msgstr ""
+msgstr "Form (ui_form1)"
+
+msgid "Gathering data ..."
+msgstr "データを収集しています ..."
 
 msgid "Graphics"
-msgstr ""
+msgstr "グラフィックス"
 
 msgid "HW Summary"
-msgstr ""
+msgstr "ハードウェア概要"
 
 msgid "Hardware Info"
-msgstr ""
+msgstr "ハードウェア情報"
 
 msgid "Hardware info - Details"
-msgstr ""
+msgstr "ハードウェア情報 - 詳細"
 
 msgid "Host"
-msgstr ""
+msgstr "ホスト"
+
+msgid "Install"
+msgstr "インストール"
+
+msgid "Installable"
+msgstr "インストール可能"
+
+msgid "Installed"
+msgstr "インストール済み"
+
+msgid "Installed, not active"
+msgstr "インストール済み、無効"
+
+msgid "Installed, restart required"
+msgstr "インストール済み、再起動が必要"
 
 msgid "Instructions"
-msgstr ""
+msgstr "命令セット"
 
 msgid "Kernel"
-msgstr ""
+msgstr "カーネル"
 
 msgid "L1 Data"
-msgstr ""
+msgstr "L1 データ"
 
 msgid "L1 Inst."
-msgstr ""
+msgstr "L1 命令"
 
 msgid "L2 Cache"
-msgstr ""
+msgstr "L2 キャッシュ"
 
 msgid "Level 2"
-msgstr ""
+msgstr "レベル 2"
 
 msgid "Level 3"
-msgstr ""
+msgstr "レベル 3"
 
 msgid "Mainboard"
-msgstr ""
+msgstr "マザーボード"
 
 msgid "Max Speed"
-msgstr ""
+msgstr "最大速度"
 
 msgid "Microcode"
-msgstr ""
+msgstr "マイクロコード"
 
 msgid "Model"
-msgstr ""
+msgstr "モデル"
 
 msgid "Multiplier"
-msgstr ""
+msgstr "倍率"
+
+msgid "NVIDIA Graphics"
+msgstr "NVIDIA グラフィックス"
+
+msgid "NVIDIA drivers"
+msgstr "NVIDIA ドライバー"
 
 msgid "Name"
-msgstr ""
+msgstr "名前"
+
+msgid "No device detected"
+msgstr "デバイスが検出されません"
+
+msgid "Not installable"
+msgstr "インストールできません"
 
 msgid "Package"
-msgstr ""
+msgstr "パッケージ"
 
 msgid "Processor"
-msgstr ""
+msgstr "プロセッサー"
 
 msgid "Processor #1"
-msgstr ""
+msgstr "プロセッサー #1"
 
 msgid "RAM Total"
-msgstr ""
+msgstr "RAM 合計"
 
 msgid "Rated FSB"
-msgstr ""
+msgstr "定格 FSB"
+
+msgid ""
+"Secure Boot is enabled, the driver will only work once Secure Boot is turned "
+"off."
+msgstr "セキュアブートが有効です。ドライバーはセキュアブートを無効にした後にのみ動作します。"
 
 msgid "SecureBoot"
-msgstr ""
+msgstr "セキュアブート"
 
 msgid "Selection"
-msgstr ""
+msgstr "選択"
 
 msgid "Specification"
-msgstr ""
+msgstr "仕様"
+
+msgid "Status"
+msgstr "状態"
 
 msgid "Stepping"
-msgstr ""
+msgstr "ステッピング"
 
 msgid "Storage Total"
-msgstr ""
+msgstr "ストレージ合計"
 
 msgid "System"
-msgstr ""
+msgstr "システム"
+
+msgid "The driver status could not be determined."
+msgstr "ドライバーの状態を判断できませんでした。"
 
 msgid "Threads"
-msgstr ""
+msgstr "スレッド数"
 
 msgid "Topology"
-msgstr ""
+msgstr "トポロジー"
 
 msgid "Type"
-msgstr ""
+msgstr "種類"
+
+msgid "Unknown"
+msgstr "不明"
+
+msgid "Uninstall"
+msgstr "アンインストール"

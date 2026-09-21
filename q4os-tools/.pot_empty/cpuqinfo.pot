@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS CPU-Q\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-26 10:59+0200\n"
+"POT-Creation-Date: 2026-09-20 08:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,13 +17,22 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "(C) 2019 Q4OS"
+msgid "-"
+msgstr ""
+
+msgid "Almost done ..."
 msgstr ""
 
 msgid "BIOS"
 msgstr ""
 
 msgid "Bogomips"
+msgstr ""
+
+msgid "Broadcom WiFi"
+msgstr ""
+
+msgid "Broadcom WiFi drivers"
 msgstr ""
 
 msgid "Bus"
@@ -59,7 +68,16 @@ msgstr ""
 msgid "Details"
 msgstr ""
 
+msgid "Device"
+msgstr ""
+
 msgid "Distro"
+msgstr ""
+
+msgid "Driver"
+msgstr ""
+
+msgid "Drivers"
 msgstr ""
 
 msgid "FW Date"
@@ -72,6 +90,9 @@ msgid "Form (ui_form0)"
 msgstr ""
 
 msgid "Form (ui_form1)"
+msgstr ""
+
+msgid "Gathering data ..."
 msgstr ""
 
 msgid "Graphics"
@@ -87,6 +108,21 @@ msgid "Hardware info - Details"
 msgstr ""
 
 msgid "Host"
+msgstr ""
+
+msgid "Install"
+msgstr ""
+
+msgid "Installable"
+msgstr ""
+
+msgid "Installed"
+msgstr ""
+
+msgid "Installed, not active"
+msgstr ""
+
+msgid "Installed, restart required"
 msgstr ""
 
 msgid "Instructions"
@@ -125,7 +161,19 @@ msgstr ""
 msgid "Multiplier"
 msgstr ""
 
+msgid "NVIDIA Graphics"
+msgstr ""
+
+msgid "NVIDIA drivers"
+msgstr ""
+
 msgid "Name"
+msgstr ""
+
+msgid "No device detected"
+msgstr ""
+
+msgid "Not installable"
 msgstr ""
 
 msgid "Package"
@@ -143,6 +191,9 @@ msgstr ""
 msgid "Rated FSB"
 msgstr ""
 
+msgid "Secure Boot is enabled, the driver will only work once Secure Boot is turned off."
+msgstr ""
+
 msgid "SecureBoot"
 msgstr ""
 
@@ -150,6 +201,9 @@ msgid "Selection"
 msgstr ""
 
 msgid "Specification"
+msgstr ""
+
+msgid "Status"
 msgstr ""
 
 msgid "Stepping"
@@ -161,6 +215,9 @@ msgstr ""
 msgid "System"
 msgstr ""
 
+msgid "The driver status could not be determined."
+msgstr ""
+
 msgid "Threads"
 msgstr ""
 
@@ -168,4 +225,10 @@ msgid "Topology"
 msgstr ""
 
 msgid "Type"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Uninstall"
 msgstr ""

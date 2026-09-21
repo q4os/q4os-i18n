@@ -8,164 +8,229 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS CPU-Q\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-26 10:59+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2026-09-20 08:16+0000\n"
+"PO-Revision-Date: 2026-09-20 11:54\n"
+"Last-Translator: Q4OS Team <devteam@q4os.org>\n"
+"Language-Team: Q4OS uk <devteam@q4os.org>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "(C) 2019 Q4OS"
-msgstr ""
+msgid "-"
+msgstr "-"
+
+msgid "Almost done ..."
+msgstr "Майже готово ..."
 
 msgid "BIOS"
-msgstr ""
+msgstr "BIOS"
 
 msgid "Bogomips"
-msgstr ""
+msgstr "Bogomips"
+
+msgid "Broadcom WiFi"
+msgstr "Broadcom WiFi"
+
+msgid "Broadcom WiFi drivers"
+msgstr "Драйвери Broadcom WiFi"
 
 msgid "Bus"
-msgstr ""
+msgstr "Шина"
 
 msgid "Bus Speed"
-msgstr ""
+msgstr "Швидкість шини"
 
 msgid "CPU"
-msgstr ""
+msgstr "ЦП"
 
 msgid "Cache"
-msgstr ""
+msgstr "Кеш"
 
 msgid "Clocks"
-msgstr ""
+msgstr "Частоти"
 
 msgid "Close"
-msgstr ""
+msgstr "Закрити"
 
 msgid "Code Name"
-msgstr ""
+msgstr "Кодова назва"
 
 msgid "Core Speed"
-msgstr ""
+msgstr "Частота ядра"
 
 msgid "Cores"
-msgstr ""
+msgstr "Ядра"
 
 msgid "Desktop"
-msgstr ""
+msgstr "Стільниця"
 
 msgid "Details"
-msgstr ""
+msgstr "Подробиці"
+
+msgid "Device"
+msgstr "Пристрій"
 
 msgid "Distro"
-msgstr ""
+msgstr "Дистрибутив"
+
+msgid "Driver"
+msgstr "Драйвер"
+
+msgid "Drivers"
+msgstr "Драйвери"
 
 msgid "FW Date"
-msgstr ""
+msgstr "Дата прошивки"
 
 msgid "Family"
-msgstr ""
+msgstr "Сімейство"
 
 msgid "Form (ui_form0)"
-msgstr ""
+msgstr "Form (ui_form0)"
 
 msgid "Form (ui_form1)"
-msgstr ""
+msgstr "Form (ui_form1)"
+
+msgid "Gathering data ..."
+msgstr "Збір даних ..."
 
 msgid "Graphics"
-msgstr ""
+msgstr "Графіка"
 
 msgid "HW Summary"
-msgstr ""
+msgstr "Огляд обладнання"
 
 msgid "Hardware Info"
-msgstr ""
+msgstr "Відомості про обладнання"
 
 msgid "Hardware info - Details"
-msgstr ""
+msgstr "Відомості про обладнання - подробиці"
 
 msgid "Host"
-msgstr ""
+msgstr "Вузол"
+
+msgid "Install"
+msgstr "Встановити"
+
+msgid "Installable"
+msgstr "Можна встановити"
+
+msgid "Installed"
+msgstr "Встановлено"
+
+msgid "Installed, not active"
+msgstr "Встановлено, не активний"
+
+msgid "Installed, restart required"
+msgstr "Встановлено, потрібне перезавантаження"
 
 msgid "Instructions"
-msgstr ""
+msgstr "Інструкції"
 
 msgid "Kernel"
-msgstr ""
+msgstr "Ядро"
 
 msgid "L1 Data"
-msgstr ""
+msgstr "L1 дані"
 
 msgid "L1 Inst."
-msgstr ""
+msgstr "L1 інстр."
 
 msgid "L2 Cache"
-msgstr ""
+msgstr "Кеш L2"
 
 msgid "Level 2"
-msgstr ""
+msgstr "Рівень 2"
 
 msgid "Level 3"
-msgstr ""
+msgstr "Рівень 3"
 
 msgid "Mainboard"
-msgstr ""
+msgstr "Материнська плата"
 
 msgid "Max Speed"
-msgstr ""
+msgstr "Макс. частота"
 
 msgid "Microcode"
-msgstr ""
+msgstr "Мікрокод"
 
 msgid "Model"
-msgstr ""
+msgstr "Модель"
 
 msgid "Multiplier"
-msgstr ""
+msgstr "Множник"
+
+msgid "NVIDIA Graphics"
+msgstr "Графіка NVIDIA"
+
+msgid "NVIDIA drivers"
+msgstr "Драйвери NVIDIA"
 
 msgid "Name"
-msgstr ""
+msgstr "Назва"
+
+msgid "No device detected"
+msgstr "Пристрій не виявлено"
+
+msgid "Not installable"
+msgstr "Не можна встановити"
 
 msgid "Package"
-msgstr ""
+msgstr "Корпус"
 
 msgid "Processor"
-msgstr ""
+msgstr "Процесор"
 
 msgid "Processor #1"
-msgstr ""
+msgstr "Процесор №1"
 
 msgid "RAM Total"
-msgstr ""
+msgstr "Усього RAM"
 
 msgid "Rated FSB"
-msgstr ""
+msgstr "Номінальна FSB"
+
+msgid ""
+"Secure Boot is enabled, the driver will only work once Secure Boot is turned "
+"off."
+msgstr "Безпечне завантаження увімкнено, драйвер працюватиме лише після його вимкнення."
 
 msgid "SecureBoot"
-msgstr ""
+msgstr "Безпечне завантаження"
 
 msgid "Selection"
-msgstr ""
+msgstr "Вибір"
 
 msgid "Specification"
-msgstr ""
+msgstr "Специфікація"
+
+msgid "Status"
+msgstr "Стан"
 
 msgid "Stepping"
-msgstr ""
+msgstr "Степінг"
 
 msgid "Storage Total"
-msgstr ""
+msgstr "Усього сховища"
 
 msgid "System"
-msgstr ""
+msgstr "Система"
+
+msgid "The driver status could not be determined."
+msgstr "Не вдалося визначити стан драйвера."
 
 msgid "Threads"
-msgstr ""
+msgstr "Потоки"
 
 msgid "Topology"
-msgstr ""
+msgstr "Топологія"
 
 msgid "Type"
-msgstr ""
+msgstr "Тип"
+
+msgid "Unknown"
+msgstr "Невідомо"
+
+msgid "Uninstall"
+msgstr "Видалити"

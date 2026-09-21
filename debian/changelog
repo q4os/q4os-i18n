@@ -1,3 +1,13 @@
+q4os-i18n (3.17.3-a1) UNRELEASED; urgency=medium
+
+  [ Q4OS Team ]
+  * Stop shipping cpuqinfo.mo: q4os-cpuq-common compiles and installs that
+    domain itself now, from its own common/po corpus, at the same
+    /usr/share/locale path - the same move update-manager and um_config made.
+    The .po sources stay here so volunteers keep translating them with the rest.
+
+ -- Q4OS Team <devteam@q4os.org>  Sat, 20 Sep 2026 12:00:00 +0200
+
 q4os-i18n (3.17.2-a1) UNRELEASED; urgency=medium
 
   [ Q4OS Team ]

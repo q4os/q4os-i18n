@@ -8,24 +8,33 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS CPU-Q\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-26 10:59+0200\n"
+"POT-Creation-Date: 2026-09-20 08:16+0000\n"
 "PO-Revision-Date: 2026-01-10 17:49+0400\n"
 "Last-Translator: \n"
-"Language-Team: \n"
+"Language-Team: Q4OS ru <devteam@q4os.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.4.2\n"
 
-msgid "(C) 2019 Q4OS"
-msgstr "(C) 2019 Q4OS"
+msgid "-"
+msgstr "-"
+
+msgid "Almost done ..."
+msgstr "Почти готово ..."
 
 msgid "BIOS"
 msgstr "BIOS"
 
 msgid "Bogomips"
 msgstr "Богомипы"
+
+msgid "Broadcom WiFi"
+msgstr "Broadcom WiFi"
+
+msgid "Broadcom WiFi drivers"
+msgstr "Драйверы Broadcom WiFi"
 
 msgid "Bus"
 msgstr "Шина"
@@ -60,8 +69,17 @@ msgstr "Рабочий стол"
 msgid "Details"
 msgstr "Подробности"
 
+msgid "Device"
+msgstr "Устройство"
+
 msgid "Distro"
 msgstr "Дистрибутив"
+
+msgid "Driver"
+msgstr "Драйвер"
+
+msgid "Drivers"
+msgstr "Драйверы"
 
 msgid "FW Date"
 msgstr "Дата прошивки"
@@ -74,6 +92,9 @@ msgstr "Форма (ui_form0)"
 
 msgid "Form (ui_form1)"
 msgstr "Форма (ui_form1)"
+
+msgid "Gathering data ..."
+msgstr "Сбор данных ..."
 
 msgid "Graphics"
 msgstr "Графика"
@@ -89,6 +110,21 @@ msgstr "Сведения об оборудовании — Подробност�
 
 msgid "Host"
 msgstr "Хост"
+
+msgid "Install"
+msgstr "Установить"
+
+msgid "Installable"
+msgstr "Можно установить"
+
+msgid "Installed"
+msgstr "Установлен"
+
+msgid "Installed, not active"
+msgstr "Установлен, не активен"
+
+msgid "Installed, restart required"
+msgstr "Установлен, требуется перезагрузка"
 
 msgid "Instructions"
 msgstr "Инструкции"
@@ -126,8 +162,20 @@ msgstr "Модель"
 msgid "Multiplier"
 msgstr "Множитель"
 
+msgid "NVIDIA Graphics"
+msgstr "Графика NVIDIA"
+
+msgid "NVIDIA drivers"
+msgstr "Драйверы NVIDIA"
+
 msgid "Name"
 msgstr "Имя"
+
+msgid "No device detected"
+msgstr "Устройство не обнаружено"
+
+msgid "Not installable"
+msgstr "Установка невозможна"
 
 msgid "Package"
 msgstr "Пакет"
@@ -144,6 +192,11 @@ msgstr "Всего ОЗУ"
 msgid "Rated FSB"
 msgstr "Номинальная FSB"
 
+msgid ""
+"Secure Boot is enabled, the driver will only work once Secure Boot is turned "
+"off."
+msgstr "Безопасная загрузка включена, драйвер заработает только после её отключения."
+
 msgid "SecureBoot"
 msgstr "SecureBoot"
 
@@ -152,6 +205,9 @@ msgstr "Выборка"
 
 msgid "Specification"
 msgstr "Спецификация"
+
+msgid "Status"
+msgstr "Состояние"
 
 msgid "Stepping"
 msgstr "Степпинг"
@@ -162,6 +218,9 @@ msgstr "Всего места"
 msgid "System"
 msgstr "Система"
 
+msgid "The driver status could not be determined."
+msgstr "Не удалось определить состояние драйвера."
+
 msgid "Threads"
 msgstr "Потоки"
 
@@ -171,5 +230,14 @@ msgstr "Топология"
 msgid "Type"
 msgstr "Тип"
 
+msgid "Unknown"
+msgstr "Неизвестно"
+
+#~ msgid "(C) 2019 Q4OS"
+#~ msgstr "(C) 2019 Q4OS"
+
 #~ msgid "Bits"
 #~ msgstr "Бит"
+
+msgid "Uninstall"
+msgstr "Удалить"

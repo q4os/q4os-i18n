@@ -8,164 +8,229 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS CPU-Q\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-26 10:59+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2026-09-20 08:16+0000\n"
+"PO-Revision-Date: 2026-09-20 11:54\n"
+"Last-Translator: Q4OS Team <devteam@q4os.org>\n"
+"Language-Team: Q4OS tr <devteam@q4os.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "(C) 2019 Q4OS"
-msgstr ""
+msgid "-"
+msgstr "-"
+
+msgid "Almost done ..."
+msgstr "Neredeyse tamam ..."
 
 msgid "BIOS"
-msgstr ""
+msgstr "BIOS"
 
 msgid "Bogomips"
-msgstr ""
+msgstr "Bogomips"
+
+msgid "Broadcom WiFi"
+msgstr "Broadcom WiFi"
+
+msgid "Broadcom WiFi drivers"
+msgstr "Broadcom WiFi sürücüleri"
 
 msgid "Bus"
-msgstr ""
+msgstr "Veri yolu"
 
 msgid "Bus Speed"
-msgstr ""
+msgstr "Veri yolu hızı"
 
 msgid "CPU"
-msgstr ""
+msgstr "İşlemci"
 
 msgid "Cache"
-msgstr ""
+msgstr "Önbellek"
 
 msgid "Clocks"
-msgstr ""
+msgstr "Saat hızları"
 
 msgid "Close"
-msgstr ""
+msgstr "Kapat"
 
 msgid "Code Name"
-msgstr ""
+msgstr "Kod adı"
 
 msgid "Core Speed"
-msgstr ""
+msgstr "Çekirdek hızı"
 
 msgid "Cores"
-msgstr ""
+msgstr "Çekirdekler"
 
 msgid "Desktop"
-msgstr ""
+msgstr "Masaüstü"
 
 msgid "Details"
-msgstr ""
+msgstr "Ayrıntılar"
+
+msgid "Device"
+msgstr "Aygıt"
 
 msgid "Distro"
-msgstr ""
+msgstr "Dağıtım"
+
+msgid "Driver"
+msgstr "Sürücü"
+
+msgid "Drivers"
+msgstr "Sürücüler"
 
 msgid "FW Date"
-msgstr ""
+msgstr "FW tarihi"
 
 msgid "Family"
-msgstr ""
+msgstr "Aile"
 
 msgid "Form (ui_form0)"
-msgstr ""
+msgstr "Form (ui_form0)"
 
 msgid "Form (ui_form1)"
-msgstr ""
+msgstr "Form (ui_form1)"
+
+msgid "Gathering data ..."
+msgstr "Veriler toplanıyor ..."
 
 msgid "Graphics"
-msgstr ""
+msgstr "Ekran kartı"
 
 msgid "HW Summary"
-msgstr ""
+msgstr "Donanım özeti"
 
 msgid "Hardware Info"
-msgstr ""
+msgstr "Donanım bilgisi"
 
 msgid "Hardware info - Details"
-msgstr ""
+msgstr "Donanım bilgisi - ayrıntılar"
 
 msgid "Host"
-msgstr ""
+msgstr "Makine adı"
+
+msgid "Install"
+msgstr "Kur"
+
+msgid "Installable"
+msgstr "Kurulabilir"
+
+msgid "Installed"
+msgstr "Kurulu"
+
+msgid "Installed, not active"
+msgstr "Kurulu, etkin değil"
+
+msgid "Installed, restart required"
+msgstr "Kurulu, yeniden başlatma gerekli"
 
 msgid "Instructions"
-msgstr ""
+msgstr "Komutlar"
 
 msgid "Kernel"
-msgstr ""
+msgstr "Çekirdek"
 
 msgid "L1 Data"
-msgstr ""
+msgstr "L1 Veri"
 
 msgid "L1 Inst."
-msgstr ""
+msgstr "L1 Komut"
 
 msgid "L2 Cache"
-msgstr ""
+msgstr "L2 önbellek"
 
 msgid "Level 2"
-msgstr ""
+msgstr "Seviye 2"
 
 msgid "Level 3"
-msgstr ""
+msgstr "Seviye 3"
 
 msgid "Mainboard"
-msgstr ""
+msgstr "Anakart"
 
 msgid "Max Speed"
-msgstr ""
+msgstr "Azami hız"
 
 msgid "Microcode"
-msgstr ""
+msgstr "Mikrokod"
 
 msgid "Model"
-msgstr ""
+msgstr "Model"
 
 msgid "Multiplier"
-msgstr ""
+msgstr "Çarpan"
+
+msgid "NVIDIA Graphics"
+msgstr "NVIDIA ekran kartı"
+
+msgid "NVIDIA drivers"
+msgstr "NVIDIA sürücüleri"
 
 msgid "Name"
-msgstr ""
+msgstr "Ad"
+
+msgid "No device detected"
+msgstr "Aygıt bulunamadı"
+
+msgid "Not installable"
+msgstr "Kurulamaz"
 
 msgid "Package"
-msgstr ""
+msgstr "Paket"
 
 msgid "Processor"
-msgstr ""
+msgstr "İşlemci"
 
 msgid "Processor #1"
-msgstr ""
+msgstr "İşlemci #1"
 
 msgid "RAM Total"
-msgstr ""
+msgstr "Toplam RAM"
 
 msgid "Rated FSB"
-msgstr ""
+msgstr "Nominal FSB"
+
+msgid ""
+"Secure Boot is enabled, the driver will only work once Secure Boot is turned "
+"off."
+msgstr "Güvenli Önyükleme etkin, sürücü ancak Güvenli Önyükleme kapatıldığında çalışır."
 
 msgid "SecureBoot"
-msgstr ""
+msgstr "Güvenli Önyükleme"
 
 msgid "Selection"
-msgstr ""
+msgstr "Seçim"
 
 msgid "Specification"
-msgstr ""
+msgstr "Teknik özellik"
+
+msgid "Status"
+msgstr "Durum"
 
 msgid "Stepping"
-msgstr ""
+msgstr "Stepping"
 
 msgid "Storage Total"
-msgstr ""
+msgstr "Toplam depolama"
 
 msgid "System"
-msgstr ""
+msgstr "Sistem"
+
+msgid "The driver status could not be determined."
+msgstr "Sürücü durumu belirlenemedi."
 
 msgid "Threads"
-msgstr ""
+msgstr "İş parçacıkları"
 
 msgid "Topology"
-msgstr ""
+msgstr "Topoloji"
 
 msgid "Type"
-msgstr ""
+msgstr "Tür"
+
+msgid "Unknown"
+msgstr "Bilinmiyor"
+
+msgid "Uninstall"
+msgstr "Kaldır"

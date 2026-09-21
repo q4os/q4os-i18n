@@ -8,164 +8,229 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS CPU-Q\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-26 10:59+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2026-09-20 08:16+0000\n"
+"PO-Revision-Date: 2026-09-20 11:54\n"
+"Last-Translator: Q4OS Team <devteam@q4os.org>\n"
+"Language-Team: Q4OS he <devteam@q4os.org>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "(C) 2019 Q4OS"
-msgstr ""
+msgid "-"
+msgstr "-"
+
+msgid "Almost done ..."
+msgstr "כמעט סיימנו ..."
 
 msgid "BIOS"
-msgstr ""
+msgstr "BIOS"
 
 msgid "Bogomips"
-msgstr ""
+msgstr "Bogomips"
+
+msgid "Broadcom WiFi"
+msgstr "Broadcom WiFi"
+
+msgid "Broadcom WiFi drivers"
+msgstr "מנהלי התקן WiFi של Broadcom"
 
 msgid "Bus"
-msgstr ""
+msgstr "אפיק"
 
 msgid "Bus Speed"
-msgstr ""
+msgstr "מהירות אפיק"
 
 msgid "CPU"
-msgstr ""
+msgstr "מעבד"
 
 msgid "Cache"
-msgstr ""
+msgstr "מטמון"
 
 msgid "Clocks"
-msgstr ""
+msgstr "שעונים"
 
 msgid "Close"
-msgstr ""
+msgstr "סגור"
 
 msgid "Code Name"
-msgstr ""
+msgstr "שם קוד"
 
 msgid "Core Speed"
-msgstr ""
+msgstr "מהירות ליבה"
 
 msgid "Cores"
-msgstr ""
+msgstr "ליבות"
 
 msgid "Desktop"
-msgstr ""
+msgstr "שולחן עבודה"
 
 msgid "Details"
-msgstr ""
+msgstr "פרטים"
+
+msgid "Device"
+msgstr "התקן"
 
 msgid "Distro"
-msgstr ""
+msgstr "הפצה"
+
+msgid "Driver"
+msgstr "מנהל התקן"
+
+msgid "Drivers"
+msgstr "מנהלי התקן"
 
 msgid "FW Date"
-msgstr ""
+msgstr "תאריך קושחה"
 
 msgid "Family"
-msgstr ""
+msgstr "משפחה"
 
 msgid "Form (ui_form0)"
-msgstr ""
+msgstr "Form (ui_form0)"
 
 msgid "Form (ui_form1)"
-msgstr ""
+msgstr "Form (ui_form1)"
+
+msgid "Gathering data ..."
+msgstr "אוסף נתונים ..."
 
 msgid "Graphics"
-msgstr ""
+msgstr "כרטיס מסך"
 
 msgid "HW Summary"
-msgstr ""
+msgstr "סיכום חומרה"
 
 msgid "Hardware Info"
-msgstr ""
+msgstr "מידע על החומרה"
 
 msgid "Hardware info - Details"
-msgstr ""
+msgstr "מידע על החומרה - פרטים"
 
 msgid "Host"
-msgstr ""
+msgstr "מארח"
+
+msgid "Install"
+msgstr "התקן"
+
+msgid "Installable"
+msgstr "ניתן להתקנה"
+
+msgid "Installed"
+msgstr "מותקן"
+
+msgid "Installed, not active"
+msgstr "מותקן, לא פעיל"
+
+msgid "Installed, restart required"
+msgstr "מותקן, נדרשת הפעלה מחדש"
 
 msgid "Instructions"
-msgstr ""
+msgstr "הוראות"
 
 msgid "Kernel"
-msgstr ""
+msgstr "ליבה"
 
 msgid "L1 Data"
-msgstr ""
+msgstr "L1 נתונים"
 
 msgid "L1 Inst."
-msgstr ""
+msgstr "L1 הוראות"
 
 msgid "L2 Cache"
-msgstr ""
+msgstr "מטמון L2"
 
 msgid "Level 2"
-msgstr ""
+msgstr "רמה 2"
 
 msgid "Level 3"
-msgstr ""
+msgstr "רמה 3"
 
 msgid "Mainboard"
-msgstr ""
+msgstr "לוח אם"
 
 msgid "Max Speed"
-msgstr ""
+msgstr "מהירות מרבית"
 
 msgid "Microcode"
-msgstr ""
+msgstr "מיקרוקוד"
 
 msgid "Model"
-msgstr ""
+msgstr "דגם"
 
 msgid "Multiplier"
-msgstr ""
+msgstr "מכפיל"
+
+msgid "NVIDIA Graphics"
+msgstr "כרטיס מסך NVIDIA"
+
+msgid "NVIDIA drivers"
+msgstr "מנהלי התקן NVIDIA"
 
 msgid "Name"
-msgstr ""
+msgstr "שם"
+
+msgid "No device detected"
+msgstr "לא זוהה התקן"
+
+msgid "Not installable"
+msgstr "לא ניתן להתקנה"
 
 msgid "Package"
-msgstr ""
+msgstr "מארז"
 
 msgid "Processor"
-msgstr ""
+msgstr "מעבד"
 
 msgid "Processor #1"
-msgstr ""
+msgstr "מעבד #1"
 
 msgid "RAM Total"
-msgstr ""
+msgstr "סך כל ה-RAM"
 
 msgid "Rated FSB"
-msgstr ""
+msgstr "FSB נקוב"
+
+msgid ""
+"Secure Boot is enabled, the driver will only work once Secure Boot is turned "
+"off."
+msgstr "אתחול מאובטח מופעל, מנהל ההתקן יעבוד רק לאחר כיבויו."
 
 msgid "SecureBoot"
-msgstr ""
+msgstr "אתחול מאובטח"
 
 msgid "Selection"
-msgstr ""
+msgstr "בחירה"
 
 msgid "Specification"
-msgstr ""
+msgstr "מפרט"
+
+msgid "Status"
+msgstr "מצב"
 
 msgid "Stepping"
-msgstr ""
+msgstr "Stepping"
 
 msgid "Storage Total"
-msgstr ""
+msgstr "סך כל האחסון"
 
 msgid "System"
-msgstr ""
+msgstr "מערכת"
+
+msgid "The driver status could not be determined."
+msgstr "לא ניתן לקבוע את מצב מנהל ההתקן."
 
 msgid "Threads"
-msgstr ""
+msgstr "תהליכונים"
 
 msgid "Topology"
-msgstr ""
+msgstr "טופולוגיה"
 
 msgid "Type"
-msgstr ""
+msgstr "סוג"
+
+msgid "Unknown"
+msgstr "לא ידוע"
+
+msgid "Uninstall"
+msgstr "הסרה"

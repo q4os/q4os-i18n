@@ -8,164 +8,229 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS CPU-Q\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-26 10:59+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2026-09-20 08:16+0000\n"
+"PO-Revision-Date: 2026-09-20 11:54\n"
+"Last-Translator: Q4OS Team <devteam@q4os.org>\n"
+"Language-Team: Q4OS cs <devteam@q4os.org>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "(C) 2019 Q4OS"
-msgstr ""
+msgid "-"
+msgstr "-"
+
+msgid "Almost done ..."
+msgstr "Téměř hotovo ..."
 
 msgid "BIOS"
-msgstr ""
+msgstr "BIOS"
 
 msgid "Bogomips"
-msgstr ""
+msgstr "Bogomips"
+
+msgid "Broadcom WiFi"
+msgstr "Broadcom WiFi"
+
+msgid "Broadcom WiFi drivers"
+msgstr "Ovladače Broadcom WiFi"
 
 msgid "Bus"
-msgstr ""
+msgstr "Sběrnice"
 
 msgid "Bus Speed"
-msgstr ""
+msgstr "Rychlost sběrnice"
 
 msgid "CPU"
-msgstr ""
+msgstr "CPU"
 
 msgid "Cache"
-msgstr ""
+msgstr "Vyrovnávací paměť"
 
 msgid "Clocks"
-msgstr ""
+msgstr "Takty"
 
 msgid "Close"
-msgstr ""
+msgstr "Zavřít"
 
 msgid "Code Name"
-msgstr ""
+msgstr "Kódové označení"
 
 msgid "Core Speed"
-msgstr ""
+msgstr "Rychlost jádra"
 
 msgid "Cores"
-msgstr ""
+msgstr "Jádra"
 
 msgid "Desktop"
-msgstr ""
+msgstr "Prostředí"
 
 msgid "Details"
-msgstr ""
+msgstr "Podrobnosti"
+
+msgid "Device"
+msgstr "Zařízení"
 
 msgid "Distro"
-msgstr ""
+msgstr "Distribuce"
+
+msgid "Driver"
+msgstr "Ovladač"
+
+msgid "Drivers"
+msgstr "Ovladače"
 
 msgid "FW Date"
-msgstr ""
+msgstr "Datum firmwaru"
 
 msgid "Family"
-msgstr ""
+msgstr "Rodina"
 
 msgid "Form (ui_form0)"
-msgstr ""
+msgstr "Form (ui_form0)"
 
 msgid "Form (ui_form1)"
-msgstr ""
+msgstr "Form (ui_form1)"
+
+msgid "Gathering data ..."
+msgstr "Načítání dat ..."
 
 msgid "Graphics"
-msgstr ""
+msgstr "Grafika"
 
 msgid "HW Summary"
-msgstr ""
+msgstr "Přehled hardwaru"
 
 msgid "Hardware Info"
-msgstr ""
+msgstr "Informace o hardwaru"
 
 msgid "Hardware info - Details"
-msgstr ""
+msgstr "Informace o hardwaru - podrobnosti"
 
 msgid "Host"
-msgstr ""
+msgstr "Počítač"
+
+msgid "Install"
+msgstr "Instalovat"
+
+msgid "Installable"
+msgstr "Lze nainstalovat"
+
+msgid "Installed"
+msgstr "Nainstalováno"
+
+msgid "Installed, not active"
+msgstr "Nainstalováno, není aktivní"
+
+msgid "Installed, restart required"
+msgstr "Nainstalováno, vyžaduje restart"
 
 msgid "Instructions"
-msgstr ""
+msgstr "Instrukce"
 
 msgid "Kernel"
-msgstr ""
+msgstr "Jádro"
 
 msgid "L1 Data"
-msgstr ""
+msgstr "L1 data"
 
 msgid "L1 Inst."
-msgstr ""
+msgstr "L1 instr."
 
 msgid "L2 Cache"
-msgstr ""
+msgstr "Vyrovnávací paměť L2"
 
 msgid "Level 2"
-msgstr ""
+msgstr "Úroveň 2"
 
 msgid "Level 3"
-msgstr ""
+msgstr "Úroveň 3"
 
 msgid "Mainboard"
-msgstr ""
+msgstr "Základní deska"
 
 msgid "Max Speed"
-msgstr ""
+msgstr "Max. rychlost"
 
 msgid "Microcode"
-msgstr ""
+msgstr "Mikrokód"
 
 msgid "Model"
-msgstr ""
+msgstr "Model"
 
 msgid "Multiplier"
-msgstr ""
+msgstr "Násobič"
+
+msgid "NVIDIA Graphics"
+msgstr "Grafika NVIDIA"
+
+msgid "NVIDIA drivers"
+msgstr "Ovladače NVIDIA"
 
 msgid "Name"
-msgstr ""
+msgstr "Název"
+
+msgid "No device detected"
+msgstr "Nebylo nalezeno žádné zařízení"
+
+msgid "Not installable"
+msgstr "Nelze nainstalovat"
 
 msgid "Package"
-msgstr ""
+msgstr "Pouzdro"
 
 msgid "Processor"
-msgstr ""
+msgstr "Procesor"
 
 msgid "Processor #1"
-msgstr ""
+msgstr "Procesor č. 1"
 
 msgid "RAM Total"
-msgstr ""
+msgstr "Celkem RAM"
 
 msgid "Rated FSB"
-msgstr ""
+msgstr "Jmenovitá FSB"
+
+msgid ""
+"Secure Boot is enabled, the driver will only work once Secure Boot is turned "
+"off."
+msgstr "Secure Boot je zapnutý, ovladač bude fungovat až po jeho vypnutí."
 
 msgid "SecureBoot"
-msgstr ""
+msgstr "Secure Boot"
 
 msgid "Selection"
-msgstr ""
+msgstr "Výběr"
 
 msgid "Specification"
-msgstr ""
+msgstr "Specifikace"
+
+msgid "Status"
+msgstr "Stav"
 
 msgid "Stepping"
-msgstr ""
+msgstr "Stepping"
 
 msgid "Storage Total"
-msgstr ""
+msgstr "Celkem úložiště"
 
 msgid "System"
-msgstr ""
+msgstr "Systém"
+
+msgid "The driver status could not be determined."
+msgstr "Stav ovladače se nepodařilo zjistit."
 
 msgid "Threads"
-msgstr ""
+msgstr "Vlákna"
 
 msgid "Topology"
-msgstr ""
+msgstr "Topologie"
 
 msgid "Type"
-msgstr ""
+msgstr "Typ"
+
+msgid "Unknown"
+msgstr "Neznámý"
+
+msgid "Uninstall"
+msgstr "Odinstalovat"

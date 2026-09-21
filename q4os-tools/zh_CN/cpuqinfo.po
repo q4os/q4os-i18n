@@ -8,164 +8,229 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS CPU-Q\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-26 10:59+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2026-09-20 08:16+0000\n"
+"PO-Revision-Date: 2026-09-20 11:54\n"
+"Last-Translator: Q4OS Team <devteam@q4os.org>\n"
+"Language-Team: Q4OS zh_CN <devteam@q4os.org>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "(C) 2019 Q4OS"
-msgstr ""
+msgid "-"
+msgstr "-"
+
+msgid "Almost done ..."
+msgstr "即将完成 ..."
 
 msgid "BIOS"
-msgstr ""
+msgstr "BIOS"
 
 msgid "Bogomips"
-msgstr ""
+msgstr "Bogomips"
+
+msgid "Broadcom WiFi"
+msgstr "Broadcom 无线网卡"
+
+msgid "Broadcom WiFi drivers"
+msgstr "Broadcom 无线网卡驱动"
 
 msgid "Bus"
-msgstr ""
+msgstr "总线"
 
 msgid "Bus Speed"
-msgstr ""
+msgstr "总线速度"
 
 msgid "CPU"
-msgstr ""
+msgstr "CPU"
 
 msgid "Cache"
-msgstr ""
+msgstr "缓存"
 
 msgid "Clocks"
-msgstr ""
+msgstr "时钟频率"
 
 msgid "Close"
-msgstr ""
+msgstr "关闭"
 
 msgid "Code Name"
-msgstr ""
+msgstr "代号"
 
 msgid "Core Speed"
-msgstr ""
+msgstr "核心频率"
 
 msgid "Cores"
-msgstr ""
+msgstr "核心数"
 
 msgid "Desktop"
-msgstr ""
+msgstr "桌面"
 
 msgid "Details"
-msgstr ""
+msgstr "详细信息"
+
+msgid "Device"
+msgstr "设备"
 
 msgid "Distro"
-msgstr ""
+msgstr "发行版"
+
+msgid "Driver"
+msgstr "驱动程序"
+
+msgid "Drivers"
+msgstr "驱动程序"
 
 msgid "FW Date"
-msgstr ""
+msgstr "固件日期"
 
 msgid "Family"
-msgstr ""
+msgstr "系列"
 
 msgid "Form (ui_form0)"
-msgstr ""
+msgstr "Form (ui_form0)"
 
 msgid "Form (ui_form1)"
-msgstr ""
+msgstr "Form (ui_form1)"
+
+msgid "Gathering data ..."
+msgstr "正在收集数据 ..."
 
 msgid "Graphics"
-msgstr ""
+msgstr "显卡"
 
 msgid "HW Summary"
-msgstr ""
+msgstr "硬件摘要"
 
 msgid "Hardware Info"
-msgstr ""
+msgstr "硬件信息"
 
 msgid "Hardware info - Details"
-msgstr ""
+msgstr "硬件信息 - 详细信息"
 
 msgid "Host"
-msgstr ""
+msgstr "主机"
+
+msgid "Install"
+msgstr "安装"
+
+msgid "Installable"
+msgstr "可安装"
+
+msgid "Installed"
+msgstr "已安装"
+
+msgid "Installed, not active"
+msgstr "已安装，未启用"
+
+msgid "Installed, restart required"
+msgstr "已安装，需要重启"
 
 msgid "Instructions"
-msgstr ""
+msgstr "指令集"
 
 msgid "Kernel"
-msgstr ""
+msgstr "内核"
 
 msgid "L1 Data"
-msgstr ""
+msgstr "L1 数据"
 
 msgid "L1 Inst."
-msgstr ""
+msgstr "L1 指令"
 
 msgid "L2 Cache"
-msgstr ""
+msgstr "L2 缓存"
 
 msgid "Level 2"
-msgstr ""
+msgstr "二级"
 
 msgid "Level 3"
-msgstr ""
+msgstr "三级"
 
 msgid "Mainboard"
-msgstr ""
+msgstr "主板"
 
 msgid "Max Speed"
-msgstr ""
+msgstr "最高频率"
 
 msgid "Microcode"
-msgstr ""
+msgstr "微码"
 
 msgid "Model"
-msgstr ""
+msgstr "型号"
 
 msgid "Multiplier"
-msgstr ""
+msgstr "倍频"
+
+msgid "NVIDIA Graphics"
+msgstr "NVIDIA 显卡"
+
+msgid "NVIDIA drivers"
+msgstr "NVIDIA 驱动"
 
 msgid "Name"
-msgstr ""
+msgstr "名称"
+
+msgid "No device detected"
+msgstr "未检测到设备"
+
+msgid "Not installable"
+msgstr "无法安装"
 
 msgid "Package"
-msgstr ""
+msgstr "封装"
 
 msgid "Processor"
-msgstr ""
+msgstr "处理器"
 
 msgid "Processor #1"
-msgstr ""
+msgstr "处理器 #1"
 
 msgid "RAM Total"
-msgstr ""
+msgstr "内存总量"
 
 msgid "Rated FSB"
-msgstr ""
+msgstr "额定前端总线"
+
+msgid ""
+"Secure Boot is enabled, the driver will only work once Secure Boot is turned "
+"off."
+msgstr "安全启动已启用，关闭安全启动后驱动程序才能工作。"
 
 msgid "SecureBoot"
-msgstr ""
+msgstr "安全启动"
 
 msgid "Selection"
-msgstr ""
+msgstr "选择"
 
 msgid "Specification"
-msgstr ""
+msgstr "规格"
+
+msgid "Status"
+msgstr "状态"
 
 msgid "Stepping"
-msgstr ""
+msgstr "步进"
 
 msgid "Storage Total"
-msgstr ""
+msgstr "存储总量"
 
 msgid "System"
-msgstr ""
+msgstr "系统"
+
+msgid "The driver status could not be determined."
+msgstr "无法确定驱动程序状态。"
 
 msgid "Threads"
-msgstr ""
+msgstr "线程数"
 
 msgid "Topology"
-msgstr ""
+msgstr "拓扑"
 
 msgid "Type"
-msgstr ""
+msgstr "类型"
+
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Uninstall"
+msgstr "卸载"

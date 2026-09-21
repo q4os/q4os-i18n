@@ -8,164 +8,229 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS CPU-Q\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-26 10:59+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2026-09-20 08:16+0000\n"
+"PO-Revision-Date: 2026-09-20 11:54\n"
+"Last-Translator: Q4OS Team <devteam@q4os.org>\n"
+"Language-Team: Q4OS fr <devteam@q4os.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "(C) 2019 Q4OS"
-msgstr ""
+msgid "-"
+msgstr "-"
+
+msgid "Almost done ..."
+msgstr "Presque terminé ..."
 
 msgid "BIOS"
-msgstr ""
+msgstr "BIOS"
 
 msgid "Bogomips"
-msgstr ""
+msgstr "Bogomips"
+
+msgid "Broadcom WiFi"
+msgstr "WiFi Broadcom"
+
+msgid "Broadcom WiFi drivers"
+msgstr "Pilotes WiFi Broadcom"
 
 msgid "Bus"
-msgstr ""
+msgstr "Bus"
 
 msgid "Bus Speed"
-msgstr ""
+msgstr "Vitesse du bus"
 
 msgid "CPU"
-msgstr ""
+msgstr "CPU"
 
 msgid "Cache"
-msgstr ""
+msgstr "Cache"
 
 msgid "Clocks"
-msgstr ""
+msgstr "Fréquences"
 
 msgid "Close"
-msgstr ""
+msgstr "Fermer"
 
 msgid "Code Name"
-msgstr ""
+msgstr "Nom de code"
 
 msgid "Core Speed"
-msgstr ""
+msgstr "Fréquence du cœur"
 
 msgid "Cores"
-msgstr ""
+msgstr "Cœurs"
 
 msgid "Desktop"
-msgstr ""
+msgstr "Bureau"
 
 msgid "Details"
-msgstr ""
+msgstr "Détails"
+
+msgid "Device"
+msgstr "Périphérique"
 
 msgid "Distro"
-msgstr ""
+msgstr "Distribution"
+
+msgid "Driver"
+msgstr "Pilote"
+
+msgid "Drivers"
+msgstr "Pilotes"
 
 msgid "FW Date"
-msgstr ""
+msgstr "Date du FW"
 
 msgid "Family"
-msgstr ""
+msgstr "Famille"
 
 msgid "Form (ui_form0)"
-msgstr ""
+msgstr "Form (ui_form0)"
 
 msgid "Form (ui_form1)"
-msgstr ""
+msgstr "Form (ui_form1)"
+
+msgid "Gathering data ..."
+msgstr "Collecte des données ..."
 
 msgid "Graphics"
-msgstr ""
+msgstr "Carte graphique"
 
 msgid "HW Summary"
-msgstr ""
+msgstr "Résumé matériel"
 
 msgid "Hardware Info"
-msgstr ""
+msgstr "Informations matérielles"
 
 msgid "Hardware info - Details"
-msgstr ""
+msgstr "Informations matérielles - détails"
 
 msgid "Host"
-msgstr ""
+msgstr "Hôte"
+
+msgid "Install"
+msgstr "Installer"
+
+msgid "Installable"
+msgstr "Installable"
+
+msgid "Installed"
+msgstr "Installé"
+
+msgid "Installed, not active"
+msgstr "Installé, inactif"
+
+msgid "Installed, restart required"
+msgstr "Installé, redémarrage requis"
 
 msgid "Instructions"
-msgstr ""
+msgstr "Instructions"
 
 msgid "Kernel"
-msgstr ""
+msgstr "Noyau"
 
 msgid "L1 Data"
-msgstr ""
+msgstr "L1 données"
 
 msgid "L1 Inst."
-msgstr ""
+msgstr "L1 instr."
 
 msgid "L2 Cache"
-msgstr ""
+msgstr "Cache L2"
 
 msgid "Level 2"
-msgstr ""
+msgstr "Niveau 2"
 
 msgid "Level 3"
-msgstr ""
+msgstr "Niveau 3"
 
 msgid "Mainboard"
-msgstr ""
+msgstr "Carte mère"
 
 msgid "Max Speed"
-msgstr ""
+msgstr "Fréquence max"
 
 msgid "Microcode"
-msgstr ""
+msgstr "Microcode"
 
 msgid "Model"
-msgstr ""
+msgstr "Modèle"
 
 msgid "Multiplier"
-msgstr ""
+msgstr "Multiplicateur"
+
+msgid "NVIDIA Graphics"
+msgstr "Carte graphique NVIDIA"
+
+msgid "NVIDIA drivers"
+msgstr "Pilotes NVIDIA"
 
 msgid "Name"
-msgstr ""
+msgstr "Nom"
+
+msgid "No device detected"
+msgstr "Aucun périphérique détecté"
+
+msgid "Not installable"
+msgstr "Non installable"
 
 msgid "Package"
-msgstr ""
+msgstr "Boîtier"
 
 msgid "Processor"
-msgstr ""
+msgstr "Processeur"
 
 msgid "Processor #1"
-msgstr ""
+msgstr "Processeur n°1"
 
 msgid "RAM Total"
-msgstr ""
+msgstr "RAM totale"
 
 msgid "Rated FSB"
-msgstr ""
+msgstr "FSB nominal"
+
+msgid ""
+"Secure Boot is enabled, the driver will only work once Secure Boot is turned "
+"off."
+msgstr "Le démarrage sécurisé est activé, le pilote ne fonctionnera qu'une fois celui-ci désactivé."
 
 msgid "SecureBoot"
-msgstr ""
+msgstr "Secure Boot"
 
 msgid "Selection"
-msgstr ""
+msgstr "Sélection"
 
 msgid "Specification"
-msgstr ""
+msgstr "Spécification"
+
+msgid "Status"
+msgstr "État"
 
 msgid "Stepping"
-msgstr ""
+msgstr "Stepping"
 
 msgid "Storage Total"
-msgstr ""
+msgstr "Stockage total"
 
 msgid "System"
-msgstr ""
+msgstr "Système"
+
+msgid "The driver status could not be determined."
+msgstr "Impossible de déterminer l'état du pilote."
 
 msgid "Threads"
-msgstr ""
+msgstr "Threads"
 
 msgid "Topology"
-msgstr ""
+msgstr "Topologie"
 
 msgid "Type"
-msgstr ""
+msgstr "Type"
+
+msgid "Unknown"
+msgstr "Inconnu"
+
+msgid "Uninstall"
+msgstr "Désinstaller"

@@ -8,18 +8,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS CPU-Q\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-26 10:59+0200\n"
+"POT-Creation-Date: 2026-09-20 08:16+0000\n"
 "PO-Revision-Date: 2021-04-20 21:21+0200\n"
 "Last-Translator: oloke <olokelo@gmail.com>\n"
-"Language-Team: \n"
+"Language-Team: Q4OS pl <devteam@q4os.org>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.4.1\n"
 
-msgid "(C) 2019 Q4OS"
-msgstr ""
+msgid "-"
+msgstr "-"
+
+msgid "Almost done ..."
+msgstr "Prawie gotowe ..."
 
 msgid "BIOS"
 msgstr "BIOS"
@@ -27,8 +30,14 @@ msgstr "BIOS"
 msgid "Bogomips"
 msgstr "Bogomips"
 
+msgid "Broadcom WiFi"
+msgstr "WiFi Broadcom"
+
+msgid "Broadcom WiFi drivers"
+msgstr "Sterowniki WiFi Broadcom"
+
 msgid "Bus"
-msgstr ""
+msgstr "Magistrala"
 
 msgid "Bus Speed"
 msgstr "Szybkość magistrali"
@@ -43,7 +52,7 @@ msgid "Clocks"
 msgstr "Zegary"
 
 msgid "Close"
-msgstr ""
+msgstr "Zamknij"
 
 msgid "Code Name"
 msgstr "Nazwa kodowa"
@@ -60,8 +69,17 @@ msgstr "Pulpit"
 msgid "Details"
 msgstr "Szczegóły"
 
+msgid "Device"
+msgstr "Urządzenie"
+
 msgid "Distro"
 msgstr "Dystrybucja"
+
+msgid "Driver"
+msgstr "Sterownik"
+
+msgid "Drivers"
+msgstr "Sterowniki"
 
 msgid "FW Date"
 msgstr "Data Firmware"
@@ -70,10 +88,13 @@ msgid "Family"
 msgstr "Rodzina"
 
 msgid "Form (ui_form0)"
-msgstr ""
+msgstr "Form (ui_form0)"
 
 msgid "Form (ui_form1)"
-msgstr ""
+msgstr "Form (ui_form1)"
+
+msgid "Gathering data ..."
+msgstr "Zbieranie danych ..."
 
 msgid "Graphics"
 msgstr "Grafika"
@@ -89,6 +110,21 @@ msgstr "Informacje o sprzęcie - Szczegóły"
 
 msgid "Host"
 msgstr "Host"
+
+msgid "Install"
+msgstr "Zainstaluj"
+
+msgid "Installable"
+msgstr "Można zainstalować"
+
+msgid "Installed"
+msgstr "Zainstalowany"
+
+msgid "Installed, not active"
+msgstr "Zainstalowany, nieaktywny"
+
+msgid "Installed, restart required"
+msgstr "Zainstalowany, wymagany restart"
 
 msgid "Instructions"
 msgstr "Instrukcje"
@@ -126,13 +162,25 @@ msgstr "Model"
 msgid "Multiplier"
 msgstr "Mnożnik"
 
+msgid "NVIDIA Graphics"
+msgstr "Grafika NVIDIA"
+
+msgid "NVIDIA drivers"
+msgstr "Sterowniki NVIDIA"
+
 msgid "Name"
 msgstr "Nazwa"
 
+msgid "No device detected"
+msgstr "Nie wykryto urządzenia"
+
+msgid "Not installable"
+msgstr "Nie można zainstalować"
+
 # oloke: I've no clue how to translate "CPU Package"
-#, fuzzy
+# (the physical housing of the chip, like "Pouzdro"/"Корпус" in the sibling catalogs)
 msgid "Package"
-msgstr "Package"
+msgstr "Obudowa"
 
 msgid "Processor"
 msgstr "Procesor"
@@ -146,14 +194,22 @@ msgstr "RAM Łącznie"
 msgid "Rated FSB"
 msgstr "Znamionowe FSB"
 
+msgid ""
+"Secure Boot is enabled, the driver will only work once Secure Boot is turned "
+"off."
+msgstr "Secure Boot jest włączony, sterownik zadziała dopiero po jego wyłączeniu."
+
 msgid "SecureBoot"
 msgstr "SecureBoot"
 
 msgid "Selection"
-msgstr ""
+msgstr "Wybór"
 
 msgid "Specification"
 msgstr "Specyfikacja"
+
+msgid "Status"
+msgstr "Stan"
 
 msgid "Stepping"
 msgstr "Stepping"
@@ -164,6 +220,9 @@ msgstr "Łączna przestrzeń dyskowa"
 msgid "System"
 msgstr "System"
 
+msgid "The driver status could not be determined."
+msgstr "Nie udało się ustalić stanu sterownika."
+
 msgid "Threads"
 msgstr "Wątki"
 
@@ -173,5 +232,11 @@ msgstr "Topologia"
 msgid "Type"
 msgstr "Typ"
 
+msgid "Unknown"
+msgstr "Nieznany"
+
 #~ msgid "Bits"
 #~ msgstr "Bity"
+
+msgid "Uninstall"
+msgstr "Odinstaluj"

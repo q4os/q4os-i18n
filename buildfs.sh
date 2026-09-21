@@ -35,6 +35,12 @@ find . -name q4os-shortcuts.mo -execdir rm '{}' \;
 #is dropped before packaging.
 find . -name update-manager.mo -execdir rm '{}' \;
 find . -name um_config.mo -execdir rm '{}' \;
+#remove cpuqinfo files - q4os-cpuq-common now compiles and ships this itself
+#(same install path, /usr/share/locale), so this package must never produce it
+#too. The .po sources stay in q4os-tools/ so volunteers can keep translating
+#them here with the rest - only the generated .mo output is dropped before
+#packaging, exactly as for update-manager/um_config above.
+find . -name cpuqinfo.mo -execdir rm '{}' \;
 #remove q4os-screenscaler files - q4os-screenscaler now compiles and ships
 #this itself (same install path), so this package must never produce it
 #too. The .po source stays in q4os-tools/ so volunteers can keep
@@ -92,7 +98,6 @@ for CFDIR in * ; do
     echo "Copying > $CFDIR"
     mkdir -p $BUILDDIR2/usr/share/locale/$CFDIR/LC_MESSAGES/
     mkdir -p $BUILDDIR2/opt/trinity/share/locale/$CFDIR/LC_MESSAGES/
-    mv $CFDIR/LC_MESSAGES/cpuqinfo.mo $BUILDDIR2/usr/share/locale/$CFDIR/LC_MESSAGES/
     mv $CFDIR/LC_MESSAGES/welcome-screen.mo $BUILDDIR2/usr/share/locale/$CFDIR/LC_MESSAGES/
     mv $CFDIR/LC_MESSAGES/q4os-base.mo $BUILDDIR2/usr/share/locale/$CFDIR/LC_MESSAGES/
     cp -r $CFDIR/LC_MESSAGES $BUILDDIR2/opt/trinity/share/locale/$CFDIR/
