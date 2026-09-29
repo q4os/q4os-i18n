@@ -4,12 +4,12 @@
 # Hugo Carvalho <hugokarvalho@hotmail.com>, 2022.
 msgid ""
 msgstr ""
-"Project-Id-Version: Q4OS Welcome\n"
+"Project-Id-Version: Q4OS Welcome Screen\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-14 21:11+0200\n"
-"PO-Revision-Date: 2023-02-12 08:43+0100\n"
+"POT-Creation-Date: 2026-09-25 08:28+0000\n"
+"PO-Revision-Date: 2026-09-25 10:27+0200\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
-"Language-Team: Portuguese <gnome-pt-translation@googlegroups.com>\n"
+"Language-Team: Q4OS fr <devteam@q4os.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -56,9 +56,6 @@ msgstr "<p>Souhaitez-vous activer le démarrage automatique de la session sans a
 msgid "<p>Do you want to switch the Start Menu ?</p>"
 msgstr "<p>Voulez-vous changer le menu Démarrer ?</p>"
 
-msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
-msgstr "<p>Une carte NVIDIA a été détectée !</p><p>Les actions sont désactivées pendant l'installation de NVIDIA, merci de patienter jusqu'à la fin de l'installation.</p>"
-
 msgid "<p>Start Menu is now set to Bourbon style.</p>"
 msgstr "<p>Le style \"Bourbon\" est appliqué au menu démarrer.</p>"
 
@@ -73,12 +70,6 @@ msgstr "<p>Cette action est disponible uniquement pour les bureaux Trinity et Pl
 
 msgid "<p>This action is available for Trinity desktop only.</p>"
 msgstr "<p>Cette action est disponible uniquement pour le bureau Trinity.</p>"
-
-msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
-msgstr "<p>Une installation de Virtualbox est en cours !</p><p>Veuillez attendre qu'elle soit terminée avant d'entreprendre d'autres actions.</p>"
-
-msgid "<p>Your hardware seems to be low to run desktop effects, it's not recommended to turn effects on.</p><p>Do you really want to turn Desktop Effects on ?</p>"
-msgstr "<p>Votre matériel semble insuffisament puissant pour se payer le luxe des effets visuels, il est recommandé de les laisser désactivés.</p><p>Souhaitez vous vraiment activer les effets visuels ?</p>"
 
 msgid "Apply"
 msgstr "Appliquer"
@@ -106,6 +97,9 @@ msgstr "Menu en cascade de style \"Classic\""
 
 msgid "Desktop effects"
 msgstr "Effets visuels"
+
+msgid "Do you really want to turn Desktop Effects on ?"
+msgstr "Souhaitez vous vraiment activer les effets visuels ?"
 
 msgid "Do you want to turn Desktop Effects on ?"
 msgstr "Voulez-vous activer les effets visuels ?"
@@ -159,7 +153,7 @@ msgid "Note, desktop effects will work flawlessly on modern hardware only, it's 
 msgstr "Notez que les effets de bureau ne fonctionneront parfaitement que sur du matériel moderne, il n'est pas recommandé de l'utiliser avec du matériel ancien. Un test rapide du système va être effectué pour s'assurer que le matériel est prêt à accepter la configuration."
 
 msgid "Q4OS"
-msgstr ""
+msgstr "Q4OS"
 
 msgid "Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below."
 msgstr "Q4OS est installé comme un environnement de bureau très basique et propre avec le kit logiciel minimal. C'est maintenant le bon moment pour ajuster votre nouveau bureau, vous voudrez peut-être utiliser les raccourcis ci-dessous."
@@ -179,9 +173,8 @@ msgstr "Gestionnaire de profil"
 msgid "Screen scaling"
 msgstr "Mise à l'échelle de l'écran"
 
-#, fuzzy
 msgid "Screen scaling tool not found."
-msgstr "Mise à l'échelle de l'écran"
+msgstr "Outil de mise à l'échelle de l'écran introuvable."
 
 msgid "Set Autologin"
 msgstr "Authentification automatique"
@@ -228,6 +221,9 @@ msgstr "Informations matérielles du système bien organisées."
 msgid "Working ..."
 msgstr "Patientez ..."
 
+msgid "Your hardware seems to be low to run desktop effects, it's not recommended to turn effects on."
+msgstr "Votre matériel semble insuffisament puissant pour se payer le luxe des effets visuels, il est recommandé de les laisser désactivés."
+
 msgid "fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface."
 msgstr "système d'exploitation rapide et puissant axé sur la stabilité à long terme, la fiabilité et une interface utilisateur classique."
 
@@ -245,6 +241,12 @@ msgstr "Bouton 4"
 
 msgid "textLabel1"
 msgstr "Libellé 1"
+
+#~ msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
+#~ msgstr "<p>Une carte NVIDIA a été détectée !</p><p>Les actions sont désactivées pendant l'installation de NVIDIA, merci de patienter jusqu'à la fin de l'installation.</p>"
+
+#~ msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
+#~ msgstr "<p>Une installation de Virtualbox est en cours !</p><p>Veuillez attendre qu'elle soit terminée avant d'entreprendre d'autres actions.</p>"
 
 #~ msgid "Brief system info."
 #~ msgstr "Aperçu des info. système."

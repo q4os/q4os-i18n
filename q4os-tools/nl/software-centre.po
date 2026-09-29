@@ -6,10 +6,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-23 10:23+0100\n"
-"PO-Revision-Date: 2022-01-06 13:43+0100\n"
+"POT-Creation-Date: 2026-09-25 08:51+0000\n"
+"PO-Revision-Date: 2026-09-25 10:55+0200\n"
 "Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
-"Language-Team: Dutch <vistausss@outlook.com>\n"
+"Language-Team: Q4OS nl <devteam@q4os.org>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -29,8 +29,8 @@ msgstr "---  Menu  ---"
 msgid "<"
 msgstr "<"
 
-msgid "<p>"
-msgstr "<p>"
+msgid "<p>%1 is already installed, do you want to uninstall ?</p>"
+msgstr "<p>%1 is al geïnstalleerd, wilt u het verwijderen?</p>"
 
 msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
 msgstr "<p>NVIDIA-installatie aangetroffen!</p><p>Acties zijn uitgeschakeld tijdens het instellen van NVIDIA; even geduld.</p>"
@@ -44,18 +44,29 @@ msgstr "<p>Kies een te installeren programma van de lijst met uitgelichte progra
 msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
 msgstr "<p>VirtualBox-installatie aangetroffen!</p><p>Acties zijn uitgeschakeld tijdens het instellen van VirtualBox; even geduld.</p>"
 
-#, fuzzy
 msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Desktop Profiler</b> tool to choose and apply a profile.</p>"
-msgstr "<p>U heeft nog geen werkomgevingsprofiel toegepast.</p><p>Wij raden aan om het programma <b>Werkomgevingsprofielen</b> te openen en zo spoedig mogelijk één van de beschikbare profielen toe te passen.</p>"
+msgstr "<p>U hebt nog geen bureaubladprofiel toegepast. Het wordt sterk aanbevolen een bureaubladprofiel toe te passen voordat u toepassingen installeert.</p><p>Start het hulpmiddel <b>Desktop Profiler</b> om een profiel te kiezen en toe te passen.</p>"
 
 msgid ">"
-msgstr ""
+msgstr ">"
 
 msgid "APT database hasn't been updated yet."
-msgstr ""
+msgstr "De APT-database is nog niet bijgewerkt."
 
 msgid "Application"
 msgstr "Programma"
+
+msgid "Building Apt database ..."
+msgstr "Apt-database wordt opgebouwd ..."
+
+msgid "Building Flatpak database ..."
+msgstr "Flatpak-database wordt opgebouwd ..."
+
+msgid "Building application list ..."
+msgstr "Toepassingenlijst wordt opgebouwd ..."
+
+msgid "Building flatpaks list ..."
+msgstr "Flatpaklijst wordt opgebouwd ..."
 
 msgid "Cancel"
 msgstr "Annuleren"
@@ -63,15 +74,14 @@ msgstr "Annuleren"
 msgid "Description"
 msgstr "Omschrijving"
 
-msgid "Desktop Profiler"
-msgstr "Werkomgevingsprofielen"
-
 msgid "Desktop profiler"
 msgstr "Werkomgevingsprofielen"
 
-#, fuzzy
+msgid "Discover manager"
+msgstr "Discover-beheerder"
+
 msgid "Discover software manager isn't installed, do you want to install it now ?"
-msgstr "<p>Installeer Discover-softwarebeheer.</p>"
+msgstr "De softwarebeheerder Discover is niet geïnstalleerd, wilt u die nu installeren?"
 
 msgid "Featured applications"
 msgstr "Uitgelichte programma's"
@@ -80,24 +90,28 @@ msgid "Featured applications: #"
 msgstr "Uitgelichte programma's: #"
 
 msgid "Flathub apps"
-msgstr ""
+msgstr "Flathub-apps"
+
+msgid "Found: %1 of %2"
+msgstr "Gevonden: %1 van %2"
 
 msgid "In order to get more applications in the featured list, refresh APT database and start the Software center again."
-msgstr ""
+msgstr "Om meer toepassingen in de aanbevolen lijst te krijgen, vernieuwt u de APT-database en start u het Softwarecentrum opnieuw."
 
 msgid "Info"
 msgstr "Informatie"
 
-#, fuzzy
+msgid "Initializing ..."
+msgstr "Initialiseren ..."
+
 msgid "Install"
-msgstr "Deïnstalleren"
+msgstr "Installeren"
 
 msgid "Install Discover ?"
-msgstr ""
+msgstr "Discover installeren?"
 
-#, fuzzy
 msgid "Install Synaptic ?"
-msgstr "Programma installeren"
+msgstr "Synaptic installeren?"
 
 msgid "Install application"
 msgstr "Programma installeren"
@@ -105,11 +119,26 @@ msgstr "Programma installeren"
 msgid "Install or uninstall selected application from the featured applications list below"
 msgstr "Installeer of verwijder een programma van de lijst met uitgelichte programma's"
 
+msgid "Installed:"
+msgstr "Geïnstalleerd:"
+
+msgid "Loading data ..."
+msgstr "Gegevens worden geladen ..."
+
 msgid "More options"
 msgstr "Meer opties"
 
+msgid "Not installed:"
+msgstr "Niet geïnstalleerd:"
+
 msgid "Open Flathub repository in the preferred web browser"
-msgstr ""
+msgstr "De Flathub-opslagplaats openen in de voorkeurswebbrowser"
+
+msgid "Origin"
+msgstr "Herkomst"
+
+msgid "Package installer"
+msgstr "Pakketinstallatie"
 
 msgid "Q4OS Software Centre"
 msgstr "Q4OS-softwarecentrum"
@@ -133,7 +162,10 @@ msgid "Search:"
 msgstr "Zoeken:"
 
 msgid "Settings"
-msgstr ""
+msgstr "Instellingen"
+
+msgid "Sorting ..."
+msgstr "Sorteren ..."
 
 msgid "Status"
 msgstr "Status"
@@ -141,9 +173,11 @@ msgstr "Status"
 msgid "Status:"
 msgstr "Status:"
 
-#, fuzzy
+msgid "Synaptic manager"
+msgstr "Synaptic-beheerder"
+
 msgid "Synaptic package manager isn't installed, do you want to install it now ?"
-msgstr "<p>Installeer Synaptic-pakketbeheer.</p>"
+msgstr "De pakketbeheerder Synaptic is niet geïnstalleerd, wilt u die nu installeren?"
 
 msgid "Uninstall"
 msgstr "Deïnstalleren"
@@ -161,7 +195,7 @@ msgid "config_file"
 msgstr "config_file"
 
 msgid "dependencies"
-msgstr ""
+msgstr "dependencies"
 
 msgid "download"
 msgstr "Downloaden"
@@ -170,7 +204,7 @@ msgid "no selection"
 msgstr "Niets geselecteerd"
 
 msgid "origin"
-msgstr ""
+msgstr "origin"
 
 msgid "package"
 msgstr "Pakket"
@@ -182,13 +216,16 @@ msgid "recordnum"
 msgstr "recordnum"
 
 msgid "repositories"
-msgstr ""
+msgstr "repositories"
 
 msgid "textLabel"
 msgstr "tekstlabel"
 
-#~ msgid "Package manager"
-#~ msgstr "Pakketbeheer"
+#~ msgid "<p>"
+#~ msgstr "<p>"
+
+#~ msgid "Desktop Profiler"
+#~ msgstr "Werkomgevingsprofielen"
 
 #~ msgid "Run 'Synaptic' - system package manager"
 #~ msgstr "Open 'Synaptic'-pakketbeheer"

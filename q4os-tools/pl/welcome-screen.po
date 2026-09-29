@@ -8,10 +8,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Welcome Screen\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-14 21:11+0200\n"
-"PO-Revision-Date: 2021-04-21 15:39+0200\n"
+"POT-Creation-Date: 2026-09-25 08:28+0000\n"
+"PO-Revision-Date: 2026-09-25 10:27+0200\n"
 "Last-Translator: oloke <olokelo@gmail.com>\n"
-"Language-Team: \n"
+"Language-Team: Q4OS pl <devteam@q4os.org>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -57,9 +57,6 @@ msgstr "<p>Czy chcesz włączyć automatyczne logowanie?</p>"
 msgid "<p>Do you want to switch the Start Menu ?</p>"
 msgstr "<p>Czy chcesz przełączyć Start Menu ?</p>"
 
-msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
-msgstr "<p>Została wykryta instalacja NVIDIA !</p><p>Wszystkie działania są wyłączone na czas instalacji NVIDII, proszę zaczekać do końca instalacji NVIDII.</p>"
-
 msgid "<p>Start Menu is now set to Bourbon style.</p>"
 msgstr "<p>Menu Startu jest teraz ustawione w stylu Bourbon.</p>"
 
@@ -74,12 +71,6 @@ msgstr "<p>Ta akcja jest dostępna tylko dla środowiska Trinity i Plasma.</p>"
 
 msgid "<p>This action is available for Trinity desktop only.</p>"
 msgstr "<p>Ta akcja jest dostępna tylko dla środowiska Trinity.</p>"
-
-msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
-msgstr "<p>Została wykryta instalacja Virtualbox !</p><p>Wszystkie działania są wyłączone na czas instalacji Virtualbox, proszę zaczekać do końca instalacji Virtualbox.</p>"
-
-msgid "<p>Your hardware seems to be low to run desktop effects, it's not recommended to turn effects on.</p><p>Do you really want to turn Desktop Effects on ?</p>"
-msgstr "<p>Komponenty twojego komputera wydają się być niewystarczające, by włączyć efekty pulpitu.</p><p>Czy na pewno chcesz włączyć Efekty Pulpitu?</p>"
 
 msgid "Apply"
 msgstr "Zastosuj"
@@ -108,11 +99,12 @@ msgstr "Klasyczne kaskadowe menu"
 msgid "Desktop effects"
 msgstr "Efekty Pulpitu"
 
-#, fuzzy
-msgid "Do you want to turn Desktop Effects on ?"
-msgstr "<p>Czy chcesz włączyć Efekty Pulpitu ?</p>"
+msgid "Do you really want to turn Desktop Effects on ?"
+msgstr "Czy na pewno chcesz włączyć Efekty Pulpitu?"
 
-#, fuzzy
+msgid "Do you want to turn Desktop Effects on ?"
+msgstr "Czy chcesz włączyć efekty pulpitu?"
+
 msgid "Documents online"
 msgstr "Dokumentacja online"
 
@@ -123,7 +115,7 @@ msgid "Enable Autologin"
 msgstr "Włącz automatyczne logowanie"
 
 msgid "Form2"
-msgstr ""
+msgstr "Form2"
 
 msgid "Hardware info"
 msgstr "Informacje o sprzęcie"
@@ -158,19 +150,17 @@ msgstr "Typ menu"
 msgid "More options  >"
 msgstr "Więcej opcji  >"
 
-#, fuzzy
 msgid "Note, desktop effects will work flawlessly on modern hardware only, it's not recommended to use it with legacy hardware. A short system testing will be performed to ensure the hardware is ready to accept the configuration."
-msgstr "<font size=\"4\"><p>Naciśnij ten przycisk aby włączyć efekty wygładzania itp.</p><p>Uwaga, efekty pulpitu działają płynnie jedynie na nowszych komputerach, nie jest zalecane używanie ich na starszych komputerach. Krótki test systemu zostanie wykonany by upewnić się, czy komputer jest gotowy by zaakceptować taką konfigurację.</p></font>"
+msgstr "Uwaga: efekty pulpitu działają bez zarzutu tylko na nowoczesnym sprzęcie, nie zaleca się ich używania na starszym sprzęcie. Zostanie wykonany krótki test systemu, aby upewnić się, że sprzęt jest gotowy na tę konfigurację."
 
 msgid "Q4OS"
 msgstr "Q4OS"
 
-#, fuzzy
 msgid "Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below."
-msgstr "<font size=\"4\"><p align=justify><b>Witaj w Q4OS</b>, szybkim i rozbudowanym systemie operacyjnym skoncentrowanym na stabilności, niezawodności i klasycznym interfejsie użytkownika.</p><p align=justify>Q4OS jest instalowany jako proste i czyste środowisko graficzne, z minimalną ilością oprogramowania. Teraz jest właściwy czas, abyś dostosował swój pulpit, możesz zacząć od wprowadzania zmian korzystając z opcji poniżej.</p></font>"
+msgstr "Q4OS jest zainstalowany jako bardzo podstawowe i czyste środowisko graficzne z minimalnym zestawem oprogramowania. Teraz jest właściwy moment, aby dostosować nowy pulpit - możesz skorzystać ze skrótów do dostrajania poniżej."
 
 msgid "Resize fonts and icons to adjust them according to the current screen resolution and make them more readable."
-msgstr ""
+msgstr "Zmień rozmiar czcionek i ikon, aby dopasować je do bieżącej rozdzielczości ekranu i poprawić ich czytelność."
 
 msgid "Revert to Classic"
 msgstr "Przełącz na Klasyczny"
@@ -181,13 +171,11 @@ msgstr "Przywróć ustawienia domyślne"
 msgid "Run Desktop Profiler"
 msgstr "Uruchom Konfigurator Pulpitu"
 
-#, fuzzy
 msgid "Screen scaling"
-msgstr "Skonfiguruj skalowanie ekranu ..."
+msgstr "Skalowanie ekranu"
 
-#, fuzzy
 msgid "Screen scaling tool not found."
-msgstr "Skonfiguruj skalowanie ekranu ..."
+msgstr "Nie znaleziono narzędzia do skalowania ekranu."
 
 msgid "Set Autologin"
 msgstr "Włącz autologowanie"
@@ -199,11 +187,10 @@ msgid "Start menu configuration"
 msgstr "Konfiguracja Start Menu"
 
 msgid "Support us on Patreon"
-msgstr ""
+msgstr "Wesprzyj nas na Patreonie"
 
-#, fuzzy
 msgid "Switch start menu"
-msgstr "Przełącz na menu startu Kickoff"
+msgstr "Przełącz menu Start"
 
 msgid "Switch to Bourbon"
 msgstr "Przełącz na Bourbon"
@@ -212,7 +199,7 @@ msgid "Switch to Kickoff"
 msgstr "Przełącz na Kickoff"
 
 msgid "This option is to turn smoothing and beautifying desktop effects on."
-msgstr ""
+msgstr "Ta opcja włącza wygładzające i upiększające efekty pulpitu."
 
 msgid "Turn ON"
 msgstr "Włącz"
@@ -226,33 +213,41 @@ msgstr "Uwaga !"
 msgid "Welcome screen"
 msgstr "Ekran powitania"
 
-#, fuzzy
 msgid "Welcome to Q4OS"
-msgstr "Sponsoruj Q4OS"
+msgstr "Witamy w Q4OS"
 
 msgid "Well arranged system hardware information."
-msgstr ""
+msgstr "Przejrzyste informacje o sprzęcie systemu."
 
 msgid "Working ..."
 msgstr "Pracuję ..."
 
+msgid "Your hardware seems to be low to run desktop effects, it's not recommended to turn effects on."
+msgstr "Komponenty twojego komputera wydają się być niewystarczające, by włączyć efekty pulpitu."
+
 msgid "fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface."
-msgstr ""
+msgstr "szybkiego i wydajnego systemu operacyjnego na komputery, skupionego na długoterminowej stabilności, niezawodności i interfejsie użytkownika w klasycznym stylu."
 
 msgid "pushButton1"
-msgstr ""
+msgstr "pushButton1"
 
 msgid "pushButton2"
-msgstr ""
+msgstr "pushButton2"
 
 msgid "pushButton3"
-msgstr ""
+msgstr "pushButton3"
 
 msgid "pushButton4"
-msgstr ""
+msgstr "pushButton4"
 
 msgid "textLabel1"
-msgstr ""
+msgstr "textLabel1"
+
+#~ msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
+#~ msgstr "<p>Została wykryta instalacja NVIDIA !</p><p>Wszystkie działania są wyłączone na czas instalacji NVIDII, proszę zaczekać do końca instalacji NVIDII.</p>"
+
+#~ msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
+#~ msgstr "<p>Została wykryta instalacja Virtualbox !</p><p>Wszystkie działania są wyłączone na czas instalacji Virtualbox, proszę zaczekać do końca instalacji Virtualbox.</p>"
 
 #~ msgid "Turn on Desktop effects"
 #~ msgstr "Włącz Efekty Pulpitu"

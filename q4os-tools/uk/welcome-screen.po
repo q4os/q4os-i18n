@@ -3,244 +3,246 @@
 # This file is distributed under the same license as the Q4OS Welcome Screen package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Welcome Screen\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-14 21:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2026-09-25 08:28+0000\n"
+"PO-Revision-Date: 2026-09-25 10:27+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language-Team: Q4OS uk <devteam@q4os.org>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "<font size=\"4\"><p align=justify><b>Welcome to Q4OS</b>, fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface.</p><p align=justify>Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p align=justify><b>Ласкаво просимо до Q4OS</b> - швидкої та потужної стільничної операційної системи, зосередженої на довготривалій стабільності, надійності та інтерфейсі користувача в класичному стилі.</p><p align=justify>Q4OS встановлено як дуже базове й чисте стільничне середовище з мінімальним набором програм. Саме час налаштувати вашу нову стільницю - скористайтеся ярликами для тонкого налаштування нижче.</p></font>"
 
 msgid "<font size=\"4\"><p>Bypass login screen and login without entering your password after the system boot.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p>Оминути екран входу і входити до системи після завантаження без введення пароля.</p></font>"
 
 msgid "<font size=\"4\"><p>Desktop Profiler will automatically install and configure set of additional Applications and tools, all in single click.</p><p>You will be allowed to select between different desktop profiles.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p>Desktop Profiler автоматично встановить і налаштує набір додаткових програм та інструментів - усе одним клацанням.</p><p>Ви зможете вибрати з-поміж різних профілів стільниці.</p></font>"
 
 msgid "<font size=\"4\"><p>Other useful configuration options.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p>Інші корисні параметри налаштування.</p></font>"
 
 msgid "<font size=\"4\"><p>Run an interactive script to install extra collection of professional quality codecs.</p><p>Media players such as VLC or Mplayer make use of these codecs in order to provide support for playback of DVD and multimedia files encoded through these codecs.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p>Запустити інтерактивний скрипт для встановлення додаткової збірки кодеків професійної якості.</p><p>Медіапрогравачі, як-от VLC чи Mplayer, використовують ці кодеки для відтворення DVD та мультимедійних файлів, закодованих ними.</p></font>"
 
 msgid "<font size=\"4\"><p>Switch to alternative Kickoff Start menu.</p><p>Well arranged, modern style start menu offers search bar, favorites tab, history and more.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p>Перейти на альтернативне меню «Пуск» Kickoff.</p><p>Упорядковане сучасне меню «Пуск» має рядок пошуку, вкладку улюбленого, історію та інше.</p></font>"
 
 msgid "<font size=\"4\"><p>You will be directed to Q4OS web resources to download and install standalone useful applications.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p>Вас буде спрямовано до вебресурсів Q4OS, звідки можна завантажити та встановити корисні окремі програми.</p></font>"
 
 msgid "<p>Automatic login is now disabled.</p>"
-msgstr ""
+msgstr "<p>Автоматичний вхід тепер вимкнено.</p>"
 
 msgid "<p>Automatic login is now enabled.</p>"
-msgstr ""
+msgstr "<p>Автоматичний вхід тепер увімкнено.</p>"
 
 msgid "<p>Desktop effects have been disabled.</p>"
-msgstr ""
+msgstr "<p>Ефекти стільниці вимкнено.</p>"
 
 msgid "<p>Desktop effects have been enabled. Please login again to take changes effect.</p>"
-msgstr ""
+msgstr "<p>Ефекти стільниці увімкнено. Щоб зміни набули чинності, увійдіть до системи ще раз.</p>"
 
 msgid "<p>Do you want to enable Automatic login ?</p>"
-msgstr ""
+msgstr "<p>Увімкнути автоматичний вхід?</p>"
 
 msgid "<p>Do you want to switch the Start Menu ?</p>"
-msgstr ""
-
-msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
-msgstr ""
+msgstr "<p>Змінити меню «Пуск»?</p>"
 
 msgid "<p>Start Menu is now set to Bourbon style.</p>"
-msgstr ""
+msgstr "<p>Меню «Пуск» тепер має стиль Bourbon.</p>"
 
 msgid "<p>Start Menu is now set to Classic style.</p>"
-msgstr ""
+msgstr "<p>Меню «Пуск» тепер має класичний стиль.</p>"
 
 msgid "<p>Start Menu is now set to Kickoff style.</p>"
-msgstr ""
+msgstr "<p>Меню «Пуск» тепер має стиль Kickoff.</p>"
 
 msgid "<p>This action is available for Trinity and Plasma desktops only.</p>"
-msgstr ""
+msgstr "<p>Ця дія доступна лише для стільниць Trinity та Plasma.</p>"
 
 msgid "<p>This action is available for Trinity desktop only.</p>"
-msgstr ""
-
-msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
-msgstr ""
-
-msgid "<p>Your hardware seems to be low to run desktop effects, it's not recommended to turn effects on.</p><p>Do you really want to turn Desktop Effects on ?</p>"
-msgstr ""
+msgstr "<p>Ця дія доступна лише для стільниці Trinity.</p>"
 
 msgid "Apply"
-msgstr ""
+msgstr "Застосувати"
 
 msgid "Autologin configuration"
-msgstr ""
+msgstr "Налаштування автоматичного входу"
 
 msgid "Automatic login"
-msgstr ""
+msgstr "Автоматичний вхід"
 
 msgid "Bourbon"
-msgstr ""
+msgstr "Bourbon"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgid "Categories"
-msgstr ""
+msgstr "Категорії"
 
 msgid "Classic"
-msgstr ""
+msgstr "Класичне"
 
 msgid "Classic style cascading menu"
-msgstr ""
+msgstr "Класичне каскадне меню"
 
 msgid "Desktop effects"
-msgstr ""
+msgstr "Ефекти стільниці"
+
+msgid "Do you really want to turn Desktop Effects on ?"
+msgstr "Ви справді бажаєте увімкнути ефекти стільниці?"
 
 msgid "Do you want to turn Desktop Effects on ?"
-msgstr ""
+msgstr "Увімкнути ефекти стільниці?"
 
 msgid "Documents online"
-msgstr ""
+msgstr "Документація в Інтернеті"
 
 msgid "Donate to Q4OS"
-msgstr ""
+msgstr "Підтримати Q4OS пожертвою"
 
 msgid "Enable Autologin"
-msgstr ""
+msgstr "Увімкнути автоматичний вхід"
 
 msgid "Form2"
-msgstr ""
+msgstr "Form2"
 
 msgid "Hardware info"
-msgstr ""
+msgstr "Відомості про обладнання"
 
 msgid "Info"
-msgstr ""
+msgstr "Інформація"
 
 msgid "Install Applications"
-msgstr ""
+msgstr "Встановити програми"
 
 msgid "Install Proprietary Codecs"
-msgstr ""
+msgstr "Встановити пропрієтарні кодеки"
 
 msgid "KickOff"
-msgstr ""
+msgstr "KickOff"
 
 msgid "KickOff type menu"
-msgstr ""
+msgstr "Меню типу KickOff"
 
 msgid "Menu items organized by Applications"
-msgstr ""
+msgstr "Пункти меню впорядковано за програмами"
 
 msgid "Menu items organized by Categories"
-msgstr ""
+msgstr "Пункти меню впорядковано за категоріями"
 
 msgid "Menu structure"
-msgstr ""
+msgstr "Структура меню"
 
 msgid "Menu type"
-msgstr ""
+msgstr "Тип меню"
 
 msgid "More options  >"
-msgstr ""
+msgstr "Інші параметри  >"
 
 msgid "Note, desktop effects will work flawlessly on modern hardware only, it's not recommended to use it with legacy hardware. A short system testing will be performed to ensure the hardware is ready to accept the configuration."
-msgstr ""
+msgstr "Зауважте: ефекти стільниці бездоганно працюють лише на сучасному обладнанні, використовувати їх на застарілому не рекомендується. Буде виконано коротку перевірку системи, щоб переконатися, що обладнання готове до такого налаштування."
 
 msgid "Q4OS"
-msgstr ""
+msgstr "Q4OS"
 
 msgid "Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below."
-msgstr ""
+msgstr "Q4OS встановлено як дуже базове й чисте стільничне середовище з мінімальним набором програм. Саме час налаштувати вашу нову стільницю - скористайтеся ярликами для тонкого налаштування нижче."
 
 msgid "Resize fonts and icons to adjust them according to the current screen resolution and make them more readable."
-msgstr ""
+msgstr "Змінити розмір шрифтів та піктограм відповідно до поточної роздільної здатності екрана, щоб їх було легше читати."
 
 msgid "Revert to Classic"
-msgstr ""
+msgstr "Повернути класичне"
 
 msgid "Revert to defaults"
-msgstr ""
+msgstr "Повернути типові"
 
 msgid "Run Desktop Profiler"
-msgstr ""
+msgstr "Запустити Desktop Profiler"
 
 msgid "Screen scaling"
-msgstr ""
+msgstr "Масштабування екрана"
 
 msgid "Screen scaling tool not found."
-msgstr ""
+msgstr "Інструмент масштабування екрана не знайдено."
 
 msgid "Set Autologin"
-msgstr ""
+msgstr "Налаштувати автоматичний вхід"
 
 msgid "Show this dialog on startup"
-msgstr ""
+msgstr "Показувати це вікно під час запуску"
 
 msgid "Start menu configuration"
-msgstr ""
+msgstr "Налаштування меню «Пуск»"
 
 msgid "Support us on Patreon"
-msgstr ""
+msgstr "Підтримайте нас на Patreon"
 
 msgid "Switch start menu"
-msgstr ""
+msgstr "Змінити меню «Пуск»"
 
 msgid "Switch to Bourbon"
-msgstr ""
+msgstr "Перейти на Bourbon"
 
 msgid "Switch to Kickoff"
-msgstr ""
+msgstr "Перейти на Kickoff"
 
 msgid "This option is to turn smoothing and beautifying desktop effects on."
-msgstr ""
+msgstr "Цей параметр вмикає ефекти стільниці, що згладжують і прикрашають її."
 
 msgid "Turn ON"
-msgstr ""
+msgstr "Увімкнути"
 
 msgid "Two panel menu with search line"
-msgstr ""
+msgstr "Двопанельне меню з рядком пошуку"
 
 msgid "Warning !"
-msgstr ""
+msgstr "Попередження!"
 
 msgid "Welcome screen"
-msgstr ""
+msgstr "Вітальний екран"
 
 msgid "Welcome to Q4OS"
-msgstr ""
+msgstr "Ласкаво просимо до Q4OS"
 
 msgid "Well arranged system hardware information."
-msgstr ""
+msgstr "Упорядковані відомості про обладнання системи."
 
 msgid "Working ..."
-msgstr ""
+msgstr "Виконується ..."
+
+msgid "Your hardware seems to be low to run desktop effects, it's not recommended to turn effects on."
+msgstr "Схоже, ваше обладнання заслабке для ефектів стільниці, вмикати їх не рекомендується."
 
 msgid "fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface."
-msgstr ""
+msgstr "швидкої та потужної стільничної операційної системи, зосередженої на довготривалій стабільності, надійності та інтерфейсі користувача в класичному стилі."
 
 msgid "pushButton1"
-msgstr ""
+msgstr "pushButton1"
 
 msgid "pushButton2"
-msgstr ""
+msgstr "pushButton2"
 
 msgid "pushButton3"
-msgstr ""
+msgstr "pushButton3"
 
 msgid "pushButton4"
-msgstr ""
+msgstr "pushButton4"
 
 msgid "textLabel1"
-msgstr ""
+msgstr "textLabel1"
+
+#~ msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
+#~ msgstr "<p>Виявлено встановлення NVIDIA!</p><p>Під час встановлення NVIDIA дії вимкнено, зачекайте, будь ласка, до його завершення.</p>"
+
+#~ msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
+#~ msgstr "<p>Виявлено встановлення Virtualbox!</p><p>Під час встановлення Virtualbox дії вимкнено, зачекайте, будь ласка, до його завершення.</p>"

@@ -3,15 +3,14 @@
 # This file is distributed under the same license as the Q4OS Software Centre package.
 # Alejo Fernández <alejoo.fernandez.2003@gmail.com>, 2025.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-23 10:23+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2026-09-25 08:51+0000\n"
+"PO-Revision-Date: 2026-09-25 10:55+0200\n"
+"Last-Translator: Q4OS Team <devteam@q4os.org>\n"
+"Language-Team: Q4OS es_AR <devteam@q4os.org>\n"
 "Language: es_AR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -29,8 +28,8 @@ msgstr "---  Menú  ---"
 msgid "<"
 msgstr "<"
 
-msgid "<p>"
-msgstr "<p>"
+msgid "<p>%1 is already installed, do you want to uninstall ?</p>"
+msgstr "<p>%1 ya está instalado, ¿querés desinstalarlo?</p>"
 
 msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
 msgstr "<p>¡Se detectó una instalación de NVIDIA!</p><p>Las acciones están deshabilitadas mientras se configura NVIDIA. Esperá a que termine la instalación.</p>"
@@ -44,12 +43,11 @@ msgstr "<p>Seleccioná una aplicación de la lista de destacadas para instalar.<
 msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
 msgstr "<p>¡Se detectó una instalación de VirtualBox!</p><p>Las acciones están deshabilitadas mientras se configura VirtualBox. Esperá a que termine la instalación.</p>"
 
-#, fuzzy
 msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Desktop Profiler</b> tool to choose and apply a profile.</p>"
-msgstr "<p>No aplicaste ningún perfil de escritorio todavía. Es muy recomendable aplicar uno antes de instalar aplicaciones.</p><p>Ejecutá la herramienta <b>Desktop Profiler</b> para elegir y aplicar un perfil.</p>"
+msgstr "<p>Todavía no aplicaste ningún perfil de escritorio. Se recomienda encarecidamente aplicar un perfil de escritorio antes de instalar aplicaciones.</p><p>Ejecutá la herramienta <b>Desktop Profiler</b> para elegir y aplicar un perfil.</p>"
 
 msgid ">"
-msgstr ""
+msgstr ">"
 
 msgid "APT database hasn't been updated yet."
 msgstr "La base de datos de APT todavía no se actualizó."
@@ -57,17 +55,29 @@ msgstr "La base de datos de APT todavía no se actualizó."
 msgid "Application"
 msgstr "Aplicación"
 
+msgid "Building Apt database ..."
+msgstr "Construyendo la base de datos de Apt ..."
+
+msgid "Building Flatpak database ..."
+msgstr "Construyendo la base de datos de Flatpak ..."
+
+msgid "Building application list ..."
+msgstr "Construyendo la lista de aplicaciones ..."
+
+msgid "Building flatpaks list ..."
+msgstr "Construyendo la lista de flatpaks ..."
+
 msgid "Cancel"
 msgstr "Cancelar"
 
 msgid "Description"
 msgstr "Descripción"
 
-msgid "Desktop Profiler"
-msgstr "Perfilador de escritorio"
-
 msgid "Desktop profiler"
 msgstr "Perfilador de escritorio"
+
+msgid "Discover manager"
+msgstr "Gestor Discover"
 
 msgid "Discover software manager isn't installed, do you want to install it now ?"
 msgstr "El gestor de software Discover no está instalado. ¿Querés instalarlo ahora?"
@@ -81,11 +91,17 @@ msgstr "Aplicaciones destacadas: #"
 msgid "Flathub apps"
 msgstr "Aplicaciones de Flathub"
 
+msgid "Found: %1 of %2"
+msgstr "Encontradas: %1 de %2"
+
 msgid "In order to get more applications in the featured list, refresh APT database and start the Software center again."
 msgstr "Para ver más aplicaciones en la lista de destacadas, actualizá la base de datos de APT y volvé a abrir el Centro de Software."
 
 msgid "Info"
 msgstr "Info"
+
+msgid "Initializing ..."
+msgstr "Inicializando ..."
 
 msgid "Install"
 msgstr "Instalar"
@@ -102,11 +118,26 @@ msgstr "Instalar aplicación"
 msgid "Install or uninstall selected application from the featured applications list below"
 msgstr "Instalá o desinstalá la aplicación seleccionada de la lista de destacadas"
 
+msgid "Installed:"
+msgstr "Instalado:"
+
+msgid "Loading data ..."
+msgstr "Cargando datos ..."
+
 msgid "More options"
 msgstr "Más opciones"
 
+msgid "Not installed:"
+msgstr "No instalado:"
+
 msgid "Open Flathub repository in the preferred web browser"
 msgstr "Abrir el repositorio de Flathub en el navegador web preferido"
+
+msgid "Origin"
+msgstr "Origen"
+
+msgid "Package installer"
+msgstr "Instalador de paquetes"
 
 msgid "Q4OS Software Centre"
 msgstr "Centro de Software de Q4OS"
@@ -130,13 +161,19 @@ msgid "Search:"
 msgstr "Buscar:"
 
 msgid "Settings"
-msgstr ""
+msgstr "Configuración"
+
+msgid "Sorting ..."
+msgstr "Ordenando ..."
 
 msgid "Status"
 msgstr "Estado"
 
 msgid "Status:"
 msgstr "Estado:"
+
+msgid "Synaptic manager"
+msgstr "Gestor Synaptic"
 
 msgid "Synaptic package manager isn't installed, do you want to install it now ?"
 msgstr "El gestor de paquetes Synaptic no está instalado. ¿Querés instalarlo ahora?"
@@ -182,6 +219,12 @@ msgstr "repositorios"
 
 msgid "textLabel"
 msgstr "etiquetaTexto"
+
+#~ msgid "<p>"
+#~ msgstr "<p>"
+
+#~ msgid "Desktop Profiler"
+#~ msgstr "Perfilador de escritorio"
 
 #~ msgid "1"
 #~ msgstr "1"

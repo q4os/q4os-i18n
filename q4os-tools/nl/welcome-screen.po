@@ -6,10 +6,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Welcome Screen\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-14 21:11+0200\n"
-"PO-Revision-Date: 2022-09-10 18:08+0200\n"
+"POT-Creation-Date: 2026-09-25 08:28+0000\n"
+"PO-Revision-Date: 2026-09-25 10:27+0200\n"
 "Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
-"Language-Team: Dutch <vistausss@outlook.com>\n"
+"Language-Team: Q4OS nl <devteam@q4os.org>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -56,9 +56,6 @@ msgstr "<p>Wilt u automatisch aanmelden inschakelen?</p>"
 msgid "<p>Do you want to switch the Start Menu ?</p>"
 msgstr "<p>Wilt u overschakelen naar het andere startmenu?</p>"
 
-msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
-msgstr "<p>NVIDIA-installatie aangetroffen!</p><p>Acties zijn uitgeschakeld tijdens het instellen van NVIDIA; even geduld.</p>"
-
 msgid "<p>Start Menu is now set to Bourbon style.</p>"
 msgstr "<p>Het startmenu is nu ingesteld op de ‘Bourbon’-stijl.</p>"
 
@@ -73,12 +70,6 @@ msgstr "<p>Deze actie is alleen beschikbaar in de Trinity- en Plasma-werkomgevin
 
 msgid "<p>This action is available for Trinity desktop only.</p>"
 msgstr "<p>Deze actie is alleen beschikbaar in de Trinity-werkomgeving.</p>"
-
-msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
-msgstr "<p>VirtualBox-installatie aangetroffen!</p><p>Acties zijn uitgeschakeld tijdens het instellen van VirtualBox; even geduld.</p>"
-
-msgid "<p>Your hardware seems to be low to run desktop effects, it's not recommended to turn effects on.</p><p>Do you really want to turn Desktop Effects on ?</p>"
-msgstr "<p>Het lijkt er op dat uw hardware niet krachtig genoeg is om werkomgevingseffecten te gebruiken. Wij raden dit dan ook sterk af.</p><p>Weet u zeker dat u ze wilt inschakelen?</p>"
 
 msgid "Apply"
 msgstr "Toepassen"
@@ -106,6 +97,9 @@ msgstr "Klassiek uitklapmenu"
 
 msgid "Desktop effects"
 msgstr "Werkomgevingseffecten"
+
+msgid "Do you really want to turn Desktop Effects on ?"
+msgstr "Weet u zeker dat u ze wilt inschakelen?"
 
 msgid "Do you want to turn Desktop Effects on ?"
 msgstr "Wilt u werkomgevingseffecten inschakelen?"
@@ -179,9 +173,8 @@ msgstr "Open het programma ‘Werkomgevingsprofielen’"
 msgid "Screen scaling"
 msgstr "Beeldgrootte"
 
-#, fuzzy
 msgid "Screen scaling tool not found."
-msgstr "Beeldgrootte"
+msgstr "Hulpprogramma voor schermschaling niet gevonden."
 
 msgid "Set Autologin"
 msgstr "Automatisch aanmelden instellen"
@@ -228,6 +221,9 @@ msgstr "Een mooi overzicht met hardware-informatie."
 msgid "Working ..."
 msgstr "Bezig met uitvoeren…"
 
+msgid "Your hardware seems to be low to run desktop effects, it's not recommended to turn effects on."
+msgstr "Het lijkt er op dat uw hardware niet krachtig genoeg is om werkomgevingseffecten te gebruiken. Wij raden dit dan ook sterk af."
+
 msgid "fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface."
 msgstr "een snel doch krachtig besturingssysteem waarbij de focus ligt op langdurige stabiliteit, betrouwbaarheid en een klassieke werkomgeving."
 
@@ -245,6 +241,12 @@ msgstr "pushButton4"
 
 msgid "textLabel1"
 msgstr "textLabel1"
+
+#~ msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
+#~ msgstr "<p>NVIDIA-installatie aangetroffen!</p><p>Acties zijn uitgeschakeld tijdens het instellen van NVIDIA; even geduld.</p>"
+
+#~ msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
+#~ msgstr "<p>VirtualBox-installatie aangetroffen!</p><p>Acties zijn uitgeschakeld tijdens het instellen van VirtualBox; even geduld.</p>"
 
 #~ msgid "(C) 2019 Q4OS"
 #~ msgstr "(C) 2019 Q4OS"

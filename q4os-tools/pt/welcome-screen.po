@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Welcome Screen\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-14 21:11+0200\n"
+"POT-Creation-Date: 2026-09-25 08:28+0000\n"
 "PO-Revision-Date: 2025-07-25 17:11+0100\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <hugokarvalho@hotmail.com>\n"
@@ -58,9 +58,6 @@ msgstr "<p>Quer ativar o início de sessão automático ?</p>"
 msgid "<p>Do you want to switch the Start Menu ?</p>"
 msgstr "<p>Quer mudar o Menu Iniciar ?</p>"
 
-msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
-msgstr "<p>A instalação da NVIDIA foi detetada !</p><p>As ações estão desativadas durante a configuração da NVIDIA, aguarde até o final da instalação da NVIDIA.</p>"
-
 msgid "<p>Start Menu is now set to Bourbon style.</p>"
 msgstr "<p>Menu Iniciar agora está definido para o estilo Bourbon.</p>"
 
@@ -75,12 +72,6 @@ msgstr "<p>Esta ação está disponível apenas para os ambientes de trabalho Tr
 
 msgid "<p>This action is available for Trinity desktop only.</p>"
 msgstr "<p>Esta ação está apenas disponível para o ambiente de trabalho Trinity.</p>"
-
-msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
-msgstr "<p>Instalação Virtualbox foi detetada !</p><p>As ações são desativadas durante a instalação Virtualbox, aguarde até que a instalação Virtualbox termine.</p>"
-
-msgid "<p>Your hardware seems to be low to run desktop effects, it's not recommended to turn effects on.</p><p>Do you really want to turn Desktop Effects on ?</p>"
-msgstr "<p>O seu hardware parece ser fraco para executar os efeitos do ambiente de trabalho, não é recomendado ativar os efeitos.</p><p>Tem a certeza que quer ativar os efeitos do ambiente de trabalho ?</p>"
 
 msgid "Apply"
 msgstr "Aplicar"
@@ -108,6 +99,9 @@ msgstr "Menu em cascata de estilo clássico"
 
 msgid "Desktop effects"
 msgstr "Efeitos do ambiente de trabalho"
+
+msgid "Do you really want to turn Desktop Effects on ?"
+msgstr "Tem a certeza que quer ativar os efeitos do ambiente de trabalho ?"
 
 msgid "Do you want to turn Desktop Effects on ?"
 msgstr "Quer ativar os efeitos do ambiente de trabalho ?"
@@ -229,6 +223,9 @@ msgstr "Informação organizada do hardware do sistema."
 msgid "Working ..."
 msgstr "A trabalhar ..."
 
+msgid "Your hardware seems to be low to run desktop effects, it's not recommended to turn effects on."
+msgstr "O seu hardware parece ser fraco para executar os efeitos do ambiente de trabalho, não é recomendado ativar os efeitos."
+
 msgid "fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface."
 msgstr "sistema operativo rápido e potente para o computador, focado na estabilidade a longo prazo, fiabilidade e interface gráfica de estilo clássico."
 
@@ -246,6 +243,12 @@ msgstr "pushButton4"
 
 msgid "textLabel1"
 msgstr "textLabel1"
+
+#~ msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
+#~ msgstr "<p>A instalação da NVIDIA foi detetada !</p><p>As ações estão desativadas durante a configuração da NVIDIA, aguarde até o final da instalação da NVIDIA.</p>"
+
+#~ msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
+#~ msgstr "<p>Instalação Virtualbox foi detetada !</p><p>As ações são desativadas durante a instalação Virtualbox, aguarde até que a instalação Virtualbox termine.</p>"
 
 #~ msgid "(C) 2019 Q4OS"
 #~ msgstr "(C) 2019 Q4OS"

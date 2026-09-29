@@ -8,9 +8,9 @@ msgstr ""
 "Project-Id-Version: Q4OS Desktop Profiler\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-21 10:49+0100\n"
-"PO-Revision-Date: 2023-03-29 11:25+0900\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2026-09-24 23:28+0200\n"
+"Last-Translator: Q4OS Team <devteam@q4os.org>\n"
+"Language-Team: Q4OS ja <devteam@q4os.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -24,13 +24,13 @@ msgid "* select please *"
 msgstr "[選択してください]"
 
 msgid "--- General ---"
-msgstr ""
+msgstr "--- 全般 ---"
 
 msgid "--- Miscellaneous ---"
-msgstr ""
+msgstr "--- その他 ---"
 
 msgid "--- Selected profile ---"
-msgstr ""
+msgstr "--- 選択中のプロファイル ---"
 
 msgid "0"
 msgstr "0"
@@ -66,13 +66,13 @@ msgid "9"
 msgstr "9"
 
 msgid "<"
-msgstr ""
+msgstr "<"
 
 msgid "<p align=justify>This dialog lets you choose an additional desktop environment (DE) to install alongside the default Q4OS desktop.</p><p align=justify>Please do not use this option, unless you are absolutely sure what you are doing.</p>"
 msgstr "<p align=justify>ここでは、既存のQ4OS デスクトップの一緒にインストールする別のデスクトップ環境を選択できます。</p><p align=justify>ただし、明確な目的がない限り、使用すべきではありません。</p>"
 
 msgid "<p>Couldn't open file.</p>"
-msgstr ""
+msgstr "<p>ファイルを開けませんでした。</p>"
 
 msgid "<p>Do you want to cancel pending operation ?</p>"
 msgstr "<p>保留中の操作を中止しますか？</p>"
@@ -99,45 +99,43 @@ msgid ">"
 msgstr ">"
 
 msgid "A profile has been already applied for this system."
-msgstr ""
+msgstr "このシステムにはすでにプロファイルが適用されています。"
 
 msgid "Additional repositories:"
-msgstr ""
+msgstr "追加リポジトリ:"
 
 msgid "Another instance of Desktop Profiler is running, leaving ..."
 msgstr "デスクトッププロファイラーはすでに実行されているようなので、起動しません。"
 
 msgid "Apply profile"
-msgstr ""
+msgstr "プロファイルを適用"
 
 msgid "Applying a profile within the live systems isn't supported."
-msgstr ""
+msgstr "ライブシステム内でのプロファイルの適用はサポートされていません。"
 
 msgid "Apt configured, no additional action needed."
-msgstr ""
+msgstr "Apt は設定済みです。追加の操作は必要ありません。"
 
 msgid "Apt plugin completed, Ok"
-msgstr ""
+msgstr "Apt プラグイン完了、OK"
 
 msgid "Are you really sure to overwrite the previous profile ?"
-msgstr ""
+msgstr "本当に以前のプロファイルを上書きしますか？"
 
 msgid "Cancel"
 msgstr "キャンセル"
 
-#, fuzzy
 msgid "Cancel installation"
-msgstr "インストールを実行"
+msgstr "インストールを中止"
 
-#, fuzzy
 msgid "Cancel menu"
-msgstr "キャンセル"
+msgstr "メニューを閉じる"
 
 msgid "Choose a new filename to export current status to"
-msgstr ""
+msgstr "現在の状態をエクスポートする新しいファイル名を選択してください"
 
 msgid "Choose a new filename to save the profile to"
-msgstr ""
+msgstr "プロファイルを保存する新しいファイル名を選択してください"
 
 msgid "Choose an additional desktop environment to install."
 msgstr "追加でインストールするデスクトップ環境を選択してください。"
@@ -152,13 +150,13 @@ msgid "Click to select profile"
 msgstr "クリックしてプロファイルを選択する"
 
 msgid "Configuration file:"
-msgstr ""
+msgstr "設定ファイル:"
 
 msgid "Current desktop status has been saved to profile:"
-msgstr ""
+msgstr "現在のデスクトップの状態をプロファイルに保存しました:"
 
 msgid "DEB packages to install:"
-msgstr ""
+msgstr "インストールする DEB パッケージ:"
 
 msgid "Desktop Profiler"
 msgstr "デスクトッププロファイラー"
@@ -172,64 +170,59 @@ msgstr "デスクトッププロファイラを使用すれば、お使いのコ
 msgid "Desktop environment:"
 msgstr "デスクトップ環境："
 
-#, fuzzy
 msgid "Desktop environments:"
-msgstr "デスクトップ環境："
+msgstr "デスクトップ環境:"
 
 msgid "Desktop profiler - select default desktop environment"
 msgstr "デスクトッププロファイラー　デスクトップ環境の選択"
 
-#, fuzzy
 msgid "Do you want to continue ?"
-msgstr "<p>保留中の操作を中止しますか？</p>"
+msgstr "続行しますか？"
 
 msgid "Error: profile not found, file: "
-msgstr ""
+msgstr "エラー: プロファイルが見つかりません。ファイル: "
 
 msgid "Exit code: "
-msgstr ""
+msgstr "終了コード: "
 
-#, fuzzy
 msgid "Export profile"
-msgstr "ソフトウェアプロファイル："
+msgstr "プロファイルをエクスポート"
 
 msgid "Failed to read packages list, file: "
-msgstr ""
+msgstr "パッケージ一覧を読み込めませんでした。ファイル: "
 
 msgid "Failed to read repositories list, file: "
-msgstr ""
+msgstr "リポジトリ一覧を読み込めませんでした。ファイル: "
 
 msgid "Flatpak applications to install:"
-msgstr ""
+msgstr "インストールする Flatpak アプリケーション:"
 
 msgid "Flatpak plugin completed, Ok"
-msgstr ""
+msgstr "Flatpak プラグイン完了、OK"
 
 msgid "Get snapshot profile"
-msgstr ""
+msgstr "スナップショットプロファイルを取得"
 
 msgid "Help"
-msgstr ""
+msgstr "ヘルプ"
 
 msgid "If you are not sure, just press <b>[ KDE Plasma ]</b> button to select the recommended option."
 msgstr "よくわからないのであれば、[KDE Plasma]を選択するのが良いでしょう。"
 
 msgid "If you continue, the selected new profile replaces the previous one and system will be configured accordingly."
-msgstr ""
+msgstr "続行すると、選択した新しいプロファイルが以前のものを置き換え、システムはそれに従って設定されます。"
 
-#, fuzzy
 msgid "Import a profile"
-msgstr "ソフトウェアプロファイル："
+msgstr "プロファイルをインポート"
 
 msgid "Import local profile"
-msgstr ""
+msgstr "ローカルのプロファイルをインポート"
 
-#, fuzzy
 msgid "Import shared profile"
-msgstr "ソフトウェアプロファイル："
+msgstr "共有プロファイルをインポート"
 
 msgid "Initializing environment ..."
-msgstr ""
+msgstr "環境を初期化しています ..."
 
 msgid "Installation process has requested to logoff this session. Do you want re-login just now ?"
 msgstr "インストールの処理を完了するためにログオフする必要があります。今ログインしなおしますか？"
@@ -244,26 +237,25 @@ msgid "Launch installation"
 msgstr "インストールを実行"
 
 msgid "Launching Apt plugin ..."
-msgstr ""
+msgstr "Apt プラグインを起動しています ..."
 
 msgid "Launching Flatpak plugin ..."
-msgstr ""
+msgstr "Flatpak プラグインを起動しています ..."
 
 msgid "Next >"
 msgstr "次 >"
 
-#, fuzzy
 msgid "No configuration found."
-msgstr "構成が見つかりません。終了します。"
+msgstr "設定が見つかりません。"
 
 msgid "No profile selected. Select a profile please."
-msgstr ""
+msgstr "プロファイルが選択されていません。プロファイルを選択してください。"
 
 msgid "None selected"
 msgstr "選択が空です"
 
 msgid "Not implemented yet."
-msgstr ""
+msgstr "まだ実装されていません。"
 
 msgid "Note "
 msgstr "注意 "
@@ -272,18 +264,16 @@ msgid "Ok"
 msgstr "OK"
 
 msgid "Options"
-msgstr ""
+msgstr "オプション"
 
 msgid "Please enter shared profile code, or Internet address:"
-msgstr ""
+msgstr "共有プロファイルのコード、またはインターネットアドレスを入力してください:"
 
-#, fuzzy
 msgid "Please re-login active session as soon as possible."
-msgstr "できるだけ早くXサーバーを再起動してください。"
+msgstr "できるだけ早く現在のセッションに再ログインしてください。"
 
-#, fuzzy
 msgid "Please reboot as soon as possible."
-msgstr "できるだけ早くXサーバーを再起動してください。"
+msgstr "できるだけ早く再起動してください。"
 
 msgid "Please reboot your computer as soon as possible. Do you want reboot just now ?"
 msgstr "できるだけ早くコンピュータを再起動してください。今すぐ再起動しますか？"
@@ -291,88 +281,71 @@ msgstr "できるだけ早くコンピュータを再起動してください。
 msgid "Please restart X server as soon as possible."
 msgstr "できるだけ早くXサーバーを再起動してください。"
 
-#, fuzzy
 msgid "Please select default desktop environment."
-msgstr "デスクトッププロファイラー　デスクトップ環境の選択"
+msgstr "既定のデスクトップ環境を選択してください。"
 
-#, fuzzy
 msgid "Please select default desktop environment. The lightweight and efficient Trinity desktop is installed and pre-configured as default at the moment. Nevertheless, Q4OS installer has autodetected your computer is powerful enough to operate more advanced KDE Plasma desktop environment."
-msgstr ""
-"<html>\n"
-"<font size=\"5\"><p>標準のデスクトップ環境を選択してください。</p></font>\n"
-"<p align=justify>現時点では、軽量で効率的な <b>Trinity</b> デスクトップがインストールされ、標準設定としてすでに構成されていますが、お使いのコンピューターはより高機能な <b>KDE Plasma</b> デスクトップ環境が動作する性能を十分に持っているようです。</p>\n"
-"</html>"
+msgstr "既定のデスクトップ環境を選択してください。現在は軽量で効率的な Trinity デスクトップがインストールされ、既定として設定されています。しかし Q4OS インストーラーは、お使いのコンピュータがより高機能な KDE Plasma デスクトップ環境を動作させるのに十分な性能を持っていることを検出しました。"
 
-#, fuzzy
 msgid "Previous profile:"
-msgstr "ソフトウェアプロファイル："
+msgstr "以前のプロファイル:"
 
 msgid "Profile applied, installation successful."
-msgstr ""
+msgstr "プロファイルを適用しました。インストールは成功しました。"
 
 msgid "Profile description"
 msgstr "プロファイルの説明"
 
-#, fuzzy
 msgid "Profile export"
-msgstr "プロファイルの説明"
+msgstr "プロファイルのエクスポート"
 
 msgid "Profile has been imported."
-msgstr ""
+msgstr "プロファイルをインポートしました。"
 
 msgid "Profile has been removed."
-msgstr ""
+msgstr "プロファイルを削除しました。"
 
-#, fuzzy
 msgid "Profile info"
-msgstr "プロファイルの説明"
+msgstr "プロファイル情報"
 
-#, fuzzy
 msgid "Profile name:"
-msgstr "プロファイルの説明"
+msgstr "プロファイル名:"
 
 msgid "QSI applications to install:"
-msgstr ""
+msgstr "インストールする QSI アプリケーション:"
 
 msgid "Remote profile not found."
-msgstr ""
+msgstr "リモートのプロファイルが見つかりません。"
 
-#, fuzzy
 msgid "Remove profile"
-msgstr "ソフトウェアプロファイル："
+msgstr "プロファイルを削除"
 
 msgid "Remove superfluous packages"
-msgstr ""
+msgstr "不要なパッケージを削除する"
 
 msgid "Root permissions needed, exiting ..."
-msgstr ""
+msgstr "root 権限が必要です。終了します ..."
 
 msgid "Select a profile from the list please."
-msgstr ""
+msgstr "一覧からプロファイルを選択してください。"
 
 msgid "Selected profile has been saved to file:"
-msgstr ""
+msgstr "選択したプロファイルをファイルに保存しました:"
 
 msgid "Software profile:"
 msgstr "ソフトウェアプロファイル："
 
-#, fuzzy
 msgid "Starting profile installation ... "
-msgstr "インストールを実行"
+msgstr "プロファイルのインストールを開始しています ... "
 
 msgid "System profiles cannot be removed."
-msgstr ""
+msgstr "システムプロファイルは削除できません。"
 
-#, fuzzy
 msgid "The lightweight and efficient <b>Trinity</b> desktop is installed and pre-configured as default at the moment. Nevertheless, Q4OS installer has autodetected your computer is powerful enough to operate more advanced <b>KDE Plasma</b> desktop environment."
-msgstr ""
-"<html>\n"
-"<font size=\"5\"><p>標準のデスクトップ環境を選択してください。</p></font>\n"
-"<p align=justify>現時点では、軽量で効率的な <b>Trinity</b> デスクトップがインストールされ、標準設定としてすでに構成されていますが、お使いのコンピューターはより高機能な <b>KDE Plasma</b> デスクトップ環境が動作する性能を十分に持っているようです。</p>\n"
-"</html>"
+msgstr "現在は軽量で効率的な <b>Trinity</b> デスクトップがインストールされ、既定として設定されています。しかし Q4OS インストーラーは、お使いのコンピュータがより高機能な <b>KDE Plasma</b> デスクトップ環境を動作させるのに十分な性能を持っていることを検出しました。"
 
 msgid "This profile has been already imported."
-msgstr ""
+msgstr "このプロファイルはすでにインポートされています。"
 
 msgid "Trinity"
 msgstr "Trinity"
@@ -381,32 +354,31 @@ msgid "Trinity >"
 msgstr "Trinity >"
 
 msgid "Uncheck to preserve currently installed packages."
-msgstr ""
+msgstr "現在インストールされているパッケージを保持するにはチェックを外してください。"
 
 msgid "Writing log info ..."
-msgstr ""
+msgstr "ログ情報を書き込んでいます ..."
 
 msgid "Writing profile status ..."
-msgstr ""
+msgstr "プロファイルの状態を書き込んでいます ..."
 
 msgid "Yes, I really want to install additional DE"
 msgstr "はい、私は本当に追加のデスクトップ環境を導入したいです"
 
 msgid "Yes, still apply"
-msgstr ""
+msgstr "はい、それでも適用する"
 
 msgid "You are about to cancel desktop profiler without installing a profile. Are you sure ?"
-msgstr ""
+msgstr "プロファイルをインストールせずに Desktop Profiler を終了しようとしています。よろしいですか？"
 
-#, fuzzy
 msgid "You are calling for an alternative desktop installation, but it's not compatible with the profile selected. Please select another profile or desktop."
-msgstr "<p>別のデスクトップをインストールしようとしているみたいですが、選択したプロファイルと互換性がありません。 別のプロファイルを選択してください。</p>"
+msgstr "代替デスクトップのインストールが要求されていますが、選択したプロファイルとは互換性がありません。別のプロファイルまたはデスクトップを選択してください。"
 
 msgid "You can now edit the file to your preferences."
-msgstr ""
+msgstr "ファイルを好みに合わせて編集できます。"
 
 msgid "some installed applications and packages may be removed as they are not part of the new profile."
-msgstr ""
+msgstr "インストール済みのアプリケーションやパッケージのうち、新しいプロファイルに含まれないものは削除されることがあります。"
 
 #~ msgid "Default (TDE)"
 #~ msgstr "標準（TDE）"

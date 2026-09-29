@@ -7,10 +7,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-23 10:23+0100\n"
-"PO-Revision-Date: 2025-05-08 21:40+0300\n"
+"POT-Creation-Date: 2026-09-25 08:51+0000\n"
+"PO-Revision-Date: 2026-09-25 10:55+0200\n"
 "Last-Translator: Omer I.S. <omeritzicschwartz@gmail.com>\n"
-"Language-Team: Omer I.S. <omeritzicschwartz@gmail.com>\n"
+"Language-Team: Q4OS he <devteam@q4os.org>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,22 +21,22 @@ msgid "#Filter: "
 msgstr "#סינון: "
 
 msgid "#Records: "
-msgstr ""
+msgstr "#רשומות: "
 
 msgid "---  Menu  ---"
 msgstr "---  תפריט  ---"
 
 msgid "<"
-msgstr ""
+msgstr "<"
 
-msgid "<p>"
-msgstr "<p>"
+msgid "<p>%1 is already installed, do you want to uninstall ?</p>"
+msgstr "<p>%1 כבר מותקן, להסיר אותו?</p>"
 
 msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
 msgstr "<p>זוהתה חומרה של NVIDIA!</p><p>האפשרויות מושבתות במהלך התקנת מנהלי ההתקנים של NVIDIA, נא להמתין עד לסיום ההתקנה.</p>"
 
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, most likely, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p>"
-msgstr ""
+msgstr "<p>מערכת החבילות עסוקה ואינה מוכנה להתקנה כעת. ההתקנה אינה יכולה להימשך.</p><p>הנעילה נגרמת, ככל הנראה, מעדכוני מערכת שרצים ברקע. במקרה כזה יש להמתין מעט עד שמערכת החבילות תסיים את הפעולות האלה. נא לוודא שאינך מתקין יישום אחר ולנסות שוב בעוד כמה דקות.</p>"
 
 msgid "<p>Select an application to install from the list of featured applications.</p>"
 msgstr "<p>נא לבחור יישום להתקנה מתוך רשימת היישומים המומלצים.</p>"
@@ -45,10 +45,10 @@ msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled
 msgstr "<p>זוהתה התקנת Virtualbox!</p><p>האפשרויות מושבתות במהלך התקנת מנהלי ההתקנים של Virtualbox, נא להמתין עד לסיום ההתקנה.</p>"
 
 msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Desktop Profiler</b> tool to choose and apply a profile.</p>"
-msgstr ""
+msgstr "<p>עדיין לא הוחל שום פרופיל שולחן עבודה. מומלץ מאוד להחיל פרופיל שולחן עבודה לפני התקנת יישומים.</p><p>נא להפעיל את הכלי <b>Desktop Profiler</b> כדי לבחור פרופיל ולהחיל אותו.</p>"
 
 msgid ">"
-msgstr ""
+msgstr ">"
 
 msgid "APT database hasn't been updated yet."
 msgstr "מסד הנתונים של APT לא עודכן עדיין."
@@ -56,17 +56,29 @@ msgstr "מסד הנתונים של APT לא עודכן עדיין."
 msgid "Application"
 msgstr "יישום"
 
+msgid "Building Apt database ..."
+msgstr "בונה את מסד הנתונים של Apt ..."
+
+msgid "Building Flatpak database ..."
+msgstr "בונה את מסד הנתונים של Flatpak ..."
+
+msgid "Building application list ..."
+msgstr "בונה את רשימת היישומים ..."
+
+msgid "Building flatpaks list ..."
+msgstr "בונה את רשימת ה־flatpak ..."
+
 msgid "Cancel"
 msgstr "ביטול"
 
 msgid "Description"
 msgstr "תיאור"
 
-msgid "Desktop Profiler"
-msgstr ""
-
 msgid "Desktop profiler"
-msgstr ""
+msgstr "Desktop Profiler"
+
+msgid "Discover manager"
+msgstr "מנהל Discover"
 
 msgid "Discover software manager isn't installed, do you want to install it now ?"
 msgstr "מנהל התוכנות Discover אינו מותקן, להתקין אותו כעת?"
@@ -80,11 +92,17 @@ msgstr "יישומים מומלצים: #"
 msgid "Flathub apps"
 msgstr "יישומי Flathub"
 
+msgid "Found: %1 of %2"
+msgstr "נמצאו: %1 מתוך %2"
+
 msgid "In order to get more applications in the featured list, refresh APT database and start the Software center again."
 msgstr "לצורך הצגת יישומים נוספים ברשימת המומלצים, נא לרענן את מסד הנתונים של APT ולהפעיל מחדש את מרכז התוכנות."
 
 msgid "Info"
 msgstr "פרטים"
+
+msgid "Initializing ..."
+msgstr "מאתחל ..."
 
 msgid "Install"
 msgstr "התקנה"
@@ -101,11 +119,26 @@ msgstr "התקנת יישום"
 msgid "Install or uninstall selected application from the featured applications list below"
 msgstr "התקנה או הסרה של היישום הנבחר מתוך רשימת היישומים המומלצים שלהלן"
 
+msgid "Installed:"
+msgstr "מותקן:"
+
+msgid "Loading data ..."
+msgstr "טוען נתונים ..."
+
 msgid "More options"
 msgstr "אפשרויות נוספות"
 
+msgid "Not installed:"
+msgstr "לא מותקן:"
+
 msgid "Open Flathub repository in the preferred web browser"
 msgstr "פתיחת מאגר Flathub בדפדפן האינטרנט המועדף"
+
+msgid "Origin"
+msgstr "מקור"
+
+msgid "Package installer"
+msgstr "מתקין חבילות"
 
 msgid "Q4OS Software Centre"
 msgstr "מרכז התוכנות של Q4OS"
@@ -114,7 +147,7 @@ msgid "Rating"
 msgstr "דירוג"
 
 msgid "Run 'Desktop Profiler' tool"
-msgstr ""
+msgstr "הפעלת הכלי 'Desktop Profiler'"
 
 msgid "Run 'Discover' advanced software manager"
 msgstr "הפעלת מנהל התוכנות המתקדם ‚Discover’"
@@ -123,19 +156,25 @@ msgid "Run 'Synaptic' advanced software manager"
 msgstr "הפעלת מנהל התוכנות המתקדם ‚Synaptic’"
 
 msgid "Run comfortable package installer and Flatpak installer"
-msgstr ""
+msgstr "הפעלת מתקין החבילות הנוח ומתקין ה־Flatpak"
 
 msgid "Search:"
 msgstr "חיפוש:"
 
 msgid "Settings"
-msgstr ""
+msgstr "הגדרות"
+
+msgid "Sorting ..."
+msgstr "ממיין ..."
 
 msgid "Status"
 msgstr "מצב"
 
 msgid "Status:"
 msgstr "מצב:"
+
+msgid "Synaptic manager"
+msgstr "מנהל Synaptic"
 
 msgid "Synaptic package manager isn't installed, do you want to install it now ?"
 msgstr "מנהל החבילות Synaptic אינו מותקן, להתקין אותו כעת?"
@@ -147,37 +186,40 @@ msgid "Uninstall now"
 msgstr "להסיר כעת"
 
 msgid "action1"
-msgstr ""
+msgstr "action1"
 
 msgid "action2"
-msgstr ""
+msgstr "action2"
 
 msgid "config_file"
-msgstr ""
+msgstr "config_file"
 
 msgid "dependencies"
-msgstr ""
+msgstr "dependencies"
 
 msgid "download"
-msgstr ""
+msgstr "download"
 
 msgid "no selection"
-msgstr ""
+msgstr "אין בחירה"
 
 msgid "origin"
-msgstr ""
+msgstr "origin"
 
 msgid "package"
-msgstr ""
+msgstr "package"
 
 msgid "rating_num"
-msgstr ""
+msgstr "rating_num"
 
 msgid "recordnum"
-msgstr ""
+msgstr "recordnum"
 
 msgid "repositories"
-msgstr ""
+msgstr "repositories"
 
 msgid "textLabel"
-msgstr ""
+msgstr "textLabel"
+
+#~ msgid "<p>"
+#~ msgstr "<p>"

@@ -7,9 +7,9 @@ msgstr ""
 "Project-Id-Version: Q4OS Desktop Profiler\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-21 10:49+0100\n"
-"PO-Revision-Date: 2019-10-27 17:13+0100\n"
+"PO-Revision-Date: 2026-09-24 23:28+0200\n"
 "Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
-"Language-Team: Dutch <vistausss@outlook.com>\n"
+"Language-Team: Q4OS nl <devteam@q4os.org>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -24,13 +24,13 @@ msgid "* select please *"
 msgstr "* Maak een keuze *"
 
 msgid "--- General ---"
-msgstr ""
+msgstr "--- Algemeen ---"
 
 msgid "--- Miscellaneous ---"
-msgstr ""
+msgstr "--- Diversen ---"
 
 msgid "--- Selected profile ---"
-msgstr ""
+msgstr "--- Geselecteerd profiel ---"
 
 msgid "0"
 msgstr "0"
@@ -66,13 +66,13 @@ msgid "9"
 msgstr "9"
 
 msgid "<"
-msgstr ""
+msgstr "<"
 
 msgid "<p align=justify>This dialog lets you choose an additional desktop environment (DE) to install alongside the default Q4OS desktop.</p><p align=justify>Please do not use this option, unless you are absolutely sure what you are doing.</p>"
 msgstr "<p align=justify>In dit venster kunt u een aanvullende werkomgeving (DE) kiezen. Deze wordt geïnstalleerd naast de standaard Q4OS-werkomgeving.</p><p align=justify>Gebruik deze optie alléén als u weet wat u doet.</p>"
 
 msgid "<p>Couldn't open file.</p>"
-msgstr ""
+msgstr "<p>Kon het bestand niet openen.</p>"
 
 msgid "<p>Do you want to cancel pending operation ?</p>"
 msgstr "<p>Wilt u de huidige handeling afbreken?</p>"
@@ -99,45 +99,43 @@ msgid ">"
 msgstr ">"
 
 msgid "A profile has been already applied for this system."
-msgstr ""
+msgstr "Er is al een profiel toegepast op dit systeem."
 
 msgid "Additional repositories:"
-msgstr ""
+msgstr "Extra pakketbronnen:"
 
 msgid "Another instance of Desktop Profiler is running, leaving ..."
 msgstr "Er draait al een proces van Werkomgevingsprofielen; bezig met afsluiten..."
 
 msgid "Apply profile"
-msgstr ""
+msgstr "Profiel toepassen"
 
 msgid "Applying a profile within the live systems isn't supported."
-msgstr ""
+msgstr "Het toepassen van een profiel in een live-systeem wordt niet ondersteund."
 
 msgid "Apt configured, no additional action needed."
-msgstr ""
+msgstr "Apt is geconfigureerd, geen verdere actie nodig."
 
 msgid "Apt plugin completed, Ok"
-msgstr ""
+msgstr "Apt-plugin voltooid, OK"
 
 msgid "Are you really sure to overwrite the previous profile ?"
-msgstr ""
+msgstr "Weet u zeker dat u het vorige profiel wilt overschrijven?"
 
 msgid "Cancel"
 msgstr "Annuleren"
 
-#, fuzzy
 msgid "Cancel installation"
-msgstr "Installatie starten"
+msgstr "Installatie annuleren"
 
-#, fuzzy
 msgid "Cancel menu"
-msgstr "Annuleren"
+msgstr "Menu sluiten"
 
 msgid "Choose a new filename to export current status to"
-msgstr ""
+msgstr "Kies een nieuwe bestandsnaam om de huidige toestand naar te exporteren"
 
 msgid "Choose a new filename to save the profile to"
-msgstr ""
+msgstr "Kies een nieuwe bestandsnaam om het profiel in op te slaan"
 
 msgid "Choose an additional desktop environment to install."
 msgstr "Kies de aanvullende werkomgeving die u wilt installeren."
@@ -152,13 +150,13 @@ msgid "Click to select profile"
 msgstr "Klik om dit profiel te kiezen"
 
 msgid "Configuration file:"
-msgstr ""
+msgstr "Configuratiebestand:"
 
 msgid "Current desktop status has been saved to profile:"
-msgstr ""
+msgstr "De huidige toestand van het bureaublad is opgeslagen in profiel:"
 
 msgid "DEB packages to install:"
-msgstr ""
+msgstr "Te installeren DEB-pakketten:"
 
 msgid "Desktop Profiler"
 msgstr "Werkomgevingsprofielen"
@@ -172,64 +170,59 @@ msgstr "Met Werkomgevingsprofielen kunt u het beste werkomgevingsprofiel voor de
 msgid "Desktop environment:"
 msgstr "Werkomgeving:"
 
-#, fuzzy
 msgid "Desktop environments:"
-msgstr "Werkomgeving:"
+msgstr "Bureaubladomgevingen:"
 
 msgid "Desktop profiler - select default desktop environment"
 msgstr "Werkomgevingsprofielen - Kies de standaard werkomgeving"
 
-#, fuzzy
 msgid "Do you want to continue ?"
-msgstr "<p>Wilt u de huidige handeling afbreken?</p>"
+msgstr "Wilt u doorgaan?"
 
 msgid "Error: profile not found, file: "
-msgstr ""
+msgstr "Fout: profiel niet gevonden, bestand: "
 
 msgid "Exit code: "
-msgstr ""
+msgstr "Afsluitcode: "
 
-#, fuzzy
 msgid "Export profile"
-msgstr "Softwareprofiel:"
+msgstr "Profiel exporteren"
 
 msgid "Failed to read packages list, file: "
-msgstr ""
+msgstr "Kon de pakketlijst niet lezen, bestand: "
 
 msgid "Failed to read repositories list, file: "
-msgstr ""
+msgstr "Kon de lijst met pakketbronnen niet lezen, bestand: "
 
 msgid "Flatpak applications to install:"
-msgstr ""
+msgstr "Te installeren Flatpak-toepassingen:"
 
 msgid "Flatpak plugin completed, Ok"
-msgstr ""
+msgstr "Flatpak-plugin voltooid, OK"
 
 msgid "Get snapshot profile"
-msgstr ""
+msgstr "Momentopnameprofiel maken"
 
 msgid "Help"
-msgstr ""
+msgstr "Help"
 
 msgid "If you are not sure, just press <b>[ KDE Plasma ]</b> button to select the recommended option."
 msgstr "Bij twijfel, klik op <b>[ KDE Plasma ]</b> - dit is de aanbevolen optie."
 
 msgid "If you continue, the selected new profile replaces the previous one and system will be configured accordingly."
-msgstr ""
+msgstr "Als u doorgaat, vervangt het nieuw gekozen profiel het vorige en wordt het systeem dienovereenkomstig geconfigureerd."
 
-#, fuzzy
 msgid "Import a profile"
-msgstr "Softwareprofiel:"
+msgstr "Een profiel importeren"
 
 msgid "Import local profile"
-msgstr ""
+msgstr "Lokaal profiel importeren"
 
-#, fuzzy
 msgid "Import shared profile"
-msgstr "Softwareprofiel:"
+msgstr "Gedeeld profiel importeren"
 
 msgid "Initializing environment ..."
-msgstr ""
+msgstr "Omgeving initialiseren ..."
 
 msgid "Installation process has requested to logoff this session. Do you want re-login just now ?"
 msgstr "Om de installatie te voltooien dient u uit en weer in te loggen. Wilt u nu opnieuw inloggen?"
@@ -244,26 +237,25 @@ msgid "Launch installation"
 msgstr "Installatie starten"
 
 msgid "Launching Apt plugin ..."
-msgstr ""
+msgstr "Apt-plugin starten ..."
 
 msgid "Launching Flatpak plugin ..."
-msgstr ""
+msgstr "Flatpak-plugin starten ..."
 
 msgid "Next >"
 msgstr "Volgende >"
 
-#, fuzzy
 msgid "No configuration found."
-msgstr "Geen configuratie aangetroffen; bezig met afsluiten..."
+msgstr "Geen configuratie gevonden."
 
 msgid "No profile selected. Select a profile please."
-msgstr ""
+msgstr "Geen profiel geselecteerd. Selecteer een profiel."
 
 msgid "None selected"
 msgstr "Niets geselecteerd"
 
 msgid "Not implemented yet."
-msgstr ""
+msgstr "Nog niet geïmplementeerd."
 
 msgid "Note "
 msgstr "Opmerking "
@@ -272,18 +264,16 @@ msgid "Ok"
 msgstr "Oké"
 
 msgid "Options"
-msgstr ""
+msgstr "Opties"
 
 msgid "Please enter shared profile code, or Internet address:"
-msgstr ""
+msgstr "Voer de code van het gedeelde profiel of een internetadres in:"
 
-#, fuzzy
 msgid "Please re-login active session as soon as possible."
-msgstr "Herstart de X-server zo spoedig mogelijk."
+msgstr "Meld u zo snel mogelijk opnieuw aan bij de actieve sessie."
 
-#, fuzzy
 msgid "Please reboot as soon as possible."
-msgstr "Herstart de X-server zo spoedig mogelijk."
+msgstr "Start zo snel mogelijk opnieuw op."
 
 msgid "Please reboot your computer as soon as possible. Do you want reboot just now ?"
 msgstr "Start uw computer zo spoedig mogelijk opnieuw op. Wilt u nu opnieuw opstarten?"
@@ -291,88 +281,71 @@ msgstr "Start uw computer zo spoedig mogelijk opnieuw op. Wilt u nu opnieuw opst
 msgid "Please restart X server as soon as possible."
 msgstr "Herstart de X-server zo spoedig mogelijk."
 
-#, fuzzy
 msgid "Please select default desktop environment."
-msgstr "Werkomgevingsprofielen - Kies de standaard werkomgeving"
+msgstr "Kies de standaard bureaubladomgeving."
 
-#, fuzzy
 msgid "Please select default desktop environment. The lightweight and efficient Trinity desktop is installed and pre-configured as default at the moment. Nevertheless, Q4OS installer has autodetected your computer is powerful enough to operate more advanced KDE Plasma desktop environment."
-msgstr ""
-"<html>\n"
-"<font size=\"5\"><p>Kies de standaard werkomgeving.</p></font>\n"
-"<p align=justify>Momenteel is de lichte, efficiënte <b>Trinity</b>-werkomgeving geïnstalleerd en afgesteld. Echter, de Q4OS-instelhulp heeft vastgesteld dat uw computer krachtig genoeg is om de krachtigere <b>KDE Plasma</b>-werkomgeving te gebruiken.</p>\n"
-"</html>"
+msgstr "Kies de standaard bureaubladomgeving. Het lichte en efficiënte Trinity-bureaublad is op dit moment geïnstalleerd en als standaard ingesteld. Het Q4OS-installatieprogramma heeft echter vastgesteld dat uw computer krachtig genoeg is voor de geavanceerdere bureaubladomgeving KDE Plasma."
 
-#, fuzzy
 msgid "Previous profile:"
-msgstr "Softwareprofiel:"
+msgstr "Vorig profiel:"
 
 msgid "Profile applied, installation successful."
-msgstr ""
+msgstr "Profiel toegepast, installatie geslaagd."
 
 msgid "Profile description"
 msgstr "Profielomschrijving"
 
-#, fuzzy
 msgid "Profile export"
-msgstr "Profielomschrijving"
+msgstr "Profiel exporteren"
 
 msgid "Profile has been imported."
-msgstr ""
+msgstr "Het profiel is geïmporteerd."
 
 msgid "Profile has been removed."
-msgstr ""
+msgstr "Het profiel is verwijderd."
 
-#, fuzzy
 msgid "Profile info"
-msgstr "Profielomschrijving"
+msgstr "Profielinformatie"
 
-#, fuzzy
 msgid "Profile name:"
-msgstr "Profielomschrijving"
+msgstr "Profielnaam:"
 
 msgid "QSI applications to install:"
-msgstr ""
+msgstr "Te installeren QSI-toepassingen:"
 
 msgid "Remote profile not found."
-msgstr ""
+msgstr "Extern profiel niet gevonden."
 
-#, fuzzy
 msgid "Remove profile"
-msgstr "Softwareprofiel:"
+msgstr "Profiel verwijderen"
 
 msgid "Remove superfluous packages"
-msgstr ""
+msgstr "Overbodige pakketten verwijderen"
 
 msgid "Root permissions needed, exiting ..."
-msgstr ""
+msgstr "Rootrechten vereist, afsluiten ..."
 
 msgid "Select a profile from the list please."
-msgstr ""
+msgstr "Selecteer een profiel uit de lijst."
 
 msgid "Selected profile has been saved to file:"
-msgstr ""
+msgstr "Het geselecteerde profiel is opgeslagen in bestand:"
 
 msgid "Software profile:"
 msgstr "Softwareprofiel:"
 
-#, fuzzy
 msgid "Starting profile installation ... "
-msgstr "Installatie starten"
+msgstr "Installatie van het profiel starten ... "
 
 msgid "System profiles cannot be removed."
-msgstr ""
+msgstr "Systeemprofielen kunnen niet worden verwijderd."
 
-#, fuzzy
 msgid "The lightweight and efficient <b>Trinity</b> desktop is installed and pre-configured as default at the moment. Nevertheless, Q4OS installer has autodetected your computer is powerful enough to operate more advanced <b>KDE Plasma</b> desktop environment."
-msgstr ""
-"<html>\n"
-"<font size=\"5\"><p>Kies de standaard werkomgeving.</p></font>\n"
-"<p align=justify>Momenteel is de lichte, efficiënte <b>Trinity</b>-werkomgeving geïnstalleerd en afgesteld. Echter, de Q4OS-instelhulp heeft vastgesteld dat uw computer krachtig genoeg is om de krachtigere <b>KDE Plasma</b>-werkomgeving te gebruiken.</p>\n"
-"</html>"
+msgstr "Het lichte en efficiënte <b>Trinity</b>-bureaublad is op dit moment geïnstalleerd en als standaard ingesteld. Het Q4OS-installatieprogramma heeft echter vastgesteld dat uw computer krachtig genoeg is voor de geavanceerdere bureaubladomgeving <b>KDE Plasma</b>."
 
 msgid "This profile has been already imported."
-msgstr ""
+msgstr "Dit profiel is al geïmporteerd."
 
 msgid "Trinity"
 msgstr "Trinity"
@@ -381,32 +354,31 @@ msgid "Trinity >"
 msgstr "Trinity >"
 
 msgid "Uncheck to preserve currently installed packages."
-msgstr ""
+msgstr "Vink uit om de momenteel geïnstalleerde pakketten te behouden."
 
 msgid "Writing log info ..."
-msgstr ""
+msgstr "Loginformatie schrijven ..."
 
 msgid "Writing profile status ..."
-msgstr ""
+msgstr "Profielstatus schrijven ..."
 
 msgid "Yes, I really want to install additional DE"
 msgstr "Ja, ik weet zeker dat ik een aanvullende werkomgeving wil"
 
 msgid "Yes, still apply"
-msgstr ""
+msgstr "Ja, toch toepassen"
 
 msgid "You are about to cancel desktop profiler without installing a profile. Are you sure ?"
-msgstr ""
+msgstr "U staat op het punt Desktop Profiler af te sluiten zonder een profiel te installeren. Weet u het zeker?"
 
-#, fuzzy
 msgid "You are calling for an alternative desktop installation, but it's not compatible with the profile selected. Please select another profile or desktop."
-msgstr "<p>U wilt een alternatieve werkomgeving gebruiken, maar deze is niet compatibel met het gekozen profiel. Kies een ander profiel.</p>"
+msgstr "U vraagt om de installatie van een alternatief bureaublad, maar dat is niet compatibel met het gekozen profiel. Kies een ander profiel of bureaublad."
 
 msgid "You can now edit the file to your preferences."
-msgstr ""
+msgstr "U kunt het bestand nu naar wens bewerken."
 
 msgid "some installed applications and packages may be removed as they are not part of the new profile."
-msgstr ""
+msgstr "sommige geïnstalleerde toepassingen en pakketten kunnen worden verwijderd omdat ze geen deel uitmaken van het nieuwe profiel."
 
 #~ msgid "Default (TDE)"
 #~ msgstr "Standaard (TDE)"

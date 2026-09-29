@@ -7,10 +7,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-23 10:23+0100\n"
-"PO-Revision-Date: 2026-04-20 16:45+0100\n"
+"POT-Creation-Date: 2026-09-25 08:51+0000\n"
+"PO-Revision-Date: 2026-09-25 10:55+0200\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
-"Language-Team: Portuguese <hugokarvalho@hotmail.com>\n"
+"Language-Team: Q4OS pt <devteam@q4os.org>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -32,8 +32,8 @@ msgstr "---  Menu  ---"
 msgid "<"
 msgstr "<"
 
-msgid "<p>"
-msgstr "<p>"
+msgid "<p>%1 is already installed, do you want to uninstall ?</p>"
+msgstr "<p>%1 já está instalado, deseja desinstalá-lo?</p>"
 
 msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
 msgstr "<p>A instalação da NVIDIA foi detectada !</p><p>As ações estão desativadas durante a configuração da NVIDIA, aguarde até o final da instalação da NVIDIA.</p>"
@@ -59,17 +59,29 @@ msgstr "A base de dados APT ainda não foi atualizada."
 msgid "Application"
 msgstr "Aplicação"
 
+msgid "Building Apt database ..."
+msgstr "A construir a base de dados do Apt ..."
+
+msgid "Building Flatpak database ..."
+msgstr "A construir a base de dados do Flatpak ..."
+
+msgid "Building application list ..."
+msgstr "A construir a lista de aplicações ..."
+
+msgid "Building flatpaks list ..."
+msgstr "A construir a lista de flatpaks ..."
+
 msgid "Cancel"
 msgstr "Cancelar"
 
 msgid "Description"
 msgstr "Descrição"
 
-msgid "Desktop Profiler"
-msgstr "Perfil do ambiente de trabalho"
-
 msgid "Desktop profiler"
 msgstr "Perfil de ambiente de trabalho"
+
+msgid "Discover manager"
+msgstr "Gestor Discover"
 
 msgid "Discover software manager isn't installed, do you want to install it now ?"
 msgstr "O gestor de software Discover não está instalado, pretende instalá-lo agora?"
@@ -83,11 +95,17 @@ msgstr "Aplicações em destaque: #"
 msgid "Flathub apps"
 msgstr "Aplicações Flathub"
 
+msgid "Found: %1 of %2"
+msgstr "Encontradas: %1 de %2"
+
 msgid "In order to get more applications in the featured list, refresh APT database and start the Software center again."
 msgstr "Para obter mais aplicações na lista em destaque, atualize a base de dados APT e inicie novamente o Centro de Software."
 
 msgid "Info"
 msgstr "Informação"
+
+msgid "Initializing ..."
+msgstr "A inicializar ..."
 
 msgid "Install"
 msgstr "Instalar"
@@ -104,11 +122,26 @@ msgstr "Instalar a aplicação"
 msgid "Install or uninstall selected application from the featured applications list below"
 msgstr "Instalar ou desinstalar a aplicação selecionada a partir da lista de aplicações em destaque abaixo"
 
+msgid "Installed:"
+msgstr "Instalado:"
+
+msgid "Loading data ..."
+msgstr "A carregar dados ..."
+
 msgid "More options"
 msgstr "Mais opções"
 
+msgid "Not installed:"
+msgstr "Não instalado:"
+
 msgid "Open Flathub repository in the preferred web browser"
 msgstr "Abrir o repositório Flathub no navegador Web preferido"
+
+msgid "Origin"
+msgstr "Origem"
+
+msgid "Package installer"
+msgstr "Instalador de pacotes"
 
 msgid "Q4OS Software Centre"
 msgstr "Centro de software Q4OS"
@@ -134,11 +167,17 @@ msgstr "Pesquisar:"
 msgid "Settings"
 msgstr "Definições"
 
+msgid "Sorting ..."
+msgstr "A ordenar ..."
+
 msgid "Status"
 msgstr "Estado"
 
 msgid "Status:"
 msgstr "Estado:"
+
+msgid "Synaptic manager"
+msgstr "Gestor Synaptic"
 
 msgid "Synaptic package manager isn't installed, do you want to install it now ?"
 msgstr "O gestor de software Synaptic não está instalado, pretende instalá-lo agora?"
@@ -185,11 +224,14 @@ msgstr "repositórios"
 msgid "textLabel"
 msgstr "textLabel"
 
+#~ msgid "<p>"
+#~ msgstr "<p>"
+
+#~ msgid "Desktop Profiler"
+#~ msgstr "Perfil do ambiente de trabalho"
+
 #~ msgid "1"
 #~ msgstr "1"
-
-#~ msgid "Package manager"
-#~ msgstr "Gestor de pacotes"
 
 #~ msgid "Run 'Synaptic' - system package manager"
 #~ msgstr "Execute o 'Synaptic' - gestor de pacotes do sistema"

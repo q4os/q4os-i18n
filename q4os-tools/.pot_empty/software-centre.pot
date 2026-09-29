@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-23 10:23+0100\n"
+"POT-Creation-Date: 2026-09-25 08:51+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,7 +29,7 @@ msgstr ""
 msgid "<"
 msgstr ""
 
-msgid "<p>"
+msgid "<p>%1 is already installed, do you want to uninstall ?</p>"
 msgstr ""
 
 msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
@@ -56,16 +56,28 @@ msgstr ""
 msgid "Application"
 msgstr ""
 
+msgid "Building Apt database ..."
+msgstr ""
+
+msgid "Building Flatpak database ..."
+msgstr ""
+
+msgid "Building application list ..."
+msgstr ""
+
+msgid "Building flatpaks list ..."
+msgstr ""
+
 msgid "Cancel"
 msgstr ""
 
 msgid "Description"
 msgstr ""
 
-msgid "Desktop Profiler"
+msgid "Desktop profiler"
 msgstr ""
 
-msgid "Desktop profiler"
+msgid "Discover manager"
 msgstr ""
 
 msgid "Discover software manager isn't installed, do you want to install it now ?"
@@ -80,10 +92,16 @@ msgstr ""
 msgid "Flathub apps"
 msgstr ""
 
+msgid "Found: %1 of %2"
+msgstr ""
+
 msgid "In order to get more applications in the featured list, refresh APT database and start the Software center again."
 msgstr ""
 
 msgid "Info"
+msgstr ""
+
+msgid "Initializing ..."
 msgstr ""
 
 msgid "Install"
@@ -101,10 +119,25 @@ msgstr ""
 msgid "Install or uninstall selected application from the featured applications list below"
 msgstr ""
 
+msgid "Installed:"
+msgstr ""
+
+msgid "Loading data ..."
+msgstr ""
+
 msgid "More options"
 msgstr ""
 
+msgid "Not installed:"
+msgstr ""
+
 msgid "Open Flathub repository in the preferred web browser"
+msgstr ""
+
+msgid "Origin"
+msgstr ""
+
+msgid "Package installer"
 msgstr ""
 
 msgid "Q4OS Software Centre"
@@ -131,10 +164,16 @@ msgstr ""
 msgid "Settings"
 msgstr ""
 
+msgid "Sorting ..."
+msgstr ""
+
 msgid "Status"
 msgstr ""
 
 msgid "Status:"
+msgstr ""
+
+msgid "Synaptic manager"
 msgstr ""
 
 msgid "Synaptic package manager isn't installed, do you want to install it now ?"

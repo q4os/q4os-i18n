@@ -8,373 +8,373 @@ msgstr ""
 "Project-Id-Version: Q4OS Desktop Profiler\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-21 10:49+0100\n"
-"PO-Revision-Date: 2015-05-30 11:21+0100\n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: \n"
+"PO-Revision-Date: 2026-09-24 23:28+0200\n"
+"Last-Translator: Q4OS Team <devteam@q4os.org>\n"
+"Language-Team: Q4OS he <devteam@q4os.org>\n"
+"Language: he\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "  Install >"
-msgstr ""
+msgstr "  התקנה >"
 
 msgid "* select please *"
-msgstr ""
+msgstr "* נא לבחור *"
 
 msgid "--- General ---"
-msgstr ""
+msgstr "--- כללי ---"
 
 msgid "--- Miscellaneous ---"
-msgstr ""
+msgstr "--- שונות ---"
 
 msgid "--- Selected profile ---"
-msgstr ""
+msgstr "--- הפרופיל הנבחר ---"
 
 msgid "0"
-msgstr ""
+msgstr "0"
 
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgid "10"
-msgstr ""
+msgstr "10"
 
 msgid "2"
-msgstr ""
+msgstr "2"
 
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgid "4"
-msgstr ""
+msgstr "4"
 
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgid "6"
-msgstr ""
+msgstr "6"
 
 msgid "7"
-msgstr ""
+msgstr "7"
 
 msgid "8"
-msgstr ""
+msgstr "8"
 
 msgid "9"
-msgstr ""
+msgstr "9"
 
 msgid "<"
-msgstr ""
+msgstr "<"
 
 msgid "<p align=justify>This dialog lets you choose an additional desktop environment (DE) to install alongside the default Q4OS desktop.</p><p align=justify>Please do not use this option, unless you are absolutely sure what you are doing.</p>"
-msgstr ""
+msgstr "<p align=justify>דו-שיח זה מאפשר לבחור סביבת שולחן עבודה (DE) נוספת שתותקן לצד שולחן העבודה של Q4OS המוגדר כברירת מחדל.</p><p align=justify>נא לא להשתמש באפשרות זו אלא אם ברור לך לחלוטין מה הפעולה עושה.</p>"
 
 msgid "<p>Couldn't open file.</p>"
-msgstr ""
+msgstr "<p>לא ניתן לפתוח את הקובץ.</p>"
 
 msgid "<p>Do you want to cancel pending operation ?</p>"
-msgstr ""
+msgstr "<p>האם לבטל את הפעולה הממתינה?</p>"
 
 msgid "<p>Install and set <span style=\"font-weight:600\">KDE Plasma</span> environment as default and leave the Trinity desktop as an option.</p>"
-msgstr ""
+msgstr "<p>להתקין את סביבת <span style=\"font-weight:600\">KDE Plasma</span> ולהגדירה כברירת מחדל, ולהשאיר את שולחן העבודה Trinity כאפשרות.</p>"
 
 msgid "<p>Insufficient hardware detected !</p><p>Your CPU lacks SSE2 support, SSE2 is necessary for required software.</p>"
-msgstr ""
+msgstr "<p>זוהתה חומרה בלתי מספקת!</p><p>המעבד שלך אינו תומך ב-SSE2, הנדרש עבור התוכנה המבוקשת.</p>"
 
 msgid "<p>Insufficient hardware detected !</p><p>Your computer is low in hardware resources for profile you have selected, it's not recommended to install the profile.</p>"
-msgstr ""
+msgstr "<p>זוהתה חומרה בלתי מספקת!</p><p>למחשב שלך משאבי חומרה מועטים עבור הפרופיל שנבחר, לא מומלץ להתקין את הפרופיל.</p>"
 
 msgid "<p>Keep the <span style=\"font-weight:600\">Trinity</span> desktop as default, no Plasma will be installed. You can start Plasma installation later using the Desktop profiler tool.</p>"
-msgstr ""
+msgstr "<p>להשאיר את שולחן העבודה <span style=\"font-weight:600\">Trinity</span> כברירת מחדל, Plasma לא יותקן. ניתן להתחיל את התקנת Plasma מאוחר יותר באמצעות הכלי Desktop Profiler.</p>"
 
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, most likely, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p>"
-msgstr ""
+msgstr "<p>מערכת החבילות עסוקה ואינה מוכנה להתקנה כעת. ההגדרה אינה יכולה להימשך.</p><p>הנעילה נגרמת ככל הנראה מעדכוני מערכת שרצים ברקע. אם זה המצב, יש להמתין מעט עד שמערכת החבילות תסיים פעולות אלה. נא לוודא שאינך מתקין יישום אחר ולחזור על ההגדרה בעוד כמה דקות.</p>"
 
 msgid "<p>Warning: Canceling installation during this phase could result in package system failure.</p><p>Are you really sure, you want to interrupt the install process now ?</p>"
-msgstr ""
+msgstr "<p>אזהרה: ביטול ההתקנה בשלב זה עלול לגרום לכשל במערכת החבילות.</p><p>האם באמת ברצונך להפסיק את תהליך ההתקנה כעת?</p>"
 
 msgid ">"
-msgstr ""
+msgstr ">"
 
 msgid "A profile has been already applied for this system."
-msgstr ""
+msgstr "כבר הוחל פרופיל על מערכת זו."
 
 msgid "Additional repositories:"
-msgstr ""
+msgstr "מאגרים נוספים:"
 
 msgid "Another instance of Desktop Profiler is running, leaving ..."
-msgstr ""
+msgstr "עותק נוסף של Desktop Profiler כבר פועל, יוצא ..."
 
 msgid "Apply profile"
-msgstr ""
+msgstr "החלת פרופיל"
 
 msgid "Applying a profile within the live systems isn't supported."
-msgstr ""
+msgstr "החלת פרופיל במערכת חיה אינה נתמכת."
 
 msgid "Apt configured, no additional action needed."
-msgstr ""
+msgstr "Apt מוגדר, לא נדרשת פעולה נוספת."
 
 msgid "Apt plugin completed, Ok"
-msgstr ""
+msgstr "תוסף Apt הושלם, אישור"
 
 msgid "Are you really sure to overwrite the previous profile ?"
-msgstr ""
+msgstr "האם באמת לדרוס את הפרופיל הקודם?"
 
 msgid "Cancel"
-msgstr ""
+msgstr "ביטול"
 
 msgid "Cancel installation"
-msgstr ""
+msgstr "ביטול ההתקנה"
 
 msgid "Cancel menu"
-msgstr ""
+msgstr "סגירת התפריט"
 
 msgid "Choose a new filename to export current status to"
-msgstr ""
+msgstr "נא לבחור שם קובץ חדש לייצוא המצב הנוכחי"
 
 msgid "Choose a new filename to save the profile to"
-msgstr ""
+msgstr "נא לבחור שם קובץ חדש לשמירת הפרופיל"
 
 msgid "Choose an additional desktop environment to install."
-msgstr ""
+msgstr "בחירת סביבת שולחן עבודה נוספת להתקנה."
 
 msgid "Choose an additional desktop environment to install. Please do not use this option, unless you are absolutely sure what you are doing."
-msgstr ""
+msgstr "בחירת סביבת שולחן עבודה נוספת להתקנה. נא לא להשתמש באפשרות זו אלא אם ברור לך לחלוטין מה הפעולה עושה."
 
 msgid "Choose desktop environment"
-msgstr ""
+msgstr "בחירת סביבת שולחן עבודה"
 
 msgid "Click to select profile"
-msgstr ""
+msgstr "יש ללחוץ כדי לבחור פרופיל"
 
 msgid "Configuration file:"
-msgstr ""
+msgstr "קובץ הגדרות:"
 
 msgid "Current desktop status has been saved to profile:"
-msgstr ""
+msgstr "המצב הנוכחי של שולחן העבודה נשמר לפרופיל:"
 
 msgid "DEB packages to install:"
-msgstr ""
+msgstr "חבילות DEB להתקנה:"
 
 msgid "Desktop Profiler"
-msgstr ""
+msgstr "Desktop Profiler"
 
 msgid "Desktop Profiler - install progress"
-msgstr ""
+msgstr "Desktop Profiler - התקדמות ההתקנה"
 
 msgid "Desktop Profiler lets you to choose and apply the most appropriate desktop profile for this computer."
-msgstr ""
+msgstr "Desktop Profiler מאפשר לבחור ולהחיל את פרופיל שולחן העבודה המתאים ביותר למחשב זה."
 
 msgid "Desktop environment:"
-msgstr ""
+msgstr "סביבת שולחן עבודה:"
 
 msgid "Desktop environments:"
-msgstr ""
+msgstr "סביבות שולחן עבודה:"
 
 msgid "Desktop profiler - select default desktop environment"
-msgstr ""
+msgstr "Desktop Profiler - בחירת סביבת שולחן העבודה שתשמש כברירת מחדל"
 
 msgid "Do you want to continue ?"
-msgstr ""
+msgstr "האם להמשיך?"
 
 msgid "Error: profile not found, file: "
-msgstr ""
+msgstr "שגיאה: הפרופיל לא נמצא, קובץ: "
 
 msgid "Exit code: "
-msgstr ""
+msgstr "קוד יציאה: "
 
 msgid "Export profile"
-msgstr ""
+msgstr "ייצוא פרופיל"
 
 msgid "Failed to read packages list, file: "
-msgstr ""
+msgstr "קריאת רשימת החבילות נכשלה, קובץ: "
 
 msgid "Failed to read repositories list, file: "
-msgstr ""
+msgstr "קריאת רשימת המאגרים נכשלה, קובץ: "
 
 msgid "Flatpak applications to install:"
-msgstr ""
+msgstr "יישומי Flatpak להתקנה:"
 
 msgid "Flatpak plugin completed, Ok"
-msgstr ""
+msgstr "תוסף Flatpak הושלם, אישור"
 
 msgid "Get snapshot profile"
-msgstr ""
+msgstr "יצירת פרופיל מתמונת המצב"
 
 msgid "Help"
-msgstr ""
+msgstr "עזרה"
 
 msgid "If you are not sure, just press <b>[ KDE Plasma ]</b> button to select the recommended option."
-msgstr ""
+msgstr "אם אינך בטוח, פשוט לחץ על הכפתור <b>[ KDE Plasma ]</b> כדי לבחור את האפשרות המומלצת."
 
 msgid "If you continue, the selected new profile replaces the previous one and system will be configured accordingly."
-msgstr ""
+msgstr "אם תמשיך, הפרופיל החדש שנבחר יחליף את הקודם והמערכת תוגדר בהתאם."
 
 msgid "Import a profile"
-msgstr ""
+msgstr "ייבוא פרופיל"
 
 msgid "Import local profile"
-msgstr ""
+msgstr "ייבוא פרופיל מקומי"
 
 msgid "Import shared profile"
-msgstr ""
+msgstr "ייבוא פרופיל משותף"
 
 msgid "Initializing environment ..."
-msgstr ""
+msgstr "מאתחל את הסביבה ..."
 
 msgid "Installation process has requested to logoff this session. Do you want re-login just now ?"
-msgstr ""
+msgstr "תהליך ההתקנה ביקש לצאת מהפעלה זו. האם להתחבר מחדש כעת?"
 
 msgid "KDE Plasma"
-msgstr ""
+msgstr "KDE Plasma"
 
 msgid "KDE Plasma >"
-msgstr ""
+msgstr "KDE Plasma >"
 
 msgid "Launch installation"
-msgstr ""
+msgstr "התחלת ההתקנה"
 
 msgid "Launching Apt plugin ..."
-msgstr ""
+msgstr "מפעיל את תוסף Apt ..."
 
 msgid "Launching Flatpak plugin ..."
-msgstr ""
+msgstr "מפעיל את תוסף Flatpak ..."
 
 msgid "Next >"
-msgstr ""
+msgstr "הבא >"
 
 msgid "No configuration found."
-msgstr ""
+msgstr "לא נמצאו הגדרות."
 
 msgid "No profile selected. Select a profile please."
-msgstr ""
+msgstr "לא נבחר פרופיל. נא לבחור פרופיל."
 
 msgid "None selected"
-msgstr ""
+msgstr "לא נבחר דבר"
 
 msgid "Not implemented yet."
-msgstr ""
+msgstr "טרם מומש."
 
 msgid "Note "
-msgstr ""
+msgstr "הערה "
 
 msgid "Ok"
-msgstr ""
+msgstr "אישור"
 
 msgid "Options"
-msgstr ""
+msgstr "אפשרויות"
 
 msgid "Please enter shared profile code, or Internet address:"
-msgstr ""
+msgstr "נא להזין קוד פרופיל משותף או כתובת אינטרנט:"
 
 msgid "Please re-login active session as soon as possible."
-msgstr ""
+msgstr "נא להתחבר מחדש להפעלה הפעילה בהקדם האפשרי."
 
 msgid "Please reboot as soon as possible."
-msgstr ""
+msgstr "נא להפעיל מחדש בהקדם האפשרי."
 
 msgid "Please reboot your computer as soon as possible. Do you want reboot just now ?"
-msgstr ""
+msgstr "נא להפעיל מחדש את המחשב בהקדם האפשרי. האם להפעיל מחדש כעת?"
 
 msgid "Please restart X server as soon as possible."
-msgstr ""
+msgstr "נא להפעיל מחדש את שרת ה-X בהקדם האפשרי."
 
 msgid "Please select default desktop environment."
-msgstr ""
+msgstr "נא לבחור את סביבת שולחן העבודה שתשמש כברירת מחדל."
 
 msgid "Please select default desktop environment. The lightweight and efficient Trinity desktop is installed and pre-configured as default at the moment. Nevertheless, Q4OS installer has autodetected your computer is powerful enough to operate more advanced KDE Plasma desktop environment."
-msgstr ""
+msgstr "נא לבחור את סביבת שולחן העבודה שתשמש כברירת מחדל. שולחן העבודה הקל והיעיל Trinity מותקן כרגע ומוגדר מראש כברירת מחדל. עם זאת, מתקין Q4OS זיהה שהמחשב שלך חזק מספיק כדי להפעיל את סביבת שולחן העבודה המתקדמת יותר KDE Plasma."
 
 msgid "Previous profile:"
-msgstr ""
+msgstr "הפרופיל הקודם:"
 
 msgid "Profile applied, installation successful."
-msgstr ""
+msgstr "הפרופיל הוחל, ההתקנה הצליחה."
 
 msgid "Profile description"
-msgstr ""
+msgstr "תיאור הפרופיל"
 
 msgid "Profile export"
-msgstr ""
+msgstr "ייצוא פרופיל"
 
 msgid "Profile has been imported."
-msgstr ""
+msgstr "הפרופיל יובא."
 
 msgid "Profile has been removed."
-msgstr ""
+msgstr "הפרופיל הוסר."
 
 msgid "Profile info"
-msgstr ""
+msgstr "פרטי הפרופיל"
 
 msgid "Profile name:"
-msgstr ""
+msgstr "שם הפרופיל:"
 
 msgid "QSI applications to install:"
-msgstr ""
+msgstr "יישומי QSI להתקנה:"
 
 msgid "Remote profile not found."
-msgstr ""
+msgstr "הפרופיל המרוחק לא נמצא."
 
 msgid "Remove profile"
-msgstr ""
+msgstr "הסרת פרופיל"
 
 msgid "Remove superfluous packages"
-msgstr ""
+msgstr "הסרת חבילות מיותרות"
 
 msgid "Root permissions needed, exiting ..."
-msgstr ""
+msgstr "נדרשות הרשאות root, יוצא ..."
 
 msgid "Select a profile from the list please."
-msgstr ""
+msgstr "נא לבחור פרופיל מהרשימה."
 
 msgid "Selected profile has been saved to file:"
-msgstr ""
+msgstr "הפרופיל שנבחר נשמר לקובץ:"
 
 msgid "Software profile:"
-msgstr ""
+msgstr "פרופיל תוכנה:"
 
 msgid "Starting profile installation ... "
-msgstr ""
+msgstr "מתחיל בהתקנת הפרופיל ... "
 
 msgid "System profiles cannot be removed."
-msgstr ""
+msgstr "לא ניתן להסיר פרופילי מערכת."
 
 msgid "The lightweight and efficient <b>Trinity</b> desktop is installed and pre-configured as default at the moment. Nevertheless, Q4OS installer has autodetected your computer is powerful enough to operate more advanced <b>KDE Plasma</b> desktop environment."
-msgstr ""
+msgstr "שולחן העבודה הקל והיעיל <b>Trinity</b> מותקן כרגע ומוגדר מראש כברירת מחדל. עם זאת, מתקין Q4OS זיהה שהמחשב שלך חזק מספיק כדי להפעיל את סביבת שולחן העבודה המתקדמת יותר <b>KDE Plasma</b>."
 
 msgid "This profile has been already imported."
-msgstr ""
+msgstr "פרופיל זה כבר יובא."
 
 msgid "Trinity"
-msgstr ""
+msgstr "Trinity"
 
 msgid "Trinity >"
-msgstr ""
+msgstr "Trinity >"
 
 msgid "Uncheck to preserve currently installed packages."
-msgstr ""
+msgstr "יש לבטל את הסימון כדי לשמור על החבילות המותקנות כעת."
 
 msgid "Writing log info ..."
-msgstr ""
+msgstr "כותב פרטי יומן ..."
 
 msgid "Writing profile status ..."
-msgstr ""
+msgstr "כותב את מצב הפרופיל ..."
 
 msgid "Yes, I really want to install additional DE"
-msgstr ""
+msgstr "כן, אני באמת רוצה להתקין סביבת שולחן עבודה נוספת"
 
 msgid "Yes, still apply"
-msgstr ""
+msgstr "כן, להחיל בכל זאת"
 
 msgid "You are about to cancel desktop profiler without installing a profile. Are you sure ?"
-msgstr ""
+msgstr "אתה עומד לסגור את Desktop Profiler מבלי להתקין פרופיל. האם אתה בטוח?"
 
 msgid "You are calling for an alternative desktop installation, but it's not compatible with the profile selected. Please select another profile or desktop."
-msgstr ""
+msgstr "ביקשת להתקין שולחן עבודה חלופי, אך הוא אינו תואם לפרופיל שנבחר. נא לבחור פרופיל או שולחן עבודה אחר."
 
 msgid "You can now edit the file to your preferences."
-msgstr ""
+msgstr "כעת ניתן לערוך את הקובץ לפי העדפותיך."
 
 msgid "some installed applications and packages may be removed as they are not part of the new profile."
-msgstr ""
+msgstr "ייתכן שיישומים וחבילות מותקנים מסוימים יוסרו, מכיוון שאינם חלק מהפרופיל החדש."

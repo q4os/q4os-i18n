@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Welcome Screen\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-14 21:11+0200\n"
+"POT-Creation-Date: 2026-09-25 08:28+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -56,9 +56,6 @@ msgstr ""
 msgid "<p>Do you want to switch the Start Menu ?</p>"
 msgstr ""
 
-msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
-msgstr ""
-
 msgid "<p>Start Menu is now set to Bourbon style.</p>"
 msgstr ""
 
@@ -72,12 +69,6 @@ msgid "<p>This action is available for Trinity and Plasma desktops only.</p>"
 msgstr ""
 
 msgid "<p>This action is available for Trinity desktop only.</p>"
-msgstr ""
-
-msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
-msgstr ""
-
-msgid "<p>Your hardware seems to be low to run desktop effects, it's not recommended to turn effects on.</p><p>Do you really want to turn Desktop Effects on ?</p>"
 msgstr ""
 
 msgid "Apply"
@@ -105,6 +96,9 @@ msgid "Classic style cascading menu"
 msgstr ""
 
 msgid "Desktop effects"
+msgstr ""
+
+msgid "Do you really want to turn Desktop Effects on ?"
 msgstr ""
 
 msgid "Do you want to turn Desktop Effects on ?"
@@ -225,6 +219,9 @@ msgid "Well arranged system hardware information."
 msgstr ""
 
 msgid "Working ..."
+msgstr ""
+
+msgid "Your hardware seems to be low to run desktop effects, it's not recommended to turn effects on."
 msgstr ""
 
 msgid "fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface."

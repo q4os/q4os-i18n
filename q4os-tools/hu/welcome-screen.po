@@ -3,15 +3,14 @@
 # This file is distributed under the same license as the Q4OS Welcome Screen package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Welcome Screen\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-14 21:11+0200\n"
-"PO-Revision-Date: 2025-01-28 16:43+0100\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"POT-Creation-Date: 2026-09-25 08:28+0000\n"
+"PO-Revision-Date: 2026-09-25 10:27+0200\n"
+"Last-Translator: Q4OS Team <devteam@q4os.org>\n"
+"Language-Team: Q4OS hu <devteam@q4os.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -57,9 +56,6 @@ msgstr "<p>Szeretnéd engedélyezni az automatikus bejelentkezést?</p>"
 msgid "<p>Do you want to switch the Start Menu ?</p>"
 msgstr "<p>Szeretnéd átkapcsolni a Start menüt?</p>"
 
-msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
-msgstr "<p>NVIDIA telepítést észleltünk !</p><p>Az NVIDIA telepítés során a funkciók le vannak tiltva, kérlek, várj az NVIDIA telepítés végéig.</p>"
-
 msgid "<p>Start Menu is now set to Bourbon style.</p>"
 msgstr "<p>A Start menü mostantól Bourbon stílusra van állítva.</p>"
 
@@ -74,12 +70,6 @@ msgstr "<p>Ez a művelet csak a Trinity és a Plasma asztali környezetben érhe
 
 msgid "<p>This action is available for Trinity desktop only.</p>"
 msgstr "<p>Ez a művelet csak a Trinity asztali környezetben érhető el.</p>"
-
-msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
-msgstr "<p>A Virtualbox telepítését észleltük !</p><p>A Virtualbox telepítése alatt a műveletek le vannak tiltva, kérlek, várj a Virtualbox telepítésének végéig.</p>"
-
-msgid "<p>Your hardware seems to be low to run desktop effects, it's not recommended to turn effects on.</p><p>Do you really want to turn Desktop Effects on ?</p>"
-msgstr "<p>A hardver gyengének tűnik az asztali effektek futtatásához, ezért nem ajánlott bekapcsolni az effekteket.</p><p>Szeretnéd bekapcsolni az asztali effekteket?</p>"
 
 msgid "Apply"
 msgstr "Alkalmazz"
@@ -107,6 +97,9 @@ msgstr "Klasszikus stílusú kaszkád menü"
 
 msgid "Desktop effects"
 msgstr "Asztali effektek"
+
+msgid "Do you really want to turn Desktop Effects on ?"
+msgstr "Szeretnéd bekapcsolni az asztali effekteket?"
 
 msgid "Do you want to turn Desktop Effects on ?"
 msgstr "Szeretnéd bekapcsolni az asztali effekteket?"
@@ -180,9 +173,8 @@ msgstr "Asztal Profiler futtatása"
 msgid "Screen scaling"
 msgstr "Képernyő méretezése"
 
-#, fuzzy
 msgid "Screen scaling tool not found."
-msgstr "Képernyő méretezése"
+msgstr "A képernyő-méretező eszköz nem található."
 
 msgid "Set Autologin"
 msgstr "Autologin beállítása"
@@ -229,6 +221,9 @@ msgstr "Rendezett rendszerhardver-információk."
 msgid "Working ..."
 msgstr "Dolgozunk ..."
 
+msgid "Your hardware seems to be low to run desktop effects, it's not recommended to turn effects on."
+msgstr "A hardver gyengének tűnik az asztali effektek futtatásához, ezért nem ajánlott bekapcsolni az effekteket."
+
 msgid "fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface."
 msgstr "gyors, nagy teljesítményű operációs rendszer, amely a hosszú távú stabilitásra, megbízhatóságra és a klasszikus felhasználói felületre összpontosít."
 
@@ -246,3 +241,9 @@ msgstr "pushButton4"
 
 msgid "textLabel1"
 msgstr "textLabel1"
+
+#~ msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
+#~ msgstr "<p>NVIDIA telepítést észleltünk !</p><p>Az NVIDIA telepítés során a funkciók le vannak tiltva, kérlek, várj az NVIDIA telepítés végéig.</p>"
+
+#~ msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
+#~ msgstr "<p>A Virtualbox telepítését észleltük !</p><p>A Virtualbox telepítése alatt a műveletek le vannak tiltva, kérlek, várj a Virtualbox telepítésének végéig.</p>"

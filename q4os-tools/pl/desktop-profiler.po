@@ -9,12 +9,12 @@ msgstr ""
 "Project-Id-Version: Q4OS Desktop Profiler\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-21 10:49+0100\n"
-"PO-Revision-Date: 2021-04-21 00:01+0200\n"
+"PO-Revision-Date: 2026-09-24 23:28+0200\n"
 "Last-Translator: oloke <olokelo@gmail.com>\n"
-"Language-Team: \n"
+"Language-Team: Q4OS pl <devteam@q4os.org>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.4.1\n"
 
@@ -25,14 +25,13 @@ msgid "* select please *"
 msgstr "* proszę wybrać *"
 
 msgid "--- General ---"
-msgstr ""
+msgstr "--- Ogólne ---"
 
 msgid "--- Miscellaneous ---"
-msgstr ""
+msgstr "--- Różne ---"
 
-#, fuzzy
 msgid "--- Selected profile ---"
-msgstr "Wybierz profil"
+msgstr "--- Wybrany profil ---"
 
 msgid "0"
 msgstr "0"
@@ -68,13 +67,13 @@ msgid "9"
 msgstr "9"
 
 msgid "<"
-msgstr ""
+msgstr "<"
 
 msgid "<p align=justify>This dialog lets you choose an additional desktop environment (DE) to install alongside the default Q4OS desktop.</p><p align=justify>Please do not use this option, unless you are absolutely sure what you are doing.</p>"
 msgstr "<p align=justify>To okno pozwoli Ci wybrać dodatkowe środowisko graficzne do instalacji obok domyślnego pulpitu Q4OS.</p><p align=justify>Proszę nie zaznaczaj tej opcji, chyba że jesteś pewien że wiesz co robisz.</p>"
 
 msgid "<p>Couldn't open file.</p>"
-msgstr ""
+msgstr "<p>Nie można otworzyć pliku.</p>"
 
 msgid "<p>Do you want to cancel pending operation ?</p>"
 msgstr "<p>Czy chcesz anulować oczekującą operację ?</p>"
@@ -102,46 +101,43 @@ msgid ">"
 msgstr ">"
 
 msgid "A profile has been already applied for this system."
-msgstr ""
+msgstr "Profil został już zastosowany w tym systemie."
 
 msgid "Additional repositories:"
-msgstr ""
+msgstr "Dodatkowe repozytoria:"
 
 msgid "Another instance of Desktop Profiler is running, leaving ..."
 msgstr "Inna instancja Konfiguratora Pulpitu jest obecnie uruchomiona, wychodzenie ..."
 
-#, fuzzy
 msgid "Apply profile"
-msgstr "Wybierz profil"
+msgstr "Zastosuj profil"
 
 msgid "Applying a profile within the live systems isn't supported."
-msgstr ""
+msgstr "Stosowanie profilu w systemie live nie jest obsługiwane."
 
 msgid "Apt configured, no additional action needed."
-msgstr ""
+msgstr "Apt skonfigurowany, nie są potrzebne żadne dodatkowe działania."
 
 msgid "Apt plugin completed, Ok"
-msgstr ""
+msgstr "Wtyczka Apt zakończona, OK"
 
 msgid "Are you really sure to overwrite the previous profile ?"
-msgstr ""
+msgstr "Czy na pewno chcesz nadpisać poprzedni profil?"
 
 msgid "Cancel"
 msgstr "Anuluj"
 
-#, fuzzy
 msgid "Cancel installation"
-msgstr "Rozpocznij instalację"
+msgstr "Anuluj instalację"
 
-#, fuzzy
 msgid "Cancel menu"
-msgstr "Anuluj"
+msgstr "Zamknij menu"
 
 msgid "Choose a new filename to export current status to"
-msgstr ""
+msgstr "Wybierz nową nazwę pliku, do którego zostanie wyeksportowany bieżący stan"
 
 msgid "Choose a new filename to save the profile to"
-msgstr ""
+msgstr "Wybierz nową nazwę pliku, w którym zostanie zapisany profil"
 
 msgid "Choose an additional desktop environment to install."
 msgstr "Wybierz dodatkowe środowisko graficzne do instalacji."
@@ -156,13 +152,13 @@ msgid "Click to select profile"
 msgstr "Kliknij, aby wybrać profil"
 
 msgid "Configuration file:"
-msgstr ""
+msgstr "Plik konfiguracyjny:"
 
 msgid "Current desktop status has been saved to profile:"
-msgstr ""
+msgstr "Bieżący stan pulpitu został zapisany w profilu:"
 
 msgid "DEB packages to install:"
-msgstr ""
+msgstr "Pakiety DEB do zainstalowania:"
 
 msgid "Desktop Profiler"
 msgstr "Konfigurator Pulpitu"
@@ -176,66 +172,59 @@ msgstr "Konfigurator Pulpitu pozwoli Ci wybrać najodpowiedniejszy profil dla te
 msgid "Desktop environment:"
 msgstr "Środowisko graficzne:"
 
-#, fuzzy
 msgid "Desktop environments:"
-msgstr "Środowisko graficzne:"
+msgstr "Środowiska graficzne:"
 
 msgid "Desktop profiler - select default desktop environment"
 msgstr "Konfigurator pulpitu - wybierz domyślne środowisko graficzne"
 
-#, fuzzy
 msgid "Do you want to continue ?"
-msgstr "<p>Czy chcesz anulować oczekującą operację ?</p>"
+msgstr "Czy chcesz kontynuować?"
 
 msgid "Error: profile not found, file: "
-msgstr ""
+msgstr "Błąd: nie znaleziono profilu, plik: "
 
 msgid "Exit code: "
-msgstr ""
+msgstr "Kod wyjścia: "
 
-#, fuzzy
 msgid "Export profile"
-msgstr "Profil oprogramowania:"
+msgstr "Eksportuj profil"
 
 msgid "Failed to read packages list, file: "
-msgstr ""
+msgstr "Nie udało się odczytać listy pakietów, plik: "
 
 msgid "Failed to read repositories list, file: "
-msgstr ""
+msgstr "Nie udało się odczytać listy repozytoriów, plik: "
 
 msgid "Flatpak applications to install:"
-msgstr ""
+msgstr "Aplikacje Flatpak do zainstalowania:"
 
 msgid "Flatpak plugin completed, Ok"
-msgstr ""
+msgstr "Wtyczka Flatpak zakończona, OK"
 
-#, fuzzy
 msgid "Get snapshot profile"
-msgstr "Wybierz profil"
+msgstr "Utwórz profil ze stanu systemu"
 
 msgid "Help"
-msgstr ""
+msgstr "Pomoc"
 
 msgid "If you are not sure, just press <b>[ KDE Plasma ]</b> button to select the recommended option."
 msgstr "Jeśli nie jesteś pewien, wybierz <b>[ KDE Plasma ]</b>. Jest to polecana opcja."
 
 msgid "If you continue, the selected new profile replaces the previous one and system will be configured accordingly."
-msgstr ""
+msgstr "Jeśli będziesz kontynuować, wybrany nowy profil zastąpi poprzedni, a system zostanie odpowiednio skonfigurowany."
 
-#, fuzzy
 msgid "Import a profile"
-msgstr "Wybierz profil"
+msgstr "Importuj profil"
 
-#, fuzzy
 msgid "Import local profile"
-msgstr "Wybierz profil"
+msgstr "Importuj lokalny profil"
 
-#, fuzzy
 msgid "Import shared profile"
-msgstr "Profil oprogramowania:"
+msgstr "Importuj udostępniony profil"
 
 msgid "Initializing environment ..."
-msgstr ""
+msgstr "Inicjowanie środowiska ..."
 
 msgid "Installation process has requested to logoff this session. Do you want re-login just now ?"
 msgstr "Proces instalacji wymaga ponownego zalogowania tego użytkownika. Czy chcesz się zalogować ponownie teraz?"
@@ -250,26 +239,25 @@ msgid "Launch installation"
 msgstr "Rozpocznij instalację"
 
 msgid "Launching Apt plugin ..."
-msgstr ""
+msgstr "Uruchamianie wtyczki Apt ..."
 
 msgid "Launching Flatpak plugin ..."
-msgstr ""
+msgstr "Uruchamianie wtyczki Flatpak ..."
 
 msgid "Next >"
 msgstr "Dalej >"
 
-#, fuzzy
 msgid "No configuration found."
-msgstr "Nie znaleziono konfiguracji, wychodzenie .."
+msgstr "Nie znaleziono konfiguracji."
 
 msgid "No profile selected. Select a profile please."
-msgstr ""
+msgstr "Nie wybrano profilu. Proszę wybrać profil."
 
 msgid "None selected"
 msgstr "Nic nie zaznaczono"
 
 msgid "Not implemented yet."
-msgstr ""
+msgstr "Jeszcze nie zaimplementowano."
 
 msgid "Note "
 msgstr "Informacja "
@@ -278,18 +266,16 @@ msgid "Ok"
 msgstr "Ok"
 
 msgid "Options"
-msgstr ""
+msgstr "Opcje"
 
 msgid "Please enter shared profile code, or Internet address:"
-msgstr ""
+msgstr "Proszę wprowadzić kod udostępnionego profilu lub adres internetowy:"
 
-#, fuzzy
 msgid "Please re-login active session as soon as possible."
-msgstr "Proszę zresartować X server tak szybko, jak to możliwe."
+msgstr "Proszę jak najszybciej zalogować się ponownie do aktywnej sesji."
 
-#, fuzzy
 msgid "Please reboot as soon as possible."
-msgstr "Proszę zresartować X server tak szybko, jak to możliwe."
+msgstr "Proszę jak najszybciej uruchomić ponownie komputer."
 
 msgid "Please reboot your computer as soon as possible. Do you want reboot just now ?"
 msgstr "Proszę jak najszybciej zrestartowac komputer. Czy chcesz zrobić to teraz?"
@@ -297,88 +283,71 @@ msgstr "Proszę jak najszybciej zrestartowac komputer. Czy chcesz zrobić to ter
 msgid "Please restart X server as soon as possible."
 msgstr "Proszę zresartować X server tak szybko, jak to możliwe."
 
-#, fuzzy
 msgid "Please select default desktop environment."
-msgstr "Konfigurator pulpitu - wybierz domyślne środowisko graficzne"
+msgstr "Proszę wybrać domyślne środowisko graficzne."
 
-#, fuzzy
 msgid "Please select default desktop environment. The lightweight and efficient Trinity desktop is installed and pre-configured as default at the moment. Nevertheless, Q4OS installer has autodetected your computer is powerful enough to operate more advanced KDE Plasma desktop environment."
-msgstr ""
-"<html>\n"
-"<font size=\"5\"><p>Proszę, wybierz domyślne środowisko graficzne.</p></font>\n"
-"<p align=justify>Lekkie i wydajne <b>Trinity</b> jest obecnie zainstalowane i skonfigurowane jako domyślne. Mimo to, instalator Q4OS wykrył, że Twój komputer ma odpowiednią moc, żeby obsłużyć bardziej zaawansowane środowisko <b>KDE Plasma</b>.</p>\n"
-"</html>"
+msgstr "Proszę wybrać domyślne środowisko graficzne. Obecnie zainstalowany i wstępnie skonfigurowany jako domyślny jest lekki i wydajny pulpit Trinity. Instalator Q4OS wykrył jednak, że komputer jest wystarczająco wydajny, aby obsłużyć bardziej zaawansowane środowisko graficzne KDE Plasma."
 
-#, fuzzy
 msgid "Previous profile:"
-msgstr "Profil oprogramowania:"
+msgstr "Poprzedni profil:"
 
 msgid "Profile applied, installation successful."
-msgstr ""
+msgstr "Profil zastosowany, instalacja zakończona pomyślnie."
 
 msgid "Profile description"
 msgstr "Opis profilu"
 
-#, fuzzy
 msgid "Profile export"
-msgstr "Opis profilu"
+msgstr "Eksport profilu"
 
 msgid "Profile has been imported."
-msgstr ""
+msgstr "Profil został zaimportowany."
 
 msgid "Profile has been removed."
-msgstr ""
+msgstr "Profil został usunięty."
 
-#, fuzzy
 msgid "Profile info"
-msgstr "Opis profilu"
+msgstr "Informacje o profilu"
 
-#, fuzzy
 msgid "Profile name:"
-msgstr "Opis profilu"
+msgstr "Nazwa profilu:"
 
 msgid "QSI applications to install:"
-msgstr ""
+msgstr "Aplikacje QSI do zainstalowania:"
 
 msgid "Remote profile not found."
-msgstr ""
+msgstr "Nie znaleziono zdalnego profilu."
 
-#, fuzzy
 msgid "Remove profile"
-msgstr "Wybierz profil"
+msgstr "Usuń profil"
 
 msgid "Remove superfluous packages"
-msgstr ""
+msgstr "Usuń zbędne pakiety"
 
 msgid "Root permissions needed, exiting ..."
-msgstr ""
+msgstr "Wymagane są uprawnienia roota, kończenie ..."
 
 msgid "Select a profile from the list please."
-msgstr ""
+msgstr "Proszę wybrać profil z listy."
 
 msgid "Selected profile has been saved to file:"
-msgstr ""
+msgstr "Wybrany profil został zapisany w pliku:"
 
 msgid "Software profile:"
 msgstr "Profil oprogramowania:"
 
-#, fuzzy
 msgid "Starting profile installation ... "
-msgstr "Rozpocznij instalację"
+msgstr "Rozpoczynanie instalacji profilu ... "
 
 msgid "System profiles cannot be removed."
-msgstr ""
+msgstr "Profili systemowych nie można usuwać."
 
-#, fuzzy
 msgid "The lightweight and efficient <b>Trinity</b> desktop is installed and pre-configured as default at the moment. Nevertheless, Q4OS installer has autodetected your computer is powerful enough to operate more advanced <b>KDE Plasma</b> desktop environment."
-msgstr ""
-"<html>\n"
-"<font size=\"5\"><p>Proszę, wybierz domyślne środowisko graficzne.</p></font>\n"
-"<p align=justify>Lekkie i wydajne <b>Trinity</b> jest obecnie zainstalowane i skonfigurowane jako domyślne. Mimo to, instalator Q4OS wykrył, że Twój komputer ma odpowiednią moc, żeby obsłużyć bardziej zaawansowane środowisko <b>KDE Plasma</b>.</p>\n"
-"</html>"
+msgstr "Obecnie zainstalowany i wstępnie skonfigurowany jako domyślny jest lekki i wydajny pulpit <b>Trinity</b>. Instalator Q4OS wykrył jednak, że komputer jest wystarczająco wydajny, aby obsłużyć bardziej zaawansowane środowisko graficzne <b>KDE Plasma</b>."
 
 msgid "This profile has been already imported."
-msgstr ""
+msgstr "Ten profil został już zaimportowany."
 
 msgid "Trinity"
 msgstr "Trinity"
@@ -387,32 +356,31 @@ msgid "Trinity >"
 msgstr "Trinity >"
 
 msgid "Uncheck to preserve currently installed packages."
-msgstr ""
+msgstr "Odznacz, aby zachować obecnie zainstalowane pakiety."
 
 msgid "Writing log info ..."
-msgstr ""
+msgstr "Zapisywanie informacji dziennika ..."
 
 msgid "Writing profile status ..."
-msgstr ""
+msgstr "Zapisywanie stanu profilu ..."
 
 msgid "Yes, I really want to install additional DE"
 msgstr "Tak, na pewno chcę zainstalować dodatkowe środowisko graficzne"
 
 msgid "Yes, still apply"
-msgstr ""
+msgstr "Tak, mimo to zastosuj"
 
 msgid "You are about to cancel desktop profiler without installing a profile. Are you sure ?"
-msgstr ""
+msgstr "Zamierzasz zamknąć Desktop Profiler bez instalowania profilu. Czy na pewno?"
 
-#, fuzzy
 msgid "You are calling for an alternative desktop installation, but it's not compatible with the profile selected. Please select another profile or desktop."
-msgstr "<p>Chcesz wybrać instalację innego środowiska lecz nie jest ono kompatybilne z wybranym profilem. Proszę, wybierz inny profil.</p>"
+msgstr "Żądasz instalacji alternatywnego pulpitu, ale nie jest on zgodny z wybranym profilem. Proszę wybrać inny profil lub pulpit."
 
 msgid "You can now edit the file to your preferences."
-msgstr ""
+msgstr "Możesz teraz edytować plik według własnych preferencji."
 
 msgid "some installed applications and packages may be removed as they are not part of the new profile."
-msgstr ""
+msgstr "niektóre zainstalowane aplikacje i pakiety mogą zostać usunięte, ponieważ nie są częścią nowego profilu."
 
 #~ msgid "Default (TDE)"
 #~ msgstr "Domyślny (TDE)"

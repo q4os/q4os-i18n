@@ -2,15 +2,15 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Q4OS Welcome\n"
+"Project-Id-Version: Q4OS Welcome Screen\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-14 21:11+0200\n"
-"PO-Revision-Date: 2015-05-17 14:29+0100\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"POT-Creation-Date: 2026-09-25 08:28+0000\n"
+"PO-Revision-Date: 2026-09-25 10:27+0200\n"
+"Last-Translator: Q4OS Team <devteam@q4os.org>\n"
+"Language-Team: Q4OS he <devteam@q4os.org>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -27,7 +27,7 @@ msgid "<font size=\"4\"><p>Desktop Profiler will automatically install and confi
 msgstr "<font size=\"4\"><p>פרופיילר שולחן העבודה יתקין ויתאים מספר תוכנות וכלים, בקליק יחיד.</p><p>ניתן לבחור בין פרופילי שולחן עבודה שונים.</p></font>"
 
 msgid "<font size=\"4\"><p>Other useful configuration options.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p>אפשרויות הגדרה שימושיות נוספות.</p></font>"
 
 msgid "<font size=\"4\"><p>Run an interactive script to install extra collection of professional quality codecs.</p><p>Media players such as VLC or Mplayer make use of these codecs in order to provide support for playback of DVD and multimedia files encoded through these codecs.</p></font>"
 msgstr "<font size=\"4\"><p>הרץ סקריפט כדי להתקין אוסף נוסף של קודקים מקצועיים ואיכותיים</p><p>נגני מדיה כגון VLC או MPLAYER עושים שימוש בקודקים אלו כדי לנגן קבצי מולטימדיה</p></font>"
@@ -39,10 +39,10 @@ msgid "<font size=\"4\"><p>You will be directed to Q4OS web resources to downloa
 msgstr "<font size=\"4\"><p>הפניה לאתר Q4OS על מנת להוריד ולהתקין מספר תוכנות שימושיות</p></font>"
 
 msgid "<p>Automatic login is now disabled.</p>"
-msgstr ""
+msgstr "<p>הכניסה האוטומטית מושבתת כעת.</p>"
 
 msgid "<p>Automatic login is now enabled.</p>"
-msgstr ""
+msgstr "<p>הכניסה האוטומטית מופעלת כעת.</p>"
 
 msgid "<p>Desktop effects have been disabled.</p>"
 msgstr "<p>אפקטים בשולחן העבודה בוטלו.</p>"
@@ -56,32 +56,23 @@ msgstr "<p>האם ברצונך להיכנס למערכת באופן אוטומט
 msgid "<p>Do you want to switch the Start Menu ?</p>"
 msgstr "<p>האם לשנות את תפריט התחל?</p>"
 
-msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
-msgstr ""
-
 msgid "<p>Start Menu is now set to Bourbon style.</p>"
-msgstr ""
+msgstr "<p>תפריט ההתחלה מוגדר כעת לסגנון Bourbon.</p>"
 
 msgid "<p>Start Menu is now set to Classic style.</p>"
-msgstr ""
+msgstr "<p>תפריט ההתחלה מוגדר כעת לסגנון הקלאסי.</p>"
 
 msgid "<p>Start Menu is now set to Kickoff style.</p>"
-msgstr ""
+msgstr "<p>תפריט ההתחלה מוגדר כעת לסגנון Kickoff.</p>"
 
 msgid "<p>This action is available for Trinity and Plasma desktops only.</p>"
-msgstr ""
+msgstr "<p>פעולה זו זמינה רק בשולחנות העבודה Trinity ו-Plasma.</p>"
 
 msgid "<p>This action is available for Trinity desktop only.</p>"
-msgstr ""
-
-msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
-msgstr "<p class=\"auto-style1\">זוהתה התקנה וירטואלית!<br><br>פעולות נוספות מנוטרלות במהלך הקמת התקנה וירטואלית. יש להמתין עד לסיום ההתקנה.</p>"
-
-msgid "<p>Your hardware seems to be low to run desktop effects, it's not recommended to turn effects on.</p><p>Do you really want to turn Desktop Effects on ?</p>"
-msgstr "<p>משאבי החומרה מוגבלים ולא מאפשרים להפעיל אפקטים בשולחן העבודה, לא מומלץ להפעיל אפקטים.</p><p>האם באמת להפעיל את האפקטים בשולחן העבודה?</p>"
+msgstr "<p>פעולה זו זמינה רק בשולחן העבודה Trinity.</p>"
 
 msgid "Apply"
-msgstr ""
+msgstr "החל"
 
 msgid "Autologin configuration"
 msgstr "התאמת כניסה אוטומטית"
@@ -90,44 +81,46 @@ msgid "Automatic login"
 msgstr "כניסה אוטומטית"
 
 msgid "Bourbon"
-msgstr ""
+msgstr "Bourbon"
 
 msgid "Cancel"
-msgstr ""
+msgstr "ביטול"
 
 msgid "Categories"
-msgstr ""
+msgstr "קטגוריות"
 
 msgid "Classic"
-msgstr ""
+msgstr "קלאסי"
 
 msgid "Classic style cascading menu"
-msgstr ""
+msgstr "תפריט מדורג בסגנון קלאסי"
 
 msgid "Desktop effects"
 msgstr "אפקטים בשולחן העבודה"
 
-#, fuzzy
+msgid "Do you really want to turn Desktop Effects on ?"
+msgstr "האם באמת להפעיל את האפקטים בשולחן העבודה?"
+
 msgid "Do you want to turn Desktop Effects on ?"
-msgstr "<p>האם ברצונך להפעיל את האפקטים בשולחן העבודה?</p>"
+msgstr "האם להפעיל את אפקטי שולחן העבודה?"
 
 msgid "Documents online"
-msgstr ""
+msgstr "תיעוד מקוון"
 
 msgid "Donate to Q4OS"
-msgstr ""
+msgstr "תרומה ל-Q4OS"
 
 msgid "Enable Autologin"
 msgstr "הפעלת כניסה אוטומטית"
 
 msgid "Form2"
-msgstr ""
+msgstr "Form2"
 
 msgid "Hardware info"
-msgstr ""
+msgstr "פרטי חומרה"
 
 msgid "Info"
-msgstr ""
+msgstr "מידע"
 
 msgid "Install Applications"
 msgstr "התקנת אפליקציה"
@@ -136,39 +129,37 @@ msgid "Install Proprietary Codecs"
 msgstr "התקנת קודקים קניניים"
 
 msgid "KickOff"
-msgstr ""
+msgstr "KickOff"
 
 msgid "KickOff type menu"
-msgstr ""
+msgstr "תפריט מסוג KickOff"
 
 msgid "Menu items organized by Applications"
-msgstr ""
+msgstr "פריטי התפריט מסודרים לפי יישומים"
 
 msgid "Menu items organized by Categories"
-msgstr ""
+msgstr "פריטי התפריט מסודרים לפי קטגוריות"
 
 msgid "Menu structure"
-msgstr ""
+msgstr "מבנה התפריט"
 
 msgid "Menu type"
-msgstr ""
+msgstr "סוג התפריט"
 
 msgid "More options  >"
-msgstr ""
+msgstr "אפשרויות נוספות  >"
 
-#, fuzzy
 msgid "Note, desktop effects will work flawlessly on modern hardware only, it's not recommended to use it with legacy hardware. A short system testing will be performed to ensure the hardware is ready to accept the configuration."
-msgstr "<font size=\"4\"><p>לחיצה על כפתור זה מפעילה אפקטים שמחליקים ומיפים את שולחן העבודה</p><p>אפקטים אלו יעבדו ללא תקלות בחומרה עדכנית בלבד, לא מומלץ לעשות בהם שימוש בחומרה ישנה. בדיקת חומרה קצרה תתבצע על מנת לוודא שהחומרה מסוגלת לקבל את השינויים.</p></font>"
+msgstr "לתשומת לבך, אפקטי שולחן העבודה פועלים ללא תקלות רק על חומרה מודרנית, ולא מומלץ להשתמש בהם עם חומרה ישנה. תתבצע בדיקת מערכת קצרה כדי לוודא שהחומרה מוכנה לקבל את ההגדרה."
 
 msgid "Q4OS"
-msgstr ""
+msgstr "Q4OS"
 
-#, fuzzy
 msgid "Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below."
-msgstr "<p dir=rtl align=justify class=\"auto-style1\"><strong>ברוכים הבאים ל-Q4OS, </strong>מערכת הפעלה מהירה וחזקה ממוקדת בתמיכה לטווח ארוך, יציבות, אמינות וממשק בעל מראה קלאסי.</p><p dir=rtl align=justify class=\"auto-style1\">Q4OS מותקנת כמערכת בסיסית ונקיה עם מינימום תוכנות נלוות. ניתן כעת להתאים את שולחן העבודה על-ידי שימוש בקיצור הדרך שלמטה.</p>"
+msgstr "Q4OS מותקנת כסביבת שולחן עבודה בסיסית ונקייה מאוד עם ערכת תוכנה מינימלית. עכשיו הזמן הנכון להתאים את שולחן העבודה החדש שלך, אפשר להיעזר בקיצורי הכוונון שלמטה."
 
 msgid "Resize fonts and icons to adjust them according to the current screen resolution and make them more readable."
-msgstr ""
+msgstr "שינוי גודל הגופנים והסמלים בהתאם לרזולוציית המסך הנוכחית כדי להפוך אותם לקריאים יותר."
 
 msgid "Revert to Classic"
 msgstr "חזור למצב קלאסי"
@@ -180,10 +171,10 @@ msgid "Run Desktop Profiler"
 msgstr "הפעלת פרופיל שולחן עבודה"
 
 msgid "Screen scaling"
-msgstr ""
+msgstr "שינוי קנה מידה של המסך"
 
 msgid "Screen scaling tool not found."
-msgstr ""
+msgstr "כלי שינוי קנה המידה של המסך לא נמצא."
 
 msgid "Set Autologin"
 msgstr "הגדרת כניסה אוטומטית"
@@ -195,26 +186,25 @@ msgid "Start menu configuration"
 msgstr "התאמת תפריט התחל"
 
 msgid "Support us on Patreon"
-msgstr ""
+msgstr "תמכו בנו ב-Patreon"
 
-#, fuzzy
 msgid "Switch start menu"
-msgstr "תפריט התחל"
+msgstr "החלפת תפריט ההתחלה"
 
 msgid "Switch to Bourbon"
-msgstr ""
+msgstr "מעבר ל-Bourbon"
 
 msgid "Switch to Kickoff"
 msgstr "מעבר לתפריט התחלה"
 
 msgid "This option is to turn smoothing and beautifying desktop effects on."
-msgstr ""
+msgstr "אפשרות זו מפעילה אפקטי שולחן עבודה מחליקים ומייפים."
 
 msgid "Turn ON"
 msgstr "הפעלה"
 
 msgid "Two panel menu with search line"
-msgstr ""
+msgstr "תפריט בשני חלוניות עם שורת חיפוש"
 
 msgid "Warning !"
 msgstr "אזהרה!"
@@ -223,31 +213,40 @@ msgid "Welcome screen"
 msgstr "מסך הפתיחה"
 
 msgid "Welcome to Q4OS"
-msgstr ""
+msgstr "ברוכים הבאים ל-Q4OS"
 
 msgid "Well arranged system hardware information."
-msgstr ""
+msgstr "מידע מסודר על חומרת המערכת."
 
 msgid "Working ..."
-msgstr ""
+msgstr "עובד ..."
+
+msgid "Your hardware seems to be low to run desktop effects, it's not recommended to turn effects on."
+msgstr "משאבי החומרה מוגבלים ולא מאפשרים להפעיל אפקטים בשולחן העבודה, לא מומלץ להפעיל אפקטים."
 
 msgid "fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface."
-msgstr ""
+msgstr "מערכת הפעלה שולחנית מהירה ועוצמתית המתמקדת ביציבות ואמינות לטווח ארוך ובממשק משתמש בסגנון קלאסי."
 
 msgid "pushButton1"
-msgstr ""
+msgstr "pushButton1"
 
 msgid "pushButton2"
-msgstr ""
+msgstr "pushButton2"
 
 msgid "pushButton3"
-msgstr ""
+msgstr "pushButton3"
 
 msgid "pushButton4"
-msgstr ""
+msgstr "pushButton4"
 
 msgid "textLabel1"
-msgstr ""
+msgstr "textLabel1"
+
+#~ msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
+#~ msgstr "<p>זוהתה התקנה של NVIDIA!</p><p>הפעולות מושבתות במהלך התקנת NVIDIA, נא להמתין לסיום ההתקנה.</p>"
+
+#~ msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
+#~ msgstr "<p class=\"auto-style1\">זוהתה התקנה וירטואלית!<br><br>פעולות נוספות מנוטרלות במהלך הקמת התקנה וירטואלית. יש להמתין עד לסיום ההתקנה.</p>"
 
 #~ msgid "Turn on Desktop effects"
 #~ msgstr "הפעלת אפקטים בשולחן העבודה"

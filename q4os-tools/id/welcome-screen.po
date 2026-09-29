@@ -3,244 +3,246 @@
 # This file is distributed under the same license as the Q4OS Welcome Screen package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Welcome Screen\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-14 21:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2026-09-25 08:28+0000\n"
+"PO-Revision-Date: 2026-09-25 10:27+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language-Team: Q4OS id <devteam@q4os.org>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "<font size=\"4\"><p align=justify><b>Welcome to Q4OS</b>, fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface.</p><p align=justify>Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p align=justify><b>Selamat datang di Q4OS</b>, sistem operasi desktop yang cepat dan tangguh, berfokus pada stabilitas dan keandalan jangka panjang serta antarmuka pengguna bergaya klasik.</p><p align=justify>Q4OS terpasang sebagai lingkungan desktop yang sangat dasar dan bersih dengan perangkat lunak minimal. Sekaranglah saat yang tepat untuk menyesuaikan desktop baru Anda; manfaatkan pintasan penyesuaian di bawah ini.</p></font>"
 
 msgid "<font size=\"4\"><p>Bypass login screen and login without entering your password after the system boot.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p>Lewati layar login dan masuk tanpa memasukkan kata sandi setelah sistem dinyalakan.</p></font>"
 
 msgid "<font size=\"4\"><p>Desktop Profiler will automatically install and configure set of additional Applications and tools, all in single click.</p><p>You will be allowed to select between different desktop profiles.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p>Desktop Profiler akan memasang dan mengonfigurasi sekumpulan aplikasi dan alat tambahan secara otomatis, semuanya dengan sekali klik.</p><p>Anda dapat memilih di antara beberapa profil desktop.</p></font>"
 
 msgid "<font size=\"4\"><p>Other useful configuration options.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p>Opsi konfigurasi berguna lainnya.</p></font>"
 
 msgid "<font size=\"4\"><p>Run an interactive script to install extra collection of professional quality codecs.</p><p>Media players such as VLC or Mplayer make use of these codecs in order to provide support for playback of DVD and multimedia files encoded through these codecs.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p>Jalankan skrip interaktif untuk memasang koleksi tambahan codec berkualitas profesional.</p><p>Pemutar media seperti VLC atau Mplayer memakai codec ini untuk memutar DVD dan berkas multimedia yang dikodekan dengan codec tersebut.</p></font>"
 
 msgid "<font size=\"4\"><p>Switch to alternative Kickoff Start menu.</p><p>Well arranged, modern style start menu offers search bar, favorites tab, history and more.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p>Beralih ke menu Start alternatif Kickoff.</p><p>Menu start bergaya modern yang tertata rapi dengan bilah pencarian, tab favorit, riwayat, dan lainnya.</p></font>"
 
 msgid "<font size=\"4\"><p>You will be directed to Q4OS web resources to download and install standalone useful applications.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p>Anda akan diarahkan ke sumber daya web Q4OS untuk mengunduh dan memasang aplikasi mandiri yang berguna.</p></font>"
 
 msgid "<p>Automatic login is now disabled.</p>"
-msgstr ""
+msgstr "<p>Login otomatis kini dinonaktifkan.</p>"
 
 msgid "<p>Automatic login is now enabled.</p>"
-msgstr ""
+msgstr "<p>Login otomatis kini diaktifkan.</p>"
 
 msgid "<p>Desktop effects have been disabled.</p>"
-msgstr ""
+msgstr "<p>Efek desktop telah dinonaktifkan.</p>"
 
 msgid "<p>Desktop effects have been enabled. Please login again to take changes effect.</p>"
-msgstr ""
+msgstr "<p>Efek desktop telah diaktifkan. Silakan masuk kembali agar perubahan berlaku.</p>"
 
 msgid "<p>Do you want to enable Automatic login ?</p>"
-msgstr ""
+msgstr "<p>Apakah Anda ingin mengaktifkan login otomatis?</p>"
 
 msgid "<p>Do you want to switch the Start Menu ?</p>"
-msgstr ""
-
-msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
-msgstr ""
+msgstr "<p>Apakah Anda ingin mengganti Menu Start?</p>"
 
 msgid "<p>Start Menu is now set to Bourbon style.</p>"
-msgstr ""
+msgstr "<p>Menu Start kini diatur ke gaya Bourbon.</p>"
 
 msgid "<p>Start Menu is now set to Classic style.</p>"
-msgstr ""
+msgstr "<p>Menu Start kini diatur ke gaya Klasik.</p>"
 
 msgid "<p>Start Menu is now set to Kickoff style.</p>"
-msgstr ""
+msgstr "<p>Menu Start kini diatur ke gaya Kickoff.</p>"
 
 msgid "<p>This action is available for Trinity and Plasma desktops only.</p>"
-msgstr ""
+msgstr "<p>Tindakan ini hanya tersedia untuk desktop Trinity dan Plasma.</p>"
 
 msgid "<p>This action is available for Trinity desktop only.</p>"
-msgstr ""
-
-msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
-msgstr ""
-
-msgid "<p>Your hardware seems to be low to run desktop effects, it's not recommended to turn effects on.</p><p>Do you really want to turn Desktop Effects on ?</p>"
-msgstr ""
+msgstr "<p>Tindakan ini hanya tersedia untuk desktop Trinity.</p>"
 
 msgid "Apply"
-msgstr ""
+msgstr "Terapkan"
 
 msgid "Autologin configuration"
-msgstr ""
+msgstr "Konfigurasi login otomatis"
 
 msgid "Automatic login"
-msgstr ""
+msgstr "Login otomatis"
 
 msgid "Bourbon"
-msgstr ""
+msgstr "Bourbon"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Batal"
 
 msgid "Categories"
-msgstr ""
+msgstr "Kategori"
 
 msgid "Classic"
-msgstr ""
+msgstr "Klasik"
 
 msgid "Classic style cascading menu"
-msgstr ""
+msgstr "Menu bertingkat bergaya klasik"
 
 msgid "Desktop effects"
-msgstr ""
+msgstr "Efek desktop"
+
+msgid "Do you really want to turn Desktop Effects on ?"
+msgstr "Apakah Anda benar-benar ingin mengaktifkan Efek Desktop?"
 
 msgid "Do you want to turn Desktop Effects on ?"
-msgstr ""
+msgstr "Apakah Anda ingin mengaktifkan Efek Desktop?"
 
 msgid "Documents online"
-msgstr ""
+msgstr "Dokumentasi daring"
 
 msgid "Donate to Q4OS"
-msgstr ""
+msgstr "Donasi untuk Q4OS"
 
 msgid "Enable Autologin"
-msgstr ""
+msgstr "Aktifkan login otomatis"
 
 msgid "Form2"
-msgstr ""
+msgstr "Form2"
 
 msgid "Hardware info"
-msgstr ""
+msgstr "Info perangkat keras"
 
 msgid "Info"
-msgstr ""
+msgstr "Info"
 
 msgid "Install Applications"
-msgstr ""
+msgstr "Pasang Aplikasi"
 
 msgid "Install Proprietary Codecs"
-msgstr ""
+msgstr "Pasang Codec Proprietari"
 
 msgid "KickOff"
-msgstr ""
+msgstr "KickOff"
 
 msgid "KickOff type menu"
-msgstr ""
+msgstr "Menu bertipe KickOff"
 
 msgid "Menu items organized by Applications"
-msgstr ""
+msgstr "Butir menu disusun menurut Aplikasi"
 
 msgid "Menu items organized by Categories"
-msgstr ""
+msgstr "Butir menu disusun menurut Kategori"
 
 msgid "Menu structure"
-msgstr ""
+msgstr "Struktur menu"
 
 msgid "Menu type"
-msgstr ""
+msgstr "Tipe menu"
 
 msgid "More options  >"
-msgstr ""
+msgstr "Opsi lainnya  >"
 
 msgid "Note, desktop effects will work flawlessly on modern hardware only, it's not recommended to use it with legacy hardware. A short system testing will be performed to ensure the hardware is ready to accept the configuration."
-msgstr ""
+msgstr "Perhatikan, efek desktop hanya bekerja mulus pada perangkat keras modern; tidak disarankan memakainya pada perangkat keras lama. Pengujian sistem singkat akan dijalankan untuk memastikan perangkat keras siap menerima konfigurasi ini."
 
 msgid "Q4OS"
-msgstr ""
+msgstr "Q4OS"
 
 msgid "Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below."
-msgstr ""
+msgstr "Q4OS terpasang sebagai lingkungan desktop yang sangat dasar dan bersih dengan perangkat lunak minimal. Sekaranglah saat yang tepat untuk menyesuaikan desktop baru Anda; manfaatkan pintasan penyesuaian di bawah ini."
 
 msgid "Resize fonts and icons to adjust them according to the current screen resolution and make them more readable."
-msgstr ""
+msgstr "Ubah ukuran fonta dan ikon sesuai resolusi layar saat ini agar lebih mudah dibaca."
 
 msgid "Revert to Classic"
-msgstr ""
+msgstr "Kembalikan ke Klasik"
 
 msgid "Revert to defaults"
-msgstr ""
+msgstr "Kembalikan ke bawaan"
 
 msgid "Run Desktop Profiler"
-msgstr ""
+msgstr "Jalankan Desktop Profiler"
 
 msgid "Screen scaling"
-msgstr ""
+msgstr "Penskalaan layar"
 
 msgid "Screen scaling tool not found."
-msgstr ""
+msgstr "Alat penskalaan layar tidak ditemukan."
 
 msgid "Set Autologin"
-msgstr ""
+msgstr "Atur login otomatis"
 
 msgid "Show this dialog on startup"
-msgstr ""
+msgstr "Tampilkan dialog ini saat mulai"
 
 msgid "Start menu configuration"
-msgstr ""
+msgstr "Konfigurasi menu Start"
 
 msgid "Support us on Patreon"
-msgstr ""
+msgstr "Dukung kami di Patreon"
 
 msgid "Switch start menu"
-msgstr ""
+msgstr "Ganti menu Start"
 
 msgid "Switch to Bourbon"
-msgstr ""
+msgstr "Beralih ke Bourbon"
 
 msgid "Switch to Kickoff"
-msgstr ""
+msgstr "Beralih ke Kickoff"
 
 msgid "This option is to turn smoothing and beautifying desktop effects on."
-msgstr ""
+msgstr "Opsi ini mengaktifkan efek desktop yang menghaluskan dan mempercantik tampilan."
 
 msgid "Turn ON"
-msgstr ""
+msgstr "Aktifkan"
 
 msgid "Two panel menu with search line"
-msgstr ""
+msgstr "Menu dua panel dengan baris pencarian"
 
 msgid "Warning !"
-msgstr ""
+msgstr "Peringatan!"
 
 msgid "Welcome screen"
-msgstr ""
+msgstr "Layar selamat datang"
 
 msgid "Welcome to Q4OS"
-msgstr ""
+msgstr "Selamat datang di Q4OS"
 
 msgid "Well arranged system hardware information."
-msgstr ""
+msgstr "Informasi perangkat keras sistem yang tertata rapi."
 
 msgid "Working ..."
-msgstr ""
+msgstr "Sedang bekerja ..."
+
+msgid "Your hardware seems to be low to run desktop effects, it's not recommended to turn effects on."
+msgstr "Perangkat keras Anda tampaknya terlalu lemah untuk efek desktop, tidak disarankan mengaktifkannya."
 
 msgid "fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface."
-msgstr ""
+msgstr "sistem operasi desktop yang cepat dan tangguh, berfokus pada stabilitas dan keandalan jangka panjang serta antarmuka pengguna bergaya klasik."
 
 msgid "pushButton1"
-msgstr ""
+msgstr "pushButton1"
 
 msgid "pushButton2"
-msgstr ""
+msgstr "pushButton2"
 
 msgid "pushButton3"
-msgstr ""
+msgstr "pushButton3"
 
 msgid "pushButton4"
-msgstr ""
+msgstr "pushButton4"
 
 msgid "textLabel1"
-msgstr ""
+msgstr "textLabel1"
+
+#~ msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
+#~ msgstr "<p>Pemasangan NVIDIA terdeteksi!</p><p>Tindakan dinonaktifkan selama penyiapan NVIDIA, mohon tunggu sampai pemasangan NVIDIA selesai.</p>"
+
+#~ msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
+#~ msgstr "<p>Pemasangan Virtualbox terdeteksi!</p><p>Tindakan dinonaktifkan selama penyiapan Virtualbox, mohon tunggu sampai pemasangan Virtualbox selesai.</p>"

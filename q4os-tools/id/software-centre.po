@@ -3,181 +3,219 @@
 # This file is distributed under the same license as the Q4OS Software Centre package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-23 10:23+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2026-09-25 08:51+0000\n"
+"PO-Revision-Date: 2026-09-25 10:55+0200\n"
+"Last-Translator: Q4OS Team <devteam@q4os.org>\n"
+"Language-Team: Q4OS id <devteam@q4os.org>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "#Filter: "
-msgstr ""
+msgstr "#Filter: "
 
 msgid "#Records: "
-msgstr ""
+msgstr "#Rekaman: "
 
 msgid "---  Menu  ---"
-msgstr ""
+msgstr "---  Menu  ---"
 
 msgid "<"
-msgstr ""
+msgstr "<"
 
-msgid "<p>"
-msgstr ""
+msgid "<p>%1 is already installed, do you want to uninstall ?</p>"
+msgstr "<p>%1 sudah terpasang, apakah Anda ingin mencopotnya?</p>"
 
 msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
-msgstr ""
+msgstr "<p>Pemasangan NVIDIA terdeteksi!</p><p>Tindakan dinonaktifkan selama penyiapan NVIDIA, harap tunggu hingga pemasangan NVIDIA selesai.</p>"
 
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, most likely, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p>"
-msgstr ""
+msgstr "<p>Sistem paket sedang sibuk, belum siap untuk memasang sekarang. Penyiapan tidak dapat dilanjutkan.</p><p>Kunci ini kemungkinan besar disebabkan oleh pembaruan sistem yang sedang berjalan di latar belakang. Jika demikian, Anda perlu menunggu sebentar hingga sistem paket menyelesaikan operasi tersebut. Pastikan Anda tidak sedang memasang aplikasi lain dan ulangi penyiapan beberapa menit lagi.</p>"
 
 msgid "<p>Select an application to install from the list of featured applications.</p>"
-msgstr ""
+msgstr "<p>Pilih aplikasi untuk dipasang dari daftar aplikasi unggulan.</p>"
 
 msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
-msgstr ""
+msgstr "<p>Pemasangan Virtualbox terdeteksi!</p><p>Tindakan dinonaktifkan selama penyiapan Virtualbox, harap tunggu hingga pemasangan Virtualbox selesai.</p>"
 
 msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Desktop Profiler</b> tool to choose and apply a profile.</p>"
-msgstr ""
+msgstr "<p>Anda belum menerapkan profil desktop apa pun. Sangat disarankan untuk menerapkan profil desktop sebelum memasang aplikasi.</p><p>Silakan jalankan alat <b>Desktop Profiler</b> untuk memilih dan menerapkan profil.</p>"
 
 msgid ">"
-msgstr ""
+msgstr ">"
 
 msgid "APT database hasn't been updated yet."
-msgstr ""
+msgstr "Basis data APT belum diperbarui."
 
 msgid "Application"
-msgstr ""
+msgstr "Aplikasi"
+
+msgid "Building Apt database ..."
+msgstr "Membangun basis data Apt ..."
+
+msgid "Building Flatpak database ..."
+msgstr "Membangun basis data Flatpak ..."
+
+msgid "Building application list ..."
+msgstr "Membangun daftar aplikasi ..."
+
+msgid "Building flatpaks list ..."
+msgstr "Membangun daftar flatpak ..."
 
 msgid "Cancel"
-msgstr ""
+msgstr "Batal"
 
 msgid "Description"
-msgstr ""
-
-msgid "Desktop Profiler"
-msgstr ""
+msgstr "Deskripsi"
 
 msgid "Desktop profiler"
-msgstr ""
+msgstr "Desktop profiler"
+
+msgid "Discover manager"
+msgstr "Pengelola Discover"
 
 msgid "Discover software manager isn't installed, do you want to install it now ?"
-msgstr ""
+msgstr "Pengelola perangkat lunak Discover belum terpasang, apakah Anda ingin memasangnya sekarang?"
 
 msgid "Featured applications"
-msgstr ""
+msgstr "Aplikasi unggulan"
 
 msgid "Featured applications: #"
-msgstr ""
+msgstr "Aplikasi unggulan: #"
 
 msgid "Flathub apps"
-msgstr ""
+msgstr "Aplikasi Flathub"
+
+msgid "Found: %1 of %2"
+msgstr "Ditemukan: %1 dari %2"
 
 msgid "In order to get more applications in the featured list, refresh APT database and start the Software center again."
-msgstr ""
+msgstr "Untuk mendapatkan lebih banyak aplikasi dalam daftar unggulan, segarkan basis data APT dan jalankan kembali Pusat Perangkat Lunak."
 
 msgid "Info"
-msgstr ""
+msgstr "Info"
+
+msgid "Initializing ..."
+msgstr "Menginisialisasi ..."
 
 msgid "Install"
-msgstr ""
+msgstr "Pasang"
 
 msgid "Install Discover ?"
-msgstr ""
+msgstr "Pasang Discover?"
 
 msgid "Install Synaptic ?"
-msgstr ""
+msgstr "Pasang Synaptic?"
 
 msgid "Install application"
-msgstr ""
+msgstr "Pasang aplikasi"
 
 msgid "Install or uninstall selected application from the featured applications list below"
-msgstr ""
+msgstr "Pasang atau copot aplikasi yang dipilih dari daftar aplikasi unggulan di bawah ini"
+
+msgid "Installed:"
+msgstr "Terpasang:"
+
+msgid "Loading data ..."
+msgstr "Memuat data ..."
 
 msgid "More options"
-msgstr ""
+msgstr "Opsi lainnya"
+
+msgid "Not installed:"
+msgstr "Belum terpasang:"
 
 msgid "Open Flathub repository in the preferred web browser"
-msgstr ""
+msgstr "Buka repositori Flathub di peramban web pilihan"
+
+msgid "Origin"
+msgstr "Asal"
+
+msgid "Package installer"
+msgstr "Pemasang paket"
 
 msgid "Q4OS Software Centre"
-msgstr ""
+msgstr "Pusat Perangkat Lunak Q4OS"
 
 msgid "Rating"
-msgstr ""
+msgstr "Peringkat"
 
 msgid "Run 'Desktop Profiler' tool"
-msgstr ""
+msgstr "Jalankan alat 'Desktop Profiler'"
 
 msgid "Run 'Discover' advanced software manager"
-msgstr ""
+msgstr "Jalankan pengelola perangkat lunak lanjutan 'Discover'"
 
 msgid "Run 'Synaptic' advanced software manager"
-msgstr ""
+msgstr "Jalankan pengelola perangkat lunak lanjutan 'Synaptic'"
 
 msgid "Run comfortable package installer and Flatpak installer"
-msgstr ""
+msgstr "Jalankan pemasang paket yang nyaman dan pemasang Flatpak"
 
 msgid "Search:"
-msgstr ""
+msgstr "Cari:"
 
 msgid "Settings"
-msgstr ""
+msgstr "Pengaturan"
+
+msgid "Sorting ..."
+msgstr "Mengurutkan ..."
 
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 msgid "Status:"
-msgstr ""
+msgstr "Status:"
+
+msgid "Synaptic manager"
+msgstr "Pengelola Synaptic"
 
 msgid "Synaptic package manager isn't installed, do you want to install it now ?"
-msgstr ""
+msgstr "Pengelola paket Synaptic belum terpasang, apakah Anda ingin memasangnya sekarang?"
 
 msgid "Uninstall"
-msgstr ""
+msgstr "Copot"
 
 msgid "Uninstall now"
-msgstr ""
+msgstr "Copot sekarang"
 
 msgid "action1"
-msgstr ""
+msgstr "action1"
 
 msgid "action2"
-msgstr ""
+msgstr "action2"
 
 msgid "config_file"
-msgstr ""
+msgstr "config_file"
 
 msgid "dependencies"
-msgstr ""
+msgstr "dependencies"
 
 msgid "download"
-msgstr ""
+msgstr "download"
 
 msgid "no selection"
-msgstr ""
+msgstr "tidak ada pilihan"
 
 msgid "origin"
-msgstr ""
+msgstr "origin"
 
 msgid "package"
-msgstr ""
+msgstr "package"
 
 msgid "rating_num"
-msgstr ""
+msgstr "rating_num"
 
 msgid "recordnum"
-msgstr ""
+msgstr "recordnum"
 
 msgid "repositories"
-msgstr ""
+msgstr "repositories"
 
 msgid "textLabel"
-msgstr ""
+msgstr "textLabel"

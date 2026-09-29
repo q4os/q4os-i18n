@@ -5,13 +5,13 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Q4OS Welcome\n"
+"Project-Id-Version: Q4OS Welcome Screen\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-14 21:11+0200\n"
-"PO-Revision-Date: 2015-05-07 22:57+0100\n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: \n"
+"POT-Creation-Date: 2026-09-25 08:28+0000\n"
+"PO-Revision-Date: 2026-09-25 10:27+0200\n"
+"Last-Translator: Q4OS Team <devteam@q4os.org>\n"
+"Language-Team: Q4OS cs <devteam@q4os.org>\n"
+"Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -26,7 +26,7 @@ msgid "<font size=\"4\"><p>Desktop Profiler will automatically install and confi
 msgstr "<font size=\"4\"><p>Desktop Profiler nainstaluje a zkonfiguruje sadu dalších Aplikací a nástrojů, vše jedním kliknutím.</p><p>Budete si moci vybrat mezi různými desktopovými profily.</p></font>"
 
 msgid "<font size=\"4\"><p>Other useful configuration options.</p></font>"
-msgstr ""
+msgstr "<font size=\"4\"><p>Další užitečné možnosti nastavení.</p></font>"
 
 msgid "<font size=\"4\"><p>Run an interactive script to install extra collection of professional quality codecs.</p><p>Media players such as VLC or Mplayer make use of these codecs in order to provide support for playback of DVD and multimedia files encoded through these codecs.</p></font>"
 msgstr "<font size=\"4\"><p>Spustí interaktivní skript pro instalaci vybrané kolekce kodeků v profesionální kvalitě.</p><p>Přehrávače médií, jako třeba VLC nebo Mplayer využijí tyto kodeky pro podporu přehrávání DVD a multimediálních souborů kódovaných pomocí těchto kodeků.</p></font>"
@@ -38,10 +38,10 @@ msgid "<font size=\"4\"><p>You will be directed to Q4OS web resources to downloa
 msgstr "<font size=\"4\"><p>Budete přesměrováni na webové zdroje Q4OS, abyste mohli stáhnout a nainstalovat jednotlivé aplikace.</p></font>"
 
 msgid "<p>Automatic login is now disabled.</p>"
-msgstr ""
+msgstr "<p>Automatické přihlašování je nyní vypnuto.</p>"
 
 msgid "<p>Automatic login is now enabled.</p>"
-msgstr ""
+msgstr "<p>Automatické přihlašování je nyní zapnuto.</p>"
 
 msgid "<p>Desktop effects have been disabled.</p>"
 msgstr "<p>Efekty desktopu byly zakázány.</p>"
@@ -55,32 +55,23 @@ msgstr "<p>Chcete povolit automatické přihlášení ?</p>"
 msgid "<p>Do you want to switch the Start Menu ?</p>"
 msgstr "<p>Chcete přepnout Start Menu ?</p>"
 
-msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
-msgstr ""
-
 msgid "<p>Start Menu is now set to Bourbon style.</p>"
-msgstr ""
+msgstr "<p>Nabídka Start je nyní nastavena na styl Bourbon.</p>"
 
 msgid "<p>Start Menu is now set to Classic style.</p>"
-msgstr ""
+msgstr "<p>Nabídka Start je nyní nastavena na klasický styl.</p>"
 
 msgid "<p>Start Menu is now set to Kickoff style.</p>"
-msgstr ""
+msgstr "<p>Nabídka Start je nyní nastavena na styl Kickoff.</p>"
 
 msgid "<p>This action is available for Trinity and Plasma desktops only.</p>"
-msgstr ""
+msgstr "<p>Tato akce je dostupná pouze pro desktopy Trinity a Plasma.</p>"
 
 msgid "<p>This action is available for Trinity desktop only.</p>"
-msgstr ""
-
-msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
-msgstr "<p>Byla detekována instalace Virtualboxu !</p><p>Tlačítka akcí jsou zakázána během instalace Virtualboxu, prosím počkejte na ukončení instalace Virtualboxu.</p>"
-
-msgid "<p>Your hardware seems to be low to run desktop effects, it's not recommended to turn effects on.</p><p>Do you really want to turn Desktop Effects on ?</p>"
-msgstr "<p>Váš hardware je nespíš slabý pro efekty desktopu, není doporučeno zapínat efekty.</p><p>Opravdu chcete zapnout efekty ?</p>"
+msgstr "<p>Tato akce je dostupná pouze pro desktop Trinity.</p>"
 
 msgid "Apply"
-msgstr ""
+msgstr "Použít"
 
 msgid "Autologin configuration"
 msgstr "Konfigurace automatického přihlášení"
@@ -89,44 +80,46 @@ msgid "Automatic login"
 msgstr "Automatické přihlášení"
 
 msgid "Bourbon"
-msgstr ""
+msgstr "Bourbon"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Zrušit"
 
 msgid "Categories"
-msgstr ""
+msgstr "Kategorie"
 
 msgid "Classic"
-msgstr ""
+msgstr "Klasická"
 
 msgid "Classic style cascading menu"
-msgstr ""
+msgstr "Klasická kaskádová nabídka"
 
 msgid "Desktop effects"
 msgstr "Efekty desktopu"
 
-#, fuzzy
+msgid "Do you really want to turn Desktop Effects on ?"
+msgstr "Opravdu chcete zapnout efekty ?"
+
 msgid "Do you want to turn Desktop Effects on ?"
-msgstr "<p>Chcete zapnout efekty desktopu ?</p>"
+msgstr "Chcete zapnout efekty plochy?"
 
 msgid "Documents online"
-msgstr ""
+msgstr "Dokumentace online"
 
 msgid "Donate to Q4OS"
-msgstr ""
+msgstr "Přispět Q4OS"
 
 msgid "Enable Autologin"
 msgstr "Povolit automatické přihlášení"
 
 msgid "Form2"
-msgstr ""
+msgstr "Form2"
 
 msgid "Hardware info"
-msgstr ""
+msgstr "Informace o hardwaru"
 
 msgid "Info"
-msgstr ""
+msgstr "Informace"
 
 msgid "Install Applications"
 msgstr "Instalovat aplikace"
@@ -135,39 +128,37 @@ msgid "Install Proprietary Codecs"
 msgstr "Instalovat značkové kodeky"
 
 msgid "KickOff"
-msgstr ""
+msgstr "KickOff"
 
 msgid "KickOff type menu"
-msgstr ""
+msgstr "Nabídka typu KickOff"
 
 msgid "Menu items organized by Applications"
-msgstr ""
+msgstr "Položky nabídky uspořádané podle aplikací"
 
 msgid "Menu items organized by Categories"
-msgstr ""
+msgstr "Položky nabídky uspořádané podle kategorií"
 
 msgid "Menu structure"
-msgstr ""
+msgstr "Struktura nabídky"
 
 msgid "Menu type"
-msgstr ""
+msgstr "Typ nabídky"
 
 msgid "More options  >"
-msgstr ""
+msgstr "Další možnosti  >"
 
-#, fuzzy
 msgid "Note, desktop effects will work flawlessly on modern hardware only, it's not recommended to use it with legacy hardware. A short system testing will be performed to ensure the hardware is ready to accept the configuration."
-msgstr "<font size=\"4\"><p>Kliknutím na toto tlačítko zapnete vyhlazovací a zkrášlující desktopové efekty.</p><p>Upozorňujeme, že desktopové efekty budou bezchybně pracovat pouze na moderním hardwaru, nedoporučuje se je používat na starším hardwaru. Krátký systémový test bude spuštěn pro ujištění, že hardware je připraven přijmout konfiguraci.</p></font>"
+msgstr "Upozornění: efekty plochy fungují bezchybně jen na moderním hardwaru, se starším hardwarem se nedoporučují. Proběhne krátký test systému, který ověří, zda je hardware na toto nastavení připraven."
 
 msgid "Q4OS"
-msgstr ""
+msgstr "Q4OS"
 
-#, fuzzy
 msgid "Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below."
-msgstr "<font size=\"4\"><p align=justify><b>Vítejte v Q4OS</b>, rychlém a výkonném operačním systému zaměřeném na dlouhodobou stabilitu, spolehlivost a uživatelské rozhraní v klasickém stylu.</p><p align=justify>Q4OS je nainstalován jako velmi základní a čisté prostředí s minimální softwarovou výbavou. Nyní je ten správný čas přizpůsobit si Váš nový desktop, můžete využít tlačítka akcí níže.</p></font>"
+msgstr "Q4OS je nainstalován jako velmi základní a čisté desktopové prostředí s minimální sadou softwaru. Teď je ta pravá chvíle svůj nový desktop přizpůsobit, můžete využít zkratky pro doladění níže."
 
 msgid "Resize fonts and icons to adjust them according to the current screen resolution and make them more readable."
-msgstr ""
+msgstr "Změnit velikost písem a ikon podle aktuálního rozlišení obrazovky, aby byly lépe čitelné."
 
 msgid "Revert to Classic"
 msgstr "Vrátit klasický styl"
@@ -179,10 +170,10 @@ msgid "Run Desktop Profiler"
 msgstr "Spustit Desktop Profiler"
 
 msgid "Screen scaling"
-msgstr ""
+msgstr "Škálování obrazovky"
 
 msgid "Screen scaling tool not found."
-msgstr ""
+msgstr "Nástroj pro škálování obrazovky nebyl nalezen."
 
 msgid "Set Autologin"
 msgstr "Automatické přihlašování"
@@ -194,26 +185,25 @@ msgid "Start menu configuration"
 msgstr "Konfigurace Start Menu"
 
 msgid "Support us on Patreon"
-msgstr ""
+msgstr "Podpořte nás na Patreonu"
 
-#, fuzzy
 msgid "Switch start menu"
-msgstr "Přepnout na Kickoff menu"
+msgstr "Přepnout nabídku Start"
 
 msgid "Switch to Bourbon"
-msgstr ""
+msgstr "Přepnout na Bourbon"
 
 msgid "Switch to Kickoff"
 msgstr "Přepnout na Kickoff"
 
 msgid "This option is to turn smoothing and beautifying desktop effects on."
-msgstr ""
+msgstr "Touto volbou zapnete vyhlazovací a zkrášlovací efekty plochy."
 
 msgid "Turn ON"
 msgstr "Zapnout"
 
 msgid "Two panel menu with search line"
-msgstr ""
+msgstr "Dvoupanelová nabídka s vyhledávacím řádkem"
 
 msgid "Warning !"
 msgstr "Varování !"
@@ -222,31 +212,40 @@ msgid "Welcome screen"
 msgstr "Uvítací obrazovka"
 
 msgid "Welcome to Q4OS"
-msgstr ""
+msgstr "Vítejte v Q4OS"
 
 msgid "Well arranged system hardware information."
-msgstr ""
+msgstr "Přehledné informace o hardwaru systému."
 
 msgid "Working ..."
-msgstr ""
+msgstr "Pracuji ..."
+
+msgid "Your hardware seems to be low to run desktop effects, it's not recommended to turn effects on."
+msgstr "Váš hardware je nespíš slabý pro efekty desktopu, není doporučeno zapínat efekty."
 
 msgid "fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface."
-msgstr ""
+msgstr "rychlém a výkonném desktopovém operačním systému zaměřeném na dlouhodobou stabilitu, spolehlivost a uživatelské rozhraní v klasickém stylu."
 
 msgid "pushButton1"
-msgstr ""
+msgstr "pushButton1"
 
 msgid "pushButton2"
-msgstr ""
+msgstr "pushButton2"
 
 msgid "pushButton3"
-msgstr ""
+msgstr "pushButton3"
 
 msgid "pushButton4"
-msgstr ""
+msgstr "pushButton4"
 
 msgid "textLabel1"
-msgstr ""
+msgstr "textLabel1"
+
+#~ msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
+#~ msgstr "<p>Byla zjištěna instalace NVIDIA!</p><p>Během instalace NVIDIA jsou akce zakázány, počkejte prosím na její dokončení.</p>"
+
+#~ msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
+#~ msgstr "<p>Byla detekována instalace Virtualboxu !</p><p>Tlačítka akcí jsou zakázána během instalace Virtualboxu, prosím počkejte na ukončení instalace Virtualboxu.</p>"
 
 #~ msgid "Turn on Desktop effects"
 #~ msgstr "Zapnout efekty desktopu"

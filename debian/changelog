@@ -1,3 +1,22 @@
+q4os-i18n (3.17.4-a1) UNRELEASED; urgency=medium
+
+  [ Q4OS Team ]
+  * Stop shipping desktop-profiler.mo: q4os-sw-profiler-common compiles and
+    installs that domain itself now, from its own common/po corpus, at
+    /usr/share/locale plus symlinks at the /opt/trinity/share/locale path this
+    package used - the same move cpuqinfo, update-manager and um_config made.
+    The .po sources stay here so volunteers keep translating them with the rest;
+    the 18 languages the profiler ships (cs de es es_AR fr he hu id it ja nl pl
+    pt pt_BR ru tr uk zh_CN) are synced back here complete.
+  * Stop shipping welcome-screen.mo the same way: q4os-welcome-common 4.4.0 installs
+    it, at the same /usr/share/locale path this package used, completed in the same 18
+    languages and synced back here.
+  * Stop shipping software-centre.mo the same way: q4os-swcentre-common 4.6.0 installs
+    it (regenerated template, completed in the same 18 languages, synced back here),
+    /usr/share/locale plus the /opt/trinity/share/locale symlinks.
+
+ -- Q4OS Team <devteam@q4os.org>  Thu, 24 Sep 2026 21:40:00 +0200
+
 q4os-i18n (3.17.3-a1) UNRELEASED; urgency=medium
 
   [ Q4OS Team ]

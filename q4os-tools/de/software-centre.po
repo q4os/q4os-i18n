@@ -7,13 +7,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-23 10:23+0100\n"
-"PO-Revision-Date: 2025-06-24 14:40+0200\n"
+"POT-Creation-Date: 2026-09-25 08:51+0000\n"
+"PO-Revision-Date: 2026-09-25 10:55+0200\n"
 "Last-Translator: Beckerich Mika <beckerichmika@gmail.com>\n"
-"Language-Team: \n"
+"Language-Team: Q4OS de <devteam@q4os.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.5\n"
 
@@ -29,8 +29,8 @@ msgstr "---  Menü  ---"
 msgid "<"
 msgstr "<"
 
-msgid "<p>"
-msgstr "<p>"
+msgid "<p>%1 is already installed, do you want to uninstall ?</p>"
+msgstr "<p>%1 ist bereits installiert, möchten Sie es deinstallieren?</p>"
 
 msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
 msgstr "<p>NVIDIA-Installation ist erkannt worden!</p><p>Aktionen sind während des NVIDIA-Setups deaktiviert, bitte warten Sie bis zum Ende der NVIDIA-Installation.</p>"
@@ -48,7 +48,7 @@ msgid "<p>You have applied no desktop profile yet. It's highly recommended to ap
 msgstr "<p>Sie haben noch kein Desktop-Profil angewendet. Es wird dringend empfohlen, vor der Installation von Anwendungen ein Desktop-Profil anzuwenden.</p><p>Bitte führen Sie das Tool <b>Desktop-Profiler</b>aus, um ein Profil zu wählen und anzuwenden.</p>"
 
 msgid ">"
-msgstr ""
+msgstr ">"
 
 msgid "APT database hasn't been updated yet."
 msgstr "APT-Datenbank ist noch nicht aktualisiert worden."
@@ -56,17 +56,29 @@ msgstr "APT-Datenbank ist noch nicht aktualisiert worden."
 msgid "Application"
 msgstr "Anwendung"
 
+msgid "Building Apt database ..."
+msgstr "Apt-Datenbank wird aufgebaut ..."
+
+msgid "Building Flatpak database ..."
+msgstr "Flatpak-Datenbank wird aufgebaut ..."
+
+msgid "Building application list ..."
+msgstr "Anwendungsliste wird aufgebaut ..."
+
+msgid "Building flatpaks list ..."
+msgstr "Flatpak-Liste wird aufgebaut ..."
+
 msgid "Cancel"
 msgstr "Abbrechen"
 
 msgid "Description"
 msgstr "Beschreibung"
 
-msgid "Desktop Profiler"
-msgstr "Desktop-Profiler"
-
 msgid "Desktop profiler"
 msgstr "Desktop-Profiler"
+
+msgid "Discover manager"
+msgstr "Discover-Verwaltung"
 
 msgid "Discover software manager isn't installed, do you want to install it now ?"
 msgstr "Discover Software-Manager ist nicht installiert, möchten Sie ihn jetzt installieren?"
@@ -80,11 +92,17 @@ msgstr "Gekennzeichnete Anwendungen: #"
 msgid "Flathub apps"
 msgstr "Flathub-Apps"
 
+msgid "Found: %1 of %2"
+msgstr "Gefunden: %1 von %2"
+
 msgid "In order to get more applications in the featured list, refresh APT database and start the Software center again."
 msgstr "Um mehr Anwendungen in der gekennzeichneten Liste zu erhalten, frischen Sie die APT-Datenbank auf und starten Sie das Software-Center erneut."
 
 msgid "Info"
 msgstr "Info"
+
+msgid "Initializing ..."
+msgstr "Initialisierung ..."
 
 msgid "Install"
 msgstr "Installieren"
@@ -101,11 +119,26 @@ msgstr "Anwendung installieren"
 msgid "Install or uninstall selected application from the featured applications list below"
 msgstr "Installieren oder deinstallieren Sie eine ausgewählte Anwendung aus der Liste der gekennzeichneten Anwendungen unterhalb"
 
+msgid "Installed:"
+msgstr "Installiert:"
+
+msgid "Loading data ..."
+msgstr "Daten werden geladen ..."
+
 msgid "More options"
 msgstr "Mehr Optionen"
 
+msgid "Not installed:"
+msgstr "Nicht installiert:"
+
 msgid "Open Flathub repository in the preferred web browser"
 msgstr "Flathub-Repository in dem bevorzugten Webbrowser öffnen"
+
+msgid "Origin"
+msgstr "Herkunft"
+
+msgid "Package installer"
+msgstr "Paketinstallation"
 
 msgid "Q4OS Software Centre"
 msgstr "Q4OS-Software-Center"
@@ -129,13 +162,19 @@ msgid "Search:"
 msgstr "Suche:"
 
 msgid "Settings"
-msgstr ""
+msgstr "Einstellungen"
+
+msgid "Sorting ..."
+msgstr "Sortieren ..."
 
 msgid "Status"
 msgstr "Status"
 
 msgid "Status:"
 msgstr "Status:"
+
+msgid "Synaptic manager"
+msgstr "Synaptic-Verwaltung"
 
 msgid "Synaptic package manager isn't installed, do you want to install it now ?"
 msgstr "Synaptic-Paketmanager ist nicht installiert, möchten Sie ihn jetzt installieren?"
@@ -182,11 +221,14 @@ msgstr "Repositories"
 msgid "textLabel"
 msgstr "textLabel"
 
+#~ msgid "<p>"
+#~ msgstr "<p>"
+
+#~ msgid "Desktop Profiler"
+#~ msgstr "Desktop-Profiler"
+
 #~ msgid "1"
 #~ msgstr "1"
-
-#~ msgid "Package manager"
-#~ msgstr "Paket-Manager"
 
 #~ msgid "Run 'Synaptic' - system package manager"
 #~ msgstr "Starte 'Synaptic' - System-Paket-Manager"

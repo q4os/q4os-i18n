@@ -3,181 +3,219 @@
 # This file is distributed under the same license as the Q4OS Software Centre package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-23 10:23+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2026-09-25 08:51+0000\n"
+"PO-Revision-Date: 2026-09-25 10:55+0200\n"
+"Last-Translator: Q4OS Team <devteam@q4os.org>\n"
+"Language-Team: Q4OS zh_CN <devteam@q4os.org>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "#Filter: "
-msgstr ""
+msgstr "#筛选: "
 
 msgid "#Records: "
-msgstr ""
+msgstr "#记录数: "
 
 msgid "---  Menu  ---"
-msgstr ""
+msgstr "---  菜单  ---"
 
 msgid "<"
-msgstr ""
+msgstr "<"
 
-msgid "<p>"
-msgstr ""
+msgid "<p>%1 is already installed, do you want to uninstall ?</p>"
+msgstr "<p>%1 已经安装，是否要卸载？</p>"
 
 msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
-msgstr ""
+msgstr "<p>检测到正在安装 NVIDIA！</p><p>NVIDIA 安装期间操作被禁用，请等待 NVIDIA 安装结束。</p>"
 
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, most likely, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p>"
-msgstr ""
+msgstr "<p>软件包系统正忙，现在无法安装。安装无法继续。</p><p>锁定很可能是由后台正在进行的系统更新造成的。如果是这样，您需要稍等片刻，让软件包系统完成这些操作。请确认您没有在安装其他应用程序，几分钟后再重试。</p>"
 
 msgid "<p>Select an application to install from the list of featured applications.</p>"
-msgstr ""
+msgstr "<p>请从推荐应用程序列表中选择要安装的应用程序。</p>"
 
 msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
-msgstr ""
+msgstr "<p>检测到正在安装 Virtualbox！</p><p>Virtualbox 安装期间操作被禁用，请等待 Virtualbox 安装结束。</p>"
 
 msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Desktop Profiler</b> tool to choose and apply a profile.</p>"
-msgstr ""
+msgstr "<p>您尚未应用任何桌面配置方案。强烈建议在安装应用程序之前先应用桌面配置方案。</p><p>请运行 <b>Desktop Profiler</b> 工具来选择并应用配置方案。</p>"
 
 msgid ">"
-msgstr ""
+msgstr ">"
 
 msgid "APT database hasn't been updated yet."
-msgstr ""
+msgstr "APT 数据库尚未更新。"
 
 msgid "Application"
-msgstr ""
+msgstr "应用程序"
+
+msgid "Building Apt database ..."
+msgstr "正在构建 Apt 数据库 ..."
+
+msgid "Building Flatpak database ..."
+msgstr "正在构建 Flatpak 数据库 ..."
+
+msgid "Building application list ..."
+msgstr "正在生成应用程序列表 ..."
+
+msgid "Building flatpaks list ..."
+msgstr "正在生成 Flatpak 列表 ..."
 
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 msgid "Description"
-msgstr ""
-
-msgid "Desktop Profiler"
-msgstr ""
+msgstr "描述"
 
 msgid "Desktop profiler"
-msgstr ""
+msgstr "Desktop Profiler"
+
+msgid "Discover manager"
+msgstr "Discover 管理器"
 
 msgid "Discover software manager isn't installed, do you want to install it now ?"
-msgstr ""
+msgstr "尚未安装 Discover 软件管理器，是否现在安装？"
 
 msgid "Featured applications"
-msgstr ""
+msgstr "推荐应用程序"
 
 msgid "Featured applications: #"
-msgstr ""
+msgstr "推荐应用程序: #"
 
 msgid "Flathub apps"
-msgstr ""
+msgstr "Flathub 应用"
+
+msgid "Found: %1 of %2"
+msgstr "找到: %1 / %2"
 
 msgid "In order to get more applications in the featured list, refresh APT database and start the Software center again."
-msgstr ""
+msgstr "要在推荐列表中获得更多应用程序，请刷新 APT 数据库并重新启动软件中心。"
 
 msgid "Info"
-msgstr ""
+msgstr "信息"
+
+msgid "Initializing ..."
+msgstr "正在初始化 ..."
 
 msgid "Install"
-msgstr ""
+msgstr "安装"
 
 msgid "Install Discover ?"
-msgstr ""
+msgstr "安装 Discover？"
 
 msgid "Install Synaptic ?"
-msgstr ""
+msgstr "安装 Synaptic？"
 
 msgid "Install application"
-msgstr ""
+msgstr "安装应用程序"
 
 msgid "Install or uninstall selected application from the featured applications list below"
-msgstr ""
+msgstr "安装或卸载下方推荐应用程序列表中选中的应用程序"
+
+msgid "Installed:"
+msgstr "已安装:"
+
+msgid "Loading data ..."
+msgstr "正在加载数据 ..."
 
 msgid "More options"
-msgstr ""
+msgstr "更多选项"
+
+msgid "Not installed:"
+msgstr "未安装:"
 
 msgid "Open Flathub repository in the preferred web browser"
-msgstr ""
+msgstr "在首选网页浏览器中打开 Flathub 仓库"
+
+msgid "Origin"
+msgstr "来源"
+
+msgid "Package installer"
+msgstr "软件包安装器"
 
 msgid "Q4OS Software Centre"
-msgstr ""
+msgstr "Q4OS 软件中心"
 
 msgid "Rating"
-msgstr ""
+msgstr "评分"
 
 msgid "Run 'Desktop Profiler' tool"
-msgstr ""
+msgstr "运行 'Desktop Profiler' 工具"
 
 msgid "Run 'Discover' advanced software manager"
-msgstr ""
+msgstr "运行高级软件管理器 'Discover'"
 
 msgid "Run 'Synaptic' advanced software manager"
-msgstr ""
+msgstr "运行高级软件管理器 'Synaptic'"
 
 msgid "Run comfortable package installer and Flatpak installer"
-msgstr ""
+msgstr "运行便捷的软件包安装器和 Flatpak 安装器"
 
 msgid "Search:"
-msgstr ""
+msgstr "搜索:"
 
 msgid "Settings"
-msgstr ""
+msgstr "设置"
+
+msgid "Sorting ..."
+msgstr "正在排序 ..."
 
 msgid "Status"
-msgstr ""
+msgstr "状态"
 
 msgid "Status:"
-msgstr ""
+msgstr "状态:"
+
+msgid "Synaptic manager"
+msgstr "Synaptic 管理器"
 
 msgid "Synaptic package manager isn't installed, do you want to install it now ?"
-msgstr ""
+msgstr "尚未安装 Synaptic 软件包管理器，是否现在安装？"
 
 msgid "Uninstall"
-msgstr ""
+msgstr "卸载"
 
 msgid "Uninstall now"
-msgstr ""
+msgstr "立即卸载"
 
 msgid "action1"
-msgstr ""
+msgstr "action1"
 
 msgid "action2"
-msgstr ""
+msgstr "action2"
 
 msgid "config_file"
-msgstr ""
+msgstr "config_file"
 
 msgid "dependencies"
-msgstr ""
+msgstr "dependencies"
 
 msgid "download"
-msgstr ""
+msgstr "download"
 
 msgid "no selection"
-msgstr ""
+msgstr "未选择"
 
 msgid "origin"
-msgstr ""
+msgstr "origin"
 
 msgid "package"
-msgstr ""
+msgstr "package"
 
 msgid "rating_num"
-msgstr ""
+msgstr "rating_num"
 
 msgid "recordnum"
-msgstr ""
+msgstr "recordnum"
 
 msgid "repositories"
-msgstr ""
+msgstr "repositories"
 
 msgid "textLabel"
-msgstr ""
+msgstr "textLabel"

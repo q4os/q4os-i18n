@@ -56,6 +56,13 @@ find . -name q4os_screenscaler.mo -execdir rm '{}' \;
 #(matches the TDEInstance name in src/kcmmodule.cpp), not the source
 #package name.
 find . -name q4os_lookswitcher.mo -execdir rm '{}' \;
+#remove desktop-profiler files - q4os-sw-profiler-common now compiles and
+#ships this itself (in /usr/share/locale, and the same /opt/trinity/share/locale
+#path this package used as symlinks), so this package must never produce it
+#too. The .po sources stay in q4os-tools/ so volunteers can keep translating
+#them here with the rest - only the generated .mo output is dropped before
+#packaging, exactly as for cpuqinfo above.
+find . -name desktop-profiler.mo -execdir rm '{}' \;
 
 #remove untranslated files - 1
 cd $BUILDDIR1/
@@ -71,8 +78,7 @@ done
 
 #remove untranslated files - 2, as not translated yet
 echo "Processing-3"
-rm he/LC_MESSAGES/desktop-profiler.mo
-rm he/LC_MESSAGES/software-centre.mo
+#rm he/LC_MESSAGES/software-centre.mo - the domain is q4os-swcentre-common's now (complete in he too)
 rm he/LC_MESSAGES/appsetup2.mo
 # rm ja/LC_MESSAGES/software-centre.mo
 # rm ja/LC_MESSAGES/appsetup2.mo
@@ -98,7 +104,11 @@ for CFDIR in * ; do
     echo "Copying > $CFDIR"
     mkdir -p $BUILDDIR2/usr/share/locale/$CFDIR/LC_MESSAGES/
     mkdir -p $BUILDDIR2/opt/trinity/share/locale/$CFDIR/LC_MESSAGES/
-    mv $CFDIR/LC_MESSAGES/welcome-screen.mo $BUILDDIR2/usr/share/locale/$CFDIR/LC_MESSAGES/
+    #welcome-screen.mo is q4os-welcome-common's now (same /usr/share/locale path, plus the
+    #/opt/trinity symlinks TDE needs) - dropped here, the .po sources stay for volunteers
+    rm -f $CFDIR/LC_MESSAGES/welcome-screen.mo
+    #software-centre.mo is q4os-swcentre-common's now, the same way
+    rm -f $CFDIR/LC_MESSAGES/software-centre.mo
     mv $CFDIR/LC_MESSAGES/q4os-base.mo $BUILDDIR2/usr/share/locale/$CFDIR/LC_MESSAGES/
     cp -r $CFDIR/LC_MESSAGES $BUILDDIR2/opt/trinity/share/locale/$CFDIR/
     rm -r $CFDIR

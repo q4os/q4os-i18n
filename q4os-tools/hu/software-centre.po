@@ -3,15 +3,14 @@
 # This file is distributed under the same license as the Q4OS Software Centre package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-23 10:23+0100\n"
-"PO-Revision-Date: 2025-02-12 13:41+0100\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"POT-Creation-Date: 2026-09-25 08:51+0000\n"
+"PO-Revision-Date: 2026-09-25 10:55+0200\n"
+"Last-Translator: Q4OS Team <devteam@q4os.org>\n"
+"Language-Team: Q4OS hu <devteam@q4os.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -30,8 +29,8 @@ msgstr "---  Menü  ---"
 msgid "<"
 msgstr "<"
 
-msgid "<p>"
-msgstr "<p>"
+msgid "<p>%1 is already installed, do you want to uninstall ?</p>"
+msgstr "<p>A(z) %1 már telepítve van, el szeretné távolítani?</p>"
 
 msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
 msgstr "<p>NVIDIA telepítést észleltünk !</p><p>Az NVIDIA telepítés során a funkciók le vannak tiltva, kérlek, várj az NVIDIA telepítés végéig.</p>"
@@ -45,12 +44,11 @@ msgstr "<p>Válaszd ki a telepítendő alkalmazást a kiemelt alkalmazások list
 msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
 msgstr "<p>A Virtualbox telepítését észleltük !</p><p>A Virtualbox telepítése során a műveletek le vannak tiltva, kérlek, várj a Virtualbox telepítésének végéig.</p>"
 
-#, fuzzy
 msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Desktop Profiler</b> tool to choose and apply a profile.</p>"
-msgstr "<p>Még nem választottál asztal profilt. Az alkalmazások telepítése előtt erősen ajánlott egy asztal profilt alkalmazni</p><p>Kérlek, futtasd az <b>Asztal profilkészítő</b> eszközt a profil kiválasztásához és alkalmazásához.</p>"
+msgstr "<p>Még nem alkalmazott asztali profilt. Erősen ajánlott az alkalmazások telepítése előtt egy asztali profilt alkalmazni.</p><p>Kérjük, futtassa a <b>Desktop Profiler</b> eszközt egy profil kiválasztásához és alkalmazásához.</p>"
 
 msgid ">"
-msgstr ""
+msgstr ">"
 
 msgid "APT database hasn't been updated yet."
 msgstr "Az APT adatbázist még nem frissítettük."
@@ -58,17 +56,29 @@ msgstr "Az APT adatbázist még nem frissítettük."
 msgid "Application"
 msgstr "Alkalmazás"
 
+msgid "Building Apt database ..."
+msgstr "Apt adatbázis felépítése ..."
+
+msgid "Building Flatpak database ..."
+msgstr "Flatpak adatbázis felépítése ..."
+
+msgid "Building application list ..."
+msgstr "Alkalmazáslista felépítése ..."
+
+msgid "Building flatpaks list ..."
+msgstr "Flatpak lista felépítése ..."
+
 msgid "Cancel"
 msgstr "Mégsem"
 
 msgid "Description"
 msgstr "Leírás"
 
-msgid "Desktop Profiler"
-msgstr "Asztal Profilozó"
-
 msgid "Desktop profiler"
 msgstr "Asztal profilozó"
+
+msgid "Discover manager"
+msgstr "Discover kezelő"
 
 msgid "Discover software manager isn't installed, do you want to install it now ?"
 msgstr "A Discover szoftvermenedzser nincs telepítve, szeretné most telepíteni ?"
@@ -82,11 +92,17 @@ msgstr "Kiemelt alkalmazások: #"
 msgid "Flathub apps"
 msgstr "Flathub alkalmazások"
 
+msgid "Found: %1 of %2"
+msgstr "Találat: %1 / %2"
+
 msgid "In order to get more applications in the featured list, refresh APT database and start the Software center again."
 msgstr "Ahhoz, hogy több alkalmazás is megjelenjen a kiemelt listán, frissítsd az APT-adatbázist, és indítsd újra a Szoftverközpontot."
 
 msgid "Info"
 msgstr "Információ"
+
+msgid "Initializing ..."
+msgstr "Inicializálás ..."
 
 msgid "Install"
 msgstr "Telepítés"
@@ -103,11 +119,26 @@ msgstr "Az alkalmazás telepítése"
 msgid "Install or uninstall selected application from the featured applications list below"
 msgstr "Telepítsd vagy távolítsd el a kiválasztott alkalmazást az alábbi listából"
 
+msgid "Installed:"
+msgstr "Telepítve:"
+
+msgid "Loading data ..."
+msgstr "Adatok betöltése ..."
+
 msgid "More options"
 msgstr "További opciók"
 
+msgid "Not installed:"
+msgstr "Nincs telepítve:"
+
 msgid "Open Flathub repository in the preferred web browser"
 msgstr "Nyisd meg a Flathub tároló-t a kívánt böngészőben"
+
+msgid "Origin"
+msgstr "Eredet"
+
+msgid "Package installer"
+msgstr "Csomagtelepítő"
 
 msgid "Q4OS Software Centre"
 msgstr "Q4OS Szoftverközpont"
@@ -131,13 +162,19 @@ msgid "Search:"
 msgstr "Keresés:"
 
 msgid "Settings"
-msgstr ""
+msgstr "Beállítások"
+
+msgid "Sorting ..."
+msgstr "Rendezés ..."
 
 msgid "Status"
 msgstr "Állapot"
 
 msgid "Status:"
 msgstr "Állapot:"
+
+msgid "Synaptic manager"
+msgstr "Synaptic kezelő"
 
 msgid "Synaptic package manager isn't installed, do you want to install it now ?"
 msgstr "A Synaptic csomagkezelő nincs telepítve, szeretnéd most telepíteni ?"
@@ -183,6 +220,12 @@ msgstr "tárolók"
 
 msgid "textLabel"
 msgstr "textLabel"
+
+#~ msgid "<p>"
+#~ msgstr "<p>"
+
+#~ msgid "Desktop Profiler"
+#~ msgstr "Asztal Profilozó"
 
 #~ msgid "1"
 #~ msgstr "1"

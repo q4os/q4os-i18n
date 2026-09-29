@@ -3,15 +3,14 @@
 # This file is distributed under the same license as the Q4OS Welcome Screen package.
 # Alejo Fernández <alejoo.fernandez.2003@gmail.com>, 2025.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Welcome Screen\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-14 21:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2026-09-25 08:28+0000\n"
+"PO-Revision-Date: 2026-09-25 10:27+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language-Team: Q4OS es_AR <devteam@q4os.org>\n"
 "Language: es_AR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -56,9 +55,6 @@ msgstr "<p>¿Querés activar el inicio de sesión automático?</p>"
 msgid "<p>Do you want to switch the Start Menu ?</p>"
 msgstr "<p>¿Querés cambiar el menú de inicio?</p>"
 
-msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
-msgstr "<p>¡Se detectó una instalación de NVIDIA!</p><p>Las acciones están deshabilitadas mientras se configura NVIDIA. Esperá a que la instalación termine.</p>"
-
 msgid "<p>Start Menu is now set to Bourbon style.</p>"
 msgstr "<p>El menú de inicio ahora está configurado en estilo Bourbon.</p>"
 
@@ -73,12 +69,6 @@ msgstr "<p>Esta acción solo está disponible para los escritorios Trinity y Pla
 
 msgid "<p>This action is available for Trinity desktop only.</p>"
 msgstr "<p>Esta acción solo está disponible para el escritorio Trinity.</p>"
-
-msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
-msgstr "<p>¡Se detectó una instalación de VirtualBox!</p><p>Las acciones están deshabilitadas mientras se configura VirtualBox. Esperá a que la instalación termine.</p>"
-
-msgid "<p>Your hardware seems to be low to run desktop effects, it's not recommended to turn effects on.</p><p>Do you really want to turn Desktop Effects on ?</p>"
-msgstr "<p>Parece que tu hardware no es lo suficientemente potente para ejecutar los efectos de escritorio. No se recomienda activarlos.</p><p>¿Seguro que querés activarlos?</p>"
 
 msgid "Apply"
 msgstr "Aplicar"
@@ -106,6 +96,9 @@ msgstr "Menú en cascada de estilo clásico"
 
 msgid "Desktop effects"
 msgstr "Efectos de escritorio"
+
+msgid "Do you really want to turn Desktop Effects on ?"
+msgstr "¿Seguro que querés activarlos?"
 
 msgid "Do you want to turn Desktop Effects on ?"
 msgstr "¿Querés activar los efectos de escritorio?"
@@ -179,9 +172,8 @@ msgstr "Ejecutar el perfilador de escritorio"
 msgid "Screen scaling"
 msgstr "Escalado de pantalla"
 
-#, fuzzy
 msgid "Screen scaling tool not found."
-msgstr "Escalado de pantalla"
+msgstr "No se encontró la herramienta de escalado de pantalla."
 
 msgid "Set Autologin"
 msgstr "Configurar inicio de sesión automático"
@@ -228,6 +220,9 @@ msgstr "Información del hardware del sistema bien organizada."
 msgid "Working ..."
 msgstr "Trabajando..."
 
+msgid "Your hardware seems to be low to run desktop effects, it's not recommended to turn effects on."
+msgstr "Parece que tu hardware no es lo suficientemente potente para ejecutar los efectos de escritorio. No se recomienda activarlos."
+
 msgid "fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface."
 msgstr "Sistema operativo de escritorio rápido y potente, enfocado en la estabilidad a largo plazo, fiabilidad y una interfaz de usuario de estilo clásico."
 
@@ -245,3 +240,9 @@ msgstr "botón4"
 
 msgid "textLabel1"
 msgstr "etiquetaDeTexto1"
+
+#~ msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
+#~ msgstr "<p>¡Se detectó una instalación de NVIDIA!</p><p>Las acciones están deshabilitadas mientras se configura NVIDIA. Esperá a que la instalación termine.</p>"
+
+#~ msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
+#~ msgstr "<p>¡Se detectó una instalación de VirtualBox!</p><p>Las acciones están deshabilitadas mientras se configura VirtualBox. Esperá a que la instalación termine.</p>"

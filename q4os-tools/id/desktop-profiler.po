@@ -3,379 +3,378 @@
 # This file is distributed under the same license as the Q4OS Desktop Profiler package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Desktop Profiler\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-21 10:49+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2026-09-24 23:28+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language-Team: Q4OS id <devteam@q4os.org>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "  Install >"
-msgstr ""
+msgstr "  Pasang >"
 
 msgid "* select please *"
-msgstr ""
+msgstr "* silakan pilih *"
 
 msgid "--- General ---"
-msgstr ""
+msgstr "--- Umum ---"
 
 msgid "--- Miscellaneous ---"
-msgstr ""
+msgstr "--- Lain-lain ---"
 
 msgid "--- Selected profile ---"
-msgstr ""
+msgstr "--- Profil terpilih ---"
 
 msgid "0"
-msgstr ""
+msgstr "0"
 
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgid "10"
-msgstr ""
+msgstr "10"
 
 msgid "2"
-msgstr ""
+msgstr "2"
 
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgid "4"
-msgstr ""
+msgstr "4"
 
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgid "6"
-msgstr ""
+msgstr "6"
 
 msgid "7"
-msgstr ""
+msgstr "7"
 
 msgid "8"
-msgstr ""
+msgstr "8"
 
 msgid "9"
-msgstr ""
+msgstr "9"
 
 msgid "<"
-msgstr ""
+msgstr "<"
 
 msgid "<p align=justify>This dialog lets you choose an additional desktop environment (DE) to install alongside the default Q4OS desktop.</p><p align=justify>Please do not use this option, unless you are absolutely sure what you are doing.</p>"
-msgstr ""
+msgstr "<p align=justify>Dialog ini memungkinkan Anda memilih lingkungan desktop (DE) tambahan untuk dipasang berdampingan dengan desktop bawaan Q4OS.</p><p align=justify>Jangan gunakan opsi ini kecuali Anda benar-benar yakin dengan apa yang Anda lakukan.</p>"
 
 msgid "<p>Couldn't open file.</p>"
-msgstr ""
+msgstr "<p>Tidak dapat membuka berkas.</p>"
 
 msgid "<p>Do you want to cancel pending operation ?</p>"
-msgstr ""
+msgstr "<p>Apakah Anda ingin membatalkan operasi yang sedang berjalan?</p>"
 
 msgid "<p>Install and set <span style=\"font-weight:600\">KDE Plasma</span> environment as default and leave the Trinity desktop as an option.</p>"
-msgstr ""
+msgstr "<p>Pasang lingkungan <span style=\"font-weight:600\">KDE Plasma</span> sebagai bawaan dan biarkan desktop Trinity sebagai pilihan.</p>"
 
 msgid "<p>Insufficient hardware detected !</p><p>Your CPU lacks SSE2 support, SSE2 is necessary for required software.</p>"
-msgstr ""
+msgstr "<p>Perangkat keras tidak memadai!</p><p>CPU Anda tidak mendukung SSE2, sedangkan SSE2 diperlukan oleh perangkat lunak yang dibutuhkan.</p>"
 
 msgid "<p>Insufficient hardware detected !</p><p>Your computer is low in hardware resources for profile you have selected, it's not recommended to install the profile.</p>"
-msgstr ""
+msgstr "<p>Perangkat keras tidak memadai!</p><p>Sumber daya perangkat keras komputer Anda kurang untuk profil yang Anda pilih, memasang profil ini tidak disarankan.</p>"
 
 msgid "<p>Keep the <span style=\"font-weight:600\">Trinity</span> desktop as default, no Plasma will be installed. You can start Plasma installation later using the Desktop profiler tool.</p>"
-msgstr ""
+msgstr "<p>Pertahankan desktop <span style=\"font-weight:600\">Trinity</span> sebagai bawaan, Plasma tidak akan dipasang. Anda dapat memulai pemasangan Plasma nanti dengan alat Desktop Profiler.</p>"
 
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, most likely, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p>"
-msgstr ""
+msgstr "<p>Sistem paket sedang sibuk, belum siap untuk memasang sekarang. Penyiapan tidak dapat dilanjutkan.</p><p>Kuncian ini kemungkinan besar disebabkan oleh pembaruan sistem yang sedang berjalan di latar belakang. Jika demikian, tunggu sebentar sampai sistem paket menyelesaikan operasi tersebut. Pastikan Anda tidak sedang memasang aplikasi lain dan ulangi penyiapan beberapa menit lagi.</p>"
 
 msgid "<p>Warning: Canceling installation during this phase could result in package system failure.</p><p>Are you really sure, you want to interrupt the install process now ?</p>"
-msgstr ""
+msgstr "<p>Peringatan: Membatalkan pemasangan pada tahap ini dapat mengakibatkan kegagalan sistem paket.</p><p>Apakah Anda benar-benar yakin ingin menghentikan proses pemasangan sekarang?</p>"
 
 msgid ">"
-msgstr ""
+msgstr ">"
 
 msgid "A profile has been already applied for this system."
-msgstr ""
+msgstr "Sebuah profil sudah diterapkan pada sistem ini."
 
 msgid "Additional repositories:"
-msgstr ""
+msgstr "Repositori tambahan:"
 
 msgid "Another instance of Desktop Profiler is running, leaving ..."
-msgstr ""
+msgstr "Desktop Profiler sudah berjalan di jendela lain, keluar ..."
 
 msgid "Apply profile"
-msgstr ""
+msgstr "Terapkan profil"
 
 msgid "Applying a profile within the live systems isn't supported."
-msgstr ""
+msgstr "Menerapkan profil di dalam sistem live tidak didukung."
 
 msgid "Apt configured, no additional action needed."
-msgstr ""
+msgstr "Apt sudah dikonfigurasi, tidak ada tindakan tambahan yang diperlukan."
 
 msgid "Apt plugin completed, Ok"
-msgstr ""
+msgstr "Plugin Apt selesai, OK"
 
 msgid "Are you really sure to overwrite the previous profile ?"
-msgstr ""
+msgstr "Apakah Anda benar-benar yakin ingin menimpa profil sebelumnya?"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Batal"
 
 msgid "Cancel installation"
-msgstr ""
+msgstr "Batalkan pemasangan"
 
 msgid "Cancel menu"
-msgstr ""
+msgstr "Tutup menu"
 
 msgid "Choose a new filename to export current status to"
-msgstr ""
+msgstr "Pilih nama berkas baru untuk mengekspor status saat ini"
 
 msgid "Choose a new filename to save the profile to"
-msgstr ""
+msgstr "Pilih nama berkas baru untuk menyimpan profil"
 
 msgid "Choose an additional desktop environment to install."
-msgstr ""
+msgstr "Pilih lingkungan desktop tambahan untuk dipasang."
 
 msgid "Choose an additional desktop environment to install. Please do not use this option, unless you are absolutely sure what you are doing."
-msgstr ""
+msgstr "Pilih lingkungan desktop tambahan untuk dipasang. Jangan gunakan opsi ini kecuali Anda benar-benar yakin dengan apa yang Anda lakukan."
 
 msgid "Choose desktop environment"
-msgstr ""
+msgstr "Pilih lingkungan desktop"
 
 msgid "Click to select profile"
-msgstr ""
+msgstr "Klik untuk memilih profil"
 
 msgid "Configuration file:"
-msgstr ""
+msgstr "Berkas konfigurasi:"
 
 msgid "Current desktop status has been saved to profile:"
-msgstr ""
+msgstr "Status desktop saat ini telah disimpan ke profil:"
 
 msgid "DEB packages to install:"
-msgstr ""
+msgstr "Paket DEB yang akan dipasang:"
 
 msgid "Desktop Profiler"
-msgstr ""
+msgstr "Desktop Profiler"
 
 msgid "Desktop Profiler - install progress"
-msgstr ""
+msgstr "Desktop Profiler - kemajuan pemasangan"
 
 msgid "Desktop Profiler lets you to choose and apply the most appropriate desktop profile for this computer."
-msgstr ""
+msgstr "Desktop Profiler memungkinkan Anda memilih dan menerapkan profil desktop yang paling sesuai untuk komputer ini."
 
 msgid "Desktop environment:"
-msgstr ""
+msgstr "Lingkungan desktop:"
 
 msgid "Desktop environments:"
-msgstr ""
+msgstr "Lingkungan desktop:"
 
 msgid "Desktop profiler - select default desktop environment"
-msgstr ""
+msgstr "Desktop Profiler - pilih lingkungan desktop bawaan"
 
 msgid "Do you want to continue ?"
-msgstr ""
+msgstr "Apakah Anda ingin melanjutkan?"
 
 msgid "Error: profile not found, file: "
-msgstr ""
+msgstr "Kesalahan: profil tidak ditemukan, berkas: "
 
 msgid "Exit code: "
-msgstr ""
+msgstr "Kode keluar: "
 
 msgid "Export profile"
-msgstr ""
+msgstr "Ekspor profil"
 
 msgid "Failed to read packages list, file: "
-msgstr ""
+msgstr "Gagal membaca daftar paket, berkas: "
 
 msgid "Failed to read repositories list, file: "
-msgstr ""
+msgstr "Gagal membaca daftar repositori, berkas: "
 
 msgid "Flatpak applications to install:"
-msgstr ""
+msgstr "Aplikasi Flatpak yang akan dipasang:"
 
 msgid "Flatpak plugin completed, Ok"
-msgstr ""
+msgstr "Plugin Flatpak selesai, OK"
 
 msgid "Get snapshot profile"
-msgstr ""
+msgstr "Buat profil dari keadaan sistem saat ini"
 
 msgid "Help"
-msgstr ""
+msgstr "Bantuan"
 
 msgid "If you are not sure, just press <b>[ KDE Plasma ]</b> button to select the recommended option."
-msgstr ""
+msgstr "Jika Anda tidak yakin, cukup tekan tombol <b>[ KDE Plasma ]</b> untuk memilih opsi yang disarankan."
 
 msgid "If you continue, the selected new profile replaces the previous one and system will be configured accordingly."
-msgstr ""
+msgstr "Jika Anda melanjutkan, profil baru yang dipilih akan menggantikan profil sebelumnya dan sistem akan dikonfigurasi sesuai dengannya."
 
 msgid "Import a profile"
-msgstr ""
+msgstr "Impor profil"
 
 msgid "Import local profile"
-msgstr ""
+msgstr "Impor profil lokal"
 
 msgid "Import shared profile"
-msgstr ""
+msgstr "Impor profil bersama"
 
 msgid "Initializing environment ..."
-msgstr ""
+msgstr "Menyiapkan lingkungan ..."
 
 msgid "Installation process has requested to logoff this session. Do you want re-login just now ?"
-msgstr ""
+msgstr "Proses pemasangan meminta untuk keluar dari sesi ini. Apakah Anda ingin masuk kembali sekarang?"
 
 msgid "KDE Plasma"
-msgstr ""
+msgstr "KDE Plasma"
 
 msgid "KDE Plasma >"
-msgstr ""
+msgstr "KDE Plasma >"
 
 msgid "Launch installation"
-msgstr ""
+msgstr "Mulai pemasangan"
 
 msgid "Launching Apt plugin ..."
-msgstr ""
+msgstr "Menjalankan plugin Apt ..."
 
 msgid "Launching Flatpak plugin ..."
-msgstr ""
+msgstr "Menjalankan plugin Flatpak ..."
 
 msgid "Next >"
-msgstr ""
+msgstr "Berikutnya >"
 
 msgid "No configuration found."
-msgstr ""
+msgstr "Tidak ada konfigurasi yang ditemukan."
 
 msgid "No profile selected. Select a profile please."
-msgstr ""
+msgstr "Tidak ada profil yang dipilih. Silakan pilih sebuah profil."
 
 msgid "None selected"
-msgstr ""
+msgstr "Tidak ada yang dipilih"
 
 msgid "Not implemented yet."
-msgstr ""
+msgstr "Belum diimplementasikan."
 
 msgid "Note "
-msgstr ""
+msgstr "Catatan "
 
 msgid "Ok"
-msgstr ""
+msgstr "Ok"
 
 msgid "Options"
-msgstr ""
+msgstr "Opsi"
 
 msgid "Please enter shared profile code, or Internet address:"
-msgstr ""
+msgstr "Masukkan kode profil bersama, atau alamat Internet:"
 
 msgid "Please re-login active session as soon as possible."
-msgstr ""
+msgstr "Silakan masuk kembali ke sesi aktif sesegera mungkin."
 
 msgid "Please reboot as soon as possible."
-msgstr ""
+msgstr "Silakan mulai ulang sesegera mungkin."
 
 msgid "Please reboot your computer as soon as possible. Do you want reboot just now ?"
-msgstr ""
+msgstr "Silakan mulai ulang komputer Anda sesegera mungkin. Apakah Anda ingin memulai ulang sekarang?"
 
 msgid "Please restart X server as soon as possible."
-msgstr ""
+msgstr "Silakan mulai ulang server X sesegera mungkin."
 
 msgid "Please select default desktop environment."
-msgstr ""
+msgstr "Silakan pilih lingkungan desktop bawaan."
 
 msgid "Please select default desktop environment. The lightweight and efficient Trinity desktop is installed and pre-configured as default at the moment. Nevertheless, Q4OS installer has autodetected your computer is powerful enough to operate more advanced KDE Plasma desktop environment."
-msgstr ""
+msgstr "Silakan pilih lingkungan desktop bawaan. Saat ini desktop Trinity yang ringan dan efisien telah terpasang dan dikonfigurasi sebagai bawaan. Namun, pemasang Q4OS mendeteksi bahwa komputer Anda cukup kuat untuk menjalankan lingkungan desktop yang lebih canggih, KDE Plasma."
 
 msgid "Previous profile:"
-msgstr ""
+msgstr "Profil sebelumnya:"
 
 msgid "Profile applied, installation successful."
-msgstr ""
+msgstr "Profil diterapkan, pemasangan berhasil."
 
 msgid "Profile description"
-msgstr ""
+msgstr "Deskripsi profil"
 
 msgid "Profile export"
-msgstr ""
+msgstr "Ekspor profil"
 
 msgid "Profile has been imported."
-msgstr ""
+msgstr "Profil telah diimpor."
 
 msgid "Profile has been removed."
-msgstr ""
+msgstr "Profil telah dihapus."
 
 msgid "Profile info"
-msgstr ""
+msgstr "Info profil"
 
 msgid "Profile name:"
-msgstr ""
+msgstr "Nama profil:"
 
 msgid "QSI applications to install:"
-msgstr ""
+msgstr "Aplikasi QSI yang akan dipasang:"
 
 msgid "Remote profile not found."
-msgstr ""
+msgstr "Profil jarak jauh tidak ditemukan."
 
 msgid "Remove profile"
-msgstr ""
+msgstr "Hapus profil"
 
 msgid "Remove superfluous packages"
-msgstr ""
+msgstr "Hapus paket yang tidak diperlukan"
 
 msgid "Root permissions needed, exiting ..."
-msgstr ""
+msgstr "Diperlukan izin root, keluar ..."
 
 msgid "Select a profile from the list please."
-msgstr ""
+msgstr "Silakan pilih sebuah profil dari daftar."
 
 msgid "Selected profile has been saved to file:"
-msgstr ""
+msgstr "Profil yang dipilih telah disimpan ke berkas:"
 
 msgid "Software profile:"
-msgstr ""
+msgstr "Profil perangkat lunak:"
 
 msgid "Starting profile installation ... "
-msgstr ""
+msgstr "Memulai pemasangan profil ... "
 
 msgid "System profiles cannot be removed."
-msgstr ""
+msgstr "Profil sistem tidak dapat dihapus."
 
 msgid "The lightweight and efficient <b>Trinity</b> desktop is installed and pre-configured as default at the moment. Nevertheless, Q4OS installer has autodetected your computer is powerful enough to operate more advanced <b>KDE Plasma</b> desktop environment."
-msgstr ""
+msgstr "Saat ini desktop <b>Trinity</b> yang ringan dan efisien telah terpasang dan dikonfigurasi sebagai bawaan. Namun, pemasang Q4OS mendeteksi bahwa komputer Anda cukup kuat untuk menjalankan lingkungan desktop yang lebih canggih, <b>KDE Plasma</b>."
 
 msgid "This profile has been already imported."
-msgstr ""
+msgstr "Profil ini sudah diimpor."
 
 msgid "Trinity"
-msgstr ""
+msgstr "Trinity"
 
 msgid "Trinity >"
-msgstr ""
+msgstr "Trinity >"
 
 msgid "Uncheck to preserve currently installed packages."
-msgstr ""
+msgstr "Hapus centang untuk mempertahankan paket yang saat ini terpasang."
 
 msgid "Writing log info ..."
-msgstr ""
+msgstr "Menulis informasi log ..."
 
 msgid "Writing profile status ..."
-msgstr ""
+msgstr "Menulis status profil ..."
 
 msgid "Yes, I really want to install additional DE"
-msgstr ""
+msgstr "Ya, saya benar-benar ingin memasang DE tambahan"
 
 msgid "Yes, still apply"
-msgstr ""
+msgstr "Ya, tetap terapkan"
 
 msgid "You are about to cancel desktop profiler without installing a profile. Are you sure ?"
-msgstr ""
+msgstr "Anda akan menutup Desktop Profiler tanpa memasang profil. Apakah Anda yakin?"
 
 msgid "You are calling for an alternative desktop installation, but it's not compatible with the profile selected. Please select another profile or desktop."
-msgstr ""
+msgstr "Anda meminta pemasangan desktop alternatif, tetapi desktop itu tidak kompatibel dengan profil yang dipilih. Silakan pilih profil atau desktop lain."
 
 msgid "You can now edit the file to your preferences."
-msgstr ""
+msgstr "Sekarang Anda dapat menyunting berkas sesuai keinginan Anda."
 
 msgid "some installed applications and packages may be removed as they are not part of the new profile."
-msgstr ""
+msgstr "beberapa aplikasi dan paket yang terpasang mungkin akan dihapus karena bukan bagian dari profil baru."

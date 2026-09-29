@@ -3,379 +3,378 @@
 # This file is distributed under the same license as the Q4OS Desktop Profiler package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Desktop Profiler\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-21 10:49+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2026-09-24 23:28+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language-Team: Q4OS tr <devteam@q4os.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "  Install >"
-msgstr ""
+msgstr "  Kur >"
 
 msgid "* select please *"
-msgstr ""
+msgstr "* lütfen seçin *"
 
 msgid "--- General ---"
-msgstr ""
+msgstr "--- Genel ---"
 
 msgid "--- Miscellaneous ---"
-msgstr ""
+msgstr "--- Çeşitli ---"
 
 msgid "--- Selected profile ---"
-msgstr ""
+msgstr "--- Seçili profil ---"
 
 msgid "0"
-msgstr ""
+msgstr "0"
 
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgid "10"
-msgstr ""
+msgstr "10"
 
 msgid "2"
-msgstr ""
+msgstr "2"
 
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgid "4"
-msgstr ""
+msgstr "4"
 
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgid "6"
-msgstr ""
+msgstr "6"
 
 msgid "7"
-msgstr ""
+msgstr "7"
 
 msgid "8"
-msgstr ""
+msgstr "8"
 
 msgid "9"
-msgstr ""
+msgstr "9"
 
 msgid "<"
-msgstr ""
+msgstr "<"
 
 msgid "<p align=justify>This dialog lets you choose an additional desktop environment (DE) to install alongside the default Q4OS desktop.</p><p align=justify>Please do not use this option, unless you are absolutely sure what you are doing.</p>"
-msgstr ""
+msgstr "<p align=justify>Bu iletişim kutusu, varsayılan Q4OS masaüstünün yanına kurulacak ek bir masaüstü ortamı (DE) seçmenizi sağlar.</p><p align=justify>Ne yaptığınızdan kesinlikle emin değilseniz lütfen bu seçeneği kullanmayın.</p>"
 
 msgid "<p>Couldn't open file.</p>"
-msgstr ""
+msgstr "<p>Dosya açılamadı.</p>"
 
 msgid "<p>Do you want to cancel pending operation ?</p>"
-msgstr ""
+msgstr "<p>Bekleyen işlemi iptal etmek istiyor musunuz?</p>"
 
 msgid "<p>Install and set <span style=\"font-weight:600\">KDE Plasma</span> environment as default and leave the Trinity desktop as an option.</p>"
-msgstr ""
+msgstr "<p><span style=\"font-weight:600\">KDE Plasma</span> ortamını kurup varsayılan olarak ayarlayın ve Trinity masaüstünü seçenek olarak bırakın.</p>"
 
 msgid "<p>Insufficient hardware detected !</p><p>Your CPU lacks SSE2 support, SSE2 is necessary for required software.</p>"
-msgstr ""
+msgstr "<p>Yetersiz donanım algılandı!</p><p>İşlemciniz SSE2 desteğine sahip değil; gerekli yazılım için SSE2 zorunludur.</p>"
 
 msgid "<p>Insufficient hardware detected !</p><p>Your computer is low in hardware resources for profile you have selected, it's not recommended to install the profile.</p>"
-msgstr ""
+msgstr "<p>Yetersiz donanım algılandı!</p><p>Bilgisayarınızın donanım kaynakları seçtiğiniz profil için düşük; bu profilin kurulması önerilmez.</p>"
 
 msgid "<p>Keep the <span style=\"font-weight:600\">Trinity</span> desktop as default, no Plasma will be installed. You can start Plasma installation later using the Desktop profiler tool.</p>"
-msgstr ""
+msgstr "<p><span style=\"font-weight:600\">Trinity</span> masaüstünü varsayılan olarak koruyun, Plasma kurulmayacak. Plasma kurulumunu daha sonra Desktop Profiler aracıyla başlatabilirsiniz.</p>"
 
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, most likely, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p>"
-msgstr ""
+msgstr "<p>Paket sistemi meşgul, şu anda kuruluma hazır değil. Kurulum devam edemiyor.</p><p>Kilit büyük olasılıkla arka planda süren sistem güncellemelerinden kaynaklanıyor. Durum buysa paket sisteminin bu işlemleri bitirmesi için biraz beklemeniz gerekir. Lütfen başka bir uygulama kurmadığınızdan emin olun ve kurulumu birkaç dakika sonra yineleyin.</p>"
 
 msgid "<p>Warning: Canceling installation during this phase could result in package system failure.</p><p>Are you really sure, you want to interrupt the install process now ?</p>"
-msgstr ""
+msgstr "<p>Uyarı: Kurulumun bu aşamada iptal edilmesi paket sisteminin bozulmasına yol açabilir.</p><p>Kurulum sürecini şimdi kesmek istediğinizden gerçekten emin misiniz?</p>"
 
 msgid ">"
-msgstr ""
+msgstr ">"
 
 msgid "A profile has been already applied for this system."
-msgstr ""
+msgstr "Bu sistem için zaten bir profil uygulanmış."
 
 msgid "Additional repositories:"
-msgstr ""
+msgstr "Ek depolar:"
 
 msgid "Another instance of Desktop Profiler is running, leaving ..."
-msgstr ""
+msgstr "Desktop Profiler'ın başka bir örneği zaten çalışıyor, çıkılıyor ..."
 
 msgid "Apply profile"
-msgstr ""
+msgstr "Profili uygula"
 
 msgid "Applying a profile within the live systems isn't supported."
-msgstr ""
+msgstr "Canlı sistemlerde profil uygulanması desteklenmiyor."
 
 msgid "Apt configured, no additional action needed."
-msgstr ""
+msgstr "Apt yapılandırıldı, ek bir işlem gerekmiyor."
 
 msgid "Apt plugin completed, Ok"
-msgstr ""
+msgstr "Apt eklentisi tamamlandı, Tamam"
 
 msgid "Are you really sure to overwrite the previous profile ?"
-msgstr ""
+msgstr "Önceki profilin üzerine yazmak istediğinizden gerçekten emin misiniz?"
 
 msgid "Cancel"
-msgstr ""
+msgstr "İptal"
 
 msgid "Cancel installation"
-msgstr ""
+msgstr "Kurulumu iptal et"
 
 msgid "Cancel menu"
-msgstr ""
+msgstr "Menüyü kapat"
 
 msgid "Choose a new filename to export current status to"
-msgstr ""
+msgstr "Geçerli durumun dışa aktarılacağı yeni bir dosya adı seçin"
 
 msgid "Choose a new filename to save the profile to"
-msgstr ""
+msgstr "Profilin kaydedileceği yeni bir dosya adı seçin"
 
 msgid "Choose an additional desktop environment to install."
-msgstr ""
+msgstr "Kurulacak ek bir masaüstü ortamı seçin."
 
 msgid "Choose an additional desktop environment to install. Please do not use this option, unless you are absolutely sure what you are doing."
-msgstr ""
+msgstr "Kurulacak ek bir masaüstü ortamı seçin. Ne yaptığınızdan kesinlikle emin değilseniz lütfen bu seçeneği kullanmayın."
 
 msgid "Choose desktop environment"
-msgstr ""
+msgstr "Masaüstü ortamını seçin"
 
 msgid "Click to select profile"
-msgstr ""
+msgstr "Profil seçmek için tıklayın"
 
 msgid "Configuration file:"
-msgstr ""
+msgstr "Yapılandırma dosyası:"
 
 msgid "Current desktop status has been saved to profile:"
-msgstr ""
+msgstr "Geçerli masaüstü durumu şu profile kaydedildi:"
 
 msgid "DEB packages to install:"
-msgstr ""
+msgstr "Kurulacak DEB paketleri:"
 
 msgid "Desktop Profiler"
-msgstr ""
+msgstr "Desktop Profiler"
 
 msgid "Desktop Profiler - install progress"
-msgstr ""
+msgstr "Desktop Profiler - kurulum ilerlemesi"
 
 msgid "Desktop Profiler lets you to choose and apply the most appropriate desktop profile for this computer."
-msgstr ""
+msgstr "Desktop Profiler, bu bilgisayar için en uygun masaüstü profilini seçip uygulamanızı sağlar."
 
 msgid "Desktop environment:"
-msgstr ""
+msgstr "Masaüstü ortamı:"
 
 msgid "Desktop environments:"
-msgstr ""
+msgstr "Masaüstü ortamları:"
 
 msgid "Desktop profiler - select default desktop environment"
-msgstr ""
+msgstr "Desktop Profiler - varsayılan masaüstü ortamını seçin"
 
 msgid "Do you want to continue ?"
-msgstr ""
+msgstr "Devam etmek istiyor musunuz?"
 
 msgid "Error: profile not found, file: "
-msgstr ""
+msgstr "Hata: profil bulunamadı, dosya: "
 
 msgid "Exit code: "
-msgstr ""
+msgstr "Çıkış kodu: "
 
 msgid "Export profile"
-msgstr ""
+msgstr "Profili dışa aktar"
 
 msgid "Failed to read packages list, file: "
-msgstr ""
+msgstr "Paket listesi okunamadı, dosya: "
 
 msgid "Failed to read repositories list, file: "
-msgstr ""
+msgstr "Depo listesi okunamadı, dosya: "
 
 msgid "Flatpak applications to install:"
-msgstr ""
+msgstr "Kurulacak Flatpak uygulamaları:"
 
 msgid "Flatpak plugin completed, Ok"
-msgstr ""
+msgstr "Flatpak eklentisi tamamlandı, Tamam"
 
 msgid "Get snapshot profile"
-msgstr ""
+msgstr "Anlık görüntü profili al"
 
 msgid "Help"
-msgstr ""
+msgstr "Yardım"
 
 msgid "If you are not sure, just press <b>[ KDE Plasma ]</b> button to select the recommended option."
-msgstr ""
+msgstr "Emin değilseniz önerilen seçeneği belirlemek için <b>[ KDE Plasma ]</b> düğmesine basmanız yeterlidir."
 
 msgid "If you continue, the selected new profile replaces the previous one and system will be configured accordingly."
-msgstr ""
+msgstr "Devam ederseniz seçilen yeni profil öncekinin yerini alır ve sistem buna göre yapılandırılır."
 
 msgid "Import a profile"
-msgstr ""
+msgstr "Profil içe aktar"
 
 msgid "Import local profile"
-msgstr ""
+msgstr "Yerel profili içe aktar"
 
 msgid "Import shared profile"
-msgstr ""
+msgstr "Paylaşılan profili içe aktar"
 
 msgid "Initializing environment ..."
-msgstr ""
+msgstr "Ortam hazırlanıyor ..."
 
 msgid "Installation process has requested to logoff this session. Do you want re-login just now ?"
-msgstr ""
+msgstr "Kurulum süreci bu oturumun kapatılmasını istedi. Şimdi yeniden oturum açmak istiyor musunuz?"
 
 msgid "KDE Plasma"
-msgstr ""
+msgstr "KDE Plasma"
 
 msgid "KDE Plasma >"
-msgstr ""
+msgstr "KDE Plasma >"
 
 msgid "Launch installation"
-msgstr ""
+msgstr "Kurulumu başlat"
 
 msgid "Launching Apt plugin ..."
-msgstr ""
+msgstr "Apt eklentisi başlatılıyor ..."
 
 msgid "Launching Flatpak plugin ..."
-msgstr ""
+msgstr "Flatpak eklentisi başlatılıyor ..."
 
 msgid "Next >"
-msgstr ""
+msgstr "İleri >"
 
 msgid "No configuration found."
-msgstr ""
+msgstr "Yapılandırma bulunamadı."
 
 msgid "No profile selected. Select a profile please."
-msgstr ""
+msgstr "Profil seçilmedi. Lütfen bir profil seçin."
 
 msgid "None selected"
-msgstr ""
+msgstr "Hiçbiri seçilmedi"
 
 msgid "Not implemented yet."
-msgstr ""
+msgstr "Henüz uygulanmadı."
 
 msgid "Note "
-msgstr ""
+msgstr "Not "
 
 msgid "Ok"
-msgstr ""
+msgstr "Tamam"
 
 msgid "Options"
-msgstr ""
+msgstr "Seçenekler"
 
 msgid "Please enter shared profile code, or Internet address:"
-msgstr ""
+msgstr "Lütfen paylaşılan profil kodunu veya İnternet adresini girin:"
 
 msgid "Please re-login active session as soon as possible."
-msgstr ""
+msgstr "Lütfen en kısa sürede etkin oturuma yeniden giriş yapın."
 
 msgid "Please reboot as soon as possible."
-msgstr ""
+msgstr "Lütfen en kısa sürede yeniden başlatın."
 
 msgid "Please reboot your computer as soon as possible. Do you want reboot just now ?"
-msgstr ""
+msgstr "Lütfen bilgisayarınızı en kısa sürede yeniden başlatın. Şimdi yeniden başlatmak istiyor musunuz?"
 
 msgid "Please restart X server as soon as possible."
-msgstr ""
+msgstr "Lütfen X sunucusunu en kısa sürede yeniden başlatın."
 
 msgid "Please select default desktop environment."
-msgstr ""
+msgstr "Lütfen varsayılan masaüstü ortamını seçin."
 
 msgid "Please select default desktop environment. The lightweight and efficient Trinity desktop is installed and pre-configured as default at the moment. Nevertheless, Q4OS installer has autodetected your computer is powerful enough to operate more advanced KDE Plasma desktop environment."
-msgstr ""
+msgstr "Lütfen varsayılan masaüstü ortamını seçin. Şu anda hafif ve verimli Trinity masaüstü kurulu ve varsayılan olarak önceden yapılandırılmış durumda. Bununla birlikte Q4OS kurucusu, bilgisayarınızın daha gelişmiş KDE Plasma masaüstü ortamını çalıştırabilecek kadar güçlü olduğunu algıladı."
 
 msgid "Previous profile:"
-msgstr ""
+msgstr "Önceki profil:"
 
 msgid "Profile applied, installation successful."
-msgstr ""
+msgstr "Profil uygulandı, kurulum başarılı."
 
 msgid "Profile description"
-msgstr ""
+msgstr "Profil açıklaması"
 
 msgid "Profile export"
-msgstr ""
+msgstr "Profil dışa aktarma"
 
 msgid "Profile has been imported."
-msgstr ""
+msgstr "Profil içe aktarıldı."
 
 msgid "Profile has been removed."
-msgstr ""
+msgstr "Profil kaldırıldı."
 
 msgid "Profile info"
-msgstr ""
+msgstr "Profil bilgisi"
 
 msgid "Profile name:"
-msgstr ""
+msgstr "Profil adı:"
 
 msgid "QSI applications to install:"
-msgstr ""
+msgstr "Kurulacak QSI uygulamaları:"
 
 msgid "Remote profile not found."
-msgstr ""
+msgstr "Uzak profil bulunamadı."
 
 msgid "Remove profile"
-msgstr ""
+msgstr "Profili kaldır"
 
 msgid "Remove superfluous packages"
-msgstr ""
+msgstr "Gereksiz paketleri kaldır"
 
 msgid "Root permissions needed, exiting ..."
-msgstr ""
+msgstr "Root izinleri gerekli, çıkılıyor ..."
 
 msgid "Select a profile from the list please."
-msgstr ""
+msgstr "Lütfen listeden bir profil seçin."
 
 msgid "Selected profile has been saved to file:"
-msgstr ""
+msgstr "Seçili profil şu dosyaya kaydedildi:"
 
 msgid "Software profile:"
-msgstr ""
+msgstr "Yazılım profili:"
 
 msgid "Starting profile installation ... "
-msgstr ""
+msgstr "Profil kurulumu başlatılıyor ... "
 
 msgid "System profiles cannot be removed."
-msgstr ""
+msgstr "Sistem profilleri kaldırılamaz."
 
 msgid "The lightweight and efficient <b>Trinity</b> desktop is installed and pre-configured as default at the moment. Nevertheless, Q4OS installer has autodetected your computer is powerful enough to operate more advanced <b>KDE Plasma</b> desktop environment."
-msgstr ""
+msgstr "Şu anda hafif ve verimli <b>Trinity</b> masaüstü kurulu ve varsayılan olarak önceden yapılandırılmış durumda. Bununla birlikte Q4OS kurucusu, bilgisayarınızın daha gelişmiş <b>KDE Plasma</b> masaüstü ortamını çalıştırabilecek kadar güçlü olduğunu algıladı."
 
 msgid "This profile has been already imported."
-msgstr ""
+msgstr "Bu profil zaten içe aktarılmış."
 
 msgid "Trinity"
-msgstr ""
+msgstr "Trinity"
 
 msgid "Trinity >"
-msgstr ""
+msgstr "Trinity >"
 
 msgid "Uncheck to preserve currently installed packages."
-msgstr ""
+msgstr "Şu anda kurulu paketleri korumak için işareti kaldırın."
 
 msgid "Writing log info ..."
-msgstr ""
+msgstr "Günlük bilgileri yazılıyor ..."
 
 msgid "Writing profile status ..."
-msgstr ""
+msgstr "Profil durumu yazılıyor ..."
 
 msgid "Yes, I really want to install additional DE"
-msgstr ""
+msgstr "Evet, gerçekten ek bir DE kurmak istiyorum"
 
 msgid "Yes, still apply"
-msgstr ""
+msgstr "Evet, yine de uygula"
 
 msgid "You are about to cancel desktop profiler without installing a profile. Are you sure ?"
-msgstr ""
+msgstr "Bir profil kurmadan Desktop Profiler'dan çıkmak üzeresiniz. Emin misiniz?"
 
 msgid "You are calling for an alternative desktop installation, but it's not compatible with the profile selected. Please select another profile or desktop."
-msgstr ""
+msgstr "Alternatif bir masaüstü kurulumu istiyorsunuz ancak bu, seçili profille uyumlu değil. Lütfen başka bir profil ya da masaüstü seçin."
 
 msgid "You can now edit the file to your preferences."
-msgstr ""
+msgstr "Artık dosyayı tercihlerinize göre düzenleyebilirsiniz."
 
 msgid "some installed applications and packages may be removed as they are not part of the new profile."
-msgstr ""
+msgstr "kurulu bazı uygulama ve paketler, yeni profilin parçası olmadıkları için kaldırılabilir."

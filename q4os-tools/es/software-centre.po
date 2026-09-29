@@ -7,30 +7,30 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-23 10:23+0100\n"
-"PO-Revision-Date: 2020-12-26 21:42-0400\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"POT-Creation-Date: 2026-09-25 08:51+0000\n"
+"PO-Revision-Date: 2026-09-25 10:55+0200\n"
+"Last-Translator: Q4OS Team <devteam@q4os.org>\n"
+"Language-Team: Q4OS es <devteam@q4os.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.2.1\n"
 
 msgid "#Filter: "
-msgstr ""
+msgstr "#Filtro: "
 
 msgid "#Records: "
-msgstr ""
+msgstr "#Registros: "
 
 msgid "---  Menu  ---"
-msgstr ""
+msgstr "---  Menú  ---"
 
 msgid "<"
-msgstr ""
+msgstr "<"
 
-msgid "<p>"
-msgstr ""
+msgid "<p>%1 is already installed, do you want to uninstall ?</p>"
+msgstr "<p>%1 ya está instalado, ¿desea desinstalarlo?</p>"
 
 msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
 msgstr "<p>¡Se ha detectado la instalación de NVIDIA!</p><p>Las acciones se desactivan durante la configuración de NVIDIA, espere hasta que finalice la instalación de NVIDIA.</p>"
@@ -38,25 +38,35 @@ msgstr "<p>¡Se ha detectado la instalación de NVIDIA!</p><p>Las acciones se de
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, most likely, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p>"
 msgstr "<p>El sistema de paquetes está ocupado, no está listo para instalar ahora. La instalación no puede continuar.</p><p>El bloqueo es causado, muy probablemente, por actualizaciones continuas del sistema en segundo plano. Si este es el caso, debe esperar un momento para que el sistema de paquetes finalice estas operaciones. Asegúrese de no estar instalando otra aplicación y repita la configuración unos minutos más tarde.</p>"
 
-#, fuzzy
 msgid "<p>Select an application to install from the list of featured applications.</p>"
-msgstr "<p>Seleccione una aplicación para instalar.</p>"
+msgstr "<p>Seleccione una aplicación para instalar de la lista de aplicaciones destacadas.</p>"
 
 msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
 msgstr "<p>¡Se ha detectado la instalación de Virtualbox! </p><p> Las acciones están deshabilitadas durante la configuración de Virtualbox, espere hasta el final de la instalación de Virtualbox.</p>"
 
-#, fuzzy
 msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Desktop Profiler</b> tool to choose and apply a profile.</p>"
-msgstr "<p>Aún no ha aplicado ningún perfil de escritorio. Se recomienda aplicar un perfil de escritorio antes de instalar aplicaciones.</p><p>Ejecute la herramienta <b>Dektop Profiler</b> para elegir y aplicar un perfil.</p>"
+msgstr "<p>Todavía no ha aplicado ningún perfil de escritorio. Se recomienda encarecidamente aplicar un perfil de escritorio antes de instalar aplicaciones.</p><p>Ejecute la herramienta <b>Desktop Profiler</b> para elegir y aplicar un perfil.</p>"
 
 msgid ">"
-msgstr ""
+msgstr ">"
 
 msgid "APT database hasn't been updated yet."
-msgstr ""
+msgstr "La base de datos de APT aún no se ha actualizado."
 
 msgid "Application"
 msgstr "Aplicación"
+
+msgid "Building Apt database ..."
+msgstr "Construyendo la base de datos de Apt ..."
+
+msgid "Building Flatpak database ..."
+msgstr "Construyendo la base de datos de Flatpak ..."
+
+msgid "Building application list ..."
+msgstr "Construyendo la lista de aplicaciones ..."
+
+msgid "Building flatpaks list ..."
+msgstr "Construyendo la lista de flatpaks ..."
 
 msgid "Cancel"
 msgstr "Cancelar"
@@ -64,56 +74,71 @@ msgstr "Cancelar"
 msgid "Description"
 msgstr "Descripción "
 
-#, fuzzy
-msgid "Desktop Profiler"
-msgstr "Ejecute la herramienta 'Desktop Profiler'"
-
 msgid "Desktop profiler"
-msgstr ""
+msgstr "Desktop Profiler"
 
-#, fuzzy
+msgid "Discover manager"
+msgstr "Gestor Discover"
+
 msgid "Discover software manager isn't installed, do you want to install it now ?"
-msgstr "<p>El administrador de aplicaciones Discover no está instalado, instálelo primero.</p>"
+msgstr "El gestor de software Discover no está instalado, ¿desea instalarlo ahora?"
 
-#, fuzzy
 msgid "Featured applications"
-msgstr "Instalar aplicaciones seleccionadas"
+msgstr "Aplicaciones destacadas"
 
-#, fuzzy
 msgid "Featured applications: #"
-msgstr "Instalar aplicaciones seleccionadas"
+msgstr "Aplicaciones destacadas: #"
 
 msgid "Flathub apps"
-msgstr ""
+msgstr "Aplicaciones de Flathub"
+
+msgid "Found: %1 of %2"
+msgstr "Encontradas: %1 de %2"
 
 msgid "In order to get more applications in the featured list, refresh APT database and start the Software center again."
-msgstr ""
+msgstr "Para obtener más aplicaciones en la lista de destacadas, actualice la base de datos de APT y vuelva a iniciar el Centro de software."
 
 msgid "Info"
 msgstr "Información"
 
-#, fuzzy
+msgid "Initializing ..."
+msgstr "Inicializando ..."
+
 msgid "Install"
-msgstr "Desinstalar"
+msgstr "Instalar"
 
 msgid "Install Discover ?"
-msgstr ""
+msgstr "¿Instalar Discover?"
 
-#, fuzzy
 msgid "Install Synaptic ?"
-msgstr "Instalar aplicación"
+msgstr "¿Instalar Synaptic?"
 
 msgid "Install application"
 msgstr "Instalar aplicación"
 
 msgid "Install or uninstall selected application from the featured applications list below"
-msgstr ""
+msgstr "Instalar o desinstalar la aplicación seleccionada de la lista de aplicaciones destacadas de abajo"
+
+msgid "Installed:"
+msgstr "Instalado:"
+
+msgid "Loading data ..."
+msgstr "Cargando datos ..."
 
 msgid "More options"
-msgstr ""
+msgstr "Más opciones"
+
+msgid "Not installed:"
+msgstr "No instalado:"
 
 msgid "Open Flathub repository in the preferred web browser"
-msgstr ""
+msgstr "Abrir el repositorio de Flathub en el navegador web preferido"
+
+msgid "Origin"
+msgstr "Origen"
+
+msgid "Package installer"
+msgstr "Instalador de paquetes"
 
 msgid "Q4OS Software Centre"
 msgstr "Centro de Aplicaciones Q4OS."
@@ -124,32 +149,35 @@ msgstr "Clasificación"
 msgid "Run 'Desktop Profiler' tool"
 msgstr "Ejecute la herramienta 'Desktop Profiler'"
 
-#, fuzzy
 msgid "Run 'Discover' advanced software manager"
-msgstr "Ejecute el administrador de aplicaciones Discover"
+msgstr "Ejecutar el gestor de software avanzado 'Discover'"
 
-#, fuzzy
 msgid "Run 'Synaptic' advanced software manager"
-msgstr "Ejecute el administrador de aplicaciones Discover"
+msgstr "Ejecutar el gestor de software avanzado 'Synaptic'"
 
 msgid "Run comfortable package installer and Flatpak installer"
-msgstr ""
+msgstr "Ejecutar el cómodo instalador de paquetes e instalador de Flatpak"
 
 msgid "Search:"
 msgstr "Buscar:"
 
 msgid "Settings"
-msgstr ""
+msgstr "Configuración"
+
+msgid "Sorting ..."
+msgstr "Ordenando ..."
 
 msgid "Status"
-msgstr ""
+msgstr "Estado"
 
 msgid "Status:"
-msgstr ""
+msgstr "Estado:"
 
-#, fuzzy
+msgid "Synaptic manager"
+msgstr "Gestor Synaptic"
+
 msgid "Synaptic package manager isn't installed, do you want to install it now ?"
-msgstr "<p>El administrador de paquetes Synaptic no está instalado, instálelo primero.</p>"
+msgstr "El gestor de paquetes Synaptic no está instalado, ¿desea instalarlo ahora?"
 
 msgid "Uninstall"
 msgstr "Desinstalar"
@@ -158,43 +186,44 @@ msgid "Uninstall now"
 msgstr "Desinstalar ahora"
 
 msgid "action1"
-msgstr ""
+msgstr "action1"
 
 msgid "action2"
-msgstr ""
+msgstr "action2"
 
 msgid "config_file"
-msgstr ""
+msgstr "config_file"
 
 msgid "dependencies"
-msgstr ""
+msgstr "dependencies"
 
 msgid "download"
 msgstr "descargar"
 
 msgid "no selection"
-msgstr ""
+msgstr "sin selección"
 
 msgid "origin"
-msgstr ""
+msgstr "origin"
 
 msgid "package"
 msgstr "paquete"
 
 msgid "rating_num"
-msgstr ""
+msgstr "rating_num"
 
 msgid "recordnum"
-msgstr ""
+msgstr "recordnum"
 
 msgid "repositories"
-msgstr ""
+msgstr "repositories"
 
 msgid "textLabel"
-msgstr ""
+msgstr "textLabel"
 
-#~ msgid "Package manager"
-#~ msgstr "Administrador de paquetes"
+#, fuzzy
+#~ msgid "Desktop Profiler"
+#~ msgstr "Ejecute la herramienta 'Desktop Profiler'"
 
 #~ msgid "Run 'Synaptic' - system package manager"
 #~ msgstr "Ejecute el administrador de paquetes Synaptic"

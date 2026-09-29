@@ -3,181 +3,219 @@
 # This file is distributed under the same license as the Q4OS Software Centre package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Software Centre\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-23 10:23+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2026-09-25 08:51+0000\n"
+"PO-Revision-Date: 2026-09-25 10:55+0200\n"
+"Last-Translator: Q4OS Team <devteam@q4os.org>\n"
+"Language-Team: Q4OS ja <devteam@q4os.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "#Filter: "
-msgstr ""
+msgstr "#フィルター: "
 
 msgid "#Records: "
-msgstr ""
+msgstr "#件数: "
 
 msgid "---  Menu  ---"
-msgstr ""
+msgstr "---  メニュー  ---"
 
 msgid "<"
-msgstr ""
+msgstr "<"
 
-msgid "<p>"
-msgstr ""
+msgid "<p>%1 is already installed, do you want to uninstall ?</p>"
+msgstr "<p>%1 は既にインストールされています。アンインストールしますか？</p>"
 
 msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
-msgstr ""
+msgstr "<p>NVIDIA のインストールが検出されました。</p><p>NVIDIA のセットアップ中は操作が無効になります。NVIDIA のインストールが終わるまでお待ちください。</p>"
 
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, most likely, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p>"
-msgstr ""
+msgstr "<p>パッケージシステムが使用中のため、今はインストールできません。セットアップを続行できません。</p><p>このロックは、おそらくバックグラウンドで進行中のシステム更新によるものです。その場合は、パッケージシステムがこれらの処理を終えるまでしばらくお待ちください。他のアプリケーションをインストール中でないことを確認し、数分後にセットアップをやり直してください。</p>"
 
 msgid "<p>Select an application to install from the list of featured applications.</p>"
-msgstr ""
+msgstr "<p>おすすめアプリケーションの一覧からインストールするアプリケーションを選択してください。</p>"
 
 msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
-msgstr ""
+msgstr "<p>Virtualbox のインストールが検出されました。</p><p>Virtualbox のセットアップ中は操作が無効になります。Virtualbox のインストールが終わるまでお待ちください。</p>"
 
 msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Desktop Profiler</b> tool to choose and apply a profile.</p>"
-msgstr ""
+msgstr "<p>デスクトッププロファイルがまだ適用されていません。アプリケーションをインストールする前にデスクトッププロファイルを適用することを強くお勧めします。</p><p><b>Desktop Profiler</b> ツールを実行してプロファイルを選択し、適用してください。</p>"
 
 msgid ">"
-msgstr ""
+msgstr ">"
 
 msgid "APT database hasn't been updated yet."
-msgstr ""
+msgstr "APT データベースがまだ更新されていません。"
 
 msgid "Application"
-msgstr ""
+msgstr "アプリケーション"
+
+msgid "Building Apt database ..."
+msgstr "Apt データベースを構築中 ..."
+
+msgid "Building Flatpak database ..."
+msgstr "Flatpak データベースを構築中 ..."
+
+msgid "Building application list ..."
+msgstr "アプリケーション一覧を作成中 ..."
+
+msgid "Building flatpaks list ..."
+msgstr "Flatpak 一覧を作成中 ..."
 
 msgid "Cancel"
-msgstr ""
+msgstr "キャンセル"
 
 msgid "Description"
-msgstr ""
-
-msgid "Desktop Profiler"
-msgstr ""
+msgstr "説明"
 
 msgid "Desktop profiler"
-msgstr ""
+msgstr "Desktop Profiler"
+
+msgid "Discover manager"
+msgstr "Discover マネージャー"
 
 msgid "Discover software manager isn't installed, do you want to install it now ?"
-msgstr ""
+msgstr "Discover ソフトウェアマネージャーがインストールされていません。今すぐインストールしますか？"
 
 msgid "Featured applications"
-msgstr ""
+msgstr "おすすめアプリケーション"
 
 msgid "Featured applications: #"
-msgstr ""
+msgstr "おすすめアプリケーション: #"
 
 msgid "Flathub apps"
-msgstr ""
+msgstr "Flathub アプリ"
+
+msgid "Found: %1 of %2"
+msgstr "該当: %1 / %2"
 
 msgid "In order to get more applications in the featured list, refresh APT database and start the Software center again."
-msgstr ""
+msgstr "おすすめ一覧により多くのアプリケーションを表示するには、APT データベースを更新してからソフトウェアセンターを再起動してください。"
 
 msgid "Info"
-msgstr ""
+msgstr "情報"
+
+msgid "Initializing ..."
+msgstr "初期化中 ..."
 
 msgid "Install"
-msgstr ""
+msgstr "インストール"
 
 msgid "Install Discover ?"
-msgstr ""
+msgstr "Discover をインストールしますか？"
 
 msgid "Install Synaptic ?"
-msgstr ""
+msgstr "Synaptic をインストールしますか？"
 
 msgid "Install application"
-msgstr ""
+msgstr "アプリケーションをインストール"
 
 msgid "Install or uninstall selected application from the featured applications list below"
-msgstr ""
+msgstr "下のおすすめアプリケーション一覧で選択したアプリケーションをインストールまたはアンインストールします"
+
+msgid "Installed:"
+msgstr "インストール済み:"
+
+msgid "Loading data ..."
+msgstr "データを読み込み中 ..."
 
 msgid "More options"
-msgstr ""
+msgstr "その他のオプション"
+
+msgid "Not installed:"
+msgstr "未インストール:"
 
 msgid "Open Flathub repository in the preferred web browser"
-msgstr ""
+msgstr "既定のウェブブラウザーで Flathub リポジトリを開く"
+
+msgid "Origin"
+msgstr "提供元"
+
+msgid "Package installer"
+msgstr "パッケージインストーラー"
 
 msgid "Q4OS Software Centre"
-msgstr ""
+msgstr "Q4OS ソフトウェアセンター"
 
 msgid "Rating"
-msgstr ""
+msgstr "評価"
 
 msgid "Run 'Desktop Profiler' tool"
-msgstr ""
+msgstr "'Desktop Profiler' ツールを実行"
 
 msgid "Run 'Discover' advanced software manager"
-msgstr ""
+msgstr "高機能なソフトウェアマネージャー 'Discover' を実行"
 
 msgid "Run 'Synaptic' advanced software manager"
-msgstr ""
+msgstr "高機能なソフトウェアマネージャー 'Synaptic' を実行"
 
 msgid "Run comfortable package installer and Flatpak installer"
-msgstr ""
+msgstr "使いやすいパッケージインストーラーと Flatpak インストーラーを実行"
 
 msgid "Search:"
-msgstr ""
+msgstr "検索:"
 
 msgid "Settings"
-msgstr ""
+msgstr "設定"
+
+msgid "Sorting ..."
+msgstr "並べ替え中 ..."
 
 msgid "Status"
-msgstr ""
+msgstr "状態"
 
 msgid "Status:"
-msgstr ""
+msgstr "状態:"
+
+msgid "Synaptic manager"
+msgstr "Synaptic マネージャー"
 
 msgid "Synaptic package manager isn't installed, do you want to install it now ?"
-msgstr ""
+msgstr "Synaptic パッケージマネージャーがインストールされていません。今すぐインストールしますか？"
 
 msgid "Uninstall"
-msgstr ""
+msgstr "アンインストール"
 
 msgid "Uninstall now"
-msgstr ""
+msgstr "今すぐアンインストール"
 
 msgid "action1"
-msgstr ""
+msgstr "action1"
 
 msgid "action2"
-msgstr ""
+msgstr "action2"
 
 msgid "config_file"
-msgstr ""
+msgstr "config_file"
 
 msgid "dependencies"
-msgstr ""
+msgstr "dependencies"
 
 msgid "download"
-msgstr ""
+msgstr "download"
 
 msgid "no selection"
-msgstr ""
+msgstr "未選択"
 
 msgid "origin"
-msgstr ""
+msgstr "origin"
 
 msgid "package"
-msgstr ""
+msgstr "package"
 
 msgid "rating_num"
-msgstr ""
+msgstr "rating_num"
 
 msgid "recordnum"
-msgstr ""
+msgstr "recordnum"
 
 msgid "repositories"
-msgstr ""
+msgstr "repositories"
 
 msgid "textLabel"
-msgstr ""
+msgstr "textLabel"

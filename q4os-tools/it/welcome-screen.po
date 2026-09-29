@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Welcome Screen\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-14 21:11+0200\n"
+"POT-Creation-Date: 2026-09-25 08:28+0000\n"
 "PO-Revision-Date: 2025-11-19 22:08+0100\n"
 "Last-Translator: vendobici2010@gmail.com <vendobici2010@gmail.com>\n"
 "Language-Team: \n"
@@ -56,9 +56,6 @@ msgstr "<p>Vuoi abilitare il login automatico?</p>"
 msgid "<p>Do you want to switch the Start Menu ?</p>"
 msgstr "<p>Vuoi cambiare il menu di avvio ?</p>"
 
-msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
-msgstr "<p>Un processo di installazione di NVIDIA è stato rilevato !</p><p>Alcune azioni sono disabilitate durante questo processo, per favore, attendi il termine dell'installazione di NVIDIA.</p>"
-
 msgid "<p>Start Menu is now set to Bourbon style.</p>"
 msgstr "<p>Il menu start è ora in stile Bourbon.</p>"
 
@@ -73,12 +70,6 @@ msgstr "<p>Quest'azione è disponibile solo per gli ambienti desktop Trinity e K
 
 msgid "<p>This action is available for Trinity desktop only.</p>"
 msgstr "<p>Quest'azione è disponibile solo per l'ambiente desktop Trinity.</p>"
-
-msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
-msgstr "<p>Installazione di Virtualbox rilevata !</p><p>Alcune azioni sono disabilitate durante la configurazione di Virtualbox. Per favore, attendi il termine dell'installazione di Virtualbox.</p>"
-
-msgid "<p>Your hardware seems to be low to run desktop effects, it's not recommended to turn effects on.</p><p>Do you really want to turn Desktop Effects on ?</p>"
-msgstr "<p>Il tuo sistema sembra essere poco performante per abilitare gli effetti grafici del desktop, non è raccomandabile abilitarli.</p><p>Vuoi veramente abilitarli?</p>"
 
 msgid "Apply"
 msgstr "Applica"
@@ -106,6 +97,9 @@ msgstr "Menu a cascata in stile Classic"
 
 msgid "Desktop effects"
 msgstr "Effetti grafici del desktop"
+
+msgid "Do you really want to turn Desktop Effects on ?"
+msgstr "Vuoi veramente abilitarli?"
 
 msgid "Do you want to turn Desktop Effects on ?"
 msgstr "Vuoi abilitare gli effetti grafici del desktop ?"
@@ -227,6 +221,9 @@ msgstr "Informazioni sull’hardware di sistema ben organizzate."
 msgid "Working ..."
 msgstr "Sto lavorando …"
 
+msgid "Your hardware seems to be low to run desktop effects, it's not recommended to turn effects on."
+msgstr "Il tuo sistema sembra essere poco performante per abilitare gli effetti grafici del desktop, non è raccomandabile abilitarli."
+
 msgid "fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface."
 msgstr "sistema operativo desktop veloce e potente, focalizzato su stabilità e affidabilità a lungo termine, con un'interfaccia utente in stile classico."
 
@@ -244,6 +241,12 @@ msgstr "premiBottone4"
 
 msgid "textLabel1"
 msgstr "etichettaditesto1"
+
+#~ msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
+#~ msgstr "<p>Un processo di installazione di NVIDIA è stato rilevato !</p><p>Alcune azioni sono disabilitate durante questo processo, per favore, attendi il termine dell'installazione di NVIDIA.</p>"
+
+#~ msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
+#~ msgstr "<p>Installazione di Virtualbox rilevata !</p><p>Alcune azioni sono disabilitate durante la configurazione di Virtualbox. Per favore, attendi il termine dell'installazione di Virtualbox.</p>"
 
 #~ msgid "Turn on Desktop effects"
 #~ msgstr "Attiva effetti grafici"
