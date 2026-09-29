@@ -378,3 +378,33 @@ msgstr "现在您可以按自己的喜好编辑该文件。"
 
 msgid "some installed applications and packages may be removed as they are not part of the new profile."
 msgstr "某些已安装的应用程序和软件包可能会被删除，因为它们不属于新配置。"
+
+msgid "Do you really want to remove the selected profile ?"
+msgstr "确定要删除所选的配置文件吗?"
+
+msgid "No Internet connection, the profile cannot be installed."
+msgstr "没有 Internet 连接,无法安装配置文件。"
+
+msgid "Please connect to the Internet and try again."
+msgstr "请连接 Internet 后重试。"
+
+msgid "Full featured Desktop with Web Browser, Office Suite and recommended applications set."
+msgstr "功能齐全的桌面，包含网页浏览器、办公套件和一组推荐的应用程序。"
+
+msgid "Recommended for regular users. Full featured Desktop with Web Browser, Office Suite and recommended applications set. Installation could take a while."
+msgstr "推荐普通用户使用。功能齐全的桌面，包含网页浏览器、办公套件和一组推荐的应用程序。安装可能需要一段时间。"
+
+msgid "The Basic Q4OS Desktop with common utilities, system tools and libraries."
+msgstr "基础的 Q4OS 桌面，包含常用实用程序、系统工具和库。"
+
+msgid "Starting configuration for users who want to install desktop applications of their choice. Lightweight slim desktop with common utilities, system tools and libraries."
+msgstr "为希望自行安装所选桌面应用程序的用户提供的初始配置。轻量精简的桌面，包含常用实用程序、系统工具和库。"
+
+msgid "Ultimately minimal desktop, you will be free to set anything up by yourself."
+msgstr "极简桌面，您可以自行设置一切。"
+
+msgid "For experts only. Ultimately minimal desktop, you will be free to set anything up by yourself."
+msgstr "仅供专家使用。极简桌面，您可以自行设置一切。"
+
+msgid "Special profile for live media."
+msgstr "用于 Live 介质的特殊配置文件。"

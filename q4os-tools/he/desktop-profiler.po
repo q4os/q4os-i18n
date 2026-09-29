@@ -378,3 +378,33 @@ msgstr "כעת ניתן לערוך את הקובץ לפי העדפותיך."
 
 msgid "some installed applications and packages may be removed as they are not part of the new profile."
 msgstr "ייתכן שיישומים וחבילות מותקנים מסוימים יוסרו, מכיוון שאינם חלק מהפרופיל החדש."
+
+msgid "Do you really want to remove the selected profile ?"
+msgstr "האם באמת להסיר את הפרופיל הנבחר?"
+
+msgid "No Internet connection, the profile cannot be installed."
+msgstr "אין חיבור לאינטרנט, לא ניתן להתקין את הפרופיל."
+
+msgid "Please connect to the Internet and try again."
+msgstr "נא להתחבר לאינטרנט ולנסות שוב."
+
+msgid "Full featured Desktop with Web Browser, Office Suite and recommended applications set."
+msgstr "שולחן עבודה מלא עם דפדפן אינטרנט, חבילה משרדית ומערך יישומים מומלצים."
+
+msgid "Recommended for regular users. Full featured Desktop with Web Browser, Office Suite and recommended applications set. Installation could take a while."
+msgstr "מומלץ למשתמשים רגילים. שולחן עבודה מלא עם דפדפן אינטרנט, חבילה משרדית ומערך יישומים מומלצים. ההתקנה עשויה להימשך זמן מה."
+
+msgid "The Basic Q4OS Desktop with common utilities, system tools and libraries."
+msgstr "שולחן העבודה הבסיסי של Q4OS עם כלים נפוצים, כלי מערכת וספריות."
+
+msgid "Starting configuration for users who want to install desktop applications of their choice. Lightweight slim desktop with common utilities, system tools and libraries."
+msgstr "תצורת התחלה למשתמשים שרוצים להתקין יישומי שולחן עבודה לפי בחירתם. שולחן עבודה קל ורזה עם כלים נפוצים, כלי מערכת וספריות."
+
+msgid "Ultimately minimal desktop, you will be free to set anything up by yourself."
+msgstr "שולחן עבודה מינימלי ביותר, תוכלו להגדיר הכול בעצמכם."
+
+msgid "For experts only. Ultimately minimal desktop, you will be free to set anything up by yourself."
+msgstr "למומחים בלבד. שולחן עבודה מינימלי ביותר, תוכלו להגדיר הכול בעצמכם."
+
+msgid "Special profile for live media."
+msgstr "פרופיל מיוחד למדיה חיה."

@@ -379,3 +379,33 @@ msgstr "Most már szerkesztheted a fájlt a kívánt módon."
 
 msgid "some installed applications and packages may be removed as they are not part of the new profile."
 msgstr "egyes telepített alkalmazások és csomagok eltávolításra kerülhetnek, mivel nem részei az új profilnak."
+
+msgid "Do you really want to remove the selected profile ?"
+msgstr "Biztosan eltávolítja a kiválasztott profilt?"
+
+msgid "No Internet connection, the profile cannot be installed."
+msgstr "Nincs internetkapcsolat, a profil nem telepíthető."
+
+msgid "Please connect to the Internet and try again."
+msgstr "Csatlakozzon az internethez, majd próbálja újra."
+
+msgid "Full featured Desktop with Web Browser, Office Suite and recommended applications set."
+msgstr "Teljes értékű asztal webböngészővel, irodai programcsomaggal és ajánlott alkalmazásokkal."
+
+msgid "Recommended for regular users. Full featured Desktop with Web Browser, Office Suite and recommended applications set. Installation could take a while."
+msgstr "Átlagos felhasználóknak ajánlott. Teljes értékű asztal webböngészővel, irodai programcsomaggal és ajánlott alkalmazásokkal. A telepítés eltarthat egy ideig."
+
+msgid "The Basic Q4OS Desktop with common utilities, system tools and libraries."
+msgstr "Az alapszintű Q4OS asztal általános segédprogramokkal, rendszereszközökkel és programkönyvtárakkal."
+
+msgid "Starting configuration for users who want to install desktop applications of their choice. Lightweight slim desktop with common utilities, system tools and libraries."
+msgstr "Kiinduló konfiguráció azoknak, akik maguk választják ki a telepítendő asztali alkalmazásokat. Könnyű, karcsú asztal általános segédprogramokkal, rendszereszközökkel és programkönyvtárakkal."
+
+msgid "Ultimately minimal desktop, you will be free to set anything up by yourself."
+msgstr "A lehető legkisebb asztal, mindent Ön állíthat be."
+
+msgid "For experts only. Ultimately minimal desktop, you will be free to set anything up by yourself."
+msgstr "Csak szakértőknek. A lehető legkisebb asztal, mindent Ön állíthat be."
+
+msgid "Special profile for live media."
+msgstr "Speciális profil élő adathordozókhoz."

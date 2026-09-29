@@ -378,3 +378,33 @@ msgstr "Artık dosyayı tercihlerinize göre düzenleyebilirsiniz."
 
 msgid "some installed applications and packages may be removed as they are not part of the new profile."
 msgstr "kurulu bazı uygulama ve paketler, yeni profilin parçası olmadıkları için kaldırılabilir."
+
+msgid "Do you really want to remove the selected profile ?"
+msgstr "Seçili profili gerçekten kaldırmak istiyor musunuz?"
+
+msgid "No Internet connection, the profile cannot be installed."
+msgstr "İnternet bağlantısı yok, profil kurulamıyor."
+
+msgid "Please connect to the Internet and try again."
+msgstr "Lütfen İnternet'e bağlanıp tekrar deneyin."
+
+msgid "Full featured Desktop with Web Browser, Office Suite and recommended applications set."
+msgstr "Web tarayıcısı, ofis paketi ve önerilen uygulamalar setiyle tam donanımlı masaüstü."
+
+msgid "Recommended for regular users. Full featured Desktop with Web Browser, Office Suite and recommended applications set. Installation could take a while."
+msgstr "Sıradan kullanıcılar için önerilir. Web tarayıcısı, ofis paketi ve önerilen uygulamalar setiyle tam donanımlı masaüstü. Kurulum biraz zaman alabilir."
+
+msgid "The Basic Q4OS Desktop with common utilities, system tools and libraries."
+msgstr "Yaygın yardımcı programlar, sistem araçları ve kütüphanelerle temel Q4OS masaüstü."
+
+msgid "Starting configuration for users who want to install desktop applications of their choice. Lightweight slim desktop with common utilities, system tools and libraries."
+msgstr "Masaüstü uygulamalarını kendi seçimine göre kurmak isteyen kullanıcılar için başlangıç yapılandırması. Yaygın yardımcı programlar, sistem araçları ve kütüphanelerle hafif ve sade masaüstü."
+
+msgid "Ultimately minimal desktop, you will be free to set anything up by yourself."
+msgstr "Son derece minimal masaüstü, her şeyi kendiniz ayarlayabilirsiniz."
+
+msgid "For experts only. Ultimately minimal desktop, you will be free to set anything up by yourself."
+msgstr "Yalnızca uzmanlar için. Son derece minimal masaüstü, her şeyi kendiniz ayarlayabilirsiniz."
+
+msgid "Special profile for live media."
+msgstr "Canlı ortamlar için özel profil."

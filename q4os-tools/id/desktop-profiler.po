@@ -378,3 +378,33 @@ msgstr "Sekarang Anda dapat menyunting berkas sesuai keinginan Anda."
 
 msgid "some installed applications and packages may be removed as they are not part of the new profile."
 msgstr "beberapa aplikasi dan paket yang terpasang mungkin akan dihapus karena bukan bagian dari profil baru."
+
+msgid "Do you really want to remove the selected profile ?"
+msgstr "Apakah Anda yakin ingin menghapus profil yang dipilih?"
+
+msgid "No Internet connection, the profile cannot be installed."
+msgstr "Tidak ada koneksi Internet, profil tidak dapat dipasang."
+
+msgid "Please connect to the Internet and try again."
+msgstr "Silakan sambungkan ke Internet dan coba lagi."
+
+msgid "Full featured Desktop with Web Browser, Office Suite and recommended applications set."
+msgstr "Desktop lengkap dengan peramban web, paket perkantoran, dan kumpulan aplikasi yang direkomendasikan."
+
+msgid "Recommended for regular users. Full featured Desktop with Web Browser, Office Suite and recommended applications set. Installation could take a while."
+msgstr "Direkomendasikan untuk pengguna biasa. Desktop lengkap dengan peramban web, paket perkantoran, dan kumpulan aplikasi yang direkomendasikan. Pemasangan dapat memakan waktu cukup lama."
+
+msgid "The Basic Q4OS Desktop with common utilities, system tools and libraries."
+msgstr "Desktop Q4OS dasar dengan utilitas umum, alat sistem, dan pustaka."
+
+msgid "Starting configuration for users who want to install desktop applications of their choice. Lightweight slim desktop with common utilities, system tools and libraries."
+msgstr "Konfigurasi awal bagi pengguna yang ingin memasang aplikasi desktop pilihan sendiri. Desktop ringan dan ramping dengan utilitas umum, alat sistem, dan pustaka."
+
+msgid "Ultimately minimal desktop, you will be free to set anything up by yourself."
+msgstr "Desktop yang benar-benar minimal, Anda bebas mengatur semuanya sendiri."
+
+msgid "For experts only. Ultimately minimal desktop, you will be free to set anything up by yourself."
+msgstr "Hanya untuk ahli. Desktop yang benar-benar minimal, Anda bebas mengatur semuanya sendiri."
+
+msgid "Special profile for live media."
+msgstr "Profil khusus untuk media live."

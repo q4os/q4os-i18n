@@ -382,3 +382,33 @@ msgstr "sommige geïnstalleerde toepassingen en pakketten kunnen worden verwijde
 
 #~ msgid "Default (TDE)"
 #~ msgstr "Standaard (TDE)"
+
+msgid "Do you really want to remove the selected profile ?"
+msgstr "Wilt u het geselecteerde profiel echt verwijderen?"
+
+msgid "No Internet connection, the profile cannot be installed."
+msgstr "Geen internetverbinding, het profiel kan niet worden geïnstalleerd."
+
+msgid "Please connect to the Internet and try again."
+msgstr "Maak verbinding met internet en probeer het opnieuw."
+
+msgid "Full featured Desktop with Web Browser, Office Suite and recommended applications set."
+msgstr "Volledig uitgeruste desktop met webbrowser, kantoorpakket en een set aanbevolen toepassingen."
+
+msgid "Recommended for regular users. Full featured Desktop with Web Browser, Office Suite and recommended applications set. Installation could take a while."
+msgstr "Aanbevolen voor gewone gebruikers. Volledig uitgeruste desktop met webbrowser, kantoorpakket en een set aanbevolen toepassingen. De installatie kan even duren."
+
+msgid "The Basic Q4OS Desktop with common utilities, system tools and libraries."
+msgstr "De basisdesktop van Q4OS met gangbare hulpprogramma's, systeemgereedschap en bibliotheken."
+
+msgid "Starting configuration for users who want to install desktop applications of their choice. Lightweight slim desktop with common utilities, system tools and libraries."
+msgstr "Startconfiguratie voor gebruikers die zelf de desktoptoepassingen van hun keuze willen installeren. Lichte, slanke desktop met gangbare hulpprogramma's, systeemgereedschap en bibliotheken."
+
+msgid "Ultimately minimal desktop, you will be free to set anything up by yourself."
+msgstr "Uiterst minimale desktop, u kunt alles zelf instellen."
+
+msgid "For experts only. Ultimately minimal desktop, you will be free to set anything up by yourself."
+msgstr "Alleen voor experts. Uiterst minimale desktop, u kunt alles zelf instellen."
+
+msgid "Special profile for live media."
+msgstr "Speciaal profiel voor live-media."

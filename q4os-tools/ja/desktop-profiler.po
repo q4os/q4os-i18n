@@ -382,3 +382,33 @@ msgstr "インストール済みのアプリケーションやパッケージの
 
 #~ msgid "Default (TDE)"
 #~ msgstr "標準（TDE）"
+
+msgid "Do you really want to remove the selected profile ?"
+msgstr "選択したプロファイルを本当に削除しますか?"
+
+msgid "No Internet connection, the profile cannot be installed."
+msgstr "インターネットに接続されていないため、プロファイルをインストールできません。"
+
+msgid "Please connect to the Internet and try again."
+msgstr "インターネットに接続してから、もう一度お試しください。"
+
+msgid "Full featured Desktop with Web Browser, Office Suite and recommended applications set."
+msgstr "Web ブラウザー、オフィススイート、推奨アプリケーション一式を備えたフル機能のデスクトップ。"
+
+msgid "Recommended for regular users. Full featured Desktop with Web Browser, Office Suite and recommended applications set. Installation could take a while."
+msgstr "一般ユーザーにお勧めします。Web ブラウザー、オフィススイート、推奨アプリケーション一式を備えたフル機能のデスクトップ。インストールにはしばらく時間がかかる場合があります。"
+
+msgid "The Basic Q4OS Desktop with common utilities, system tools and libraries."
+msgstr "一般的なユーティリティ、システムツール、ライブラリを備えた基本の Q4OS デスクトップ。"
+
+msgid "Starting configuration for users who want to install desktop applications of their choice. Lightweight slim desktop with common utilities, system tools and libraries."
+msgstr "好みのデスクトップアプリケーションを自分でインストールしたいユーザー向けの初期構成。一般的なユーティリティ、システムツール、ライブラリを備えた軽量でスリムなデスクトップ。"
+
+msgid "Ultimately minimal desktop, you will be free to set anything up by yourself."
+msgstr "最小限のデスクトップ。すべてを自分で自由に設定できます。"
+
+msgid "For experts only. Ultimately minimal desktop, you will be free to set anything up by yourself."
+msgstr "上級者向け。最小限のデスクトップ。すべてを自分で自由に設定できます。"
+
+msgid "Special profile for live media."
+msgstr "ライブメディア用の特別なプロファイル。"

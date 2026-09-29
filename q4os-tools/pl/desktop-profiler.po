@@ -423,3 +423,33 @@ msgstr "niektóre zainstalowane aplikacje i pakiety mogą zostać usunięte, pon
 
 #~ msgid "Full featured Desktop with Web Browser, Office Suite and recommended applications set"
 #~ msgstr "Pełne środowisko z przeglądarką internetową, pakietem biurowym i zalecanym zestawem programów"
+
+msgid "Do you really want to remove the selected profile ?"
+msgstr "Czy na pewno usunąć wybrany profil?"
+
+msgid "No Internet connection, the profile cannot be installed."
+msgstr "Brak połączenia z Internetem, nie można zainstalować profilu."
+
+msgid "Please connect to the Internet and try again."
+msgstr "Połącz się z Internetem i spróbuj ponownie."
+
+msgid "Full featured Desktop with Web Browser, Office Suite and recommended applications set."
+msgstr "Pełne środowisko z przeglądarką internetową, pakietem biurowym i zestawem zalecanych programów."
+
+msgid "Recommended for regular users. Full featured Desktop with Web Browser, Office Suite and recommended applications set. Installation could take a while."
+msgstr "Zalecane dla zwykłych użytkowników. Pełne środowisko z przeglądarką internetową, pakietem biurowym i zestawem zalecanych programów. Instalacja może chwilę potrwać."
+
+msgid "The Basic Q4OS Desktop with common utilities, system tools and libraries."
+msgstr "Podstawowy pulpit Q4OS ze standardowymi narzędziami, narzędziami systemowymi i bibliotekami."
+
+msgid "Starting configuration for users who want to install desktop applications of their choice. Lightweight slim desktop with common utilities, system tools and libraries."
+msgstr "Konfiguracja startowa dla użytkowników, którzy chcą samodzielnie zainstalować wybrane programy. Lekki, smukły pulpit ze standardowymi narzędziami, narzędziami systemowymi i bibliotekami."
+
+msgid "Ultimately minimal desktop, you will be free to set anything up by yourself."
+msgstr "Maksymalnie minimalny pulpit, wszystko możesz skonfigurować samodzielnie."
+
+msgid "For experts only. Ultimately minimal desktop, you will be free to set anything up by yourself."
+msgstr "Tylko dla ekspertów. Maksymalnie minimalny pulpit, wszystko możesz skonfigurować samodzielnie."
+
+msgid "Special profile for live media."
+msgstr "Specjalny profil dla nośników live."

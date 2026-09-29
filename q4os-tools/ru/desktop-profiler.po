@@ -421,3 +421,33 @@ msgstr "некоторые установленные приложения и п
 
 #~ msgid "Full featured Desktop with Web Browser, Office Suite and recommended applications set"
 #~ msgstr "Полнофункциональный рабочий стол с веб-браузером, офисным пакетом и набором рекомендуемого программного обеспечения."
+
+msgid "Do you really want to remove the selected profile ?"
+msgstr "Вы действительно хотите удалить выбранный профиль?"
+
+msgid "No Internet connection, the profile cannot be installed."
+msgstr "Нет подключения к Интернету, профиль не может быть установлен."
+
+msgid "Please connect to the Internet and try again."
+msgstr "Подключитесь к Интернету и повторите попытку."
+
+msgid "Full featured Desktop with Web Browser, Office Suite and recommended applications set."
+msgstr "Полнофункциональный рабочий стол с веб-браузером, офисным пакетом и набором рекомендуемых приложений."
+
+msgid "Recommended for regular users. Full featured Desktop with Web Browser, Office Suite and recommended applications set. Installation could take a while."
+msgstr "Рекомендуется для обычных пользователей. Полнофункциональный рабочий стол с веб-браузером, офисным пакетом и набором рекомендуемых приложений. Установка может занять некоторое время."
+
+msgid "The Basic Q4OS Desktop with common utilities, system tools and libraries."
+msgstr "Базовый рабочий стол Q4OS с распространёнными утилитами, системными инструментами и библиотеками."
+
+msgid "Starting configuration for users who want to install desktop applications of their choice. Lightweight slim desktop with common utilities, system tools and libraries."
+msgstr "Начальная конфигурация для пользователей, которые хотят сами установить нужные им приложения. Лёгкий и компактный рабочий стол с распространёнными утилитами, системными инструментами и библиотеками."
+
+msgid "Ultimately minimal desktop, you will be free to set anything up by yourself."
+msgstr "Предельно минимальный рабочий стол, всё можно настроить самостоятельно."
+
+msgid "For experts only. Ultimately minimal desktop, you will be free to set anything up by yourself."
+msgstr "Только для опытных пользователей. Предельно минимальный рабочий стол, всё можно настроить самостоятельно."
+
+msgid "Special profile for live media."
+msgstr "Специальный профиль для live-носителей."

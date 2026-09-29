@@ -378,3 +378,33 @@ msgstr "Soubor nyní můžete upravit podle svých představ."
 
 msgid "some installed applications and packages may be removed as they are not part of the new profile."
 msgstr "některé nainstalované aplikace a balíčky mohou být odstraněny, protože nejsou součástí nového profilu."
+
+msgid "Do you really want to remove the selected profile ?"
+msgstr "Opravdu chcete vybraný profil odstranit?"
+
+msgid "No Internet connection, the profile cannot be installed."
+msgstr "Chybí připojení k internetu, profil nelze nainstalovat."
+
+msgid "Please connect to the Internet and try again."
+msgstr "Připojte se prosím k internetu a zkuste to znovu."
+
+msgid "Full featured Desktop with Web Browser, Office Suite and recommended applications set."
+msgstr "Plnohodnotné prostředí s webovým prohlížečem, kancelářským balíkem a sadou doporučených aplikací."
+
+msgid "Recommended for regular users. Full featured Desktop with Web Browser, Office Suite and recommended applications set. Installation could take a while."
+msgstr "Doporučeno pro běžné uživatele. Plnohodnotné prostředí s webovým prohlížečem, kancelářským balíkem a sadou doporučených aplikací. Instalace může chvíli trvat."
+
+msgid "The Basic Q4OS Desktop with common utilities, system tools and libraries."
+msgstr "Základní prostředí Q4OS s běžnými nástroji, systémovými utilitami a knihovnami."
+
+msgid "Starting configuration for users who want to install desktop applications of their choice. Lightweight slim desktop with common utilities, system tools and libraries."
+msgstr "Výchozí konfigurace pro uživatele, kteří si chtějí nainstalovat aplikace podle vlastního výběru. Lehké a úsporné prostředí s běžnými nástroji, systémovými utilitami a knihovnami."
+
+msgid "Ultimately minimal desktop, you will be free to set anything up by yourself."
+msgstr "Zcela minimální prostředí, vše si můžete nastavit sami."
+
+msgid "For experts only. Ultimately minimal desktop, you will be free to set anything up by yourself."
+msgstr "Pouze pro odborníky. Zcela minimální prostředí, vše si můžete nastavit sami."
+
+msgid "Special profile for live media."
+msgstr "Zvláštní profil pro živá média."

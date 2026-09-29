@@ -416,3 +416,33 @@ msgstr "Einige installierte Anwendungen und Pakete werden möglicherweise entfer
 
 #~ msgid "Full featured Desktop with Web Browser, Office Suite and recommended applications set"
 #~ msgstr "Kompletter Desktop mit Webbrowser, Office Programmen und empfohlenen Anwendungen"
+
+msgid "Do you really want to remove the selected profile ?"
+msgstr "Möchten Sie das ausgewählte Profil wirklich entfernen?"
+
+msgid "No Internet connection, the profile cannot be installed."
+msgstr "Keine Internetverbindung, das Profil kann nicht installiert werden."
+
+msgid "Please connect to the Internet and try again."
+msgstr "Bitte stellen Sie eine Internetverbindung her und versuchen Sie es erneut."
+
+msgid "Full featured Desktop with Web Browser, Office Suite and recommended applications set."
+msgstr "Voll ausgestattete Arbeitsumgebung mit Webbrowser, Office-Paket und empfohlener Anwendungsauswahl."
+
+msgid "Recommended for regular users. Full featured Desktop with Web Browser, Office Suite and recommended applications set. Installation could take a while."
+msgstr "Empfohlen für normale Benutzer. Voll ausgestattete Arbeitsumgebung mit Webbrowser, Office-Paket und empfohlener Anwendungsauswahl. Die Installation kann eine Weile dauern."
+
+msgid "The Basic Q4OS Desktop with common utilities, system tools and libraries."
+msgstr "Die Basis-Arbeitsumgebung von Q4OS mit gängigen Werkzeugen, Systemprogrammen und Bibliotheken."
+
+msgid "Starting configuration for users who want to install desktop applications of their choice. Lightweight slim desktop with common utilities, system tools and libraries."
+msgstr "Ausgangskonfiguration für Benutzer, die Anwendungen ihrer Wahl selbst installieren möchten. Schlanke, leichtgewichtige Arbeitsumgebung mit gängigen Werkzeugen, Systemprogrammen und Bibliotheken."
+
+msgid "Ultimately minimal desktop, you will be free to set anything up by yourself."
+msgstr "Absolut minimale Arbeitsumgebung, Sie können alles selbst einrichten."
+
+msgid "For experts only. Ultimately minimal desktop, you will be free to set anything up by yourself."
+msgstr "Nur für Experten. Absolut minimale Arbeitsumgebung, Sie können alles selbst einrichten."
+
+msgid "Special profile for live media."
+msgstr "Spezielles Profil für Live-Medien."

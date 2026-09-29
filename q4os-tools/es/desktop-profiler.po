@@ -382,3 +382,33 @@ msgstr "algunas aplicaciones y paquetes instalados pueden eliminarse porque no f
 
 #~ msgid "Default (TDE)"
 #~ msgstr "Predeterminado (TDE)"
+
+msgid "Do you really want to remove the selected profile ?"
+msgstr "¿Realmente desea eliminar el perfil seleccionado?"
+
+msgid "No Internet connection, the profile cannot be installed."
+msgstr "No hay conexión a Internet, no se puede instalar el perfil."
+
+msgid "Please connect to the Internet and try again."
+msgstr "Conéctese a Internet e inténtelo de nuevo."
+
+msgid "Full featured Desktop with Web Browser, Office Suite and recommended applications set."
+msgstr "Escritorio completo con navegador web, suite ofimática y un conjunto de aplicaciones recomendadas."
+
+msgid "Recommended for regular users. Full featured Desktop with Web Browser, Office Suite and recommended applications set. Installation could take a while."
+msgstr "Recomendado para usuarios habituales. Escritorio completo con navegador web, suite ofimática y un conjunto de aplicaciones recomendadas. La instalación puede tardar un rato."
+
+msgid "The Basic Q4OS Desktop with common utilities, system tools and libraries."
+msgstr "El escritorio básico de Q4OS con utilidades comunes, herramientas del sistema y bibliotecas."
+
+msgid "Starting configuration for users who want to install desktop applications of their choice. Lightweight slim desktop with common utilities, system tools and libraries."
+msgstr "Configuración inicial para usuarios que desean instalar las aplicaciones de escritorio que elijan. Escritorio ligero y sencillo con utilidades comunes, herramientas del sistema y bibliotecas."
+
+msgid "Ultimately minimal desktop, you will be free to set anything up by yourself."
+msgstr "Escritorio mínimo al extremo, podrá configurarlo todo usted mismo."
+
+msgid "For experts only. Ultimately minimal desktop, you will be free to set anything up by yourself."
+msgstr "Solo para expertos. Escritorio mínimo al extremo, podrá configurarlo todo usted mismo."
+
+msgid "Special profile for live media."
+msgstr "Perfil especial para medios en vivo."

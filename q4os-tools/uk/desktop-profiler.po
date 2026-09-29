@@ -378,3 +378,33 @@ msgstr "Тепер ви можете відредагувати файл від�
 
 msgid "some installed applications and packages may be removed as they are not part of the new profile."
 msgstr "деякі встановлені програми та пакунки може бути вилучено, оскільки вони не входять до нового профілю."
+
+msgid "Do you really want to remove the selected profile ?"
+msgstr "Ви дійсно бажаєте видалити вибраний профіль?"
+
+msgid "No Internet connection, the profile cannot be installed."
+msgstr "Немає з'єднання з Інтернетом, профіль неможливо встановити."
+
+msgid "Please connect to the Internet and try again."
+msgstr "Підключіться до Інтернету та спробуйте ще раз."
+
+msgid "Full featured Desktop with Web Browser, Office Suite and recommended applications set."
+msgstr "Повнофункціональна стільниця з веббраузером, офісним пакетом і набором рекомендованих застосунків."
+
+msgid "Recommended for regular users. Full featured Desktop with Web Browser, Office Suite and recommended applications set. Installation could take a while."
+msgstr "Рекомендовано для звичайних користувачів. Повнофункціональна стільниця з веббраузером, офісним пакетом і набором рекомендованих застосунків. Встановлення може тривати деякий час."
+
+msgid "The Basic Q4OS Desktop with common utilities, system tools and libraries."
+msgstr "Базова стільниця Q4OS із поширеними утилітами, системними інструментами та бібліотеками."
+
+msgid "Starting configuration for users who want to install desktop applications of their choice. Lightweight slim desktop with common utilities, system tools and libraries."
+msgstr "Початкова конфігурація для користувачів, які хочуть самі встановити потрібні їм застосунки. Легка й компактна стільниця з поширеними утилітами, системними інструментами та бібліотеками."
+
+msgid "Ultimately minimal desktop, you will be free to set anything up by yourself."
+msgstr "Гранично мінімальна стільниця, усе можна налаштувати самостійно."
+
+msgid "For experts only. Ultimately minimal desktop, you will be free to set anything up by yourself."
+msgstr "Лише для досвідчених користувачів. Гранично мінімальна стільниця, усе можна налаштувати самостійно."
+
+msgid "Special profile for live media."
+msgstr "Спеціальний профіль для live-носіїв."
