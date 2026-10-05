@@ -246,3 +246,6 @@ msgstr "textLabel1"
 
 #~ msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
 #~ msgstr "<p>Pemasangan Virtualbox terdeteksi!</p><p>Tindakan dinonaktifkan selama penyiapan Virtualbox, mohon tunggu sampai pemasangan Virtualbox selesai.</p>"
+
+msgid "<p>No web browser is installed yet.</p><p>Please install one first, for example with Install Applications.</p>"
+msgstr "<p>Belum ada peramban web yang terpasang.</p><p>Silakan pasang terlebih dahulu, misalnya dengan \"Pasang Aplikasi\".</p>"

@@ -263,3 +263,6 @@ msgstr "textLabel1"
 
 #~ msgid "<p>Start Menu is now set to Classic style.<p>"
 #~ msgstr "<p>Start Menu został ustawiony w styl Klasyczny.<p>"
+
+msgid "<p>No web browser is installed yet.</p><p>Please install one first, for example with Install Applications.</p>"
+msgstr "<p>Nie zainstalowano jeszcze żadnej przeglądarki internetowej.</p><p>Najpierw zainstaluj przeglądarkę, na przykład za pomocą „Instaluj Aplikacje”.</p>"

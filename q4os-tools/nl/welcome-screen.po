@@ -256,3 +256,6 @@ msgstr "textLabel1"
 
 #~ msgid "Turn on Desktop effects"
 #~ msgstr "Werkomgevingseffecten inschakelen"
+
+msgid "<p>No web browser is installed yet.</p><p>Please install one first, for example with Install Applications.</p>"
+msgstr "<p>Er is nog geen webbrowser geïnstalleerd.</p><p>Installeer er eerst een, bijvoorbeeld met \"Programma's installeren\".</p>"

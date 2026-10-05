@@ -261,3 +261,6 @@ msgstr "textLabel1"
 
 #~ msgid "<p>Start Menu is now set to Classic style.<p>"
 #~ msgstr "<p>Start Menu je nyní nastaveno na klasický styl.<p>"
+
+msgid "<p>No web browser is installed yet.</p><p>Please install one first, for example with Install Applications.</p>"
+msgstr "<p>Zatím není nainstalován žádný webový prohlížeč.</p><p>Nejprve jej prosím nainstalujte, například pomocí „Instalovat aplikace“.</p>"

@@ -246,3 +246,6 @@ msgstr "textLabel1"
 
 #~ msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
 #~ msgstr "<p>Виявлено встановлення Virtualbox!</p><p>Під час встановлення Virtualbox дії вимкнено, зачекайте, будь ласка, до його завершення.</p>"
+
+msgid "<p>No web browser is installed yet.</p><p>Please install one first, for example with Install Applications.</p>"
+msgstr "<p>Веб-браузер ще не встановлено.</p><p>Спочатку встановіть його, наприклад за допомогою «Встановити програми».</p>"

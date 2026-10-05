@@ -268,3 +268,6 @@ msgstr "Libellé 1"
 
 #~ msgid "Welcome screen message"
 #~ msgstr "Message d'accueil"
+
+msgid "<p>No web browser is installed yet.</p><p>Please install one first, for example with Install Applications.</p>"
+msgstr "<p>Aucun navigateur web n'est encore installé.</p><p>Veuillez d'abord en installer un, par exemple avec « Installer des applications ».</p>"

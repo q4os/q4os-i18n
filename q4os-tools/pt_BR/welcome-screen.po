@@ -275,3 +275,6 @@ msgstr "etiquetaTexto1"
 
 #~ msgid "Form1"
 #~ msgstr "Formulário1"
+
+msgid "<p>No web browser is installed yet.</p><p>Please install one first, for example with Install Applications.</p>"
+msgstr "<p>Ainda não há nenhum navegador web instalado.</p><p>Instale um primeiro, por exemplo com \"Instalar Aplicações\".</p>"

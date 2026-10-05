@@ -253,3 +253,6 @@ msgstr "テキストラベル1"
 
 #~ msgid "Brief system info."
 #~ msgstr "簡易的なシステム情報。"
+
+msgid "<p>No web browser is installed yet.</p><p>Please install one first, for example with Install Applications.</p>"
+msgstr "<p>Web ブラウザーがまだインストールされていません。</p><p>まず「アプリケーションをインストール」などでインストールしてください。</p>"

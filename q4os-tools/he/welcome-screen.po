@@ -265,3 +265,6 @@ msgstr "textLabel1"
 
 #~ msgid "Welcome screen message"
 #~ msgstr "הודעת מסך פתיחה"
+
+msgid "<p>No web browser is installed yet.</p><p>Please install one first, for example with Install Applications.</p>"
+msgstr "<p>עדיין לא מותקן דפדפן אינטרנט.</p><p>נא להתקין דפדפן תחילה, למשל באמצעות „התקנת אפליקציה”.</p>"

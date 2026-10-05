@@ -247,3 +247,6 @@ msgstr "textLabel1"
 
 #~ msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
 #~ msgstr "<p>A Virtualbox telepítését észleltük !</p><p>A Virtualbox telepítése alatt a műveletek le vannak tiltva, kérlek, várj a Virtualbox telepítésének végéig.</p>"
+
+msgid "<p>No web browser is installed yet.</p><p>Please install one first, for example with Install Applications.</p>"
+msgstr "<p>Még nincs telepítve webböngésző.</p><p>Először telepítsen egyet, például az „Alkalmazások telepítése” gombbal.</p>"

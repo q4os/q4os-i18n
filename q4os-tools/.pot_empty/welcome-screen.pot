@@ -241,3 +241,6 @@ msgstr ""
 
 msgid "textLabel1"
 msgstr ""
+
+msgid "<p>No web browser is installed yet.</p><p>Please install one first, for example with Install Applications.</p>"
+msgstr ""

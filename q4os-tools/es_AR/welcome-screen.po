@@ -246,3 +246,6 @@ msgstr "etiquetaDeTexto1"
 
 #~ msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
 #~ msgstr "<p>¡Se detectó una instalación de VirtualBox!</p><p>Las acciones están deshabilitadas mientras se configura VirtualBox. Esperá a que la instalación termine.</p>"
+
+msgid "<p>No web browser is installed yet.</p><p>Please install one first, for example with Install Applications.</p>"
+msgstr "<p>Todavía no hay ningún navegador web instalado.</p><p>Instalá uno primero, por ejemplo con «Instalar aplicaciones».</p>"

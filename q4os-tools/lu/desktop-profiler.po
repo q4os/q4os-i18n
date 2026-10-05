@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Desktop Profiler\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-21 10:49+0100\n"
+"POT-Creation-Date: 2026-09-24 21:32+0000\n"
 "PO-Revision-Date: 2015-05-30 11:21+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -377,4 +377,34 @@ msgid "You can now edit the file to your preferences."
 msgstr ""
 
 msgid "some installed applications and packages may be removed as they are not part of the new profile."
+msgstr ""
+
+msgid "Do you really want to remove the selected profile ?"
+msgstr ""
+
+msgid "No Internet connection, the profile cannot be installed."
+msgstr ""
+
+msgid "Please connect to the Internet and try again."
+msgstr ""
+
+msgid "Full featured Desktop with Web Browser, Office Suite and recommended applications set."
+msgstr ""
+
+msgid "Recommended for regular users. Full featured Desktop with Web Browser, Office Suite and recommended applications set. Installation could take a while."
+msgstr ""
+
+msgid "The Basic Q4OS Desktop with common utilities, system tools and libraries."
+msgstr ""
+
+msgid "Starting configuration for users who want to install desktop applications of their choice. Lightweight slim desktop with common utilities, system tools and libraries."
+msgstr ""
+
+msgid "Ultimately minimal desktop, you will be free to set anything up by yourself."
+msgstr ""
+
+msgid "For experts only. Ultimately minimal desktop, you will be free to set anything up by yourself."
+msgstr ""
+
+msgid "Special profile for live media."
 msgstr ""

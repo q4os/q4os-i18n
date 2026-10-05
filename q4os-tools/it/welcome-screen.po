@@ -262,3 +262,6 @@ msgstr "etichettaditesto1"
 
 #~ msgid "<p>Start Menu is now set to Classic style.<p>"
 #~ msgstr "<p>Il menu di avvio è ora impostato con lo stile classico.<p>"
+
+msgid "<p>No web browser is installed yet.</p><p>Please install one first, for example with Install Applications.</p>"
+msgstr "<p>Non è ancora installato alcun browser web.</p><p>Installane prima uno, ad esempio con \"Installa applicazioni\".</p>"

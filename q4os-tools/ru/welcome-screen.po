@@ -271,3 +271,6 @@ msgstr "текстоваяМетка1"
 
 #~ msgid "Welcome screen message"
 #~ msgstr "Сообщение окна приветствия"
+
+msgid "<p>No web browser is installed yet.</p><p>Please install one first, for example with Install Applications.</p>"
+msgstr "<p>Веб-браузер ещё не установлен.</p><p>Сначала установите его, например с помощью «Установить программы».</p>"
