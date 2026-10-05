@@ -1,3 +1,15 @@
+q4os-i18n (3.17.5-a1) UNRELEASED; urgency=medium
+
+  [ Q4OS Team ]
+  * Stop shipping appsetup2.mo: q4os-setup-common 4.10.0 compiles and installs
+    that domain itself now, from its own common/po corpus, at /usr/share/locale
+    plus symlinks at the /opt/trinity/share/locale path this package used - the
+    same move desktop-profiler, welcome-screen and software-centre made.
+    The .po sources stay here so volunteers keep translating them with the rest;
+    the 18 languages q4os-setup ships are synced back here complete.
+
+ -- Q4OS Team <devteam@q4os.org>  Sat, 03 Oct 2026 12:00:00 +0200
+
 q4os-i18n (3.17.4-a1) UNRELEASED; urgency=medium
 
   [ Q4OS Team ]

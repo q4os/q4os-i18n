@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Setup\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-23 10:25+0100\n"
+"POT-Creation-Date: 2026-10-03 14:28+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,407 +18,467 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "< Back"
-msgstr ""
+msgstr "< Geri"
 
 msgid "<b>Fast system checks</b><br>&nbsp;&nbsp;&nbsp;System is prechecking installation environment"
-msgstr ""
+msgstr "<b>Hızlı sistem denetimleri</b><br>&nbsp;&nbsp;&nbsp;Sistem kurulum ortamını denetliyor"
 
 msgid "<b>Get permissions</b><br>&nbsp;&nbsp;&nbsp;System asks for installation permissions"
-msgstr ""
+msgstr "<b>İzinleri al</b><br>&nbsp;&nbsp;&nbsp;Sistem kurulum izinlerini istiyor"
 
 msgid "<b>Installing</b><br>&nbsp;&nbsp;&nbsp;Please wait while software is being installed"
-msgstr ""
+msgstr "<b>Kuruluyor</b><br>&nbsp;&nbsp;&nbsp;Yazılım kurulurken lütfen bekleyin"
 
 msgid "<b>License Agreement</b><br>&nbsp;&nbsp;&nbsp;Please review the license terms before install"
-msgstr ""
+msgstr "<b>Lisans Sözleşmesi</b><br>&nbsp;&nbsp;&nbsp;Kurulumdan önce lütfen lisans koşullarını okuyun"
 
 msgid ""
 "<p><h2>Completing _SUBST_SWNAME_ setup wizard</h2><br></p>\n"
 "<p>Software _SUBST_SWNAME_ has been installed on your computer.<br></p>\n"
 "<p>Click Finish to close the wizard.<br><br><br><br><br></p>\n"
 "<p>Visit _SUBST_SWNAME_ website for the latest news, FAQs and support</p>"
-msgstr ""
+msgstr "<p><h2>_SUBST_SWNAME_ kurulum sihirbazı tamamlanıyor</h2><br></p>\n<p>_SUBST_SWNAME_ yazılımı bilgisayarınıza kuruldu.<br></p>\n<p>Sihirbazı kapatmak için Bitir'e tıklayın.<br><br><br><br><br></p>\n<p>En son haberler, sık sorulan sorular ve destek için _SUBST_SWNAME_ web sitesini ziyaret edin</p>"
 
 msgid ""
 "<p><h2>Welcome to the _SUBST_SWNAME_ setup wizard</h2></p>\n"
 "<p>This wizard will guide you through the installation of the _SUBST_SWNAME_ application.</p>\n"
 "<p>Click Next to continue.</p>\n"
-msgstr ""
+msgstr "<p><h2>_SUBST_SWNAME_ kurulum sihirbazına hoş geldiniz</h2></p>\n<p>Bu sihirbaz, _SUBST_SWNAME_ uygulamasının kurulumunda size yol gösterecek.</p>\n<p>Devam etmek için İleri'ye tıklayın.</p>\n"
+
+msgid "<p>Detected operating system version: Q4OS <b>%1</b>.</p><p>This %2 installation requires Q4OS <b>%3</b> as maximum.</p><p> Canceling installation ...</p>"
+msgstr "<p>Algılanan işletim sistemi sürümü: Q4OS <b>%1</b>.</p><p>Bu %2 kurulumu en fazla Q4OS <b>%3</b> gerektirir.</p><p> Kurulum iptal ediliyor ...</p>"
+
+msgid "<p>Detected operating system version: Q4OS <b>%1</b>.</p><p>This %2 installation requires Q4OS <b>%3</b> as minimum.</p><p> Canceling installation ...</p>"
+msgstr "<p>Algılanan işletim sistemi sürümü: Q4OS <b>%1</b>.</p><p>Bu %2 kurulumu en az Q4OS <b>%3</b> gerektirir.</p><p> Kurulum iptal ediliyor ...</p>"
+
+msgid "<p>Failed to detect Q4OS system version.</p><p>Canceling installation ...</p>"
+msgstr "<p>Q4OS sistem sürümü algılanamadı.</p><p>Kurulum iptal ediliyor ...</p>"
 
 msgid "<p>Initial data incomplete !</p><p> Canceling installation ...</p>"
-msgstr ""
+msgstr "<p>Başlangıç verileri eksik !</p><p> Kurulum iptal ediliyor ...</p>"
 
 msgid "<p>Internet connection is inactive or very slow. Installer needs to download application packages from Q4OS Internet sources. Setup cannot continue ...</p>"
-msgstr ""
+msgstr "<p>İnternet bağlantısı etkin değil veya çok yavaş. Kurucunun uygulama paketlerini Q4OS İnternet kaynaklarından indirmesi gerekiyor. Kurulum devam edemiyor ...</p>"
+
+msgid "<p>No system access permissions, you are not in \"sudo\" group !</p><p> Canceling installation ...</p>"
+msgstr "<p>Sisteme erişim izni yok, \"sudo\" grubunda değilsiniz !</p><p> Kurulum iptal ediliyor ...</p>"
 
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p><p>Cleaning and canceling now ...</p>"
-msgstr ""
+msgstr "<p>Paket sistemi meşgul, şu anda kurulum yapılamıyor. Kurulum devam edemiyor.</p><p>Kilit büyük olasılıkla arka planda süren sistem güncellemelerinden kaynaklanıyor. Bu durumda paket sisteminin bu işlemleri bitirmesi için biraz beklemeniz gerekir. Lütfen başka bir uygulama kurmadığınızdan emin olun ve kurulumu birkaç dakika sonra yineleyin.</p><p>Temizleniyor ve iptal ediliyor ...</p>"
 
 msgid "<p>Package system is in non consistent state, it has to be recovered manually. Installation cannot continue now.</p><p>Cleaning and canceling ...</p>"
-msgstr ""
+msgstr "<p>Paket sistemi tutarsız durumda, elle onarılması gerekiyor. Kurulum şu anda devam edemiyor.</p><p>Temizleniyor ve iptal ediliyor ...</p>"
 
 msgid "<p>Packages couldn't be downloaded, please check your Internet connection. Sorry, I cannot install now.</p><p>Cleaning and canceling ...</p>"
-msgstr ""
+msgstr "<p>Paketler indirilemedi, lütfen İnternet bağlantınızı denetleyin. Üzgünüm, şu anda kurulum yapılamıyor.</p><p>Temizleniyor ve iptal ediliyor ...</p>"
 
 msgid "<p>Simulation not successful, sorry, I cannot install now.</p><p>Cleaning and canceling ...</p>"
-msgstr ""
+msgstr "<p>Deneme kurulumu başarısız, üzgünüm, şu anda kurulum yapılamıyor.</p><p>Temizleniyor ve iptal ediliyor ...</p>"
 
 msgid "<p>Warning: Canceling installation during this phase could result in package system failure.</p><p>Are you really sure, you want to interrupt the install process now ?</p>"
-msgstr ""
+msgstr "<p>Uyarı: Kurulumu bu aşamada iptal etmek paket sisteminin bozulmasına yol açabilir.</p><p>Kurulumu şimdi kesmek istediğinizden gerçekten emin misiniz ?</p>"
+
+msgid "<p>You may not run setup under root !</p><p> Canceling installation ...</p>"
+msgstr "<p>Kurulumu root olarak çalıştıramazsınız !</p><p> Kurulum iptal ediliyor ...</p>"
 
 msgid "Adding security keys ..."
-msgstr ""
+msgstr "Güvenlik anahtarları ekleniyor ..."
 
 msgid "Adding security keys ... OK"
-msgstr ""
+msgstr "Güvenlik anahtarları ekleniyor ... Tamam"
 
 msgid "Autofix not needed ... OK"
-msgstr ""
+msgstr "Otomatik onarım gerekmiyor ... Tamam"
+
+msgid "Bad password !"
+msgstr "Yanlış parola !"
 
 msgid "Busy !"
-msgstr ""
+msgstr "Meşgul !"
 
 msgid "CPU architecture doesn't match, exiting"
-msgstr ""
+msgstr "İşlemci mimarisi uyuşmuyor, çıkılıyor"
 
 msgid "Calculating progress ..."
-msgstr ""
+msgstr "İlerleme hesaplanıyor ..."
 
 msgid "Cancel"
-msgstr ""
+msgstr "İptal"
 
 msgid "Canceling installation ..."
-msgstr ""
+msgstr "Kurulum iptal ediliyor ..."
 
 msgid "Cannot lock APT database, exiting ..."
-msgstr ""
+msgstr "APT veritabanı kilitlenemiyor, çıkılıyor ..."
 
 msgid "Cannot lock Flatpak framework, exiting ..."
-msgstr ""
+msgstr "Flatpak kilitlenemiyor, çıkılıyor ..."
+
+msgid "Checking architecture"
+msgstr "Mimari denetleniyor"
+
+msgid "Checking current user"
+msgstr "Geçerli kullanıcı denetleniyor"
 
 msgid "Checking distro"
-msgstr ""
+msgstr "Dağıtım denetleniyor"
+
+msgid "Checking environment"
+msgstr "Ortam denetleniyor"
+
+msgid "Checking for %1 software"
+msgstr "%1 yazılımı aranıyor"
 
 msgid "Checking installation ..."
-msgstr ""
+msgstr "Kurulum denetleniyor ..."
 
 msgid "Checking installation ... Error !"
-msgstr ""
+msgstr "Kurulum denetleniyor ... Hata !"
 
 msgid "Checking installation ... OK"
-msgstr ""
+msgstr "Kurulum denetleniyor ... Tamam"
 
 msgid "Checking package system"
-msgstr ""
+msgstr "Paket sistemi denetleniyor"
 
 msgid "Checking package system ..."
-msgstr ""
+msgstr "Paket sistemi denetleniyor ..."
+
+msgid "Checking setup archive integrity"
+msgstr "Kurulum arşivinin bütünlüğü denetleniyor"
+
+msgid "Checking user rights"
+msgstr "Kullanıcı hakları denetleniyor"
 
 msgid "Cleaning and canceling now ..."
-msgstr ""
+msgstr "Temizleniyor ve iptal ediliyor ..."
 
 msgid "Configuring Apt ..."
-msgstr ""
+msgstr "Apt yapılandırılıyor ..."
 
 msgid "Configuring Apt ... Done"
-msgstr ""
+msgstr "Apt yapılandırılıyor ... Bitti"
 
 msgid "Copying system packages ..."
-msgstr ""
+msgstr "Sistem paketleri kopyalanıyor ..."
 
 msgid "Copying system packages ... Done"
-msgstr ""
+msgstr "Sistem paketleri kopyalanıyor ... Bitti"
 
 msgid "Could not initialize, incorrect data header !"
-msgstr ""
+msgstr "Başlatılamadı, veri başlığı hatalı !"
 
 msgid "Could not initialize, incorrect data header."
-msgstr ""
+msgstr "Başlatılamadı, veri başlığı hatalı."
 
 msgid "Could not run Q4OS low-level apt utilities ! It is a serious problem, breaking the installation ..."
-msgstr ""
+msgstr "Q4OS alt düzey apt araçları çalıştırılamadı ! Bu ciddi bir sorun, kurulum kesiliyor ..."
+
+msgid "Detecting operating system version"
+msgstr "İşletim sistemi sürümü algılanıyor"
 
 msgid "Determining Flatpak configuration ... "
-msgstr ""
+msgstr "Flatpak yapılandırması belirleniyor ... "
 
 msgid "Distro"
-msgstr ""
+msgstr "Dağıtım"
 
 msgid "Do you really want to cancel pending operation ?"
-msgstr ""
+msgstr "Süren işlemi gerçekten iptal etmek istiyor musunuz ?"
 
 msgid "Done"
-msgstr ""
+msgstr "Bitti"
 
 msgid "Downloading packages ..."
-msgstr ""
+msgstr "Paketler indiriliyor ..."
 
 msgid "Downloading packages ... Done"
-msgstr ""
+msgstr "Paketler indiriliyor ... Bitti"
 
 msgid "Enter your password to continue:"
-msgstr ""
+msgstr "Devam etmek için parolanızı girin:"
 
 msgid "Extracting archive ..."
-msgstr ""
+msgstr "Arşiv açılıyor ..."
 
 msgid "Extracting archive ... Done"
-msgstr ""
+msgstr "Arşiv açılıyor ... Bitti"
 
 msgid "Failed"
-msgstr ""
+msgstr "Başarısız"
+
+msgid "Failed !"
+msgstr "Başarısız !"
 
 msgid "Failed. Configuration file doesn't exist."
-msgstr ""
+msgstr "Başarısız. Yapılandırma dosyası yok."
 
 msgid "Failed. Input file doesn't exist."
-msgstr ""
+msgstr "Başarısız. Girdi dosyası yok."
 
 msgid "Finish >"
-msgstr ""
+msgstr "Bitir >"
 
 msgid "Finishing installation ..."
-msgstr ""
+msgstr "Kurulum tamamlanıyor ..."
 
 msgid "Flatpak framework is busy, another application is being installed just now."
-msgstr ""
+msgstr "Flatpak meşgul, şu anda başka bir uygulama kuruluyor."
 
 msgid "Flatpak is installed, but the Flathub repository isn't included. Please add Flathub repository first. Canceling installation ..."
-msgstr ""
+msgstr "Flatpak kurulu, ancak Flathub deposu eklenmemiş. Lütfen önce Flathub deposunu ekleyin. Kurulum iptal ediliyor ..."
 
 msgid "Flatpak is not installed, so cancelling installation. Please install flatpak package first ..."
-msgstr ""
+msgstr "Flatpak kurulu değil, bu yüzden kurulum iptal ediliyor. Lütfen önce flatpak paketini kurun ..."
 
 msgid "Flatpak isn't installed ... Cancel !"
-msgstr ""
+msgstr "Flatpak kurulu değil ... İptal !"
 
 msgid "Flatpak isn't installed, exiting ..."
-msgstr ""
+msgstr "Flatpak kurulu değil, çıkılıyor ..."
 
 msgid "I Agree"
-msgstr ""
+msgstr "Kabul Ediyorum"
 
 msgid "If you accept the terms of the agreement, click I Agree to continue. You must accept the agreement to install _SUBST_SWNAME_ software."
-msgstr ""
+msgstr "Sözleşme koşullarını kabul ediyorsanız devam etmek için Kabul Ediyorum'a tıklayın. _SUBST_SWNAME_ yazılımını kurmak için sözleşmeyi kabul etmelisiniz."
 
 msgid "Install >"
-msgstr ""
+msgstr "Kur >"
 
 msgid "Installation failed !"
-msgstr ""
+msgstr "Kurulum başarısız oldu !"
 
 msgid "Installation not successful."
-msgstr ""
+msgstr "Kurulum başarılı olmadı."
 
 msgid "Installation successfully completed :-)"
-msgstr ""
+msgstr "Kurulum başarıyla tamamlandı :-)"
 
 msgid "Installing files ..."
-msgstr ""
+msgstr "Dosyalar kuruluyor ..."
 
 msgid "Installing files ... OK"
-msgstr ""
+msgstr "Dosyalar kuruluyor ... Tamam"
 
 msgid "Installing package ..."
-msgstr ""
+msgstr "Paket kuruluyor ..."
 
 msgid "Insufficient permissions, user isn't member of \"sudo\" group, exiting ..."
-msgstr ""
+msgstr "Yetersiz izin, kullanıcı \"sudo\" grubunun üyesi değil, çıkılıyor ..."
 
 msgid "License text ..."
-msgstr ""
+msgstr "Lisans metni ..."
 
 msgid "Next >"
-msgstr ""
+msgstr "İleri >"
 
 msgid "No Flathub repository ... Cancel !"
-msgstr ""
+msgstr "Flathub deposu yok ... İptal !"
 
 msgid "No Flathub repository, exiting ..."
-msgstr ""
+msgstr "Flathub deposu yok, çıkılıyor ..."
 
 msgid "Not ready"
-msgstr ""
+msgstr "Hazır değil"
 
 msgid "Package"
-msgstr ""
+msgstr "Paket"
 
 msgid "Package system ... Busy !"
-msgstr ""
+msgstr "Paket sistemi ... Meşgul !"
 
 msgid "Package system is busy, another application is being installed just now."
-msgstr ""
+msgstr "Paket sistemi meşgul, şu anda başka bir uygulama kuruluyor."
 
 msgid "Package system not consistent ..."
-msgstr ""
+msgstr "Paket sistemi tutarlı değil ..."
 
 msgid "Package system still not consistent, canceling installation ..."
-msgstr ""
+msgstr "Paket sistemi hâlâ tutarlı değil, kurulum iptal ediliyor ..."
 
 msgid "Partial update sw database ..."
-msgstr ""
+msgstr "Yazılım veritabanı kısmen güncelleniyor ..."
 
 msgid "Partial update sw database ... Done"
-msgstr ""
+msgstr "Yazılım veritabanı kısmen güncelleniyor ... Bitti"
 
 msgid "Passed OK"
-msgstr ""
+msgstr "Başarılı"
 
 msgid "Please make sure you are not installing another software and repeat setup few moments later."
-msgstr ""
+msgstr "Lütfen başka bir yazılım kurmadığınızdan emin olun ve kurulumu birkaç dakika sonra yineleyin."
 
 msgid "Please make sure you are not installing another software and repeat the setup."
-msgstr ""
+msgstr "Lütfen başka bir yazılım kurmadığınızdan emin olun ve kurulumu yineleyin."
 
 msgid "Postinstall operations ..."
-msgstr ""
+msgstr "Kurulum sonrası işlemler ..."
 
 msgid "Postinstall operations ... Done"
-msgstr ""
+msgstr "Kurulum sonrası işlemler ... Bitti"
 
 msgid "Postinstall operations, additional commands ..."
-msgstr ""
+msgstr "Kurulum sonrası işlemler, ek komutlar ..."
 
 msgid "Preparing installation files ..."
-msgstr ""
+msgstr "Kurulum dosyaları hazırlanıyor ..."
 
 msgid "Preparing installation files ... OK"
-msgstr ""
+msgstr "Kurulum dosyaları hazırlanıyor ... Tamam"
 
 msgid "Prerun script requested exit. Exit code:"
-msgstr ""
+msgstr "Ön çalıştırma betiği çıkış istedi. Çıkış kodu:"
 
 msgid "Press Page Down to see the rest of agreement."
-msgstr ""
+msgstr "Sözleşmenin kalanını görmek için Page Down tuşuna basın."
 
 msgid "Q4OS Install System v1.0"
-msgstr ""
+msgstr "Q4OS Kurulum Sistemi v1.0"
 
 msgid "Recovered ... OK"
-msgstr ""
+msgstr "Onarıldı ... Tamam"
 
 msgid "Registering application ... OK"
-msgstr ""
+msgstr "Uygulama kaydediliyor ... Tamam"
 
 msgid "Root permissions needed, exiting ..."
-msgstr ""
+msgstr "Root izinleri gerekli, çıkılıyor ..."
 
 msgid "Running custom scripts ..."
-msgstr ""
+msgstr "Özel betikler çalıştırılıyor ..."
 
 msgid "Running custom scripts ... Done"
-msgstr ""
+msgstr "Özel betikler çalıştırılıyor ... Bitti"
 
 msgid "Searching for language packages ..."
-msgstr ""
+msgstr "Dil paketleri aranıyor ..."
 
 msgid "Searching for language packages ... Done"
-msgstr ""
+msgstr "Dil paketleri aranıyor ... Bitti"
 
 msgid "Setup action:"
-msgstr ""
+msgstr "Kurulum adımı:"
 
 msgid "Setup action:  "
-msgstr ""
+msgstr "Kurulum adımı:  "
+
+msgid "Setup logfile \"%1\" cannot be saved !"
+msgstr "Kurulum günlük dosyası \"%1\" kaydedilemiyor !"
 
 msgid "Setup messages were recorded into logfile:"
-msgstr ""
+msgstr "Kurulum iletileri şu günlük dosyasına kaydedildi:"
 
 msgid "Setup wizard"
-msgstr ""
+msgstr "Kurulum sihirbazı"
+
+msgid "Temporary setup directory not deleted."
+msgstr "Geçici kurulum dizini silinmedi."
 
 msgid "Testing Internet connection ..."
-msgstr ""
+msgstr "İnternet bağlantısı sınanıyor ..."
 
 msgid "Testing Internet connection ... Failed !"
-msgstr ""
+msgstr "İnternet bağlantısı sınanıyor ... Başarısız !"
 
 msgid "Testing Internet connection ... OK"
-msgstr ""
+msgstr "İnternet bağlantısı sınanıyor ... Tamam"
 
 msgid "Testing installation ..."
-msgstr ""
+msgstr "Kurulum sınanıyor ..."
 
 msgid "Testing installation ... Done"
-msgstr ""
+msgstr "Kurulum sınanıyor ... Bitti"
 
 msgid "The application doesn't support this system CPU architecture:"
-msgstr ""
+msgstr "Uygulama bu sistemin işlemci mimarisini desteklemiyor:"
 
 msgid "The lock can also be caused by a system update in progress in the background. In this case, you need to wait a few minutes for the package system to complete these operations."
-msgstr ""
+msgstr "Kilit, arka planda süren bir sistem güncellemesinden de kaynaklanabilir. Bu durumda paket sisteminin bu işlemleri tamamlaması için birkaç dakika beklemeniz gerekir."
 
 msgid "The post installation check failed, the software may not have been installed correctly."
-msgstr ""
+msgstr "Kurulum sonrası denetim başarısız oldu, yazılım doğru kurulmamış olabilir."
 
 msgid "Trying to recover APT integrity ..."
-msgstr ""
+msgstr "APT bütünlüğü onarılmaya çalışılıyor ..."
 
 msgid "Unsupported distro"
-msgstr ""
+msgstr "Desteklenmeyen dağıtım"
 
 msgid "Update Apt database ..."
-msgstr ""
+msgstr "Apt veritabanı güncelleniyor ..."
 
 msgid "Update sw database ..."
-msgstr ""
+msgstr "Yazılım veritabanı güncelleniyor ..."
 
 msgid "Update sw database ... Done"
-msgstr ""
+msgstr "Yazılım veritabanı güncelleniyor ... Bitti"
 
 msgid "Update system cache ..."
-msgstr ""
+msgstr "Sistem önbelleği güncelleniyor ..."
 
 msgid "Update system cache ... Done"
-msgstr ""
+msgstr "Sistem önbelleği güncelleniyor ... Bitti"
 
 msgid "Upgrade Apt database ..."
-msgstr ""
+msgstr "Apt paketleri yükseltiliyor ..."
 
 msgid "Verified ... OK"
-msgstr ""
+msgstr "Doğrulandı ... Tamam"
 
 msgid "Waiting to complete current operation ... Done"
-msgstr ""
+msgstr "Geçerli işlemin tamamlanması bekleniyor ... Bitti"
 
 msgid "Warning: cannot terminate proc_lock !"
-msgstr ""
+msgstr "Uyarı: proc_lock sonlandırılamıyor !"
 
 msgid "Warning: proc_lock is already running, trying to rerun qprocess !"
-msgstr ""
+msgstr "Uyarı: proc_lock zaten çalışıyor, qprocess yeniden çalıştırılmaya çalışılıyor !"
 
 msgid "You are trying to install flatpak based software."
-msgstr ""
+msgstr "Flatpak tabanlı bir yazılım kurmaya çalışıyorsunuz."
 
 msgid "already installed, exiting ..."
-msgstr ""
+msgstr "zaten kurulu, çıkılıyor ..."
 
 msgid "clean"
-msgstr ""
+msgstr "temiz"
 
 msgid "evaluating..."
-msgstr ""
+msgstr "değerlendiriliyor..."
 
 msgid "fine"
-msgstr ""
+msgstr "uygun"
+
+msgid "good"
+msgstr "iyi"
 
 msgid "installed ... Cancel !"
-msgstr ""
+msgstr "kurulu ... İptal !"
+
+msgid "installed, newer version to upgrade"
+msgstr "kurulu, yükseltilecek daha yeni sürüm var"
 
 msgid "not installed"
-msgstr ""
+msgstr "kurulu değil"
 
 msgid "not supported, exiting ..."
-msgstr ""
+msgstr "desteklenmiyor, çıkılıyor ..."
 
 msgid "ready"
-msgstr ""
+msgstr "hazır"
 
 msgid "result:"
-msgstr ""
+msgstr "sonuç:"
+
+msgid "seems good"
+msgstr "iyi görünüyor"
 
 msgid "software is already installed, so cancelling installation ..."
-msgstr ""
+msgstr "yazılımı zaten kurulu, bu yüzden kurulum iptal ediliyor ..."
+
+msgid "sufficient"
+msgstr "yeterli"
 
 msgid "type:"
-msgstr ""
+msgstr "tür:"

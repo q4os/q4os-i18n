@@ -63,6 +63,13 @@ find . -name q4os_lookswitcher.mo -execdir rm '{}' \;
 #them here with the rest - only the generated .mo output is dropped before
 #packaging, exactly as for cpuqinfo above.
 find . -name desktop-profiler.mo -execdir rm '{}' \;
+#remove appsetup2 files - q4os-setup-common now compiles and ships this itself
+#(in /usr/share/locale, and the same /opt/trinity/share/locale path this package
+#used as symlinks), so this package must never produce it too. The .po sources
+#stay in q4os-tools/ so volunteers can keep translating them here with the rest -
+#only the generated .mo output is dropped before packaging, exactly as for
+#desktop-profiler above.
+find . -name appsetup2.mo -execdir rm '{}' \;
 
 #remove untranslated files - 1
 cd $BUILDDIR1/
@@ -79,7 +86,7 @@ done
 #remove untranslated files - 2, as not translated yet
 echo "Processing-3"
 #rm he/LC_MESSAGES/software-centre.mo - the domain is q4os-swcentre-common's now (complete in he too)
-rm he/LC_MESSAGES/appsetup2.mo
+#rm he/LC_MESSAGES/appsetup2.mo - the domain is q4os-setup-common's now
 # rm ja/LC_MESSAGES/software-centre.mo
 # rm ja/LC_MESSAGES/appsetup2.mo
 

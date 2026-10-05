@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Setup\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-23 10:25+0100\n"
+"POT-Creation-Date: 2026-10-03 14:28+0200\n"
 "PO-Revision-Date: 2025-11-18 18:43+0100\n"
 "Last-Translator: vendobici2010@gmail.com <vendobici2010@gmail.com>\n"
 "Language-Team: \n"
@@ -52,12 +52,24 @@ msgstr ""
 "<p>Questo assistente vi guiderà nell'installazione del programma _SUBST_SWNAME_ .</p>\n"
 "<p>Premi \"Avanti\" per continuare.</p>\n"
 
+msgid "<p>Detected operating system version: Q4OS <b>%1</b>.</p><p>This %2 installation requires Q4OS <b>%3</b> as maximum.</p><p> Canceling installation ...</p>"
+msgstr "<p>Versione del sistema operativo rilevata: Q4OS <b>%1</b>.</p><p>Questa installazione di %2 richiede al massimo Q4OS <b>%3</b>.</p><p> Annullamento dell'installazione ...</p>"
+
+msgid "<p>Detected operating system version: Q4OS <b>%1</b>.</p><p>This %2 installation requires Q4OS <b>%3</b> as minimum.</p><p> Canceling installation ...</p>"
+msgstr "<p>Versione del sistema operativo rilevata: Q4OS <b>%1</b>.</p><p>Questa installazione di %2 richiede almeno Q4OS <b>%3</b>.</p><p> Annullamento dell'installazione ...</p>"
+
+msgid "<p>Failed to detect Q4OS system version.</p><p>Canceling installation ...</p>"
+msgstr "<p>Impossibile rilevare la versione del sistema Q4OS.</p><p>Annullamento dell'installazione ...</p>"
+
 # Dati iniziali incompleti! Installazione annullata.
 msgid "<p>Initial data incomplete !</p><p> Canceling installation ...</p>"
 msgstr "<p>Inizializzazione dei dati incompleta !</p><p> Cancellazione dell'installazione ...</p>"
 
 msgid "<p>Internet connection is inactive or very slow. Installer needs to download application packages from Q4OS Internet sources. Setup cannot continue ...</p>"
 msgstr "<p>La connessione ad Internet non è attiva oppure è troppo lenta. L'assistente ne ha bisogno per connettersi ai server di Q4OS e scaricare i pacchetti del programma. L'installazione non può continuare ... </p>"
+
+msgid "<p>No system access permissions, you are not in \"sudo\" group !</p><p> Canceling installation ...</p>"
+msgstr "<p>Nessun permesso di accesso al sistema, non fai parte del gruppo \"sudo\" !</p><p> Annullamento dell'installazione ...</p>"
 
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p><p>Cleaning and canceling now ...</p>"
 msgstr "<p>Il sistema di gestione dei pacchetti è occupato. L'installazione non può continuare.</p><p>Molto probabilmente, è in corso un aggiornamento in background oppure l'installazione di un'altra applicazione. In questo caso, basta aspettare che si concluda il processo. Per favore, prova a ripetere l'installazione tra qualche minuto.</p><p>Pulizia e annullamento dell'operazione ...</p>"
@@ -74,6 +86,9 @@ msgstr "<p>La simulazione non è andata a buon fine. Mi dispiace, non riesco a p
 msgid "<p>Warning: Canceling installation during this phase could result in package system failure.</p><p>Are you really sure, you want to interrupt the install process now ?</p>"
 msgstr "<p>Attenzione: annullare l'installazione durante questa fase potrebbe causare un malfunzionamento del sistema di gestione dei pacchetti.</p><p>Sei davvero sicuro di voler interrompere il processo di installazione ora?</p>"
 
+msgid "<p>You may not run setup under root !</p><p> Canceling installation ...</p>"
+msgstr "<p>Non è possibile eseguire l'installazione come root !</p><p> Annullamento dell'installazione ...</p>"
+
 msgid "Adding security keys ..."
 msgstr "Aggiunta delle chiavi di sicurezza ..."
 
@@ -82,6 +97,9 @@ msgstr "Aggiunta delle chiavi di sicurezza … OK"
 
 msgid "Autofix not needed ... OK"
 msgstr "Autofix non necessario ... OK"
+
+msgid "Bad password !"
+msgstr "Password errata !"
 
 msgid "Busy !"
 msgstr "In uso!"
@@ -104,8 +122,20 @@ msgstr "Impossibile bloccare il database di APT, uscita in corso..."
 msgid "Cannot lock Flatpak framework, exiting ..."
 msgstr "Impossibile bloccare il framework Flatpak, uscita in corso..."
 
+msgid "Checking architecture"
+msgstr "Controllo dell'architettura"
+
+msgid "Checking current user"
+msgstr "Controllo dell'utente corrente"
+
 msgid "Checking distro"
 msgstr "Verifica distribuzione"
+
+msgid "Checking environment"
+msgstr "Controllo dell'ambiente"
+
+msgid "Checking for %1 software"
+msgstr "Ricerca del software %1"
 
 msgid "Checking installation ..."
 msgstr "Controllo dell'installazione ..."
@@ -121,6 +151,12 @@ msgstr "Controllo del sistema di gestione dei pacchetti"
 
 msgid "Checking package system ..."
 msgstr "Controllo del sistema di gestione dei pacchetti ..."
+
+msgid "Checking setup archive integrity"
+msgstr "Controllo dell'integrità dell'archivio di installazione"
+
+msgid "Checking user rights"
+msgstr "Controllo dei permessi dell'utente"
 
 msgid "Cleaning and canceling now ..."
 msgstr "Pulizia e annullamento dell'operazione ..."
@@ -145,6 +181,9 @@ msgstr "Impossibile inizializzare, intestazione dei dati non corretta."
 
 msgid "Could not run Q4OS low-level apt utilities ! It is a serious problem, breaking the installation ..."
 msgstr "Impossibile eseguire le utilità apt di basso livello di Q4OS! È un problema grave che compromette l’installazione..."
+
+msgid "Detecting operating system version"
+msgstr "Rilevamento della versione del sistema operativo"
 
 msgid "Determining Flatpak configuration ... "
 msgstr "Rilevamento configurazione Flatpak ... "
@@ -175,6 +214,9 @@ msgstr "Estrazione dell'archivio … Fatto"
 
 msgid "Failed"
 msgstr "Non riuscito"
+
+msgid "Failed !"
+msgstr "Non riuscito !"
 
 msgid "Failed. Configuration file doesn't exist."
 msgstr "Non riuscito. Il file di configurazione non esiste."
@@ -245,9 +287,8 @@ msgstr "Repository Flathub non presente ... cancellazione in corso !"
 msgid "No Flathub repository, exiting ..."
 msgstr "Repository Flathub non presente, uscita in corso ..."
 
-#, fuzzy
 msgid "Not ready"
-msgstr "pronto"
+msgstr "Non pronto"
 
 msgid "Package"
 msgstr "Pacchetto"
@@ -270,9 +311,8 @@ msgstr "Update parziale del database delle applicazioni ..."
 msgid "Partial update sw database ... Done"
 msgstr "Update parziale del database delle applicazioni … Fatto"
 
-#, fuzzy
 msgid "Passed OK"
-msgstr "Esito positivo!"
+msgstr "Superato"
 
 msgid "Please make sure you are not installing another software and repeat setup few moments later."
 msgstr "Assicurati di non stare installando un altro software e ripeti l'installazione più tardi."
@@ -331,11 +371,17 @@ msgstr "Azione di configurazione:"
 msgid "Setup action:  "
 msgstr "Azione di configurazione:  "
 
+msgid "Setup logfile \"%1\" cannot be saved !"
+msgstr "Impossibile salvare il file di registro \"%1\" !"
+
 msgid "Setup messages were recorded into logfile:"
 msgstr "I messaggi di installazione sono stati registrati nel file di log:"
 
 msgid "Setup wizard"
 msgstr "Procedura guidata di installazione"
+
+msgid "Temporary setup directory not deleted."
+msgstr "La cartella temporanea dell'installazione non è stata eliminata."
 
 msgid "Testing Internet connection ..."
 msgstr "Test della connessione ad Internet ..."
@@ -407,13 +453,19 @@ msgid "clean"
 msgstr "pulizia"
 
 msgid "evaluating..."
-msgstr ""
+msgstr "valutazione in corso..."
 
 msgid "fine"
 msgstr "procedura completata con successo"
 
+msgid "good"
+msgstr "buono"
+
 msgid "installed ... Cancel !"
 msgstr "installato... Cancellazione !"
+
+msgid "installed, newer version to upgrade"
+msgstr "installato, versione più recente da aggiornare"
 
 msgid "not installed"
 msgstr "non installato"
@@ -427,11 +479,17 @@ msgstr "pronto"
 msgid "result:"
 msgstr "risultato:"
 
+msgid "seems good"
+msgstr "sembra a posto"
+
 msgid "software is already installed, so cancelling installation ..."
 msgstr "il software è già installato, cancellazione del processo di installazione ..."
 
+msgid "sufficient"
+msgstr "sufficienti"
+
 msgid "type:"
-msgstr ""
+msgstr "tipo:"
 
 #~ msgid "<p>result:&nbsp;&nbsp;<b>passed OK !</b></p>"
 #~ msgstr "<p>risultato:&nbsp;&nbsp;<b>passato, OK !</b></p>"

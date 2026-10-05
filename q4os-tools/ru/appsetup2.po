@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Setup\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-23 10:25+0100\n"
+"POT-Creation-Date: 2026-10-03 14:28+0200\n"
 "PO-Revision-Date: 2026-08-07 00:50+0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -52,11 +52,23 @@ msgstr ""
 "<p>Этот мастер проведёт вас через все шаги установки приложения _SUBST_SWNAME_.</p>\n"
 "<p>Нажмите кнопку Далее для продолжения.</p>\n"
 
+msgid "<p>Detected operating system version: Q4OS <b>%1</b>.</p><p>This %2 installation requires Q4OS <b>%3</b> as maximum.</p><p> Canceling installation ...</p>"
+msgstr "<p>Обнаружена версия операционной системы: Q4OS <b>%1</b>.</p><p>Для установки %2 требуется Q4OS не новее <b>%3</b>.</p><p> Отмена установки ...</p>"
+
+msgid "<p>Detected operating system version: Q4OS <b>%1</b>.</p><p>This %2 installation requires Q4OS <b>%3</b> as minimum.</p><p> Canceling installation ...</p>"
+msgstr "<p>Обнаружена версия операционной системы: Q4OS <b>%1</b>.</p><p>Для установки %2 требуется Q4OS не старее <b>%3</b>.</p><p> Отмена установки ...</p>"
+
+msgid "<p>Failed to detect Q4OS system version.</p><p>Canceling installation ...</p>"
+msgstr "<p>Не удалось определить версию системы Q4OS.</p><p>Отмена установки ...</p>"
+
 msgid "<p>Initial data incomplete !</p><p> Canceling installation ...</p>"
 msgstr "<p>Изначальные данные неполные!</p><p> Установка отменяется…</p>"
 
 msgid "<p>Internet connection is inactive or very slow. Installer needs to download application packages from Q4OS Internet sources. Setup cannot continue ...</p>"
 msgstr "<p>Соединение с Интернетом неактивно или медленное. Установщику необходимо загрузить пакеты приложений из сетевых источников Q4OS. Установку невозможно продолжить…</p>"
+
+msgid "<p>No system access permissions, you are not in \"sudo\" group !</p><p> Canceling installation ...</p>"
+msgstr "<p>Нет прав доступа к системе, вы не входите в группу \"sudo\" !</p><p> Отмена установки ...</p>"
 
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p><p>Cleaning and canceling now ...</p>"
 msgstr "<p>Система пакетов занята и не готова к установке. Установку нельзя продолжить.</p><p>Блокировка, скорее всего, вызвана текущими фоновыми обновлениями системы. В этом случае вам придётся подождать некоторое время, пока система пакетов завершит эти операции. Убедитесь, что вы не устанавливаете другое приложение и повторите установку через несколько минут.</p><p>Производится очистка и отмена…</p>"
@@ -73,6 +85,9 @@ msgstr "<p>Симуляция не удалась, извините, сейча�
 msgid "<p>Warning: Canceling installation during this phase could result in package system failure.</p><p>Are you really sure, you want to interrupt the install process now ?</p>"
 msgstr "<p>Предупреждение: Отмена установки на этом этапе может привести к сбою системы пакетов.</p><p>Вы уверены, что хотите прервать процесс установки сейчас?</p>"
 
+msgid "<p>You may not run setup under root !</p><p> Canceling installation ...</p>"
+msgstr "<p>Нельзя запускать установку от имени root !</p><p> Отмена установки ...</p>"
+
 msgid "Adding security keys ..."
 msgstr "Добавляются ключи защиты…"
 
@@ -81,6 +96,9 @@ msgstr "Добавляются ключи защиты… ОК"
 
 msgid "Autofix not needed ... OK"
 msgstr "Автоисправление не требуется… ОК"
+
+msgid "Bad password !"
+msgstr "Неверный пароль !"
 
 msgid "Busy !"
 msgstr "В работе!"
@@ -103,8 +121,20 @@ msgstr "Невозможно заблокировать базу данных AP
 msgid "Cannot lock Flatpak framework, exiting ..."
 msgstr "Невозможно заблокировать фреймворк Flatpak, выход…"
 
+msgid "Checking architecture"
+msgstr "Проверяется архитектура"
+
+msgid "Checking current user"
+msgstr "Проверяется текущий пользователь"
+
 msgid "Checking distro"
 msgstr "Проверяется дистрибутив"
+
+msgid "Checking environment"
+msgstr "Проверяется окружение"
+
+msgid "Checking for %1 software"
+msgstr "Проверяется наличие программы %1"
 
 msgid "Checking installation ..."
 msgstr "Проверяется установка…"
@@ -120,6 +150,12 @@ msgstr "Проверяется система пакетов"
 
 msgid "Checking package system ..."
 msgstr "Проверяется система пакетов…"
+
+msgid "Checking setup archive integrity"
+msgstr "Проверяется целостность установочного архива"
+
+msgid "Checking user rights"
+msgstr "Проверяются права пользователя"
 
 msgid "Cleaning and canceling now ..."
 msgstr "Очистка и отмена сейчас…"
@@ -144,6 +180,9 @@ msgstr "Не удалось инициализировать, неверный �
 
 msgid "Could not run Q4OS low-level apt utilities ! It is a serious problem, breaking the installation ..."
 msgstr "Не удалось запустить низкоуровневые средства apt для Q4OS! Это серьёзная проблема, которая может нарушить установку…"
+
+msgid "Detecting operating system version"
+msgstr "Определяется версия операционной системы"
 
 msgid "Determining Flatpak configuration ... "
 msgstr "Определяется конфигурация Flatpak… "
@@ -174,6 +213,9 @@ msgstr "Распаковывается архив… Готово"
 
 msgid "Failed"
 msgstr "Ошибка"
+
+msgid "Failed !"
+msgstr "Ошибка !"
 
 msgid "Failed. Configuration file doesn't exist."
 msgstr "Ошибка. Файл конфигурации не существует."
@@ -328,11 +370,17 @@ msgstr "Процесс установки:"
 msgid "Setup action:  "
 msgstr "Действие установки:  "
 
+msgid "Setup logfile \"%1\" cannot be saved !"
+msgstr "Не удалось сохранить файл журнала установки \"%1\" !"
+
 msgid "Setup messages were recorded into logfile:"
 msgstr "Сообщения установки записаны в файл журнала:"
 
 msgid "Setup wizard"
 msgstr "Мастер установки"
+
+msgid "Temporary setup directory not deleted."
+msgstr "Временный каталог установки не удалён."
 
 msgid "Testing Internet connection ..."
 msgstr "Проверяется соединение с Интернетом…"
@@ -409,8 +457,14 @@ msgstr "оценивание…"
 msgid "fine"
 msgstr "хорошо"
 
+msgid "good"
+msgstr "хорошо"
+
 msgid "installed ... Cancel !"
 msgstr "установлено… Отмена!"
+
+msgid "installed, newer version to upgrade"
+msgstr "установлено, доступна более новая версия для обновления"
 
 msgid "not installed"
 msgstr "не установлено"
@@ -424,8 +478,14 @@ msgstr "готово"
 msgid "result:"
 msgstr "результат:"
 
+msgid "seems good"
+msgstr "в порядке"
+
 msgid "software is already installed, so cancelling installation ..."
 msgstr "программное обеспечение уже установлено, поэтому установка отменяется…"
+
+msgid "sufficient"
+msgstr "достаточно"
 
 msgid "type:"
 msgstr "тип:"

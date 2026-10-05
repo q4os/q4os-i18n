@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Setup\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-23 10:25+0100\n"
+"POT-Creation-Date: 2026-10-03 14:28+0200\n"
 "PO-Revision-Date: 2015-05-30 11:06+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -17,407 +17,467 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "< Back"
-msgstr ""
+msgstr "< Zpět"
 
 msgid "<b>Fast system checks</b><br>&nbsp;&nbsp;&nbsp;System is prechecking installation environment"
-msgstr ""
+msgstr "<b>Rychlé kontroly systému</b><br>&nbsp;&nbsp;&nbsp;Systém kontroluje prostředí pro instalaci"
 
 msgid "<b>Get permissions</b><br>&nbsp;&nbsp;&nbsp;System asks for installation permissions"
-msgstr ""
+msgstr "<b>Získání oprávnění</b><br>&nbsp;&nbsp;&nbsp;Systém žádá o oprávnění k instalaci"
 
 msgid "<b>Installing</b><br>&nbsp;&nbsp;&nbsp;Please wait while software is being installed"
-msgstr ""
+msgstr "<b>Instalace</b><br>&nbsp;&nbsp;&nbsp;Počkejte prosím, software se instaluje"
 
 msgid "<b>License Agreement</b><br>&nbsp;&nbsp;&nbsp;Please review the license terms before install"
-msgstr ""
+msgstr "<b>Licenční ujednání</b><br>&nbsp;&nbsp;&nbsp;Před instalací si prosím přečtěte licenční podmínky"
 
 msgid ""
 "<p><h2>Completing _SUBST_SWNAME_ setup wizard</h2><br></p>\n"
 "<p>Software _SUBST_SWNAME_ has been installed on your computer.<br></p>\n"
 "<p>Click Finish to close the wizard.<br><br><br><br><br></p>\n"
 "<p>Visit _SUBST_SWNAME_ website for the latest news, FAQs and support</p>"
-msgstr ""
+msgstr "<p><h2>Dokončení průvodce instalací _SUBST_SWNAME_</h2><br></p>\n<p>Software _SUBST_SWNAME_ byl nainstalován do vašeho počítače.<br></p>\n<p>Průvodce zavřete kliknutím na Dokončit.<br><br><br><br><br></p>\n<p>Novinky, časté dotazy a podporu najdete na webu _SUBST_SWNAME_</p>"
 
 msgid ""
 "<p><h2>Welcome to the _SUBST_SWNAME_ setup wizard</h2></p>\n"
 "<p>This wizard will guide you through the installation of the _SUBST_SWNAME_ application.</p>\n"
 "<p>Click Next to continue.</p>\n"
-msgstr ""
+msgstr "<p><h2>Vítejte v průvodci instalací _SUBST_SWNAME_</h2></p>\n<p>Tento průvodce vás provede instalací aplikace _SUBST_SWNAME_.</p>\n<p>Pokračujte kliknutím na Další.</p>\n"
+
+msgid "<p>Detected operating system version: Q4OS <b>%1</b>.</p><p>This %2 installation requires Q4OS <b>%3</b> as maximum.</p><p> Canceling installation ...</p>"
+msgstr "<p>Zjištěná verze operačního systému: Q4OS <b>%1</b>.</p><p>Tato instalace %2 vyžaduje nejvýše Q4OS <b>%3</b>.</p><p> Instalace se ruší ...</p>"
+
+msgid "<p>Detected operating system version: Q4OS <b>%1</b>.</p><p>This %2 installation requires Q4OS <b>%3</b> as minimum.</p><p> Canceling installation ...</p>"
+msgstr "<p>Zjištěná verze operačního systému: Q4OS <b>%1</b>.</p><p>Tato instalace %2 vyžaduje alespoň Q4OS <b>%3</b>.</p><p> Instalace se ruší ...</p>"
+
+msgid "<p>Failed to detect Q4OS system version.</p><p>Canceling installation ...</p>"
+msgstr "<p>Nepodařilo se zjistit verzi systému Q4OS.</p><p>Instalace se ruší ...</p>"
 
 msgid "<p>Initial data incomplete !</p><p> Canceling installation ...</p>"
-msgstr ""
+msgstr "<p>Vstupní data jsou neúplná !</p><p> Instalace se ruší ...</p>"
 
 msgid "<p>Internet connection is inactive or very slow. Installer needs to download application packages from Q4OS Internet sources. Setup cannot continue ...</p>"
-msgstr ""
+msgstr "<p>Připojení k internetu není aktivní nebo je velmi pomalé. Instalátor potřebuje stáhnout balíčky aplikace z internetových zdrojů Q4OS. Instalace nemůže pokračovat ...</p>"
+
+msgid "<p>No system access permissions, you are not in \"sudo\" group !</p><p> Canceling installation ...</p>"
+msgstr "<p>Nemáte oprávnění k přístupu do systému, nejste ve skupině \"sudo\" !</p><p> Instalace se ruší ...</p>"
 
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p><p>Cleaning and canceling now ...</p>"
-msgstr ""
+msgstr "<p>Balíčkový systém je zaneprázdněn, nyní nelze instalovat. Instalace nemůže pokračovat.</p><p>Zámek je velmi pravděpodobně způsoben aktualizací systému probíhající na pozadí. V takovém případě je třeba chvíli počkat, než balíčkový systém tyto operace dokončí. Ujistěte se prosím, že neinstalujete jinou aplikaci, a instalaci za několik minut zopakujte.</p><p>Probíhá úklid a rušení ...</p>"
 
 msgid "<p>Package system is in non consistent state, it has to be recovered manually. Installation cannot continue now.</p><p>Cleaning and canceling ...</p>"
-msgstr ""
+msgstr "<p>Balíčkový systém je v nekonzistentním stavu a je třeba jej opravit ručně. Instalace nyní nemůže pokračovat.</p><p>Probíhá úklid a rušení ...</p>"
 
 msgid "<p>Packages couldn't be downloaded, please check your Internet connection. Sorry, I cannot install now.</p><p>Cleaning and canceling ...</p>"
-msgstr ""
+msgstr "<p>Balíčky se nepodařilo stáhnout, zkontrolujte prosím připojení k internetu. Je mi líto, nyní nelze instalovat.</p><p>Probíhá úklid a rušení ...</p>"
 
 msgid "<p>Simulation not successful, sorry, I cannot install now.</p><p>Cleaning and canceling ...</p>"
-msgstr ""
+msgstr "<p>Simulace nebyla úspěšná, je mi líto, nyní nelze instalovat.</p><p>Probíhá úklid a rušení ...</p>"
 
 msgid "<p>Warning: Canceling installation during this phase could result in package system failure.</p><p>Are you really sure, you want to interrupt the install process now ?</p>"
-msgstr ""
+msgstr "<p>Varování: zrušení instalace v této fázi může způsobit selhání balíčkového systému.</p><p>Opravdu chcete instalaci nyní přerušit ?</p>"
+
+msgid "<p>You may not run setup under root !</p><p> Canceling installation ...</p>"
+msgstr "<p>Instalaci nelze spouštět pod uživatelem root !</p><p> Instalace se ruší ...</p>"
 
 msgid "Adding security keys ..."
-msgstr ""
+msgstr "Přidávání bezpečnostních klíčů ..."
 
 msgid "Adding security keys ... OK"
-msgstr ""
+msgstr "Přidávání bezpečnostních klíčů ... OK"
 
 msgid "Autofix not needed ... OK"
-msgstr ""
+msgstr "Automatická oprava není potřeba ... OK"
+
+msgid "Bad password !"
+msgstr "Chybné heslo !"
 
 msgid "Busy !"
-msgstr ""
+msgstr "Zaneprázdněn !"
 
 msgid "CPU architecture doesn't match, exiting"
-msgstr ""
+msgstr "Architektura procesoru neodpovídá, ukončuji"
 
 msgid "Calculating progress ..."
-msgstr ""
+msgstr "Výpočet průběhu ..."
 
 msgid "Cancel"
-msgstr ""
+msgstr "Zrušit"
 
 msgid "Canceling installation ..."
-msgstr ""
+msgstr "Instalace se ruší ..."
 
 msgid "Cannot lock APT database, exiting ..."
-msgstr ""
+msgstr "Nelze uzamknout databázi APT, ukončuji ..."
 
 msgid "Cannot lock Flatpak framework, exiting ..."
-msgstr ""
+msgstr "Nelze uzamknout Flatpak, ukončuji ..."
+
+msgid "Checking architecture"
+msgstr "Kontrola architektury"
+
+msgid "Checking current user"
+msgstr "Kontrola aktuálního uživatele"
 
 msgid "Checking distro"
-msgstr ""
+msgstr "Kontrola distribuce"
+
+msgid "Checking environment"
+msgstr "Kontrola prostředí"
+
+msgid "Checking for %1 software"
+msgstr "Kontrola softwaru %1"
 
 msgid "Checking installation ..."
-msgstr ""
+msgstr "Kontrola instalace ..."
 
 msgid "Checking installation ... Error !"
-msgstr ""
+msgstr "Kontrola instalace ... Chyba !"
 
 msgid "Checking installation ... OK"
-msgstr ""
+msgstr "Kontrola instalace ... OK"
 
 msgid "Checking package system"
-msgstr ""
+msgstr "Kontrola balíčkového systému"
 
 msgid "Checking package system ..."
-msgstr ""
+msgstr "Kontrola balíčkového systému ..."
+
+msgid "Checking setup archive integrity"
+msgstr "Kontrola integrity instalačního archivu"
+
+msgid "Checking user rights"
+msgstr "Kontrola oprávnění uživatele"
 
 msgid "Cleaning and canceling now ..."
-msgstr ""
+msgstr "Probíhá úklid a rušení ..."
 
 msgid "Configuring Apt ..."
-msgstr ""
+msgstr "Nastavování Apt ..."
 
 msgid "Configuring Apt ... Done"
-msgstr ""
+msgstr "Nastavování Apt ... Hotovo"
 
 msgid "Copying system packages ..."
-msgstr ""
+msgstr "Kopírování systémových balíčků ..."
 
 msgid "Copying system packages ... Done"
-msgstr ""
+msgstr "Kopírování systémových balíčků ... Hotovo"
 
 msgid "Could not initialize, incorrect data header !"
-msgstr ""
+msgstr "Nelze inicializovat, chybná hlavička dat !"
 
 msgid "Could not initialize, incorrect data header."
-msgstr ""
+msgstr "Nelze inicializovat, chybná hlavička dat."
 
 msgid "Could not run Q4OS low-level apt utilities ! It is a serious problem, breaking the installation ..."
-msgstr ""
+msgstr "Nelze spustit nízkoúrovňové nástroje apt systému Q4OS ! Je to závažný problém, instalace se přerušuje ..."
+
+msgid "Detecting operating system version"
+msgstr "Zjišťování verze operačního systému"
 
 msgid "Determining Flatpak configuration ... "
-msgstr ""
+msgstr "Zjišťování nastavení Flatpaku ... "
 
 msgid "Distro"
-msgstr ""
+msgstr "Distribuce"
 
 msgid "Do you really want to cancel pending operation ?"
-msgstr ""
+msgstr "Opravdu chcete zrušit probíhající operaci ?"
 
 msgid "Done"
-msgstr ""
+msgstr "Hotovo"
 
 msgid "Downloading packages ..."
-msgstr ""
+msgstr "Stahování balíčků ..."
 
 msgid "Downloading packages ... Done"
-msgstr ""
+msgstr "Stahování balíčků ... Hotovo"
 
 msgid "Enter your password to continue:"
-msgstr ""
+msgstr "Pro pokračování zadejte heslo:"
 
 msgid "Extracting archive ..."
-msgstr ""
+msgstr "Rozbalování archivu ..."
 
 msgid "Extracting archive ... Done"
-msgstr ""
+msgstr "Rozbalování archivu ... Hotovo"
 
 msgid "Failed"
-msgstr ""
+msgstr "Selhalo"
+
+msgid "Failed !"
+msgstr "Selhalo !"
 
 msgid "Failed. Configuration file doesn't exist."
-msgstr ""
+msgstr "Selhalo. Konfigurační soubor neexistuje."
 
 msgid "Failed. Input file doesn't exist."
-msgstr ""
+msgstr "Selhalo. Vstupní soubor neexistuje."
 
 msgid "Finish >"
-msgstr ""
+msgstr "Dokončit >"
 
 msgid "Finishing installation ..."
-msgstr ""
+msgstr "Dokončování instalace ..."
 
 msgid "Flatpak framework is busy, another application is being installed just now."
-msgstr ""
+msgstr "Flatpak je zaneprázdněn, právě se instaluje jiná aplikace."
 
 msgid "Flatpak is installed, but the Flathub repository isn't included. Please add Flathub repository first. Canceling installation ..."
-msgstr ""
+msgstr "Flatpak je nainstalován, ale chybí repozitář Flathub. Nejprve prosím přidejte repozitář Flathub. Instalace se ruší ..."
 
 msgid "Flatpak is not installed, so cancelling installation. Please install flatpak package first ..."
-msgstr ""
+msgstr "Flatpak není nainstalován, instalace se proto ruší. Nejprve prosím nainstalujte balíček flatpak ..."
 
 msgid "Flatpak isn't installed ... Cancel !"
-msgstr ""
+msgstr "Flatpak není nainstalován ... Zrušeno !"
 
 msgid "Flatpak isn't installed, exiting ..."
-msgstr ""
+msgstr "Flatpak není nainstalován, ukončuji ..."
 
 msgid "I Agree"
-msgstr ""
+msgstr "Souhlasím"
 
 msgid "If you accept the terms of the agreement, click I Agree to continue. You must accept the agreement to install _SUBST_SWNAME_ software."
-msgstr ""
+msgstr "Pokud s podmínkami ujednání souhlasíte, pokračujte kliknutím na Souhlasím. Pro instalaci softwaru _SUBST_SWNAME_ je nutné ujednání přijmout."
 
 msgid "Install >"
-msgstr ""
+msgstr "Instalovat >"
 
 msgid "Installation failed !"
-msgstr ""
+msgstr "Instalace selhala !"
 
 msgid "Installation not successful."
-msgstr ""
+msgstr "Instalace nebyla úspěšná."
 
 msgid "Installation successfully completed :-)"
-msgstr ""
+msgstr "Instalace byla úspěšně dokončena :-)"
 
 msgid "Installing files ..."
-msgstr ""
+msgstr "Instalace souborů ..."
 
 msgid "Installing files ... OK"
-msgstr ""
+msgstr "Instalace souborů ... OK"
 
 msgid "Installing package ..."
-msgstr ""
+msgstr "Instalace balíčku ..."
 
 msgid "Insufficient permissions, user isn't member of \"sudo\" group, exiting ..."
-msgstr ""
+msgstr "Nedostatečná oprávnění, uživatel není členem skupiny \"sudo\", ukončuji ..."
 
 msgid "License text ..."
-msgstr ""
+msgstr "Text licence ..."
 
 msgid "Next >"
-msgstr ""
+msgstr "Další >"
 
 msgid "No Flathub repository ... Cancel !"
-msgstr ""
+msgstr "Chybí repozitář Flathub ... Zrušeno !"
 
 msgid "No Flathub repository, exiting ..."
-msgstr ""
+msgstr "Chybí repozitář Flathub, ukončuji ..."
 
 msgid "Not ready"
-msgstr ""
+msgstr "Nepřipraveno"
 
 msgid "Package"
-msgstr ""
+msgstr "Balíček"
 
 msgid "Package system ... Busy !"
-msgstr ""
+msgstr "Balíčkový systém ... Zaneprázdněn !"
 
 msgid "Package system is busy, another application is being installed just now."
-msgstr ""
+msgstr "Balíčkový systém je zaneprázdněn, právě se instaluje jiná aplikace."
 
 msgid "Package system not consistent ..."
-msgstr ""
+msgstr "Balíčkový systém není konzistentní ..."
 
 msgid "Package system still not consistent, canceling installation ..."
-msgstr ""
+msgstr "Balíčkový systém stále není konzistentní, instalace se ruší ..."
 
 msgid "Partial update sw database ..."
-msgstr ""
+msgstr "Částečná aktualizace databáze softwaru ..."
 
 msgid "Partial update sw database ... Done"
-msgstr ""
+msgstr "Částečná aktualizace databáze softwaru ... Hotovo"
 
 msgid "Passed OK"
-msgstr ""
+msgstr "V pořádku"
 
 msgid "Please make sure you are not installing another software and repeat setup few moments later."
-msgstr ""
+msgstr "Ujistěte se prosím, že neinstalujete jiný software, a instalaci za chvíli zopakujte."
 
 msgid "Please make sure you are not installing another software and repeat the setup."
-msgstr ""
+msgstr "Ujistěte se prosím, že neinstalujete jiný software, a instalaci zopakujte."
 
 msgid "Postinstall operations ..."
-msgstr ""
+msgstr "Poinstalační operace ..."
 
 msgid "Postinstall operations ... Done"
-msgstr ""
+msgstr "Poinstalační operace ... Hotovo"
 
 msgid "Postinstall operations, additional commands ..."
-msgstr ""
+msgstr "Poinstalační operace, doplňkové příkazy ..."
 
 msgid "Preparing installation files ..."
-msgstr ""
+msgstr "Příprava instalačních souborů ..."
 
 msgid "Preparing installation files ... OK"
-msgstr ""
+msgstr "Příprava instalačních souborů ... OK"
 
 msgid "Prerun script requested exit. Exit code:"
-msgstr ""
+msgstr "Úvodní skript požádal o ukončení. Návratový kód:"
 
 msgid "Press Page Down to see the rest of agreement."
-msgstr ""
+msgstr "Zbytek ujednání zobrazíte klávesou Page Down."
 
 msgid "Q4OS Install System v1.0"
-msgstr ""
+msgstr "Instalační systém Q4OS v1.0"
 
 msgid "Recovered ... OK"
-msgstr ""
+msgstr "Opraveno ... OK"
 
 msgid "Registering application ... OK"
-msgstr ""
+msgstr "Registrace aplikace ... OK"
 
 msgid "Root permissions needed, exiting ..."
-msgstr ""
+msgstr "Jsou potřeba oprávnění uživatele root, ukončuji ..."
 
 msgid "Running custom scripts ..."
-msgstr ""
+msgstr "Spouštění vlastních skriptů ..."
 
 msgid "Running custom scripts ... Done"
-msgstr ""
+msgstr "Spouštění vlastních skriptů ... Hotovo"
 
 msgid "Searching for language packages ..."
-msgstr ""
+msgstr "Hledání jazykových balíčků ..."
 
 msgid "Searching for language packages ... Done"
-msgstr ""
+msgstr "Hledání jazykových balíčků ... Hotovo"
 
 msgid "Setup action:"
-msgstr ""
+msgstr "Krok instalace:"
 
 msgid "Setup action:  "
-msgstr ""
+msgstr "Krok instalace:  "
+
+msgid "Setup logfile \"%1\" cannot be saved !"
+msgstr "Protokol instalace \"%1\" nelze uložit !"
 
 msgid "Setup messages were recorded into logfile:"
-msgstr ""
+msgstr "Zprávy instalátoru byly zaznamenány do protokolu:"
 
 msgid "Setup wizard"
-msgstr ""
+msgstr "Průvodce instalací"
+
+msgid "Temporary setup directory not deleted."
+msgstr "Dočasný instalační adresář nebyl smazán."
 
 msgid "Testing Internet connection ..."
-msgstr ""
+msgstr "Test připojení k internetu ..."
 
 msgid "Testing Internet connection ... Failed !"
-msgstr ""
+msgstr "Test připojení k internetu ... Selhalo !"
 
 msgid "Testing Internet connection ... OK"
-msgstr ""
+msgstr "Test připojení k internetu ... OK"
 
 msgid "Testing installation ..."
-msgstr ""
+msgstr "Zkouška instalace ..."
 
 msgid "Testing installation ... Done"
-msgstr ""
+msgstr "Zkouška instalace ... Hotovo"
 
 msgid "The application doesn't support this system CPU architecture:"
-msgstr ""
+msgstr "Aplikace nepodporuje architekturu procesoru tohoto systému:"
 
 msgid "The lock can also be caused by a system update in progress in the background. In this case, you need to wait a few minutes for the package system to complete these operations."
-msgstr ""
+msgstr "Zámek může být způsoben také aktualizací systému probíhající na pozadí. V takovém případě je třeba několik minut počkat, než balíčkový systém tyto operace dokončí."
 
 msgid "The post installation check failed, the software may not have been installed correctly."
-msgstr ""
+msgstr "Kontrola po instalaci selhala, software možná nebyl nainstalován správně."
 
 msgid "Trying to recover APT integrity ..."
-msgstr ""
+msgstr "Pokus o obnovu integrity APT ..."
 
 msgid "Unsupported distro"
-msgstr ""
+msgstr "Nepodporovaná distribuce"
 
 msgid "Update Apt database ..."
-msgstr ""
+msgstr "Aktualizace databáze Apt ..."
 
 msgid "Update sw database ..."
-msgstr ""
+msgstr "Aktualizace databáze softwaru ..."
 
 msgid "Update sw database ... Done"
-msgstr ""
+msgstr "Aktualizace databáze softwaru ... Hotovo"
 
 msgid "Update system cache ..."
-msgstr ""
+msgstr "Aktualizace systémové mezipaměti ..."
 
 msgid "Update system cache ... Done"
-msgstr ""
+msgstr "Aktualizace systémové mezipaměti ... Hotovo"
 
 msgid "Upgrade Apt database ..."
-msgstr ""
+msgstr "Povýšení balíčků Apt ..."
 
 msgid "Verified ... OK"
-msgstr ""
+msgstr "Ověřeno ... OK"
 
 msgid "Waiting to complete current operation ... Done"
-msgstr ""
+msgstr "Čekání na dokončení probíhající operace ... Hotovo"
 
 msgid "Warning: cannot terminate proc_lock !"
-msgstr ""
+msgstr "Varování: nelze ukončit proc_lock !"
 
 msgid "Warning: proc_lock is already running, trying to rerun qprocess !"
-msgstr ""
+msgstr "Varování: proc_lock již běží, pokus o opětovné spuštění qprocess !"
 
 msgid "You are trying to install flatpak based software."
-msgstr ""
+msgstr "Pokoušíte se nainstalovat software ve formátu flatpak."
 
 msgid "already installed, exiting ..."
-msgstr ""
+msgstr "je již nainstalován, ukončuji ..."
 
 msgid "clean"
-msgstr ""
+msgstr "čisto"
 
 msgid "evaluating..."
-msgstr ""
+msgstr "vyhodnocování..."
 
 msgid "fine"
-msgstr ""
+msgstr "v pořádku"
+
+msgid "good"
+msgstr "dobrá"
 
 msgid "installed ... Cancel !"
-msgstr ""
+msgstr "nainstalováno ... Zrušeno !"
+
+msgid "installed, newer version to upgrade"
+msgstr "nainstalováno, novější verze k aktualizaci"
 
 msgid "not installed"
-msgstr ""
+msgstr "nenainstalováno"
 
 msgid "not supported, exiting ..."
-msgstr ""
+msgstr "není podporována, ukončuji ..."
 
 msgid "ready"
-msgstr ""
+msgstr "připraven"
 
 msgid "result:"
-msgstr ""
+msgstr "výsledek:"
+
+msgid "seems good"
+msgstr "vypadá dobře"
 
 msgid "software is already installed, so cancelling installation ..."
-msgstr ""
+msgstr "je již nainstalován, instalace se proto ruší ..."
+
+msgid "sufficient"
+msgstr "dostatečná"
 
 msgid "type:"
-msgstr ""
+msgstr "typ:"

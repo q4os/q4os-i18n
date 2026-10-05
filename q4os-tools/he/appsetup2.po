@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Setup\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-23 10:25+0100\n"
+"POT-Creation-Date: 2026-10-03 14:28+0200\n"
 "PO-Revision-Date: 2015-05-30 11:06+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -17,407 +17,467 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "< Back"
-msgstr ""
+msgstr "< הקודם"
 
 msgid "<b>Fast system checks</b><br>&nbsp;&nbsp;&nbsp;System is prechecking installation environment"
-msgstr ""
+msgstr "<b>בדיקות מערכת מהירות</b><br>&nbsp;&nbsp;&nbsp;המערכת בודקת את סביבת ההתקנה"
 
 msgid "<b>Get permissions</b><br>&nbsp;&nbsp;&nbsp;System asks for installation permissions"
-msgstr ""
+msgstr "<b>קבלת הרשאות</b><br>&nbsp;&nbsp;&nbsp;המערכת מבקשת הרשאות התקנה"
 
 msgid "<b>Installing</b><br>&nbsp;&nbsp;&nbsp;Please wait while software is being installed"
-msgstr ""
+msgstr "<b>מתקין</b><br>&nbsp;&nbsp;&nbsp;נא להמתין בזמן התקנת התוכנה"
 
 msgid "<b>License Agreement</b><br>&nbsp;&nbsp;&nbsp;Please review the license terms before install"
-msgstr ""
+msgstr "<b>הסכם רישיון</b><br>&nbsp;&nbsp;&nbsp;נא לעיין בתנאי הרישיון לפני ההתקנה"
 
 msgid ""
 "<p><h2>Completing _SUBST_SWNAME_ setup wizard</h2><br></p>\n"
 "<p>Software _SUBST_SWNAME_ has been installed on your computer.<br></p>\n"
 "<p>Click Finish to close the wizard.<br><br><br><br><br></p>\n"
 "<p>Visit _SUBST_SWNAME_ website for the latest news, FAQs and support</p>"
-msgstr ""
+msgstr "<p><h2>סיום אשף ההתקנה של _SUBST_SWNAME_</h2><br></p>\n<p>התוכנה _SUBST_SWNAME_ הותקנה במחשב שלך.<br></p>\n<p>יש ללחוץ על סיום כדי לסגור את האשף.<br><br><br><br><br></p>\n<p>לחדשות, שאלות נפוצות ותמיכה ניתן לבקר באתר של _SUBST_SWNAME_</p>"
 
 msgid ""
 "<p><h2>Welcome to the _SUBST_SWNAME_ setup wizard</h2></p>\n"
 "<p>This wizard will guide you through the installation of the _SUBST_SWNAME_ application.</p>\n"
 "<p>Click Next to continue.</p>\n"
-msgstr ""
+msgstr "<p><h2>ברוך בואך לאשף ההתקנה של _SUBST_SWNAME_</h2></p>\n<p>אשף זה ינחה אותך בהתקנת היישום _SUBST_SWNAME_.</p>\n<p>יש ללחוץ על הבא כדי להמשיך.</p>\n"
+
+msgid "<p>Detected operating system version: Q4OS <b>%1</b>.</p><p>This %2 installation requires Q4OS <b>%3</b> as maximum.</p><p> Canceling installation ...</p>"
+msgstr "<p>גרסת מערכת ההפעלה שזוהתה: Q4OS <b>%1</b>.</p><p>התקנה זו של %2 דורשת Q4OS <b>%3</b> לכל היותר.</p><p> ההתקנה מבוטלת ...</p>"
+
+msgid "<p>Detected operating system version: Q4OS <b>%1</b>.</p><p>This %2 installation requires Q4OS <b>%3</b> as minimum.</p><p> Canceling installation ...</p>"
+msgstr "<p>גרסת מערכת ההפעלה שזוהתה: Q4OS <b>%1</b>.</p><p>התקנה זו של %2 דורשת Q4OS <b>%3</b> לכל הפחות.</p><p> ההתקנה מבוטלת ...</p>"
+
+msgid "<p>Failed to detect Q4OS system version.</p><p>Canceling installation ...</p>"
+msgstr "<p>זיהוי גרסת מערכת Q4OS נכשל.</p><p>ההתקנה מבוטלת ...</p>"
 
 msgid "<p>Initial data incomplete !</p><p> Canceling installation ...</p>"
-msgstr ""
+msgstr "<p>נתוני הפתיחה חסרים !</p><p> ההתקנה מבוטלת ...</p>"
 
 msgid "<p>Internet connection is inactive or very slow. Installer needs to download application packages from Q4OS Internet sources. Setup cannot continue ...</p>"
-msgstr ""
+msgstr "<p>החיבור לאינטרנט אינו פעיל או איטי מאוד. תוכנית ההתקנה צריכה להוריד את חבילות היישום ממקורות האינטרנט של Q4OS. ההתקנה אינה יכולה להמשיך ...</p>"
+
+msgid "<p>No system access permissions, you are not in \"sudo\" group !</p><p> Canceling installation ...</p>"
+msgstr "<p>אין הרשאות גישה למערכת, אינך בקבוצת \"sudo\" !</p><p> ההתקנה מבוטלת ...</p>"
 
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p><p>Cleaning and canceling now ...</p>"
-msgstr ""
+msgstr "<p>מערכת החבילות עסוקה ואינה מוכנה להתקנה כעת. ההתקנה אינה יכולה להמשיך.</p><p>הנעילה נגרמת ככל הנראה מעדכוני מערכת הפועלים ברקע. במקרה כזה יש להמתין מעט עד שמערכת החבילות תסיים את הפעולות. נא לוודא שלא מותקן כעת יישום אחר ולחזור על ההתקנה בעוד כמה דקות.</p><p>מנקה ומבטל כעת ...</p>"
 
 msgid "<p>Package system is in non consistent state, it has to be recovered manually. Installation cannot continue now.</p><p>Cleaning and canceling ...</p>"
-msgstr ""
+msgstr "<p>מערכת החבילות במצב לא עקבי ויש לתקן אותה ידנית. ההתקנה אינה יכולה להמשיך כעת.</p><p>מנקה ומבטל ...</p>"
 
 msgid "<p>Packages couldn't be downloaded, please check your Internet connection. Sorry, I cannot install now.</p><p>Cleaning and canceling ...</p>"
-msgstr ""
+msgstr "<p>לא ניתן היה להוריד את החבילות, נא לבדוק את החיבור לאינטרנט. מצטערים, לא ניתן להתקין כעת.</p><p>מנקה ומבטל ...</p>"
 
 msgid "<p>Simulation not successful, sorry, I cannot install now.</p><p>Cleaning and canceling ...</p>"
-msgstr ""
+msgstr "<p>הדמיית ההתקנה לא הצליחה, מצטערים, לא ניתן להתקין כעת.</p><p>מנקה ומבטל ...</p>"
 
 msgid "<p>Warning: Canceling installation during this phase could result in package system failure.</p><p>Are you really sure, you want to interrupt the install process now ?</p>"
-msgstr ""
+msgstr "<p>אזהרה: ביטול ההתקנה בשלב זה עלול לגרום לכשל במערכת החבילות.</p><p>האם באמת להפסיק את תהליך ההתקנה כעת ?</p>"
+
+msgid "<p>You may not run setup under root !</p><p> Canceling installation ...</p>"
+msgstr "<p>אין להפעיל את ההתקנה כמשתמש root !</p><p> ההתקנה מבוטלת ...</p>"
 
 msgid "Adding security keys ..."
-msgstr ""
+msgstr "מוסיף מפתחות אבטחה ..."
 
 msgid "Adding security keys ... OK"
-msgstr ""
+msgstr "מוסיף מפתחות אבטחה ... OK"
 
 msgid "Autofix not needed ... OK"
-msgstr ""
+msgstr "אין צורך בתיקון אוטומטי ... OK"
+
+msgid "Bad password !"
+msgstr "סיסמה שגויה !"
 
 msgid "Busy !"
-msgstr ""
+msgstr "עסוק !"
 
 msgid "CPU architecture doesn't match, exiting"
-msgstr ""
+msgstr "ארכיטקטורת המעבד אינה תואמת, יוצא"
 
 msgid "Calculating progress ..."
-msgstr ""
+msgstr "מחשב התקדמות ..."
 
 msgid "Cancel"
-msgstr ""
+msgstr "ביטול"
 
 msgid "Canceling installation ..."
-msgstr ""
+msgstr "ההתקנה מבוטלת ..."
 
 msgid "Cannot lock APT database, exiting ..."
-msgstr ""
+msgstr "לא ניתן לנעול את מסד הנתונים של APT, יוצא ..."
 
 msgid "Cannot lock Flatpak framework, exiting ..."
-msgstr ""
+msgstr "לא ניתן לנעול את Flatpak, יוצא ..."
+
+msgid "Checking architecture"
+msgstr "בודק ארכיטקטורה"
+
+msgid "Checking current user"
+msgstr "בודק את המשתמש הנוכחי"
 
 msgid "Checking distro"
-msgstr ""
+msgstr "בודק הפצה"
+
+msgid "Checking environment"
+msgstr "בודק סביבה"
+
+msgid "Checking for %1 software"
+msgstr "בודק את התוכנה %1"
 
 msgid "Checking installation ..."
-msgstr ""
+msgstr "בודק את ההתקנה ..."
 
 msgid "Checking installation ... Error !"
-msgstr ""
+msgstr "בודק את ההתקנה ... שגיאה !"
 
 msgid "Checking installation ... OK"
-msgstr ""
+msgstr "בודק את ההתקנה ... OK"
 
 msgid "Checking package system"
-msgstr ""
+msgstr "בודק את מערכת החבילות"
 
 msgid "Checking package system ..."
-msgstr ""
+msgstr "בודק את מערכת החבילות ..."
+
+msgid "Checking setup archive integrity"
+msgstr "בודק את שלמות ארכיון ההתקנה"
+
+msgid "Checking user rights"
+msgstr "בודק הרשאות משתמש"
 
 msgid "Cleaning and canceling now ..."
-msgstr ""
+msgstr "מנקה ומבטל כעת ..."
 
 msgid "Configuring Apt ..."
-msgstr ""
+msgstr "מגדיר את Apt ..."
 
 msgid "Configuring Apt ... Done"
-msgstr ""
+msgstr "מגדיר את Apt ... הושלם"
 
 msgid "Copying system packages ..."
-msgstr ""
+msgstr "מעתיק חבילות מערכת ..."
 
 msgid "Copying system packages ... Done"
-msgstr ""
+msgstr "מעתיק חבילות מערכת ... הושלם"
 
 msgid "Could not initialize, incorrect data header !"
-msgstr ""
+msgstr "לא ניתן לאתחל, כותרת הנתונים שגויה !"
 
 msgid "Could not initialize, incorrect data header."
-msgstr ""
+msgstr "לא ניתן לאתחל, כותרת הנתונים שגויה."
 
 msgid "Could not run Q4OS low-level apt utilities ! It is a serious problem, breaking the installation ..."
-msgstr ""
+msgstr "לא ניתן להפעיל את כלי ה-apt הבסיסיים של Q4OS ! זו בעיה חמורה, ההתקנה נעצרת ..."
+
+msgid "Detecting operating system version"
+msgstr "מזהה את גרסת מערכת ההפעלה"
 
 msgid "Determining Flatpak configuration ... "
-msgstr ""
+msgstr "בודק את תצורת Flatpak ... "
 
 msgid "Distro"
-msgstr ""
+msgstr "הפצה"
 
 msgid "Do you really want to cancel pending operation ?"
-msgstr ""
+msgstr "האם באמת לבטל את הפעולה המתבצעת ?"
 
 msgid "Done"
-msgstr ""
+msgstr "הושלם"
 
 msgid "Downloading packages ..."
-msgstr ""
+msgstr "מוריד חבילות ..."
 
 msgid "Downloading packages ... Done"
-msgstr ""
+msgstr "מוריד חבילות ... הושלם"
 
 msgid "Enter your password to continue:"
-msgstr ""
+msgstr "יש להזין את הסיסמה כדי להמשיך:"
 
 msgid "Extracting archive ..."
-msgstr ""
+msgstr "מחלץ ארכיון ..."
 
 msgid "Extracting archive ... Done"
-msgstr ""
+msgstr "מחלץ ארכיון ... הושלם"
 
 msgid "Failed"
-msgstr ""
+msgstr "נכשל"
+
+msgid "Failed !"
+msgstr "נכשל !"
 
 msgid "Failed. Configuration file doesn't exist."
-msgstr ""
+msgstr "נכשל. קובץ התצורה אינו קיים."
 
 msgid "Failed. Input file doesn't exist."
-msgstr ""
+msgstr "נכשל. קובץ הקלט אינו קיים."
 
 msgid "Finish >"
-msgstr ""
+msgstr "סיום >"
 
 msgid "Finishing installation ..."
-msgstr ""
+msgstr "מסיים את ההתקנה ..."
 
 msgid "Flatpak framework is busy, another application is being installed just now."
-msgstr ""
+msgstr "Flatpak עסוק, יישום אחר מותקן ברגע זה."
 
 msgid "Flatpak is installed, but the Flathub repository isn't included. Please add Flathub repository first. Canceling installation ..."
-msgstr ""
+msgstr "Flatpak מותקן, אך מאגר Flathub אינו כלול. נא להוסיף תחילה את מאגר Flathub. ההתקנה מבוטלת ..."
 
 msgid "Flatpak is not installed, so cancelling installation. Please install flatpak package first ..."
-msgstr ""
+msgstr "Flatpak אינו מותקן ולכן ההתקנה מבוטלת. נא להתקין תחילה את החבילה flatpak ..."
 
 msgid "Flatpak isn't installed ... Cancel !"
-msgstr ""
+msgstr "Flatpak אינו מותקן ... ביטול !"
 
 msgid "Flatpak isn't installed, exiting ..."
-msgstr ""
+msgstr "Flatpak אינו מותקן, יוצא ..."
 
 msgid "I Agree"
-msgstr ""
+msgstr "אני מסכים/ה"
 
 msgid "If you accept the terms of the agreement, click I Agree to continue. You must accept the agreement to install _SUBST_SWNAME_ software."
-msgstr ""
+msgstr "אם תנאי ההסכם מקובלים עליך, יש ללחוץ על אני מסכים/ה כדי להמשיך. יש לקבל את ההסכם כדי להתקין את התוכנה _SUBST_SWNAME_."
 
 msgid "Install >"
-msgstr ""
+msgstr "התקנה >"
 
 msgid "Installation failed !"
-msgstr ""
+msgstr "ההתקנה נכשלה !"
 
 msgid "Installation not successful."
-msgstr ""
+msgstr "ההתקנה לא הצליחה."
 
 msgid "Installation successfully completed :-)"
-msgstr ""
+msgstr "ההתקנה הושלמה בהצלחה :-)"
 
 msgid "Installing files ..."
-msgstr ""
+msgstr "מתקין קבצים ..."
 
 msgid "Installing files ... OK"
-msgstr ""
+msgstr "מתקין קבצים ... OK"
 
 msgid "Installing package ..."
-msgstr ""
+msgstr "מתקין חבילה ..."
 
 msgid "Insufficient permissions, user isn't member of \"sudo\" group, exiting ..."
-msgstr ""
+msgstr "הרשאות לא מספיקות, המשתמש אינו חבר בקבוצת \"sudo\", יוצא ..."
 
 msgid "License text ..."
-msgstr ""
+msgstr "נוסח הרישיון ..."
 
 msgid "Next >"
-msgstr ""
+msgstr "הבא >"
 
 msgid "No Flathub repository ... Cancel !"
-msgstr ""
+msgstr "אין מאגר Flathub ... ביטול !"
 
 msgid "No Flathub repository, exiting ..."
-msgstr ""
+msgstr "אין מאגר Flathub, יוצא ..."
 
 msgid "Not ready"
-msgstr ""
+msgstr "לא מוכן"
 
 msgid "Package"
-msgstr ""
+msgstr "החבילה"
 
 msgid "Package system ... Busy !"
-msgstr ""
+msgstr "מערכת החבילות ... עסוקה !"
 
 msgid "Package system is busy, another application is being installed just now."
-msgstr ""
+msgstr "מערכת החבילות עסוקה, יישום אחר מותקן ברגע זה."
 
 msgid "Package system not consistent ..."
-msgstr ""
+msgstr "מערכת החבילות אינה עקבית ..."
 
 msgid "Package system still not consistent, canceling installation ..."
-msgstr ""
+msgstr "מערכת החבילות עדיין אינה עקבית, ההתקנה מבוטלת ..."
 
 msgid "Partial update sw database ..."
-msgstr ""
+msgstr "עדכון חלקי של מסד נתוני התוכנה ..."
 
 msgid "Partial update sw database ... Done"
-msgstr ""
+msgstr "עדכון חלקי של מסד נתוני התוכנה ... הושלם"
 
 msgid "Passed OK"
-msgstr ""
+msgstr "עבר בהצלחה"
 
 msgid "Please make sure you are not installing another software and repeat setup few moments later."
-msgstr ""
+msgstr "נא לוודא שלא מותקנת כעת תוכנה אחרת ולחזור על ההתקנה בעוד מספר רגעים."
 
 msgid "Please make sure you are not installing another software and repeat the setup."
-msgstr ""
+msgstr "נא לוודא שלא מותקנת כעת תוכנה אחרת ולחזור על ההתקנה."
 
 msgid "Postinstall operations ..."
-msgstr ""
+msgstr "פעולות לאחר ההתקנה ..."
 
 msgid "Postinstall operations ... Done"
-msgstr ""
+msgstr "פעולות לאחר ההתקנה ... הושלם"
 
 msgid "Postinstall operations, additional commands ..."
-msgstr ""
+msgstr "פעולות לאחר ההתקנה, פקודות נוספות ..."
 
 msgid "Preparing installation files ..."
-msgstr ""
+msgstr "מכין קובצי התקנה ..."
 
 msgid "Preparing installation files ... OK"
-msgstr ""
+msgstr "מכין קובצי התקנה ... OK"
 
 msgid "Prerun script requested exit. Exit code:"
-msgstr ""
+msgstr "סקריפט ההכנה ביקש לצאת. קוד יציאה:"
 
 msgid "Press Page Down to see the rest of agreement."
-msgstr ""
+msgstr "יש ללחוץ על Page Down כדי לראות את המשך ההסכם."
 
 msgid "Q4OS Install System v1.0"
-msgstr ""
+msgstr "מערכת ההתקנה של Q4OS v1.0"
 
 msgid "Recovered ... OK"
-msgstr ""
+msgstr "שוחזר ... OK"
 
 msgid "Registering application ... OK"
-msgstr ""
+msgstr "רושם את היישום ... OK"
 
 msgid "Root permissions needed, exiting ..."
-msgstr ""
+msgstr "נדרשות הרשאות root, יוצא ..."
 
 msgid "Running custom scripts ..."
-msgstr ""
+msgstr "מריץ סקריפטים מותאמים ..."
 
 msgid "Running custom scripts ... Done"
-msgstr ""
+msgstr "מריץ סקריפטים מותאמים ... הושלם"
 
 msgid "Searching for language packages ..."
-msgstr ""
+msgstr "מחפש חבילות שפה ..."
 
 msgid "Searching for language packages ... Done"
-msgstr ""
+msgstr "מחפש חבילות שפה ... הושלם"
 
 msgid "Setup action:"
-msgstr ""
+msgstr "פעולת ההתקנה:"
 
 msgid "Setup action:  "
-msgstr ""
+msgstr "פעולת ההתקנה:  "
+
+msgid "Setup logfile \"%1\" cannot be saved !"
+msgstr "לא ניתן לשמור את קובץ יומן ההתקנה \"%1\" !"
 
 msgid "Setup messages were recorded into logfile:"
-msgstr ""
+msgstr "הודעות ההתקנה נרשמו לקובץ היומן:"
 
 msgid "Setup wizard"
-msgstr ""
+msgstr "אשף התקנה"
+
+msgid "Temporary setup directory not deleted."
+msgstr "תיקיית ההתקנה הזמנית לא נמחקה."
 
 msgid "Testing Internet connection ..."
-msgstr ""
+msgstr "בודק את החיבור לאינטרנט ..."
 
 msgid "Testing Internet connection ... Failed !"
-msgstr ""
+msgstr "בודק את החיבור לאינטרנט ... נכשל !"
 
 msgid "Testing Internet connection ... OK"
-msgstr ""
+msgstr "בודק את החיבור לאינטרנט ... OK"
 
 msgid "Testing installation ..."
-msgstr ""
+msgstr "בודק את ההתקנה בהדמיה ..."
 
 msgid "Testing installation ... Done"
-msgstr ""
+msgstr "בודק את ההתקנה בהדמיה ... הושלם"
 
 msgid "The application doesn't support this system CPU architecture:"
-msgstr ""
+msgstr "היישום אינו תומך בארכיטקטורת המעבד של מערכת זו:"
 
 msgid "The lock can also be caused by a system update in progress in the background. In this case, you need to wait a few minutes for the package system to complete these operations."
-msgstr ""
+msgstr "הנעילה עלולה להיגרם גם מעדכון מערכת המתבצע ברקע. במקרה כזה יש להמתין כמה דקות עד שמערכת החבילות תשלים את הפעולות."
 
 msgid "The post installation check failed, the software may not have been installed correctly."
-msgstr ""
+msgstr "הבדיקה שלאחר ההתקנה נכשלה, ייתכן שהתוכנה לא הותקנה כראוי."
 
 msgid "Trying to recover APT integrity ..."
-msgstr ""
+msgstr "מנסה לשחזר את שלמות APT ..."
 
 msgid "Unsupported distro"
-msgstr ""
+msgstr "הפצה שאינה נתמכת"
 
 msgid "Update Apt database ..."
-msgstr ""
+msgstr "מעדכן את מסד הנתונים של Apt ..."
 
 msgid "Update sw database ..."
-msgstr ""
+msgstr "מעדכן את מסד נתוני התוכנה ..."
 
 msgid "Update sw database ... Done"
-msgstr ""
+msgstr "מעדכן את מסד נתוני התוכנה ... הושלם"
 
 msgid "Update system cache ..."
-msgstr ""
+msgstr "מעדכן את מטמון המערכת ..."
 
 msgid "Update system cache ... Done"
-msgstr ""
+msgstr "מעדכן את מטמון המערכת ... הושלם"
 
 msgid "Upgrade Apt database ..."
-msgstr ""
+msgstr "משדרג חבילות Apt ..."
 
 msgid "Verified ... OK"
-msgstr ""
+msgstr "אומת ... OK"
 
 msgid "Waiting to complete current operation ... Done"
-msgstr ""
+msgstr "ממתין להשלמת הפעולה הנוכחית ... הושלם"
 
 msgid "Warning: cannot terminate proc_lock !"
-msgstr ""
+msgstr "אזהרה: לא ניתן לסיים את proc_lock !"
 
 msgid "Warning: proc_lock is already running, trying to rerun qprocess !"
-msgstr ""
+msgstr "אזהרה: proc_lock כבר פועל, מנסה להפעיל מחדש את qprocess !"
 
 msgid "You are trying to install flatpak based software."
-msgstr ""
+msgstr "בחרת להתקין תוכנה מבוססת flatpak."
 
 msgid "already installed, exiting ..."
-msgstr ""
+msgstr "כבר מותקנת, יוצא ..."
 
 msgid "clean"
-msgstr ""
+msgstr "נקי"
 
 msgid "evaluating..."
-msgstr ""
+msgstr "מעריך..."
 
 msgid "fine"
-msgstr ""
+msgstr "תקין"
+
+msgid "good"
+msgstr "תקין"
 
 msgid "installed ... Cancel !"
-msgstr ""
+msgstr "מותקן ... ביטול !"
+
+msgid "installed, newer version to upgrade"
+msgstr "מותקן, קיימת גרסה חדשה יותר לשדרוג"
 
 msgid "not installed"
-msgstr ""
+msgstr "לא מותקן"
 
 msgid "not supported, exiting ..."
-msgstr ""
+msgstr "אינה נתמכת, יוצא ..."
 
 msgid "ready"
-msgstr ""
+msgstr "מוכן"
 
 msgid "result:"
-msgstr ""
+msgstr "תוצאה:"
+
+msgid "seems good"
+msgstr "נראה תקין"
 
 msgid "software is already installed, so cancelling installation ..."
-msgstr ""
+msgstr "כבר מותקנת ולכן ההתקנה מבוטלת ..."
+
+msgid "sufficient"
+msgstr "מספיקות"
 
 msgid "type:"
-msgstr ""
+msgstr "סוג:"

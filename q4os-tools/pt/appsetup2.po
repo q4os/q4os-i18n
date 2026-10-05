@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Setup\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-23 10:25+0100\n"
+"POT-Creation-Date: 2026-10-03 14:28+0200\n"
 "PO-Revision-Date: 2026-04-20 16:40+0100\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <hugokarvalho@hotmail.com>\n"
@@ -55,11 +55,23 @@ msgstr ""
 "<p>Este assistente irá guiá-lo através da instalação da aplicação _SUBST_SWNAME_.</p>\n"
 "<p>Clique em Seguinte para continuar.</p>\n"
 
+msgid "<p>Detected operating system version: Q4OS <b>%1</b>.</p><p>This %2 installation requires Q4OS <b>%3</b> as maximum.</p><p> Canceling installation ...</p>"
+msgstr "<p>Versão do sistema operativo detetada: Q4OS <b>%1</b>.</p><p>Esta instalação de %2 requer no máximo o Q4OS <b>%3</b>.</p><p> A cancelar a instalação ...</p>"
+
+msgid "<p>Detected operating system version: Q4OS <b>%1</b>.</p><p>This %2 installation requires Q4OS <b>%3</b> as minimum.</p><p> Canceling installation ...</p>"
+msgstr "<p>Versão do sistema operativo detetada: Q4OS <b>%1</b>.</p><p>Esta instalação de %2 requer no mínimo o Q4OS <b>%3</b>.</p><p> A cancelar a instalação ...</p>"
+
+msgid "<p>Failed to detect Q4OS system version.</p><p>Canceling installation ...</p>"
+msgstr "<p>Não foi possível detetar a versão do sistema Q4OS.</p><p>A cancelar a instalação ...</p>"
+
 msgid "<p>Initial data incomplete !</p><p> Canceling installation ...</p>"
 msgstr "<p>Dados iniciais incompletos !</p><p> A cancelar a instalação ...</p>"
 
 msgid "<p>Internet connection is inactive or very slow. Installer needs to download application packages from Q4OS Internet sources. Setup cannot continue ...</p>"
 msgstr "<p>A ligação com a Internet está inativa ou muito lenta. O instalador precisa de transferir os pacotes da aplicação das fontes da Internet do Q4OS. A instalação não pode continuar ...</p>"
+
+msgid "<p>No system access permissions, you are not in \"sudo\" group !</p><p> Canceling installation ...</p>"
+msgstr "<p>Sem permissões de acesso ao sistema, não pertence ao grupo \"sudo\" !</p><p> A cancelar a instalação ...</p>"
 
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p><p>Cleaning and canceling now ...</p>"
 msgstr "<p>O sistema de pacotes está ocupado, não está pronto para instalar agora. O programa de instalação não pode continuar.</p><p>O bloqueio é causado, muito provavelmente, por atualizações contínuas do sistema em segundo plano. Se esse for o caso, deve aguardar um momento para que o sistema de pacotes conclua essas operações. Certifique-se de que não está a instalar outra aplicação e repita a configuração alguns minutos depois.</p><p>A limpar e cancelar agora ...</p>"
@@ -76,6 +88,9 @@ msgstr "<p>A simulação não foi bem sucedida, não foi possível instalar agor
 msgid "<p>Warning: Canceling installation during this phase could result in package system failure.</p><p>Are you really sure, you want to interrupt the install process now ?</p>"
 msgstr "<p>Aviso: Cancelar a instalação durante esta fase pode resultar em falha do sistema de pacotes.</p><p>Tem certeza de que deseja interromper o processo de instalação agora ?</p>"
 
+msgid "<p>You may not run setup under root !</p><p> Canceling installation ...</p>"
+msgstr "<p>Não pode executar a instalação como root !</p><p> A cancelar a instalação ...</p>"
+
 msgid "Adding security keys ..."
 msgstr "A adicionar chaves de segurança ..."
 
@@ -84,6 +99,9 @@ msgstr "A adicionar chaves de segurança ... OK"
 
 msgid "Autofix not needed ... OK"
 msgstr "A correção automática não é necessária ... OK"
+
+msgid "Bad password !"
+msgstr "Palavra-passe incorreta !"
 
 msgid "Busy !"
 msgstr "Ocupado !"
@@ -106,8 +124,20 @@ msgstr "Não é possível bloquear a base de dados APT, a sair ..."
 msgid "Cannot lock Flatpak framework, exiting ..."
 msgstr "Não é possível bloquear a estrutura Flatpak, a sair ..."
 
+msgid "Checking architecture"
+msgstr "A verificar a arquitetura"
+
+msgid "Checking current user"
+msgstr "A verificar o utilizador atual"
+
 msgid "Checking distro"
 msgstr "A verificar a distro"
+
+msgid "Checking environment"
+msgstr "A verificar o ambiente"
+
+msgid "Checking for %1 software"
+msgstr "A procurar o software %1"
 
 msgid "Checking installation ..."
 msgstr "A verificar a instalação ..."
@@ -123,6 +153,12 @@ msgstr "A verificar o sistema de pacotes"
 
 msgid "Checking package system ..."
 msgstr "A verificar o sistema de pacotes ..."
+
+msgid "Checking setup archive integrity"
+msgstr "A verificar a integridade do arquivo de instalação"
+
+msgid "Checking user rights"
+msgstr "A verificar as permissões do utilizador"
 
 msgid "Cleaning and canceling now ..."
 msgstr "A limpar e cancelar agora ..."
@@ -147,6 +183,9 @@ msgstr "Não foi possível inicializar, cabeçalho de dados incorreto."
 
 msgid "Could not run Q4OS low-level apt utilities ! It is a serious problem, breaking the installation ..."
 msgstr "Não foi possível executar os utilitários apt de baixo nível do Q4OS ! É um problema sério, que interrompe a instalação ..."
+
+msgid "Detecting operating system version"
+msgstr "A detetar a versão do sistema operativo"
 
 msgid "Determining Flatpak configuration ... "
 msgstr "A determinar a configuração do Flatpak ... "
@@ -177,6 +216,9 @@ msgstr "A extrair arquivo ... Concluído"
 
 msgid "Failed"
 msgstr "Sem sucesso"
+
+msgid "Failed !"
+msgstr "Falhou !"
 
 msgid "Failed. Configuration file doesn't exist."
 msgstr "Ocorreu um erro. O ficheiro de configuração não existe."
@@ -331,11 +373,17 @@ msgstr "Ação de configuração:"
 msgid "Setup action:  "
 msgstr "Ação de configuração:  "
 
+msgid "Setup logfile \"%1\" cannot be saved !"
+msgstr "Não é possível guardar o ficheiro de registo \"%1\" !"
+
 msgid "Setup messages were recorded into logfile:"
 msgstr "As mensagens de configuração foram registadas num ficheiro de registo:"
 
 msgid "Setup wizard"
 msgstr "Assistente de configuração"
+
+msgid "Temporary setup directory not deleted."
+msgstr "A pasta temporária de instalação não foi eliminada."
 
 msgid "Testing Internet connection ..."
 msgstr "A testar a ligação com a Internet ..."
@@ -412,8 +460,14 @@ msgstr "a avaliar..."
 msgid "fine"
 msgstr "ótimo"
 
+msgid "good"
+msgstr "bom"
+
 msgid "installed ... Cancel !"
 msgstr "instalado ... Cancelar !"
+
+msgid "installed, newer version to upgrade"
+msgstr "instalado, versão mais recente para atualizar"
 
 msgid "not installed"
 msgstr "não instalado"
@@ -427,8 +481,14 @@ msgstr "pronto"
 msgid "result:"
 msgstr "resultado:"
 
+msgid "seems good"
+msgstr "parece bom"
+
 msgid "software is already installed, so cancelling installation ..."
 msgstr "o software já está instalado, a cancelar a instalação ..."
+
+msgid "sufficient"
+msgstr "suficientes"
 
 msgid "type:"
 msgstr "tipo:"

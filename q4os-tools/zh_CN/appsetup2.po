@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Setup\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-23 10:25+0100\n"
+"POT-Creation-Date: 2026-10-03 14:28+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,407 +18,467 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "< Back"
-msgstr ""
+msgstr "< 上一步"
 
 msgid "<b>Fast system checks</b><br>&nbsp;&nbsp;&nbsp;System is prechecking installation environment"
-msgstr ""
+msgstr "<b>快速系统检查</b><br>&nbsp;&nbsp;&nbsp;系统正在预先检查安装环境"
 
 msgid "<b>Get permissions</b><br>&nbsp;&nbsp;&nbsp;System asks for installation permissions"
-msgstr ""
+msgstr "<b>获取权限</b><br>&nbsp;&nbsp;&nbsp;系统请求安装权限"
 
 msgid "<b>Installing</b><br>&nbsp;&nbsp;&nbsp;Please wait while software is being installed"
-msgstr ""
+msgstr "<b>正在安装</b><br>&nbsp;&nbsp;&nbsp;正在安装软件，请稍候"
 
 msgid "<b>License Agreement</b><br>&nbsp;&nbsp;&nbsp;Please review the license terms before install"
-msgstr ""
+msgstr "<b>许可协议</b><br>&nbsp;&nbsp;&nbsp;请在安装前阅读许可条款"
 
 msgid ""
 "<p><h2>Completing _SUBST_SWNAME_ setup wizard</h2><br></p>\n"
 "<p>Software _SUBST_SWNAME_ has been installed on your computer.<br></p>\n"
 "<p>Click Finish to close the wizard.<br><br><br><br><br></p>\n"
 "<p>Visit _SUBST_SWNAME_ website for the latest news, FAQs and support</p>"
-msgstr ""
+msgstr "<p><h2>正在完成 _SUBST_SWNAME_ 安装向导</h2><br></p>\n<p>软件 _SUBST_SWNAME_ 已安装到您的计算机。<br></p>\n<p>点击“完成”关闭向导。<br><br><br><br><br></p>\n<p>访问 _SUBST_SWNAME_ 网站可获取最新消息、常见问题解答和支持</p>"
 
 msgid ""
 "<p><h2>Welcome to the _SUBST_SWNAME_ setup wizard</h2></p>\n"
 "<p>This wizard will guide you through the installation of the _SUBST_SWNAME_ application.</p>\n"
 "<p>Click Next to continue.</p>\n"
-msgstr ""
+msgstr "<p><h2>欢迎使用 _SUBST_SWNAME_ 安装向导</h2></p>\n<p>本向导将引导您安装 _SUBST_SWNAME_ 应用程序。</p>\n<p>点击“下一步”继续。</p>\n"
+
+msgid "<p>Detected operating system version: Q4OS <b>%1</b>.</p><p>This %2 installation requires Q4OS <b>%3</b> as maximum.</p><p> Canceling installation ...</p>"
+msgstr "<p>检测到的操作系统版本：Q4OS <b>%1</b>。</p><p>安装 %2 要求 Q4OS 版本不高于 <b>%3</b>。</p><p> 正在取消安装 ...</p>"
+
+msgid "<p>Detected operating system version: Q4OS <b>%1</b>.</p><p>This %2 installation requires Q4OS <b>%3</b> as minimum.</p><p> Canceling installation ...</p>"
+msgstr "<p>检测到的操作系统版本：Q4OS <b>%1</b>。</p><p>安装 %2 要求 Q4OS 版本不低于 <b>%3</b>。</p><p> 正在取消安装 ...</p>"
+
+msgid "<p>Failed to detect Q4OS system version.</p><p>Canceling installation ...</p>"
+msgstr "<p>无法检测 Q4OS 系统版本。</p><p>正在取消安装 ...</p>"
 
 msgid "<p>Initial data incomplete !</p><p> Canceling installation ...</p>"
-msgstr ""
+msgstr "<p>初始数据不完整 !</p><p> 正在取消安装 ...</p>"
 
 msgid "<p>Internet connection is inactive or very slow. Installer needs to download application packages from Q4OS Internet sources. Setup cannot continue ...</p>"
-msgstr ""
+msgstr "<p>互联网连接不可用或非常缓慢。安装程序需要从 Q4OS 的互联网软件源下载应用程序软件包。安装无法继续 ...</p>"
+
+msgid "<p>No system access permissions, you are not in \"sudo\" group !</p><p> Canceling installation ...</p>"
+msgstr "<p>没有系统访问权限，您不在 \"sudo\" 组中 !</p><p> 正在取消安装 ...</p>"
 
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p><p>Cleaning and canceling now ...</p>"
-msgstr ""
+msgstr "<p>软件包系统正忙，现在无法安装。安装无法继续。</p><p>该锁定很可能是由后台正在进行的系统更新引起的。如果是这样，您需要稍等片刻，让软件包系统完成这些操作。请确认您没有在安装其他应用程序，并在几分钟后重新运行安装。</p><p>正在清理并取消 ...</p>"
 
 msgid "<p>Package system is in non consistent state, it has to be recovered manually. Installation cannot continue now.</p><p>Cleaning and canceling ...</p>"
-msgstr ""
+msgstr "<p>软件包系统处于不一致状态，必须手动修复。现在无法继续安装。</p><p>正在清理并取消 ...</p>"
 
 msgid "<p>Packages couldn't be downloaded, please check your Internet connection. Sorry, I cannot install now.</p><p>Cleaning and canceling ...</p>"
-msgstr ""
+msgstr "<p>无法下载软件包，请检查您的互联网连接。抱歉，现在无法安装。</p><p>正在清理并取消 ...</p>"
 
 msgid "<p>Simulation not successful, sorry, I cannot install now.</p><p>Cleaning and canceling ...</p>"
-msgstr ""
+msgstr "<p>模拟安装未成功，抱歉，现在无法安装。</p><p>正在清理并取消 ...</p>"
 
 msgid "<p>Warning: Canceling installation during this phase could result in package system failure.</p><p>Are you really sure, you want to interrupt the install process now ?</p>"
-msgstr ""
+msgstr "<p>警告：在此阶段取消安装可能导致软件包系统故障。</p><p>您确定要现在中断安装过程吗 ?</p>"
+
+msgid "<p>You may not run setup under root !</p><p> Canceling installation ...</p>"
+msgstr "<p>不能以 root 身份运行安装程序 !</p><p> 正在取消安装 ...</p>"
 
 msgid "Adding security keys ..."
-msgstr ""
+msgstr "正在添加安全密钥 ..."
 
 msgid "Adding security keys ... OK"
-msgstr ""
+msgstr "正在添加安全密钥 ... OK"
 
 msgid "Autofix not needed ... OK"
-msgstr ""
+msgstr "无需自动修复 ... OK"
+
+msgid "Bad password !"
+msgstr "密码错误 !"
 
 msgid "Busy !"
-msgstr ""
+msgstr "忙 !"
 
 msgid "CPU architecture doesn't match, exiting"
-msgstr ""
+msgstr "CPU 架构不匹配，正在退出"
 
 msgid "Calculating progress ..."
-msgstr ""
+msgstr "正在计算进度 ..."
 
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 msgid "Canceling installation ..."
-msgstr ""
+msgstr "正在取消安装 ..."
 
 msgid "Cannot lock APT database, exiting ..."
-msgstr ""
+msgstr "无法锁定 APT 数据库，正在退出 ..."
 
 msgid "Cannot lock Flatpak framework, exiting ..."
-msgstr ""
+msgstr "无法锁定 Flatpak，正在退出 ..."
+
+msgid "Checking architecture"
+msgstr "正在检查架构"
+
+msgid "Checking current user"
+msgstr "正在检查当前用户"
 
 msgid "Checking distro"
-msgstr ""
+msgstr "正在检查发行版"
+
+msgid "Checking environment"
+msgstr "正在检查环境"
+
+msgid "Checking for %1 software"
+msgstr "正在检查 %1 软件"
 
 msgid "Checking installation ..."
-msgstr ""
+msgstr "正在检查安装 ..."
 
 msgid "Checking installation ... Error !"
-msgstr ""
+msgstr "正在检查安装 ... 错误 !"
 
 msgid "Checking installation ... OK"
-msgstr ""
+msgstr "正在检查安装 ... OK"
 
 msgid "Checking package system"
-msgstr ""
+msgstr "正在检查软件包系统"
 
 msgid "Checking package system ..."
-msgstr ""
+msgstr "正在检查软件包系统 ..."
+
+msgid "Checking setup archive integrity"
+msgstr "正在检查安装包的完整性"
+
+msgid "Checking user rights"
+msgstr "正在检查用户权限"
 
 msgid "Cleaning and canceling now ..."
-msgstr ""
+msgstr "正在清理并取消 ..."
 
 msgid "Configuring Apt ..."
-msgstr ""
+msgstr "正在配置 Apt ..."
 
 msgid "Configuring Apt ... Done"
-msgstr ""
+msgstr "正在配置 Apt ... 完成"
 
 msgid "Copying system packages ..."
-msgstr ""
+msgstr "正在复制系统软件包 ..."
 
 msgid "Copying system packages ... Done"
-msgstr ""
+msgstr "正在复制系统软件包 ... 完成"
 
 msgid "Could not initialize, incorrect data header !"
-msgstr ""
+msgstr "无法初始化，数据头不正确 !"
 
 msgid "Could not initialize, incorrect data header."
-msgstr ""
+msgstr "无法初始化，数据头不正确。"
 
 msgid "Could not run Q4OS low-level apt utilities ! It is a serious problem, breaking the installation ..."
-msgstr ""
+msgstr "无法运行 Q4OS 底层 apt 工具 ! 这是严重问题，安装中断 ..."
+
+msgid "Detecting operating system version"
+msgstr "正在检测操作系统版本"
 
 msgid "Determining Flatpak configuration ... "
-msgstr ""
+msgstr "正在确定 Flatpak 配置 ... "
 
 msgid "Distro"
-msgstr ""
+msgstr "发行版"
 
 msgid "Do you really want to cancel pending operation ?"
-msgstr ""
+msgstr "您确定要取消正在进行的操作吗 ?"
 
 msgid "Done"
-msgstr ""
+msgstr "完成"
 
 msgid "Downloading packages ..."
-msgstr ""
+msgstr "正在下载软件包 ..."
 
 msgid "Downloading packages ... Done"
-msgstr ""
+msgstr "正在下载软件包 ... 完成"
 
 msgid "Enter your password to continue:"
-msgstr ""
+msgstr "请输入密码以继续："
 
 msgid "Extracting archive ..."
-msgstr ""
+msgstr "正在解压归档 ..."
 
 msgid "Extracting archive ... Done"
-msgstr ""
+msgstr "正在解压归档 ... 完成"
 
 msgid "Failed"
-msgstr ""
+msgstr "失败"
+
+msgid "Failed !"
+msgstr "失败 !"
 
 msgid "Failed. Configuration file doesn't exist."
-msgstr ""
+msgstr "失败。配置文件不存在。"
 
 msgid "Failed. Input file doesn't exist."
-msgstr ""
+msgstr "失败。输入文件不存在。"
 
 msgid "Finish >"
-msgstr ""
+msgstr "完成 >"
 
 msgid "Finishing installation ..."
-msgstr ""
+msgstr "正在完成安装 ..."
 
 msgid "Flatpak framework is busy, another application is being installed just now."
-msgstr ""
+msgstr "Flatpak 正忙，此刻正在安装另一个应用程序。"
 
 msgid "Flatpak is installed, but the Flathub repository isn't included. Please add Flathub repository first. Canceling installation ..."
-msgstr ""
+msgstr "Flatpak 已安装，但未添加 Flathub 软件源。请先添加 Flathub 软件源。正在取消安装 ..."
 
 msgid "Flatpak is not installed, so cancelling installation. Please install flatpak package first ..."
-msgstr ""
+msgstr "未安装 Flatpak，因此取消安装。请先安装 flatpak 软件包 ..."
 
 msgid "Flatpak isn't installed ... Cancel !"
-msgstr ""
+msgstr "未安装 Flatpak ... 取消 !"
 
 msgid "Flatpak isn't installed, exiting ..."
-msgstr ""
+msgstr "未安装 Flatpak，正在退出 ..."
 
 msgid "I Agree"
-msgstr ""
+msgstr "我同意"
 
 msgid "If you accept the terms of the agreement, click I Agree to continue. You must accept the agreement to install _SUBST_SWNAME_ software."
-msgstr ""
+msgstr "如果您接受协议条款，请点击“我同意”继续。您必须接受协议才能安装 _SUBST_SWNAME_ 软件。"
 
 msgid "Install >"
-msgstr ""
+msgstr "安装 >"
 
 msgid "Installation failed !"
-msgstr ""
+msgstr "安装失败 !"
 
 msgid "Installation not successful."
-msgstr ""
+msgstr "安装未成功。"
 
 msgid "Installation successfully completed :-)"
-msgstr ""
+msgstr "安装已成功完成 :-)"
 
 msgid "Installing files ..."
-msgstr ""
+msgstr "正在安装文件 ..."
 
 msgid "Installing files ... OK"
-msgstr ""
+msgstr "正在安装文件 ... OK"
 
 msgid "Installing package ..."
-msgstr ""
+msgstr "正在安装软件包 ..."
 
 msgid "Insufficient permissions, user isn't member of \"sudo\" group, exiting ..."
-msgstr ""
+msgstr "权限不足，用户不是 \"sudo\" 组的成员，正在退出 ..."
 
 msgid "License text ..."
-msgstr ""
+msgstr "许可文本 ..."
 
 msgid "Next >"
-msgstr ""
+msgstr "下一步 >"
 
 msgid "No Flathub repository ... Cancel !"
-msgstr ""
+msgstr "没有 Flathub 软件源 ... 取消 !"
 
 msgid "No Flathub repository, exiting ..."
-msgstr ""
+msgstr "没有 Flathub 软件源，正在退出 ..."
 
 msgid "Not ready"
-msgstr ""
+msgstr "未就绪"
 
 msgid "Package"
-msgstr ""
+msgstr "软件包"
 
 msgid "Package system ... Busy !"
-msgstr ""
+msgstr "软件包系统 ... 忙 !"
 
 msgid "Package system is busy, another application is being installed just now."
-msgstr ""
+msgstr "软件包系统正忙，此刻正在安装另一个应用程序。"
 
 msgid "Package system not consistent ..."
-msgstr ""
+msgstr "软件包系统不一致 ..."
 
 msgid "Package system still not consistent, canceling installation ..."
-msgstr ""
+msgstr "软件包系统仍不一致，正在取消安装 ..."
 
 msgid "Partial update sw database ..."
-msgstr ""
+msgstr "正在部分更新软件数据库 ..."
 
 msgid "Partial update sw database ... Done"
-msgstr ""
+msgstr "正在部分更新软件数据库 ... 完成"
 
 msgid "Passed OK"
-msgstr ""
+msgstr "通过"
 
 msgid "Please make sure you are not installing another software and repeat setup few moments later."
-msgstr ""
+msgstr "请确认您没有在安装其他软件，并稍后重新运行安装。"
 
 msgid "Please make sure you are not installing another software and repeat the setup."
-msgstr ""
+msgstr "请确认您没有在安装其他软件，并重新运行安装。"
 
 msgid "Postinstall operations ..."
-msgstr ""
+msgstr "安装后操作 ..."
 
 msgid "Postinstall operations ... Done"
-msgstr ""
+msgstr "安装后操作 ... 完成"
 
 msgid "Postinstall operations, additional commands ..."
-msgstr ""
+msgstr "安装后操作，附加命令 ..."
 
 msgid "Preparing installation files ..."
-msgstr ""
+msgstr "正在准备安装文件 ..."
 
 msgid "Preparing installation files ... OK"
-msgstr ""
+msgstr "正在准备安装文件 ... OK"
 
 msgid "Prerun script requested exit. Exit code:"
-msgstr ""
+msgstr "预运行脚本请求退出。退出码："
 
 msgid "Press Page Down to see the rest of agreement."
-msgstr ""
+msgstr "按 Page Down 键查看协议的其余部分。"
 
 msgid "Q4OS Install System v1.0"
-msgstr ""
+msgstr "Q4OS 安装系统 v1.0"
 
 msgid "Recovered ... OK"
-msgstr ""
+msgstr "已修复 ... OK"
 
 msgid "Registering application ... OK"
-msgstr ""
+msgstr "正在注册应用程序 ... OK"
 
 msgid "Root permissions needed, exiting ..."
-msgstr ""
+msgstr "需要 root 权限，正在退出 ..."
 
 msgid "Running custom scripts ..."
-msgstr ""
+msgstr "正在运行自定义脚本 ..."
 
 msgid "Running custom scripts ... Done"
-msgstr ""
+msgstr "正在运行自定义脚本 ... 完成"
 
 msgid "Searching for language packages ..."
-msgstr ""
+msgstr "正在搜索语言包 ..."
 
 msgid "Searching for language packages ... Done"
-msgstr ""
+msgstr "正在搜索语言包 ... 完成"
 
 msgid "Setup action:"
-msgstr ""
+msgstr "安装步骤："
 
 msgid "Setup action:  "
-msgstr ""
+msgstr "安装步骤：  "
+
+msgid "Setup logfile \"%1\" cannot be saved !"
+msgstr "无法保存安装日志文件 \"%1\" !"
 
 msgid "Setup messages were recorded into logfile:"
-msgstr ""
+msgstr "安装信息已记录到日志文件："
 
 msgid "Setup wizard"
-msgstr ""
+msgstr "安装向导"
+
+msgid "Temporary setup directory not deleted."
+msgstr "临时安装目录未删除。"
 
 msgid "Testing Internet connection ..."
-msgstr ""
+msgstr "正在测试互联网连接 ..."
 
 msgid "Testing Internet connection ... Failed !"
-msgstr ""
+msgstr "正在测试互联网连接 ... 失败 !"
 
 msgid "Testing Internet connection ... OK"
-msgstr ""
+msgstr "正在测试互联网连接 ... OK"
 
 msgid "Testing installation ..."
-msgstr ""
+msgstr "正在测试安装 ..."
 
 msgid "Testing installation ... Done"
-msgstr ""
+msgstr "正在测试安装 ... 完成"
 
 msgid "The application doesn't support this system CPU architecture:"
-msgstr ""
+msgstr "该应用程序不支持本系统的 CPU 架构："
 
 msgid "The lock can also be caused by a system update in progress in the background. In this case, you need to wait a few minutes for the package system to complete these operations."
-msgstr ""
+msgstr "该锁定也可能是由后台正在进行的系统更新引起的。在这种情况下，您需要等待几分钟，让软件包系统完成这些操作。"
 
 msgid "The post installation check failed, the software may not have been installed correctly."
-msgstr ""
+msgstr "安装后检查失败，软件可能未正确安装。"
 
 msgid "Trying to recover APT integrity ..."
-msgstr ""
+msgstr "正在尝试恢复 APT 完整性 ..."
 
 msgid "Unsupported distro"
-msgstr ""
+msgstr "不支持的发行版"
 
 msgid "Update Apt database ..."
-msgstr ""
+msgstr "正在更新 Apt 数据库 ..."
 
 msgid "Update sw database ..."
-msgstr ""
+msgstr "正在更新软件数据库 ..."
 
 msgid "Update sw database ... Done"
-msgstr ""
+msgstr "正在更新软件数据库 ... 完成"
 
 msgid "Update system cache ..."
-msgstr ""
+msgstr "正在更新系统缓存 ..."
 
 msgid "Update system cache ... Done"
-msgstr ""
+msgstr "正在更新系统缓存 ... 完成"
 
 msgid "Upgrade Apt database ..."
-msgstr ""
+msgstr "正在升级 Apt 软件包 ..."
 
 msgid "Verified ... OK"
-msgstr ""
+msgstr "已验证 ... OK"
 
 msgid "Waiting to complete current operation ... Done"
-msgstr ""
+msgstr "正在等待当前操作完成 ... 完成"
 
 msgid "Warning: cannot terminate proc_lock !"
-msgstr ""
+msgstr "警告：无法终止 proc_lock !"
 
 msgid "Warning: proc_lock is already running, trying to rerun qprocess !"
-msgstr ""
+msgstr "警告：proc_lock 已在运行，正在尝试重新运行 qprocess !"
 
 msgid "You are trying to install flatpak based software."
-msgstr ""
+msgstr "您正在尝试安装基于 flatpak 的软件。"
 
 msgid "already installed, exiting ..."
-msgstr ""
+msgstr "已安装，正在退出 ..."
 
 msgid "clean"
-msgstr ""
+msgstr "未安装"
 
 msgid "evaluating..."
-msgstr ""
+msgstr "正在评估..."
 
 msgid "fine"
-msgstr ""
+msgstr "正常"
+
+msgid "good"
+msgstr "良好"
 
 msgid "installed ... Cancel !"
-msgstr ""
+msgstr "已安装 ... 取消 !"
+
+msgid "installed, newer version to upgrade"
+msgstr "已安装，有更新的版本可升级"
 
 msgid "not installed"
-msgstr ""
+msgstr "未安装"
 
 msgid "not supported, exiting ..."
-msgstr ""
+msgstr "不受支持，正在退出 ..."
 
 msgid "ready"
-msgstr ""
+msgstr "就绪"
 
 msgid "result:"
-msgstr ""
+msgstr "结果："
+
+msgid "seems good"
+msgstr "看起来正常"
 
 msgid "software is already installed, so cancelling installation ..."
-msgstr ""
+msgstr "软件已安装，因此取消安装 ..."
+
+msgid "sufficient"
+msgstr "足够"
 
 msgid "type:"
-msgstr ""
+msgstr "类型："

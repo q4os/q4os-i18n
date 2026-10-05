@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Setup\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-23 10:25+0100\n"
+"POT-Creation-Date: 2026-10-03 14:28+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,407 +18,467 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "< Back"
-msgstr ""
+msgstr "< Kembali"
 
 msgid "<b>Fast system checks</b><br>&nbsp;&nbsp;&nbsp;System is prechecking installation environment"
-msgstr ""
+msgstr "<b>Pemeriksaan cepat sistem</b><br>&nbsp;&nbsp;&nbsp;Sistem sedang memeriksa lingkungan pemasangan"
 
 msgid "<b>Get permissions</b><br>&nbsp;&nbsp;&nbsp;System asks for installation permissions"
-msgstr ""
+msgstr "<b>Mendapatkan izin</b><br>&nbsp;&nbsp;&nbsp;Sistem meminta izin pemasangan"
 
 msgid "<b>Installing</b><br>&nbsp;&nbsp;&nbsp;Please wait while software is being installed"
-msgstr ""
+msgstr "<b>Memasang</b><br>&nbsp;&nbsp;&nbsp;Harap tunggu selagi perangkat lunak dipasang"
 
 msgid "<b>License Agreement</b><br>&nbsp;&nbsp;&nbsp;Please review the license terms before install"
-msgstr ""
+msgstr "<b>Perjanjian Lisensi</b><br>&nbsp;&nbsp;&nbsp;Harap baca ketentuan lisensi sebelum memasang"
 
 msgid ""
 "<p><h2>Completing _SUBST_SWNAME_ setup wizard</h2><br></p>\n"
 "<p>Software _SUBST_SWNAME_ has been installed on your computer.<br></p>\n"
 "<p>Click Finish to close the wizard.<br><br><br><br><br></p>\n"
 "<p>Visit _SUBST_SWNAME_ website for the latest news, FAQs and support</p>"
-msgstr ""
+msgstr "<p><h2>Menyelesaikan wisaya pemasangan _SUBST_SWNAME_</h2><br></p>\n<p>Perangkat lunak _SUBST_SWNAME_ telah dipasang di komputer Anda.<br></p>\n<p>Klik Selesai untuk menutup wisaya.<br><br><br><br><br></p>\n<p>Kunjungi situs web _SUBST_SWNAME_ untuk berita terbaru, tanya jawab, dan dukungan</p>"
 
 msgid ""
 "<p><h2>Welcome to the _SUBST_SWNAME_ setup wizard</h2></p>\n"
 "<p>This wizard will guide you through the installation of the _SUBST_SWNAME_ application.</p>\n"
 "<p>Click Next to continue.</p>\n"
-msgstr ""
+msgstr "<p><h2>Selamat datang di wisaya pemasangan _SUBST_SWNAME_</h2></p>\n<p>Wisaya ini akan memandu Anda memasang aplikasi _SUBST_SWNAME_.</p>\n<p>Klik Lanjut untuk meneruskan.</p>\n"
+
+msgid "<p>Detected operating system version: Q4OS <b>%1</b>.</p><p>This %2 installation requires Q4OS <b>%3</b> as maximum.</p><p> Canceling installation ...</p>"
+msgstr "<p>Versi sistem operasi yang terdeteksi: Q4OS <b>%1</b>.</p><p>Pemasangan %2 ini memerlukan Q4OS paling tinggi <b>%3</b>.</p><p> Membatalkan pemasangan ...</p>"
+
+msgid "<p>Detected operating system version: Q4OS <b>%1</b>.</p><p>This %2 installation requires Q4OS <b>%3</b> as minimum.</p><p> Canceling installation ...</p>"
+msgstr "<p>Versi sistem operasi yang terdeteksi: Q4OS <b>%1</b>.</p><p>Pemasangan %2 ini memerlukan Q4OS paling rendah <b>%3</b>.</p><p> Membatalkan pemasangan ...</p>"
+
+msgid "<p>Failed to detect Q4OS system version.</p><p>Canceling installation ...</p>"
+msgstr "<p>Gagal mendeteksi versi sistem Q4OS.</p><p>Membatalkan pemasangan ...</p>"
 
 msgid "<p>Initial data incomplete !</p><p> Canceling installation ...</p>"
-msgstr ""
+msgstr "<p>Data awal tidak lengkap !</p><p> Membatalkan pemasangan ...</p>"
 
 msgid "<p>Internet connection is inactive or very slow. Installer needs to download application packages from Q4OS Internet sources. Setup cannot continue ...</p>"
-msgstr ""
+msgstr "<p>Koneksi Internet tidak aktif atau sangat lambat. Pemasang perlu mengunduh paket aplikasi dari sumber Internet Q4OS. Pemasangan tidak dapat dilanjutkan ...</p>"
+
+msgid "<p>No system access permissions, you are not in \"sudo\" group !</p><p> Canceling installation ...</p>"
+msgstr "<p>Tidak ada izin akses sistem, Anda bukan anggota grup \"sudo\" !</p><p> Membatalkan pemasangan ...</p>"
 
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p><p>Cleaning and canceling now ...</p>"
-msgstr ""
+msgstr "<p>Sistem paket sedang sibuk, belum siap memasang sekarang. Pemasangan tidak dapat dilanjutkan.</p><p>Kunci ini kemungkinan besar disebabkan oleh pembaruan sistem yang berjalan di latar belakang. Jika demikian, Anda perlu menunggu sebentar sampai sistem paket menyelesaikan operasi tersebut. Pastikan Anda tidak sedang memasang aplikasi lain dan ulangi pemasangan beberapa menit lagi.</p><p>Membersihkan dan membatalkan ...</p>"
 
 msgid "<p>Package system is in non consistent state, it has to be recovered manually. Installation cannot continue now.</p><p>Cleaning and canceling ...</p>"
-msgstr ""
+msgstr "<p>Sistem paket dalam keadaan tidak konsisten dan harus dipulihkan secara manual. Pemasangan tidak dapat dilanjutkan sekarang.</p><p>Membersihkan dan membatalkan ...</p>"
 
 msgid "<p>Packages couldn't be downloaded, please check your Internet connection. Sorry, I cannot install now.</p><p>Cleaning and canceling ...</p>"
-msgstr ""
+msgstr "<p>Paket tidak dapat diunduh, periksa koneksi Internet Anda. Maaf, pemasangan tidak dapat dilakukan sekarang.</p><p>Membersihkan dan membatalkan ...</p>"
 
 msgid "<p>Simulation not successful, sorry, I cannot install now.</p><p>Cleaning and canceling ...</p>"
-msgstr ""
+msgstr "<p>Simulasi tidak berhasil, maaf, pemasangan tidak dapat dilakukan sekarang.</p><p>Membersihkan dan membatalkan ...</p>"
 
 msgid "<p>Warning: Canceling installation during this phase could result in package system failure.</p><p>Are you really sure, you want to interrupt the install process now ?</p>"
-msgstr ""
+msgstr "<p>Peringatan: Membatalkan pemasangan pada tahap ini dapat merusak sistem paket.</p><p>Apakah Anda benar-benar yakin ingin menghentikan proses pemasangan sekarang ?</p>"
+
+msgid "<p>You may not run setup under root !</p><p> Canceling installation ...</p>"
+msgstr "<p>Anda tidak boleh menjalankan pemasangan sebagai root !</p><p> Membatalkan pemasangan ...</p>"
 
 msgid "Adding security keys ..."
-msgstr ""
+msgstr "Menambahkan kunci keamanan ..."
 
 msgid "Adding security keys ... OK"
-msgstr ""
+msgstr "Menambahkan kunci keamanan ... OK"
 
 msgid "Autofix not needed ... OK"
-msgstr ""
+msgstr "Perbaikan otomatis tidak diperlukan ... OK"
+
+msgid "Bad password !"
+msgstr "Kata sandi salah !"
 
 msgid "Busy !"
-msgstr ""
+msgstr "Sibuk !"
 
 msgid "CPU architecture doesn't match, exiting"
-msgstr ""
+msgstr "Arsitektur CPU tidak cocok, keluar"
 
 msgid "Calculating progress ..."
-msgstr ""
+msgstr "Menghitung kemajuan ..."
 
 msgid "Cancel"
-msgstr ""
+msgstr "Batal"
 
 msgid "Canceling installation ..."
-msgstr ""
+msgstr "Membatalkan pemasangan ..."
 
 msgid "Cannot lock APT database, exiting ..."
-msgstr ""
+msgstr "Tidak dapat mengunci basis data APT, keluar ..."
 
 msgid "Cannot lock Flatpak framework, exiting ..."
-msgstr ""
+msgstr "Tidak dapat mengunci Flatpak, keluar ..."
+
+msgid "Checking architecture"
+msgstr "Memeriksa arsitektur"
+
+msgid "Checking current user"
+msgstr "Memeriksa pengguna saat ini"
 
 msgid "Checking distro"
-msgstr ""
+msgstr "Memeriksa distro"
+
+msgid "Checking environment"
+msgstr "Memeriksa lingkungan"
+
+msgid "Checking for %1 software"
+msgstr "Memeriksa perangkat lunak %1"
 
 msgid "Checking installation ..."
-msgstr ""
+msgstr "Memeriksa pemasangan ..."
 
 msgid "Checking installation ... Error !"
-msgstr ""
+msgstr "Memeriksa pemasangan ... Galat !"
 
 msgid "Checking installation ... OK"
-msgstr ""
+msgstr "Memeriksa pemasangan ... OK"
 
 msgid "Checking package system"
-msgstr ""
+msgstr "Memeriksa sistem paket"
 
 msgid "Checking package system ..."
-msgstr ""
+msgstr "Memeriksa sistem paket ..."
+
+msgid "Checking setup archive integrity"
+msgstr "Memeriksa keutuhan arsip pemasangan"
+
+msgid "Checking user rights"
+msgstr "Memeriksa hak pengguna"
 
 msgid "Cleaning and canceling now ..."
-msgstr ""
+msgstr "Membersihkan dan membatalkan ..."
 
 msgid "Configuring Apt ..."
-msgstr ""
+msgstr "Mengonfigurasi Apt ..."
 
 msgid "Configuring Apt ... Done"
-msgstr ""
+msgstr "Mengonfigurasi Apt ... Selesai"
 
 msgid "Copying system packages ..."
-msgstr ""
+msgstr "Menyalin paket sistem ..."
 
 msgid "Copying system packages ... Done"
-msgstr ""
+msgstr "Menyalin paket sistem ... Selesai"
 
 msgid "Could not initialize, incorrect data header !"
-msgstr ""
+msgstr "Tidak dapat menginisialisasi, kepala data salah !"
 
 msgid "Could not initialize, incorrect data header."
-msgstr ""
+msgstr "Tidak dapat menginisialisasi, kepala data salah."
 
 msgid "Could not run Q4OS low-level apt utilities ! It is a serious problem, breaking the installation ..."
-msgstr ""
+msgstr "Tidak dapat menjalankan utilitas apt tingkat rendah Q4OS ! Ini masalah serius, pemasangan dihentikan ..."
+
+msgid "Detecting operating system version"
+msgstr "Mendeteksi versi sistem operasi"
 
 msgid "Determining Flatpak configuration ... "
-msgstr ""
+msgstr "Menentukan konfigurasi Flatpak ... "
 
 msgid "Distro"
-msgstr ""
+msgstr "Distro"
 
 msgid "Do you really want to cancel pending operation ?"
-msgstr ""
+msgstr "Apakah Anda benar-benar ingin membatalkan operasi yang sedang berjalan ?"
 
 msgid "Done"
-msgstr ""
+msgstr "Selesai"
 
 msgid "Downloading packages ..."
-msgstr ""
+msgstr "Mengunduh paket ..."
 
 msgid "Downloading packages ... Done"
-msgstr ""
+msgstr "Mengunduh paket ... Selesai"
 
 msgid "Enter your password to continue:"
-msgstr ""
+msgstr "Masukkan kata sandi Anda untuk melanjutkan:"
 
 msgid "Extracting archive ..."
-msgstr ""
+msgstr "Mengekstrak arsip ..."
 
 msgid "Extracting archive ... Done"
-msgstr ""
+msgstr "Mengekstrak arsip ... Selesai"
 
 msgid "Failed"
-msgstr ""
+msgstr "Gagal"
+
+msgid "Failed !"
+msgstr "Gagal !"
 
 msgid "Failed. Configuration file doesn't exist."
-msgstr ""
+msgstr "Gagal. Berkas konfigurasi tidak ada."
 
 msgid "Failed. Input file doesn't exist."
-msgstr ""
+msgstr "Gagal. Berkas masukan tidak ada."
 
 msgid "Finish >"
-msgstr ""
+msgstr "Selesai >"
 
 msgid "Finishing installation ..."
-msgstr ""
+msgstr "Menyelesaikan pemasangan ..."
 
 msgid "Flatpak framework is busy, another application is being installed just now."
-msgstr ""
+msgstr "Flatpak sedang sibuk, aplikasi lain sedang dipasang saat ini."
 
 msgid "Flatpak is installed, but the Flathub repository isn't included. Please add Flathub repository first. Canceling installation ..."
-msgstr ""
+msgstr "Flatpak terpasang, tetapi repositori Flathub belum disertakan. Tambahkan repositori Flathub terlebih dahulu. Membatalkan pemasangan ..."
 
 msgid "Flatpak is not installed, so cancelling installation. Please install flatpak package first ..."
-msgstr ""
+msgstr "Flatpak tidak terpasang, jadi pemasangan dibatalkan. Pasang paket flatpak terlebih dahulu ..."
 
 msgid "Flatpak isn't installed ... Cancel !"
-msgstr ""
+msgstr "Flatpak tidak terpasang ... Batal !"
 
 msgid "Flatpak isn't installed, exiting ..."
-msgstr ""
+msgstr "Flatpak tidak terpasang, keluar ..."
 
 msgid "I Agree"
-msgstr ""
+msgstr "Saya Setuju"
 
 msgid "If you accept the terms of the agreement, click I Agree to continue. You must accept the agreement to install _SUBST_SWNAME_ software."
-msgstr ""
+msgstr "Jika Anda menerima ketentuan perjanjian, klik Saya Setuju untuk melanjutkan. Anda harus menerima perjanjian untuk memasang perangkat lunak _SUBST_SWNAME_."
 
 msgid "Install >"
-msgstr ""
+msgstr "Pasang >"
 
 msgid "Installation failed !"
-msgstr ""
+msgstr "Pemasangan gagal !"
 
 msgid "Installation not successful."
-msgstr ""
+msgstr "Pemasangan tidak berhasil."
 
 msgid "Installation successfully completed :-)"
-msgstr ""
+msgstr "Pemasangan berhasil diselesaikan :-)"
 
 msgid "Installing files ..."
-msgstr ""
+msgstr "Memasang berkas ..."
 
 msgid "Installing files ... OK"
-msgstr ""
+msgstr "Memasang berkas ... OK"
 
 msgid "Installing package ..."
-msgstr ""
+msgstr "Memasang paket ..."
 
 msgid "Insufficient permissions, user isn't member of \"sudo\" group, exiting ..."
-msgstr ""
+msgstr "Izin tidak mencukupi, pengguna bukan anggota grup \"sudo\", keluar ..."
 
 msgid "License text ..."
-msgstr ""
+msgstr "Teks lisensi ..."
 
 msgid "Next >"
-msgstr ""
+msgstr "Lanjut >"
 
 msgid "No Flathub repository ... Cancel !"
-msgstr ""
+msgstr "Tidak ada repositori Flathub ... Batal !"
 
 msgid "No Flathub repository, exiting ..."
-msgstr ""
+msgstr "Tidak ada repositori Flathub, keluar ..."
 
 msgid "Not ready"
-msgstr ""
+msgstr "Belum siap"
 
 msgid "Package"
-msgstr ""
+msgstr "Paket"
 
 msgid "Package system ... Busy !"
-msgstr ""
+msgstr "Sistem paket ... Sibuk !"
 
 msgid "Package system is busy, another application is being installed just now."
-msgstr ""
+msgstr "Sistem paket sedang sibuk, aplikasi lain sedang dipasang saat ini."
 
 msgid "Package system not consistent ..."
-msgstr ""
+msgstr "Sistem paket tidak konsisten ..."
 
 msgid "Package system still not consistent, canceling installation ..."
-msgstr ""
+msgstr "Sistem paket masih tidak konsisten, membatalkan pemasangan ..."
 
 msgid "Partial update sw database ..."
-msgstr ""
+msgstr "Memperbarui sebagian basis data perangkat lunak ..."
 
 msgid "Partial update sw database ... Done"
-msgstr ""
+msgstr "Memperbarui sebagian basis data perangkat lunak ... Selesai"
 
 msgid "Passed OK"
-msgstr ""
+msgstr "Lulus"
 
 msgid "Please make sure you are not installing another software and repeat setup few moments later."
-msgstr ""
+msgstr "Pastikan Anda tidak sedang memasang perangkat lunak lain dan ulangi pemasangan beberapa saat lagi."
 
 msgid "Please make sure you are not installing another software and repeat the setup."
-msgstr ""
+msgstr "Pastikan Anda tidak sedang memasang perangkat lunak lain dan ulangi pemasangan."
 
 msgid "Postinstall operations ..."
-msgstr ""
+msgstr "Operasi pascapemasangan ..."
 
 msgid "Postinstall operations ... Done"
-msgstr ""
+msgstr "Operasi pascapemasangan ... Selesai"
 
 msgid "Postinstall operations, additional commands ..."
-msgstr ""
+msgstr "Operasi pascapemasangan, perintah tambahan ..."
 
 msgid "Preparing installation files ..."
-msgstr ""
+msgstr "Menyiapkan berkas pemasangan ..."
 
 msgid "Preparing installation files ... OK"
-msgstr ""
+msgstr "Menyiapkan berkas pemasangan ... OK"
 
 msgid "Prerun script requested exit. Exit code:"
-msgstr ""
+msgstr "Skrip prajalan meminta keluar. Kode keluar:"
 
 msgid "Press Page Down to see the rest of agreement."
-msgstr ""
+msgstr "Tekan Page Down untuk melihat sisa perjanjian."
 
 msgid "Q4OS Install System v1.0"
-msgstr ""
+msgstr "Sistem Pemasangan Q4OS v1.0"
 
 msgid "Recovered ... OK"
-msgstr ""
+msgstr "Dipulihkan ... OK"
 
 msgid "Registering application ... OK"
-msgstr ""
+msgstr "Mendaftarkan aplikasi ... OK"
 
 msgid "Root permissions needed, exiting ..."
-msgstr ""
+msgstr "Diperlukan izin root, keluar ..."
 
 msgid "Running custom scripts ..."
-msgstr ""
+msgstr "Menjalankan skrip kustom ..."
 
 msgid "Running custom scripts ... Done"
-msgstr ""
+msgstr "Menjalankan skrip kustom ... Selesai"
 
 msgid "Searching for language packages ..."
-msgstr ""
+msgstr "Mencari paket bahasa ..."
 
 msgid "Searching for language packages ... Done"
-msgstr ""
+msgstr "Mencari paket bahasa ... Selesai"
 
 msgid "Setup action:"
-msgstr ""
+msgstr "Langkah pemasangan:"
 
 msgid "Setup action:  "
-msgstr ""
+msgstr "Langkah pemasangan:  "
+
+msgid "Setup logfile \"%1\" cannot be saved !"
+msgstr "Berkas log pemasangan \"%1\" tidak dapat disimpan !"
 
 msgid "Setup messages were recorded into logfile:"
-msgstr ""
+msgstr "Pesan pemasangan dicatat ke berkas log:"
 
 msgid "Setup wizard"
-msgstr ""
+msgstr "Wisaya pemasangan"
+
+msgid "Temporary setup directory not deleted."
+msgstr "Direktori pemasangan sementara tidak dihapus."
 
 msgid "Testing Internet connection ..."
-msgstr ""
+msgstr "Menguji koneksi Internet ..."
 
 msgid "Testing Internet connection ... Failed !"
-msgstr ""
+msgstr "Menguji koneksi Internet ... Gagal !"
 
 msgid "Testing Internet connection ... OK"
-msgstr ""
+msgstr "Menguji koneksi Internet ... OK"
 
 msgid "Testing installation ..."
-msgstr ""
+msgstr "Menguji pemasangan ..."
 
 msgid "Testing installation ... Done"
-msgstr ""
+msgstr "Menguji pemasangan ... Selesai"
 
 msgid "The application doesn't support this system CPU architecture:"
-msgstr ""
+msgstr "Aplikasi tidak mendukung arsitektur CPU sistem ini:"
 
 msgid "The lock can also be caused by a system update in progress in the background. In this case, you need to wait a few minutes for the package system to complete these operations."
-msgstr ""
+msgstr "Kunci juga dapat disebabkan oleh pembaruan sistem yang sedang berjalan di latar belakang. Jika demikian, Anda perlu menunggu beberapa menit sampai sistem paket menyelesaikan operasi tersebut."
 
 msgid "The post installation check failed, the software may not have been installed correctly."
-msgstr ""
+msgstr "Pemeriksaan pascapemasangan gagal, perangkat lunak mungkin tidak terpasang dengan benar."
 
 msgid "Trying to recover APT integrity ..."
-msgstr ""
+msgstr "Mencoba memulihkan keutuhan APT ..."
 
 msgid "Unsupported distro"
-msgstr ""
+msgstr "Distro tidak didukung"
 
 msgid "Update Apt database ..."
-msgstr ""
+msgstr "Memperbarui basis data Apt ..."
 
 msgid "Update sw database ..."
-msgstr ""
+msgstr "Memperbarui basis data perangkat lunak ..."
 
 msgid "Update sw database ... Done"
-msgstr ""
+msgstr "Memperbarui basis data perangkat lunak ... Selesai"
 
 msgid "Update system cache ..."
-msgstr ""
+msgstr "Memperbarui tembolok sistem ..."
 
 msgid "Update system cache ... Done"
-msgstr ""
+msgstr "Memperbarui tembolok sistem ... Selesai"
 
 msgid "Upgrade Apt database ..."
-msgstr ""
+msgstr "Meningkatkan paket Apt ..."
 
 msgid "Verified ... OK"
-msgstr ""
+msgstr "Terverifikasi ... OK"
 
 msgid "Waiting to complete current operation ... Done"
-msgstr ""
+msgstr "Menunggu operasi saat ini selesai ... Selesai"
 
 msgid "Warning: cannot terminate proc_lock !"
-msgstr ""
+msgstr "Peringatan: tidak dapat menghentikan proc_lock !"
 
 msgid "Warning: proc_lock is already running, trying to rerun qprocess !"
-msgstr ""
+msgstr "Peringatan: proc_lock sudah berjalan, mencoba menjalankan ulang qprocess !"
 
 msgid "You are trying to install flatpak based software."
-msgstr ""
+msgstr "Anda mencoba memasang perangkat lunak berbasis flatpak."
 
 msgid "already installed, exiting ..."
-msgstr ""
+msgstr "sudah terpasang, keluar ..."
 
 msgid "clean"
-msgstr ""
+msgstr "bersih"
 
 msgid "evaluating..."
-msgstr ""
+msgstr "mengevaluasi..."
 
 msgid "fine"
-msgstr ""
+msgstr "baik"
+
+msgid "good"
+msgstr "bagus"
 
 msgid "installed ... Cancel !"
-msgstr ""
+msgstr "terpasang ... Batal !"
+
+msgid "installed, newer version to upgrade"
+msgstr "terpasang, ada versi lebih baru untuk ditingkatkan"
 
 msgid "not installed"
-msgstr ""
+msgstr "tidak terpasang"
 
 msgid "not supported, exiting ..."
-msgstr ""
+msgstr "tidak didukung, keluar ..."
 
 msgid "ready"
-msgstr ""
+msgstr "siap"
 
 msgid "result:"
-msgstr ""
+msgstr "hasil:"
+
+msgid "seems good"
+msgstr "tampak baik"
 
 msgid "software is already installed, so cancelling installation ..."
-msgstr ""
+msgstr "sudah terpasang, jadi pemasangan dibatalkan ..."
+
+msgid "sufficient"
+msgstr "mencukupi"
 
 msgid "type:"
-msgstr ""
+msgstr "jenis:"

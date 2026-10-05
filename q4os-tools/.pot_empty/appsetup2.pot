@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Setup\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-23 10:25+0100\n"
+"POT-Creation-Date: 2026-10-03 14:28+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -45,10 +45,22 @@ msgid ""
 "<p>Click Next to continue.</p>\n"
 msgstr ""
 
+msgid "<p>Detected operating system version: Q4OS <b>%1</b>.</p><p>This %2 installation requires Q4OS <b>%3</b> as maximum.</p><p> Canceling installation ...</p>"
+msgstr ""
+
+msgid "<p>Detected operating system version: Q4OS <b>%1</b>.</p><p>This %2 installation requires Q4OS <b>%3</b> as minimum.</p><p> Canceling installation ...</p>"
+msgstr ""
+
+msgid "<p>Failed to detect Q4OS system version.</p><p>Canceling installation ...</p>"
+msgstr ""
+
 msgid "<p>Initial data incomplete !</p><p> Canceling installation ...</p>"
 msgstr ""
 
 msgid "<p>Internet connection is inactive or very slow. Installer needs to download application packages from Q4OS Internet sources. Setup cannot continue ...</p>"
+msgstr ""
+
+msgid "<p>No system access permissions, you are not in \"sudo\" group !</p><p> Canceling installation ...</p>"
 msgstr ""
 
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p><p>Cleaning and canceling now ...</p>"
@@ -66,6 +78,9 @@ msgstr ""
 msgid "<p>Warning: Canceling installation during this phase could result in package system failure.</p><p>Are you really sure, you want to interrupt the install process now ?</p>"
 msgstr ""
 
+msgid "<p>You may not run setup under root !</p><p> Canceling installation ...</p>"
+msgstr ""
+
 msgid "Adding security keys ..."
 msgstr ""
 
@@ -73,6 +88,9 @@ msgid "Adding security keys ... OK"
 msgstr ""
 
 msgid "Autofix not needed ... OK"
+msgstr ""
+
+msgid "Bad password !"
 msgstr ""
 
 msgid "Busy !"
@@ -96,7 +114,19 @@ msgstr ""
 msgid "Cannot lock Flatpak framework, exiting ..."
 msgstr ""
 
+msgid "Checking architecture"
+msgstr ""
+
+msgid "Checking current user"
+msgstr ""
+
 msgid "Checking distro"
+msgstr ""
+
+msgid "Checking environment"
+msgstr ""
+
+msgid "Checking for %1 software"
 msgstr ""
 
 msgid "Checking installation ..."
@@ -112,6 +142,12 @@ msgid "Checking package system"
 msgstr ""
 
 msgid "Checking package system ..."
+msgstr ""
+
+msgid "Checking setup archive integrity"
+msgstr ""
+
+msgid "Checking user rights"
 msgstr ""
 
 msgid "Cleaning and canceling now ..."
@@ -136,6 +172,9 @@ msgid "Could not initialize, incorrect data header."
 msgstr ""
 
 msgid "Could not run Q4OS low-level apt utilities ! It is a serious problem, breaking the installation ..."
+msgstr ""
+
+msgid "Detecting operating system version"
 msgstr ""
 
 msgid "Determining Flatpak configuration ... "
@@ -166,6 +205,9 @@ msgid "Extracting archive ... Done"
 msgstr ""
 
 msgid "Failed"
+msgstr ""
+
+msgid "Failed !"
 msgstr ""
 
 msgid "Failed. Configuration file doesn't exist."
@@ -321,10 +363,16 @@ msgstr ""
 msgid "Setup action:  "
 msgstr ""
 
+msgid "Setup logfile \"%1\" cannot be saved !"
+msgstr ""
+
 msgid "Setup messages were recorded into logfile:"
 msgstr ""
 
 msgid "Setup wizard"
+msgstr ""
+
+msgid "Temporary setup directory not deleted."
 msgstr ""
 
 msgid "Testing Internet connection ..."
@@ -402,7 +450,13 @@ msgstr ""
 msgid "fine"
 msgstr ""
 
+msgid "good"
+msgstr ""
+
 msgid "installed ... Cancel !"
+msgstr ""
+
+msgid "installed, newer version to upgrade"
 msgstr ""
 
 msgid "not installed"
@@ -417,7 +471,13 @@ msgstr ""
 msgid "result:"
 msgstr ""
 
+msgid "seems good"
+msgstr ""
+
 msgid "software is already installed, so cancelling installation ..."
+msgstr ""
+
+msgid "sufficient"
 msgstr ""
 
 msgid "type:"

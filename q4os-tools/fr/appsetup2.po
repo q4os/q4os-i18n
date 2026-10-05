@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Setup\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-23 10:25+0100\n"
+"POT-Creation-Date: 2026-10-03 14:28+0200\n"
 "PO-Revision-Date: 2018-12-24 17:43+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -20,33 +20,24 @@ msgstr ""
 msgid "< Back"
 msgstr "< Retour"
 
-#, fuzzy
 msgid "<b>Fast system checks</b><br>&nbsp;&nbsp;&nbsp;System is prechecking installation environment"
-msgstr "Le système vérifie l'environnement d'installation"
+msgstr "<b>Vérifications rapides du système</b><br>&nbsp;&nbsp;&nbsp;Le système vérifie l'environnement d'installation"
 
-#, fuzzy
 msgid "<b>Get permissions</b><br>&nbsp;&nbsp;&nbsp;System asks for installation permissions"
-msgstr "Le système demande les permissions pour l'installation"
+msgstr "<b>Obtenir les autorisations</b><br>&nbsp;&nbsp;&nbsp;Le système demande les autorisations d'installation"
 
-#, fuzzy
 msgid "<b>Installing</b><br>&nbsp;&nbsp;&nbsp;Please wait while software is being installed"
-msgstr "Patientez pendant l'installation du(des) logiciel(s)"
+msgstr "<b>Installation</b><br>&nbsp;&nbsp;&nbsp;Veuillez patienter pendant l'installation du logiciel"
 
-#, fuzzy
 msgid "<b>License Agreement</b><br>&nbsp;&nbsp;&nbsp;Please review the license terms before install"
-msgstr "Veuillez lire le contrat d'utilisation avant l'installation"
+msgstr "<b>Contrat de licence</b><br>&nbsp;&nbsp;&nbsp;Veuillez lire les termes de la licence avant l'installation"
 
-#, fuzzy
 msgid ""
 "<p><h2>Completing _SUBST_SWNAME_ setup wizard</h2><br></p>\n"
 "<p>Software _SUBST_SWNAME_ has been installed on your computer.<br></p>\n"
 "<p>Click Finish to close the wizard.<br><br><br><br><br></p>\n"
 "<p>Visit _SUBST_SWNAME_ website for the latest news, FAQs and support</p>"
-msgstr ""
-"<p><h2>Exécution de l'assistant d'installation de _SUBST_SWNAME_</h2><br></p>\n"
-"<p>Le logiciel _SUBST_SWNAME_ a été installé sur votre ordinateur.<br></p>\n"
-"<p>Cliquez sur Terminer pour fermer l'assistant de configuration.<br><br><br><br><br><br></p>\n"
-"<p>Visitez le site _SUBST_SWNAME_ pour les dernières nouvelles, FAQs et assistance.</p>"
+msgstr "<p><h2>Fin de l'assistant d'installation de _SUBST_SWNAME_</h2><br></p>\n<p>Le logiciel _SUBST_SWNAME_ a été installé sur votre ordinateur.<br></p>\n<p>Cliquez sur Terminer pour fermer l'assistant.<br><br><br><br><br></p>\n<p>Visitez le site web de _SUBST_SWNAME_ pour les dernières nouvelles, la FAQ et l'assistance</p>"
 
 msgid ""
 "<p><h2>Welcome to the _SUBST_SWNAME_ setup wizard</h2></p>\n"
@@ -57,11 +48,23 @@ msgstr ""
 "<p>Cet assistant vous guidera dans l'installation de l'application _SUBST_SWNAME_.</p>\n"
 "<p>Cliquez sur « Suivant » pour continuer.</p>\n"
 
+msgid "<p>Detected operating system version: Q4OS <b>%1</b>.</p><p>This %2 installation requires Q4OS <b>%3</b> as maximum.</p><p> Canceling installation ...</p>"
+msgstr "<p>Version du système d'exploitation détectée : Q4OS <b>%1</b>.</p><p>Cette installation de %2 nécessite au maximum Q4OS <b>%3</b>.</p><p> Annulation de l'installation ...</p>"
+
+msgid "<p>Detected operating system version: Q4OS <b>%1</b>.</p><p>This %2 installation requires Q4OS <b>%3</b> as minimum.</p><p> Canceling installation ...</p>"
+msgstr "<p>Version du système d'exploitation détectée : Q4OS <b>%1</b>.</p><p>Cette installation de %2 nécessite au minimum Q4OS <b>%3</b>.</p><p> Annulation de l'installation ...</p>"
+
+msgid "<p>Failed to detect Q4OS system version.</p><p>Canceling installation ...</p>"
+msgstr "<p>Impossible de détecter la version du système Q4OS.</p><p>Annulation de l'installation ...</p>"
+
 msgid "<p>Initial data incomplete !</p><p> Canceling installation ...</p>"
-msgstr ""
+msgstr "<p>Données initiales incomplètes !</p><p> Annulation de l'installation ...</p>"
 
 msgid "<p>Internet connection is inactive or very slow. Installer needs to download application packages from Q4OS Internet sources. Setup cannot continue ...</p>"
 msgstr "<p>La connexion Internet est désactivée ou très lente. L'installateur a besoin de télécharger les paquets de l'application à partir des sources internet de Q4OS. L'installation ne peut pas se poursuivre ...</p>"
+
+msgid "<p>No system access permissions, you are not in \"sudo\" group !</p><p> Canceling installation ...</p>"
+msgstr "<p>Pas de droits d'accès au système, vous n'êtes pas dans le groupe \"sudo\" !</p><p> Annulation de l'installation ...</p>"
 
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p><p>Cleaning and canceling now ...</p>"
 msgstr "<p>Le système de paquets est occupé, il n'est pas possible de procéder à l'installation maintenant.</p><p>Le blocage est causé, très probablement, par l'installation de mises à jour en tâche de fond. Dans ce cas, vous devez patienter le temps que le système de paquets termine ces opérations. Merci de vérifier si vous n'êtes pas déjà en train de faire une installation et répétez l'opération dans quelques minutes.</p><p>Nettoyage et annulation en cours ...</p>"
@@ -78,6 +81,9 @@ msgstr "<p>La simulation n'a pas abouti, désolé, je ne peux pas installer main
 msgid "<p>Warning: Canceling installation during this phase could result in package system failure.</p><p>Are you really sure, you want to interrupt the install process now ?</p>"
 msgstr "<p>Attention: l'annulation de l'installation à ce stade peut mettre le système de paquet en panne.</p><p>Etes vous vraiment sûr de vouloir interrompre le processus d'installation maintenant ?</p>"
 
+msgid "<p>You may not run setup under root !</p><p> Canceling installation ...</p>"
+msgstr "<p>Vous ne pouvez pas lancer l'installation en tant que root !</p><p> Annulation de l'installation ...</p>"
+
 msgid "Adding security keys ..."
 msgstr "Ajout des clés de sécurité ..."
 
@@ -87,11 +93,14 @@ msgstr "Ajout des clés de sécurité … OK"
 msgid "Autofix not needed ... OK"
 msgstr "Réparation automatique pas nécessaire … OK"
 
+msgid "Bad password !"
+msgstr "Mot de passe incorrect !"
+
 msgid "Busy !"
-msgstr ""
+msgstr "Occupé !"
 
 msgid "CPU architecture doesn't match, exiting"
-msgstr ""
+msgstr "L'architecture du processeur ne correspond pas, fermeture"
 
 msgid "Calculating progress ..."
 msgstr "Calcul de la progression ..."
@@ -99,19 +108,29 @@ msgstr "Calcul de la progression ..."
 msgid "Cancel"
 msgstr "Annuler"
 
-#, fuzzy
 msgid "Canceling installation ..."
-msgstr "Vérification de l'installation ..."
+msgstr "Annulation de l'installation ..."
 
 msgid "Cannot lock APT database, exiting ..."
-msgstr ""
+msgstr "Impossible de verrouiller la base de données APT, fermeture ..."
 
 msgid "Cannot lock Flatpak framework, exiting ..."
-msgstr ""
+msgstr "Impossible de verrouiller Flatpak, fermeture ..."
 
-#, fuzzy
+msgid "Checking architecture"
+msgstr "Vérification de l'architecture"
+
+msgid "Checking current user"
+msgstr "Vérification de l'utilisateur actuel"
+
 msgid "Checking distro"
-msgstr "Vérification de l'installation ..."
+msgstr "Vérification de la distribution"
+
+msgid "Checking environment"
+msgstr "Vérification de l'environnement"
+
+msgid "Checking for %1 software"
+msgstr "Recherche du logiciel %1"
 
 msgid "Checking installation ..."
 msgstr "Vérification de l'installation ..."
@@ -122,23 +141,26 @@ msgstr "Vérification de l'installation … Erreur !"
 msgid "Checking installation ... OK"
 msgstr "Vérification de l'installation … OK"
 
-#, fuzzy
 msgid "Checking package system"
-msgstr "Vérification du système de paquets ..."
+msgstr "Vérification du système de paquets"
 
 msgid "Checking package system ..."
 msgstr "Vérification du système de paquets ..."
 
-#, fuzzy
+msgid "Checking setup archive integrity"
+msgstr "Vérification de l'intégrité de l'archive d'installation"
+
+msgid "Checking user rights"
+msgstr "Vérification des droits de l'utilisateur"
+
 msgid "Cleaning and canceling now ..."
-msgstr "</b></p><p>Nettoyage et annulation en cours ...</p>"
+msgstr "Nettoyage et annulation ..."
 
 msgid "Configuring Apt ..."
-msgstr ""
+msgstr "Configuration d'Apt ..."
 
-#, fuzzy
 msgid "Configuring Apt ... Done"
-msgstr "Copie du système de paquets … Terminée"
+msgstr "Configuration d'Apt ... Terminé"
 
 msgid "Copying system packages ..."
 msgstr "Copie du système de paquets ..."
@@ -147,26 +169,28 @@ msgid "Copying system packages ... Done"
 msgstr "Copie du système de paquets … Terminée"
 
 msgid "Could not initialize, incorrect data header !"
-msgstr ""
+msgstr "Initialisation impossible, en-tête de données incorrect !"
 
 msgid "Could not initialize, incorrect data header."
-msgstr ""
+msgstr "Initialisation impossible, en-tête de données incorrect."
 
 msgid "Could not run Q4OS low-level apt utilities ! It is a serious problem, breaking the installation ..."
-msgstr ""
+msgstr "Impossible de lancer les utilitaires apt de bas niveau de Q4OS ! C'est un problème grave qui interrompt l'installation ..."
 
-#, fuzzy
+msgid "Detecting operating system version"
+msgstr "Détection de la version du système d'exploitation"
+
 msgid "Determining Flatpak configuration ... "
-msgstr "Enregistrement de l'application … OK"
+msgstr "Détermination de la configuration de Flatpak ... "
 
 msgid "Distro"
-msgstr ""
+msgstr "Distribution"
 
 msgid "Do you really want to cancel pending operation ?"
 msgstr "Voulez-vous vraiment annuler l'opération en cours ?"
 
 msgid "Done"
-msgstr ""
+msgstr "Terminé"
 
 msgid "Downloading packages ..."
 msgstr "Téléchargement des paquets ..."
@@ -184,13 +208,16 @@ msgid "Extracting archive ... Done"
 msgstr "Décompression de l'archive … Terminée"
 
 msgid "Failed"
-msgstr ""
+msgstr "Échec"
+
+msgid "Failed !"
+msgstr "Échec !"
 
 msgid "Failed. Configuration file doesn't exist."
-msgstr ""
+msgstr "Échec. Le fichier de configuration n'existe pas."
 
 msgid "Failed. Input file doesn't exist."
-msgstr ""
+msgstr "Échec. Le fichier d'entrée n'existe pas."
 
 msgid "Finish >"
 msgstr "Terminer >"
@@ -199,20 +226,19 @@ msgid "Finishing installation ..."
 msgstr "Finalisation de l'installation ..."
 
 msgid "Flatpak framework is busy, another application is being installed just now."
-msgstr ""
+msgstr "Flatpak est occupé, une autre application est en cours d'installation."
 
 msgid "Flatpak is installed, but the Flathub repository isn't included. Please add Flathub repository first. Canceling installation ..."
-msgstr ""
+msgstr "Flatpak est installé, mais le dépôt Flathub n'est pas configuré. Veuillez d'abord ajouter le dépôt Flathub. Annulation de l'installation ..."
 
 msgid "Flatpak is not installed, so cancelling installation. Please install flatpak package first ..."
-msgstr ""
+msgstr "Flatpak n'est pas installé, l'installation est annulée. Veuillez d'abord installer le paquet flatpak ..."
 
 msgid "Flatpak isn't installed ... Cancel !"
-msgstr ""
+msgstr "Flatpak n'est pas installé ... Annulation !"
 
-#, fuzzy
 msgid "Flatpak isn't installed, exiting ..."
-msgstr "Finalisation de l'installation ..."
+msgstr "Flatpak n'est pas installé, fermeture ..."
 
 msgid "I Agree"
 msgstr "J'accepte"
@@ -223,13 +249,11 @@ msgstr "Si vous acceptez les termes du contrat d'utilisation, appuyez sur « J'a
 msgid "Install >"
 msgstr "Installer >"
 
-#, fuzzy
 msgid "Installation failed !"
-msgstr "Installation des fichiers ..."
+msgstr "L'installation a échoué !"
 
-#, fuzzy
 msgid "Installation not successful."
-msgstr "L'installation s'est terminée correctement :-)"
+msgstr "L'installation n'a pas réussi."
 
 msgid "Installation successfully completed :-)"
 msgstr "L'installation s'est terminée correctement :-)"
@@ -240,12 +264,11 @@ msgstr "Installation des fichiers ..."
 msgid "Installing files ... OK"
 msgstr "Installation des fichiers … OK"
 
-#, fuzzy
 msgid "Installing package ..."
-msgstr "Installation des fichiers ..."
+msgstr "Installation du paquet ..."
 
 msgid "Insufficient permissions, user isn't member of \"sudo\" group, exiting ..."
-msgstr ""
+msgstr "Droits insuffisants, l'utilisateur n'est pas membre du groupe \"sudo\", fermeture ..."
 
 msgid "License text ..."
 msgstr "Texte du contrat ..."
@@ -254,23 +277,22 @@ msgid "Next >"
 msgstr "Suivant >"
 
 msgid "No Flathub repository ... Cancel !"
-msgstr ""
+msgstr "Pas de dépôt Flathub ... Annulation !"
 
 msgid "No Flathub repository, exiting ..."
-msgstr ""
+msgstr "Pas de dépôt Flathub, fermeture ..."
 
 msgid "Not ready"
-msgstr ""
+msgstr "Pas prêt"
 
 msgid "Package"
-msgstr ""
+msgstr "Le paquet"
 
 msgid "Package system ... Busy !"
 msgstr "Système de paquets … Occupé !"
 
-#, fuzzy
 msgid "Package system is busy, another application is being installed just now."
-msgstr "Système de paquets toujours incohérent, annulation de l'installation …"
+msgstr "Le système de paquets est occupé, une autre application est en cours d'installation."
 
 msgid "Package system not consistent ..."
 msgstr "Système de paquets incohérent …"
@@ -284,15 +306,14 @@ msgstr "Mise à jour partielle de la base de données logiciels (sw) ..."
 msgid "Partial update sw database ... Done"
 msgstr "Mise à jour partielle de la base de données logiciels (sw) … Terminée"
 
-#, fuzzy
 msgid "Passed OK"
-msgstr "réussite OK !"
+msgstr "Réussi"
 
 msgid "Please make sure you are not installing another software and repeat setup few moments later."
-msgstr ""
+msgstr "Assurez-vous de ne pas installer un autre logiciel et relancez l'installation dans quelques instants."
 
 msgid "Please make sure you are not installing another software and repeat the setup."
-msgstr ""
+msgstr "Assurez-vous de ne pas installer un autre logiciel et relancez l'installation."
 
 msgid "Postinstall operations ..."
 msgstr "Opérations d'après installation ..."
@@ -310,14 +331,13 @@ msgid "Preparing installation files ... OK"
 msgstr "Préparation des fichiers d'installation … OK"
 
 msgid "Prerun script requested exit. Exit code:"
-msgstr ""
+msgstr "Le script de pré-exécution a demandé l'arrêt. Code de sortie :"
 
 msgid "Press Page Down to see the rest of agreement."
 msgstr "Appuyez sur Page Bas pour voir la suite du contrat d'utilisation."
 
-#, fuzzy
 msgid "Q4OS Install System v1.0"
-msgstr "Système d'installation v0.2.0 de Q4OS"
+msgstr "Système d'installation Q4OS v1.0"
 
 msgid "Recovered ... OK"
 msgstr "Récupération … OK"
@@ -326,14 +346,13 @@ msgid "Registering application ... OK"
 msgstr "Enregistrement de l'application … OK"
 
 msgid "Root permissions needed, exiting ..."
-msgstr ""
+msgstr "Les droits root sont nécessaires, fermeture ..."
 
 msgid "Running custom scripts ..."
-msgstr ""
+msgstr "Exécution des scripts personnalisés ..."
 
-#, fuzzy
 msgid "Running custom scripts ... Done"
-msgstr "Copie du système de paquets … Terminée"
+msgstr "Exécution des scripts personnalisés ... Terminé"
 
 msgid "Searching for language packages ..."
 msgstr "Recherche des paquets linguistiques ..."
@@ -347,12 +366,17 @@ msgstr "Configuration :"
 msgid "Setup action:  "
 msgstr "Configuration :"
 
-msgid "Setup messages were recorded into logfile:"
-msgstr ""
+msgid "Setup logfile \"%1\" cannot be saved !"
+msgstr "Le fichier journal de l'installation \"%1\" ne peut pas être enregistré !"
 
-#, fuzzy
+msgid "Setup messages were recorded into logfile:"
+msgstr "Les messages de l'installation ont été enregistrés dans le fichier journal :"
+
 msgid "Setup wizard"
-msgstr "assistant de configuration"
+msgstr "Assistant d'installation"
+
+msgid "Temporary setup directory not deleted."
+msgstr "Le dossier temporaire d'installation n'a pas été supprimé."
 
 msgid "Testing Internet connection ..."
 msgstr "Vérification de la connexion internet ..."
@@ -370,23 +394,22 @@ msgid "Testing installation ... Done"
 msgstr "Vérification de l'installation … Terminée"
 
 msgid "The application doesn't support this system CPU architecture:"
-msgstr ""
+msgstr "L'application ne prend pas en charge l'architecture du processeur de ce système :"
 
 msgid "The lock can also be caused by a system update in progress in the background. In this case, you need to wait a few minutes for the package system to complete these operations."
-msgstr ""
+msgstr "Le verrou peut aussi être dû à une mise à jour du système en cours en arrière-plan. Dans ce cas, attendez quelques minutes que le système de paquets termine ces opérations."
 
 msgid "The post installation check failed, the software may not have been installed correctly."
-msgstr ""
+msgstr "La vérification après installation a échoué, le logiciel n'a peut-être pas été installé correctement."
 
 msgid "Trying to recover APT integrity ..."
 msgstr "Tentative de récupération de l'intégrité d'APT ..."
 
 msgid "Unsupported distro"
-msgstr ""
+msgstr "Distribution non prise en charge"
 
-#, fuzzy
 msgid "Update Apt database ..."
-msgstr "Mise à jour de la base de donnée logiciels (sw) ..."
+msgstr "Mise à jour de la base de données Apt ..."
 
 msgid "Update sw database ..."
 msgstr "Mise à jour de la base de donnée logiciels (sw) ..."
@@ -400,9 +423,8 @@ msgstr "Mise à jour du cache système ..."
 msgid "Update system cache ... Done"
 msgstr "Mise à jour du cache système … Terminée"
 
-#, fuzzy
 msgid "Upgrade Apt database ..."
-msgstr "Mise à jour de la base de donnée logiciels (sw) ..."
+msgstr "Mise à niveau de la base de données Apt ..."
 
 msgid "Verified ... OK"
 msgstr "Vérification … OK"
@@ -411,47 +433,58 @@ msgid "Waiting to complete current operation ... Done"
 msgstr "Attente de la fin de l'opération courante … Terminée"
 
 msgid "Warning: cannot terminate proc_lock !"
-msgstr ""
+msgstr "Avertissement : impossible d'arrêter proc_lock !"
 
 msgid "Warning: proc_lock is already running, trying to rerun qprocess !"
-msgstr ""
+msgstr "Avertissement : proc_lock est déjà en cours d'exécution, tentative de relance de qprocess !"
 
 msgid "You are trying to install flatpak based software."
-msgstr ""
+msgstr "Vous essayez d'installer un logiciel au format flatpak."
 
 msgid "already installed, exiting ..."
-msgstr ""
+msgstr "est déjà installé, fermeture ..."
 
 msgid "clean"
-msgstr ""
+msgstr "propre"
 
 msgid "evaluating..."
-msgstr ""
+msgstr "évaluation..."
 
 msgid "fine"
-msgstr ""
+msgstr "correct"
+
+msgid "good"
+msgstr "bon"
 
 msgid "installed ... Cancel !"
-msgstr ""
+msgstr "installé ... Annulation !"
+
+msgid "installed, newer version to upgrade"
+msgstr "installé, version plus récente à mettre à niveau"
 
 msgid "not installed"
-msgstr ""
+msgstr "non installé"
 
 msgid "not supported, exiting ..."
-msgstr ""
+msgstr "n'est pas prise en charge, fermeture ..."
 
 msgid "ready"
-msgstr ""
+msgstr "prêt"
 
 msgid "result:"
 msgstr "résultat :"
 
-#, fuzzy
+msgid "seems good"
+msgstr "semble correct"
+
 msgid "software is already installed, so cancelling installation ..."
-msgstr "Système de paquets toujours incohérent, annulation de l'installation …"
+msgstr "est déjà installé, l'installation est donc annulée ..."
+
+msgid "sufficient"
+msgstr "suffisants"
 
 msgid "type:"
-msgstr ""
+msgstr "type :"
 
 #~ msgid "<p>Error installing application, sorry, I cannot install.</p><p>Setup messages were recorded into logfile: <b>"
 #~ msgstr "<p>Erreur d'installation de l'application, désolé, je ne peux pas l'installer.</p><p>Les messages d'installation ont été enregistrés dans le fichier: <b>"

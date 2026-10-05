@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Q4OS Setup\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-23 10:25+0100\n"
+"POT-Creation-Date: 2026-10-03 14:28+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,407 +18,467 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "< Back"
-msgstr ""
+msgstr "< 戻る"
 
 msgid "<b>Fast system checks</b><br>&nbsp;&nbsp;&nbsp;System is prechecking installation environment"
-msgstr ""
+msgstr "<b>システムの簡易チェック</b><br>&nbsp;&nbsp;&nbsp;インストール環境を事前に確認しています"
 
 msgid "<b>Get permissions</b><br>&nbsp;&nbsp;&nbsp;System asks for installation permissions"
-msgstr ""
+msgstr "<b>権限の取得</b><br>&nbsp;&nbsp;&nbsp;インストールに必要な権限を確認します"
 
 msgid "<b>Installing</b><br>&nbsp;&nbsp;&nbsp;Please wait while software is being installed"
-msgstr ""
+msgstr "<b>インストール中</b><br>&nbsp;&nbsp;&nbsp;ソフトウェアをインストールしています。しばらくお待ちください"
 
 msgid "<b>License Agreement</b><br>&nbsp;&nbsp;&nbsp;Please review the license terms before install"
-msgstr ""
+msgstr "<b>ライセンス契約</b><br>&nbsp;&nbsp;&nbsp;インストールの前にライセンス条項をお読みください"
 
 msgid ""
 "<p><h2>Completing _SUBST_SWNAME_ setup wizard</h2><br></p>\n"
 "<p>Software _SUBST_SWNAME_ has been installed on your computer.<br></p>\n"
 "<p>Click Finish to close the wizard.<br><br><br><br><br></p>\n"
 "<p>Visit _SUBST_SWNAME_ website for the latest news, FAQs and support</p>"
-msgstr ""
+msgstr "<p><h2>_SUBST_SWNAME_ セットアップウィザードの完了</h2><br></p>\n<p>ソフトウェア _SUBST_SWNAME_ がコンピューターにインストールされました。<br></p>\n<p>「完了」をクリックしてウィザードを閉じてください。<br><br><br><br><br></p>\n<p>最新情報、FAQ、サポートについては _SUBST_SWNAME_ のウェブサイトをご覧ください</p>"
 
 msgid ""
 "<p><h2>Welcome to the _SUBST_SWNAME_ setup wizard</h2></p>\n"
 "<p>This wizard will guide you through the installation of the _SUBST_SWNAME_ application.</p>\n"
 "<p>Click Next to continue.</p>\n"
-msgstr ""
+msgstr "<p><h2>_SUBST_SWNAME_ セットアップウィザードへようこそ</h2></p>\n<p>このウィザードでは _SUBST_SWNAME_ アプリケーションのインストールをご案内します。</p>\n<p>「次へ」をクリックして続行してください。</p>\n"
+
+msgid "<p>Detected operating system version: Q4OS <b>%1</b>.</p><p>This %2 installation requires Q4OS <b>%3</b> as maximum.</p><p> Canceling installation ...</p>"
+msgstr "<p>検出されたオペレーティングシステムのバージョン: Q4OS <b>%1</b>。</p><p>この %2 のインストールには Q4OS <b>%3</b> 以下が必要です。</p><p> インストールを中止します ...</p>"
+
+msgid "<p>Detected operating system version: Q4OS <b>%1</b>.</p><p>This %2 installation requires Q4OS <b>%3</b> as minimum.</p><p> Canceling installation ...</p>"
+msgstr "<p>検出されたオペレーティングシステムのバージョン: Q4OS <b>%1</b>。</p><p>この %2 のインストールには Q4OS <b>%3</b> 以上が必要です。</p><p> インストールを中止します ...</p>"
+
+msgid "<p>Failed to detect Q4OS system version.</p><p>Canceling installation ...</p>"
+msgstr "<p>Q4OS のシステムバージョンを検出できませんでした。</p><p>インストールを中止します ...</p>"
 
 msgid "<p>Initial data incomplete !</p><p> Canceling installation ...</p>"
-msgstr ""
+msgstr "<p>初期データが不完全です !</p><p> インストールを中止します ...</p>"
 
 msgid "<p>Internet connection is inactive or very slow. Installer needs to download application packages from Q4OS Internet sources. Setup cannot continue ...</p>"
-msgstr ""
+msgstr "<p>インターネット接続が無効か、非常に低速です。インストーラーは Q4OS のインターネットソースからアプリケーションパッケージをダウンロードする必要があります。セットアップを続行できません ...</p>"
+
+msgid "<p>No system access permissions, you are not in \"sudo\" group !</p><p> Canceling installation ...</p>"
+msgstr "<p>システムへのアクセス権限がありません。\"sudo\" グループに所属していません !</p><p> インストールを中止します ...</p>"
 
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p><p>Cleaning and canceling now ...</p>"
-msgstr ""
+msgstr "<p>パッケージシステムが使用中のため、今はインストールできません。セットアップを続行できません。</p><p>このロックは、バックグラウンドで実行中のシステム更新が原因である可能性が高いです。その場合は、パッケージシステムの処理が終わるまでしばらくお待ちください。他のアプリケーションをインストールしていないことを確認し、数分後にセットアップをやり直してください。</p><p>後片付けをして中止します ...</p>"
 
 msgid "<p>Package system is in non consistent state, it has to be recovered manually. Installation cannot continue now.</p><p>Cleaning and canceling ...</p>"
-msgstr ""
+msgstr "<p>パッケージシステムの整合性が取れていないため、手動で修復する必要があります。今はインストールを続行できません。</p><p>後片付けをして中止します ...</p>"
 
 msgid "<p>Packages couldn't be downloaded, please check your Internet connection. Sorry, I cannot install now.</p><p>Cleaning and canceling ...</p>"
-msgstr ""
+msgstr "<p>パッケージをダウンロードできませんでした。インターネット接続を確認してください。申し訳ありませんが、今はインストールできません。</p><p>後片付けをして中止します ...</p>"
 
 msgid "<p>Simulation not successful, sorry, I cannot install now.</p><p>Cleaning and canceling ...</p>"
-msgstr ""
+msgstr "<p>シミュレーションに失敗しました。申し訳ありませんが、今はインストールできません。</p><p>後片付けをして中止します ...</p>"
 
 msgid "<p>Warning: Canceling installation during this phase could result in package system failure.</p><p>Are you really sure, you want to interrupt the install process now ?</p>"
-msgstr ""
+msgstr "<p>警告: この段階でインストールを中止すると、パッケージシステムが壊れる可能性があります。</p><p>本当に今インストール処理を中断しますか ?</p>"
+
+msgid "<p>You may not run setup under root !</p><p> Canceling installation ...</p>"
+msgstr "<p>root でセットアップを実行することはできません !</p><p> インストールを中止します ...</p>"
 
 msgid "Adding security keys ..."
-msgstr ""
+msgstr "セキュリティキーを追加しています ..."
 
 msgid "Adding security keys ... OK"
-msgstr ""
+msgstr "セキュリティキーを追加しています ... OK"
 
 msgid "Autofix not needed ... OK"
-msgstr ""
+msgstr "自動修復は不要です ... OK"
+
+msgid "Bad password !"
+msgstr "パスワードが違います !"
 
 msgid "Busy !"
-msgstr ""
+msgstr "使用中 !"
 
 msgid "CPU architecture doesn't match, exiting"
-msgstr ""
+msgstr "CPU アーキテクチャが一致しません。終了します"
 
 msgid "Calculating progress ..."
-msgstr ""
+msgstr "進行状況を計算しています ..."
 
 msgid "Cancel"
-msgstr ""
+msgstr "キャンセル"
 
 msgid "Canceling installation ..."
-msgstr ""
+msgstr "インストールを中止します ..."
 
 msgid "Cannot lock APT database, exiting ..."
-msgstr ""
+msgstr "APT データベースをロックできません。終了します ..."
 
 msgid "Cannot lock Flatpak framework, exiting ..."
-msgstr ""
+msgstr "Flatpak をロックできません。終了します ..."
+
+msgid "Checking architecture"
+msgstr "アーキテクチャを確認しています"
+
+msgid "Checking current user"
+msgstr "現在のユーザーを確認しています"
 
 msgid "Checking distro"
-msgstr ""
+msgstr "ディストリビューションを確認しています"
+
+msgid "Checking environment"
+msgstr "環境を確認しています"
+
+msgid "Checking for %1 software"
+msgstr "%1 ソフトウェアを確認しています"
 
 msgid "Checking installation ..."
-msgstr ""
+msgstr "インストールを確認しています ..."
 
 msgid "Checking installation ... Error !"
-msgstr ""
+msgstr "インストールを確認しています ... エラー !"
 
 msgid "Checking installation ... OK"
-msgstr ""
+msgstr "インストールを確認しています ... OK"
 
 msgid "Checking package system"
-msgstr ""
+msgstr "パッケージシステムを確認しています"
 
 msgid "Checking package system ..."
-msgstr ""
+msgstr "パッケージシステムを確認しています ..."
+
+msgid "Checking setup archive integrity"
+msgstr "セットアップアーカイブの整合性を確認しています"
+
+msgid "Checking user rights"
+msgstr "ユーザー権限を確認しています"
 
 msgid "Cleaning and canceling now ..."
-msgstr ""
+msgstr "後片付けをして中止します ..."
 
 msgid "Configuring Apt ..."
-msgstr ""
+msgstr "Apt を設定しています ..."
 
 msgid "Configuring Apt ... Done"
-msgstr ""
+msgstr "Apt を設定しています ... 完了"
 
 msgid "Copying system packages ..."
-msgstr ""
+msgstr "システムパッケージをコピーしています ..."
 
 msgid "Copying system packages ... Done"
-msgstr ""
+msgstr "システムパッケージをコピーしています ... 完了"
 
 msgid "Could not initialize, incorrect data header !"
-msgstr ""
+msgstr "初期化できません。データヘッダーが正しくありません !"
 
 msgid "Could not initialize, incorrect data header."
-msgstr ""
+msgstr "初期化できません。データヘッダーが正しくありません。"
 
 msgid "Could not run Q4OS low-level apt utilities ! It is a serious problem, breaking the installation ..."
-msgstr ""
+msgstr "Q4OS の低レベル apt ユーティリティを実行できません ! 重大な問題のため、インストールを中断します ..."
+
+msgid "Detecting operating system version"
+msgstr "オペレーティングシステムのバージョンを検出しています"
 
 msgid "Determining Flatpak configuration ... "
-msgstr ""
+msgstr "Flatpak の構成を確認しています ... "
 
 msgid "Distro"
-msgstr ""
+msgstr "ディストリビューション"
 
 msgid "Do you really want to cancel pending operation ?"
-msgstr ""
+msgstr "実行中の処理を本当にキャンセルしますか ?"
 
 msgid "Done"
-msgstr ""
+msgstr "完了"
 
 msgid "Downloading packages ..."
-msgstr ""
+msgstr "パッケージをダウンロードしています ..."
 
 msgid "Downloading packages ... Done"
-msgstr ""
+msgstr "パッケージをダウンロードしています ... 完了"
 
 msgid "Enter your password to continue:"
-msgstr ""
+msgstr "続行するにはパスワードを入力してください:"
 
 msgid "Extracting archive ..."
-msgstr ""
+msgstr "アーカイブを展開しています ..."
 
 msgid "Extracting archive ... Done"
-msgstr ""
+msgstr "アーカイブを展開しています ... 完了"
 
 msgid "Failed"
-msgstr ""
+msgstr "失敗"
+
+msgid "Failed !"
+msgstr "失敗 !"
 
 msgid "Failed. Configuration file doesn't exist."
-msgstr ""
+msgstr "失敗。設定ファイルが存在しません。"
 
 msgid "Failed. Input file doesn't exist."
-msgstr ""
+msgstr "失敗。入力ファイルが存在しません。"
 
 msgid "Finish >"
-msgstr ""
+msgstr "完了 >"
 
 msgid "Finishing installation ..."
-msgstr ""
+msgstr "インストールを完了しています ..."
 
 msgid "Flatpak framework is busy, another application is being installed just now."
-msgstr ""
+msgstr "Flatpak が使用中です。現在、別のアプリケーションをインストールしています。"
 
 msgid "Flatpak is installed, but the Flathub repository isn't included. Please add Flathub repository first. Canceling installation ..."
-msgstr ""
+msgstr "Flatpak はインストールされていますが、Flathub リポジトリが含まれていません。先に Flathub リポジトリを追加してください。インストールを中止します ..."
 
 msgid "Flatpak is not installed, so cancelling installation. Please install flatpak package first ..."
-msgstr ""
+msgstr "Flatpak がインストールされていないため、インストールを中止します。先に flatpak パッケージをインストールしてください ..."
 
 msgid "Flatpak isn't installed ... Cancel !"
-msgstr ""
+msgstr "Flatpak がインストールされていません ... キャンセル !"
 
 msgid "Flatpak isn't installed, exiting ..."
-msgstr ""
+msgstr "Flatpak がインストールされていません。終了します ..."
 
 msgid "I Agree"
-msgstr ""
+msgstr "同意する"
 
 msgid "If you accept the terms of the agreement, click I Agree to continue. You must accept the agreement to install _SUBST_SWNAME_ software."
-msgstr ""
+msgstr "契約の条項に同意する場合は、「同意する」をクリックして続行してください。_SUBST_SWNAME_ をインストールするには契約に同意する必要があります。"
 
 msgid "Install >"
-msgstr ""
+msgstr "インストール >"
 
 msgid "Installation failed !"
-msgstr ""
+msgstr "インストールに失敗しました !"
 
 msgid "Installation not successful."
-msgstr ""
+msgstr "インストールは成功しませんでした。"
 
 msgid "Installation successfully completed :-)"
-msgstr ""
+msgstr "インストールが正常に完了しました :-)"
 
 msgid "Installing files ..."
-msgstr ""
+msgstr "ファイルをインストールしています ..."
 
 msgid "Installing files ... OK"
-msgstr ""
+msgstr "ファイルをインストールしています ... OK"
 
 msgid "Installing package ..."
-msgstr ""
+msgstr "パッケージをインストールしています ..."
 
 msgid "Insufficient permissions, user isn't member of \"sudo\" group, exiting ..."
-msgstr ""
+msgstr "権限が不足しています。ユーザーは \"sudo\" グループのメンバーではありません。終了します ..."
 
 msgid "License text ..."
-msgstr ""
+msgstr "ライセンス文 ..."
 
 msgid "Next >"
-msgstr ""
+msgstr "次へ >"
 
 msgid "No Flathub repository ... Cancel !"
-msgstr ""
+msgstr "Flathub リポジトリがありません ... キャンセル !"
 
 msgid "No Flathub repository, exiting ..."
-msgstr ""
+msgstr "Flathub リポジトリがありません。終了します ..."
 
 msgid "Not ready"
-msgstr ""
+msgstr "準備ができていません"
 
 msgid "Package"
-msgstr ""
+msgstr "パッケージ"
 
 msgid "Package system ... Busy !"
-msgstr ""
+msgstr "パッケージシステム ... 使用中 !"
 
 msgid "Package system is busy, another application is being installed just now."
-msgstr ""
+msgstr "パッケージシステムが使用中です。現在、別のアプリケーションをインストールしています。"
 
 msgid "Package system not consistent ..."
-msgstr ""
+msgstr "パッケージシステムの整合性が取れていません ..."
 
 msgid "Package system still not consistent, canceling installation ..."
-msgstr ""
+msgstr "パッケージシステムの整合性がまだ取れていません。インストールを中止します ..."
 
 msgid "Partial update sw database ..."
-msgstr ""
+msgstr "ソフトウェアデータベースを部分更新しています ..."
 
 msgid "Partial update sw database ... Done"
-msgstr ""
+msgstr "ソフトウェアデータベースを部分更新しています ... 完了"
 
 msgid "Passed OK"
-msgstr ""
+msgstr "合格"
 
 msgid "Please make sure you are not installing another software and repeat setup few moments later."
-msgstr ""
+msgstr "他のソフトウェアをインストールしていないことを確認し、しばらくしてからセットアップをやり直してください。"
 
 msgid "Please make sure you are not installing another software and repeat the setup."
-msgstr ""
+msgstr "他のソフトウェアをインストールしていないことを確認し、セットアップをやり直してください。"
 
 msgid "Postinstall operations ..."
-msgstr ""
+msgstr "インストール後の処理 ..."
 
 msgid "Postinstall operations ... Done"
-msgstr ""
+msgstr "インストール後の処理 ... 完了"
 
 msgid "Postinstall operations, additional commands ..."
-msgstr ""
+msgstr "インストール後の処理、追加コマンド ..."
 
 msgid "Preparing installation files ..."
-msgstr ""
+msgstr "インストールファイルを準備しています ..."
 
 msgid "Preparing installation files ... OK"
-msgstr ""
+msgstr "インストールファイルを準備しています ... OK"
 
 msgid "Prerun script requested exit. Exit code:"
-msgstr ""
+msgstr "事前実行スクリプトが終了を要求しました。終了コード:"
 
 msgid "Press Page Down to see the rest of agreement."
-msgstr ""
+msgstr "契約の続きを見るには Page Down キーを押してください。"
 
 msgid "Q4OS Install System v1.0"
-msgstr ""
+msgstr "Q4OS インストールシステム v1.0"
 
 msgid "Recovered ... OK"
-msgstr ""
+msgstr "修復しました ... OK"
 
 msgid "Registering application ... OK"
-msgstr ""
+msgstr "アプリケーションを登録しています ... OK"
 
 msgid "Root permissions needed, exiting ..."
-msgstr ""
+msgstr "root 権限が必要です。終了します ..."
 
 msgid "Running custom scripts ..."
-msgstr ""
+msgstr "カスタムスクリプトを実行しています ..."
 
 msgid "Running custom scripts ... Done"
-msgstr ""
+msgstr "カスタムスクリプトを実行しています ... 完了"
 
 msgid "Searching for language packages ..."
-msgstr ""
+msgstr "言語パッケージを検索しています ..."
 
 msgid "Searching for language packages ... Done"
-msgstr ""
+msgstr "言語パッケージを検索しています ... 完了"
 
 msgid "Setup action:"
-msgstr ""
+msgstr "セットアップ処理:"
 
 msgid "Setup action:  "
-msgstr ""
+msgstr "セットアップ処理:  "
+
+msgid "Setup logfile \"%1\" cannot be saved !"
+msgstr "セットアップログファイル \"%1\" を保存できません !"
 
 msgid "Setup messages were recorded into logfile:"
-msgstr ""
+msgstr "セットアップのメッセージは次のログファイルに記録されました:"
 
 msgid "Setup wizard"
-msgstr ""
+msgstr "セットアップウィザード"
+
+msgid "Temporary setup directory not deleted."
+msgstr "一時セットアップディレクトリは削除されませんでした。"
 
 msgid "Testing Internet connection ..."
-msgstr ""
+msgstr "インターネット接続をテストしています ..."
 
 msgid "Testing Internet connection ... Failed !"
-msgstr ""
+msgstr "インターネット接続をテストしています ... 失敗 !"
 
 msgid "Testing Internet connection ... OK"
-msgstr ""
+msgstr "インターネット接続をテストしています ... OK"
 
 msgid "Testing installation ..."
-msgstr ""
+msgstr "インストールをテストしています ..."
 
 msgid "Testing installation ... Done"
-msgstr ""
+msgstr "インストールをテストしています ... 完了"
 
 msgid "The application doesn't support this system CPU architecture:"
-msgstr ""
+msgstr "このアプリケーションは、このシステムの CPU アーキテクチャに対応していません:"
 
 msgid "The lock can also be caused by a system update in progress in the background. In this case, you need to wait a few minutes for the package system to complete these operations."
-msgstr ""
+msgstr "このロックは、バックグラウンドで進行中のシステム更新が原因の場合もあります。その場合は、パッケージシステムの処理が完了するまで数分お待ちください。"
 
 msgid "The post installation check failed, the software may not have been installed correctly."
-msgstr ""
+msgstr "インストール後のチェックに失敗しました。ソフトウェアが正しくインストールされていない可能性があります。"
 
 msgid "Trying to recover APT integrity ..."
-msgstr ""
+msgstr "APT の整合性を回復しています ..."
 
 msgid "Unsupported distro"
-msgstr ""
+msgstr "対応していないディストリビューション"
 
 msgid "Update Apt database ..."
-msgstr ""
+msgstr "Apt データベースを更新しています ..."
 
 msgid "Update sw database ..."
-msgstr ""
+msgstr "ソフトウェアデータベースを更新しています ..."
 
 msgid "Update sw database ... Done"
-msgstr ""
+msgstr "ソフトウェアデータベースを更新しています ... 完了"
 
 msgid "Update system cache ..."
-msgstr ""
+msgstr "システムキャッシュを更新しています ..."
 
 msgid "Update system cache ... Done"
-msgstr ""
+msgstr "システムキャッシュを更新しています ... 完了"
 
 msgid "Upgrade Apt database ..."
-msgstr ""
+msgstr "Apt パッケージをアップグレードしています ..."
 
 msgid "Verified ... OK"
-msgstr ""
+msgstr "検証済み ... OK"
 
 msgid "Waiting to complete current operation ... Done"
-msgstr ""
+msgstr "現在の処理の完了を待っています ... 完了"
 
 msgid "Warning: cannot terminate proc_lock !"
-msgstr ""
+msgstr "警告: proc_lock を終了できません !"
 
 msgid "Warning: proc_lock is already running, trying to rerun qprocess !"
-msgstr ""
+msgstr "警告: proc_lock はすでに実行中です。qprocess の再実行を試みます !"
 
 msgid "You are trying to install flatpak based software."
-msgstr ""
+msgstr "flatpak 形式のソフトウェアをインストールしようとしています。"
 
 msgid "already installed, exiting ..."
-msgstr ""
+msgstr "はすでにインストールされています。終了します ..."
 
 msgid "clean"
-msgstr ""
+msgstr "なし"
 
 msgid "evaluating..."
-msgstr ""
+msgstr "評価中..."
 
 msgid "fine"
-msgstr ""
+msgstr "良好"
+
+msgid "good"
+msgstr "良好"
 
 msgid "installed ... Cancel !"
-msgstr ""
+msgstr "インストール済み ... キャンセル !"
+
+msgid "installed, newer version to upgrade"
+msgstr "インストール済み、新しいバージョンにアップグレードします"
 
 msgid "not installed"
-msgstr ""
+msgstr "未インストール"
 
 msgid "not supported, exiting ..."
-msgstr ""
+msgstr "には対応していません。終了します ..."
 
 msgid "ready"
-msgstr ""
+msgstr "準備完了"
 
 msgid "result:"
-msgstr ""
+msgstr "結果:"
+
+msgid "seems good"
+msgstr "問題なし"
 
 msgid "software is already installed, so cancelling installation ..."
-msgstr ""
+msgstr "はすでにインストールされているため、インストールを中止します ..."
+
+msgid "sufficient"
+msgstr "十分"
 
 msgid "type:"
-msgstr ""
+msgstr "種類:"
