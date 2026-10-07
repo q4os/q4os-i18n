@@ -18,6 +18,8 @@ file wherever they differ, and "Cloud sessions" below does not apply. The repo-s
   releases, Pages or repo settings.
 - Record every change you could not test in `UNTESTED.md` at the repo root (dated, one item per change; create
   the file if missing). The owner deletes items once tested.
+- Never edit `debian/changelog` or version strings: you cannot check them against the published apt repos,
+  and parallel pull requests would collide - the owner does version bumps.
 
 ## Commits and pull requests
 
@@ -31,7 +33,7 @@ file wherever they differ, and "Cloud sessions" below does not apply. The repo-s
 - Don't delete code to tidy up. Remove only what is clearly obsolete, and ask when unsure.
 - Weight is a feature: no new dependencies, services or large files without a stated reason.
 - Don't fight Debian: follow Debian packaging conventions; diverge only through a clear, maintained patch.
-- Never edit `debian/changelog` or version strings - the owner does version bumps. Versions only ever go up.
+- Versions only ever go up.
 - Call Qt tools by explicit path, never by bare name: bare `lupdate` / `lrelease` / `uic` can resolve to TDE's
   TQt tools and silently corrupt `.ts` files. Qt5 `/usr/lib/qt5/bin/`, Qt6 `/usr/lib/qt6/bin/`.
 - Shell scripts are POSIX `sh` unless the file says otherwise.
