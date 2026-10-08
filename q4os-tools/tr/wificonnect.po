@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Q4OS WiFi connect\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Close"
+msgstr "Kapat"
+
+msgid "Connect"
+msgstr "Bağlan"
+
+msgid "Connected"
+msgstr "Bağlı"
+
+msgid "Connection not successful, check the Wifi password please."
+msgstr "Bağlantı başarısız oldu, lütfen Wifi şifresini kontrol edin."
+
+msgid "Enter the password of the wireless network."
+msgstr "Kablosuz ağın şifresini girin."
+
+msgid "Network"
+msgstr "Ağ"
+
+msgid "Network settings tool not found."
+msgstr "Ağ ayarları aracı bulunamadı."
+
+msgid "No wireless networks found."
+msgstr "Kablosuz ağ bulunamadı."
+
+msgid "Other network settings ..."
+msgstr "Diğer ağ ayarları ..."
+
+msgid "Password:"
+msgstr "Şifre:"
+
+msgid "Search again"
+msgstr "Yeniden ara"
+
+msgid "Searching for wireless networks ..."
+msgstr "Kablosuz ağlar aranıyor ..."
+
+msgid "Searching for wireless networks failed."
+msgstr "Kablosuz ağ araması başarısız oldu."
+
+msgid "Security"
+msgstr "Güvenlik"
+
+msgid "Select the wireless network to connect to:"
+msgstr "Bağlanılacak kablosuz ağı seçin:"
+
+msgid "Show password"
+msgstr "Şifreyi göster"
+
+msgid "Signal"
+msgstr "Sinyal"
+
+msgid "The network tool 'nmcli' could not be started, wireless networks cannot be listed."
+msgstr "'nmcli' ağ aracı başlatılamadı, kablosuz ağlar listelenemiyor."
+
+msgid "The password must have at least 8 characters."
+msgstr "Şifre en az 8 karakter olmalıdır."
+
+msgid "This network needs an enterprise login. The network settings will be opened to set it up."
+msgstr "Bu ağ kurumsal oturum açma gerektiriyor. Ayarlamak için ağ ayarları açılacak."
+
+msgid "Trying to setup wireless network ..."
+msgstr "Kablosuz ağ kurulmaya çalışılıyor ..."
+
+msgid "WiFi setup"
+msgstr "WiFi kurulumu"
+
+msgid "open"
+msgstr "açık"
+
+msgid "This network needs an enterprise login, which cannot be set up here. Use the network manager of your desktop."
+msgstr "Bu ağ kurumsal oturum açma gerektiriyor ve burada ayarlanamaz. Masaüstünüzün ağ yöneticisini kullanın."
+
+msgid "Disconnect"
+msgstr "Bağlantıyı kes"
+
+msgid "Disconnecting from the wireless network ..."
+msgstr "Kablosuz ağ bağlantısı kesiliyor ..."
+
+msgid "Disconnecting failed."
+msgstr "Bağlantı kesilemedi."
+
+msgid "Connected to the wireless network:"
+msgstr "Kablosuz ağa bağlanıldı:"
+
+msgid "saved"
+msgstr "kayıtlı"

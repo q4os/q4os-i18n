@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Q4OS WiFi connect\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Close"
+msgstr "Chiudi"
+
+msgid "Connect"
+msgstr "Connetti"
+
+msgid "Connected"
+msgstr "Connesso"
+
+msgid "Connection not successful, check the Wifi password please."
+msgstr "Connessione non riuscita, controlla password Wifi per favore."
+
+msgid "Enter the password of the wireless network."
+msgstr "Inserisci la password della rete wireless."
+
+msgid "Network"
+msgstr "Rete"
+
+msgid "Network settings tool not found."
+msgstr "Strumento per le impostazioni di rete non trovato."
+
+msgid "No wireless networks found."
+msgstr "Nessuna rete wireless trovata."
+
+msgid "Other network settings ..."
+msgstr "Altre impostazioni di rete ..."
+
+msgid "Password:"
+msgstr "Password:"
+
+msgid "Search again"
+msgstr "Cerca di nuovo"
+
+msgid "Searching for wireless networks ..."
+msgstr "Ricerca delle reti wireless in corso ..."
+
+msgid "Searching for wireless networks failed."
+msgstr "Ricerca delle reti wireless non riuscita."
+
+msgid "Security"
+msgstr "Sicurezza"
+
+msgid "Select the wireless network to connect to:"
+msgstr "Seleziona la rete wireless a cui connetterti:"
+
+msgid "Show password"
+msgstr "Mostra password"
+
+msgid "Signal"
+msgstr "Segnale"
+
+msgid "The network tool 'nmcli' could not be started, wireless networks cannot be listed."
+msgstr "Impossibile avviare lo strumento di rete 'nmcli', non è possibile elencare le reti wireless."
+
+msgid "The password must have at least 8 characters."
+msgstr "La password deve contenere almeno 8 caratteri."
+
+msgid "This network needs an enterprise login. The network settings will be opened to set it up."
+msgstr "Questa rete richiede un accesso aziendale. Verranno aperte le impostazioni di rete per configurarlo."
+
+msgid "Trying to setup wireless network ..."
+msgstr "Tentativo di configurazione rete wireless in corso ..."
+
+msgid "WiFi setup"
+msgstr "Configurazione WiFi"
+
+msgid "open"
+msgstr "aperta"
+
+msgid "This network needs an enterprise login, which cannot be set up here. Use the network manager of your desktop."
+msgstr "Questa rete richiede un accesso aziendale, che non può essere configurato qui. Usa il gestore di rete del tuo desktop."
+
+msgid "Disconnect"
+msgstr "Disconnetti"
+
+msgid "Disconnecting from the wireless network ..."
+msgstr "Disconnessione dalla rete wireless in corso ..."
+
+msgid "Disconnecting failed."
+msgstr "Disconnessione non riuscita."
+
+msgid "Connected to the wireless network:"
+msgstr "Connesso alla rete wireless:"
+
+msgid "saved"
+msgstr "salvata"

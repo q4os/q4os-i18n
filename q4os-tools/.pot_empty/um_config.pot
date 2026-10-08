@@ -113,3 +113,6 @@ msgstr ""
 #, c-format
 msgid "%n hour"
 msgstr ""
+
+msgid "The settings could not be saved. Please check them and apply again."
+msgstr ""

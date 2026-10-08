@@ -303,3 +303,7 @@ msgstr ""
 
 #~ msgid "pushButton2"
 #~ msgstr "pushButton2"
+
+#. added 2026-10-06 with the string itself, not yet reviewed by a translator
+msgid "Checking for updates"
+msgstr "Zoeken naar updates"

@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Q4OS WiFi connect\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Close"
+msgstr "Schließen"
+
+msgid "Connect"
+msgstr "Verbinden"
+
+msgid "Connected"
+msgstr "Verbunden"
+
+msgid "Connection not successful, check the Wifi password please."
+msgstr "Verbindung nicht erfolgreich, überprüfen Sie bitte das WiFi-Passwort."
+
+msgid "Enter the password of the wireless network."
+msgstr "Geben Sie das Passwort des drahtlosen Netzwerks ein."
+
+msgid "Network"
+msgstr "Netzwerk"
+
+msgid "Network settings tool not found."
+msgstr "Werkzeug für Netzwerkeinstellungen nicht gefunden."
+
+msgid "No wireless networks found."
+msgstr "Keine drahtlosen Netzwerke gefunden."
+
+msgid "Other network settings ..."
+msgstr "Weitere Netzwerkeinstellungen ..."
+
+msgid "Password:"
+msgstr "Passwort:"
+
+msgid "Search again"
+msgstr "Erneut suchen"
+
+msgid "Searching for wireless networks ..."
+msgstr "Suche nach drahtlosen Netzwerken ..."
+
+msgid "Searching for wireless networks failed."
+msgstr "Die Suche nach drahtlosen Netzwerken ist fehlgeschlagen."
+
+msgid "Security"
+msgstr "Sicherheit"
+
+msgid "Select the wireless network to connect to:"
+msgstr "Wählen Sie das drahtlose Netzwerk, mit dem Sie sich verbinden möchten:"
+
+msgid "Show password"
+msgstr "Passwort anzeigen"
+
+msgid "Signal"
+msgstr "Signal"
+
+msgid "The network tool 'nmcli' could not be started, wireless networks cannot be listed."
+msgstr "Das Netzwerkwerkzeug 'nmcli' konnte nicht gestartet werden, drahtlose Netzwerke können nicht aufgelistet werden."
+
+msgid "The password must have at least 8 characters."
+msgstr "Das Passwort muss mindestens 8 Zeichen lang sein."
+
+msgid "This network needs an enterprise login. The network settings will be opened to set it up."
+msgstr "Dieses Netzwerk erfordert eine Unternehmensanmeldung. Zum Einrichten werden die Netzwerkeinstellungen geöffnet."
+
+msgid "Trying to setup wireless network ..."
+msgstr "Versuch, drahtloses Netzwerk einzurichten ..."
+
+msgid "WiFi setup"
+msgstr "WLAN-Einrichtung"
+
+msgid "open"
+msgstr "offen"
+
+msgid "This network needs an enterprise login, which cannot be set up here. Use the network manager of your desktop."
+msgstr "Dieses Netzwerk erfordert eine Unternehmensanmeldung, die hier nicht eingerichtet werden kann. Verwenden Sie die Netzwerkverwaltung Ihres Desktops."
+
+msgid "Disconnect"
+msgstr "Trennen"
+
+msgid "Disconnecting from the wireless network ..."
+msgstr "Verbindung zum drahtlosen Netzwerk wird getrennt ..."
+
+msgid "Disconnecting failed."
+msgstr "Trennen fehlgeschlagen."
+
+msgid "Connected to the wireless network:"
+msgstr "Mit dem drahtlosen Netzwerk verbunden:"
+
+msgid "saved"
+msgstr "gespeichert"

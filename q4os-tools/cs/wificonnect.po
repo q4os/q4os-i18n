@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Q4OS WiFi connect\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Close"
+msgstr "Zavřít"
+
+msgid "Connect"
+msgstr "Připojit"
+
+msgid "Connected"
+msgstr "Připojeno"
+
+msgid "Connection not successful, check the Wifi password please."
+msgstr "Připojení se nezdařilo, zkontrolujte prosím heslo k Wi-Fi."
+
+msgid "Enter the password of the wireless network."
+msgstr "Zadejte heslo bezdrátové sítě."
+
+msgid "Network"
+msgstr "Síť"
+
+msgid "Network settings tool not found."
+msgstr "Nástroj pro nastavení sítě nebyl nalezen."
+
+msgid "No wireless networks found."
+msgstr "Nebyly nalezeny žádné bezdrátové sítě."
+
+msgid "Other network settings ..."
+msgstr "Další nastavení sítě ..."
+
+msgid "Password:"
+msgstr "Heslo:"
+
+msgid "Search again"
+msgstr "Hledat znovu"
+
+msgid "Searching for wireless networks ..."
+msgstr "Hledání bezdrátových sítí ..."
+
+msgid "Searching for wireless networks failed."
+msgstr "Hledání bezdrátových sítí se nezdařilo."
+
+msgid "Security"
+msgstr "Zabezpečení"
+
+msgid "Select the wireless network to connect to:"
+msgstr "Vyberte bezdrátovou síť, ke které se chcete připojit:"
+
+msgid "Show password"
+msgstr "Zobrazit heslo"
+
+msgid "Signal"
+msgstr "Signál"
+
+msgid "The network tool 'nmcli' could not be started, wireless networks cannot be listed."
+msgstr "Síťový nástroj 'nmcli' se nepodařilo spustit, bezdrátové sítě nelze vypsat."
+
+msgid "The password must have at least 8 characters."
+msgstr "Heslo musí mít alespoň 8 znaků."
+
+msgid "This network needs an enterprise login. The network settings will be opened to set it up."
+msgstr "Tato síť vyžaduje podnikové přihlášení. Pro jeho nastavení se otevře nastavení sítě."
+
+msgid "Trying to setup wireless network ..."
+msgstr "Pokus o nastavení bezdrátové sítě ..."
+
+msgid "WiFi setup"
+msgstr "Nastavení Wi-Fi"
+
+msgid "open"
+msgstr "otevřená"
+
+msgid "This network needs an enterprise login, which cannot be set up here. Use the network manager of your desktop."
+msgstr "Tato síť vyžaduje podnikové přihlášení, které zde nelze nastavit. Použijte správce sítě vašeho prostředí."
+
+msgid "Disconnect"
+msgstr "Odpojit"
+
+msgid "Disconnecting from the wireless network ..."
+msgstr "Odpojování od bezdrátové sítě ..."
+
+msgid "Disconnecting failed."
+msgstr "Odpojení se nezdařilo."
+
+msgid "Connected to the wireless network:"
+msgstr "Připojeno k bezdrátové síti:"
+
+msgid "saved"
+msgstr "uložená"

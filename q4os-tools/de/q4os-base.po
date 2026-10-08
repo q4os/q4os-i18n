@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: q4os-base\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-27 16:49+0200\n"
+"POT-Creation-Date: 2026-10-05 17:31+0200\n"
 "PO-Revision-Date: 2025-07-01 21:39+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -33,6 +33,10 @@ msgstr "<b>Warnung</b>"
 #, sh-format
 msgid "Asus Eee PC laptop detected, extra configuration will be performed."
 msgstr "Asus Eee PC Laptop erkannt, zusätzliche Konfiguration wird durchgeführt."
+
+#, sh-format
+msgid "Broadcom WiFi driver"
+msgstr "Broadcom-WLAN-Treiber"
 
 #, sh-format
 msgid "Check Internet connection, please."
@@ -71,10 +75,6 @@ msgid "Congratulations, setup has finished."
 msgstr "Herzlichen Glückwunsch, Einrichtung ist abgeschlossen."
 
 #, sh-format
-msgid "Connection not successful, check the Wifi password please."
-msgstr "Verbindung nicht erfolgreich, überprüfen Sie bitte das WiFi-Passwort."
-
-#, sh-format
 msgid "Current system language: <b>English</b>"
 msgstr "Aktuelle Systemsprache: <b>English</b>"
 
@@ -91,10 +91,6 @@ msgid "Do you want to continue ?"
 msgstr "Möchten Sie fortfahren?"
 
 #, sh-format
-msgid "Do you want to download and install <b>Look Switcher</b> just now ?"
-msgstr "Möchten Sie <b>Look Switcher</b> gerade jetzt herunterladen und installieren?"
-
-#, sh-format
 msgid "Do you want to install <b>${APF1}</b> just now ?"
 msgstr "Möchten Sie <b>${APF1}</b> gerade jetzt installieren?"
 
@@ -103,12 +99,20 @@ msgid "Do you want to keep English as default system language ?"
 msgstr "Möchten Sie Englisch als per Default vorgegebene Systemsprache beibehalten?"
 
 #, sh-format
+msgid "Do you want to open it now ?"
+msgstr "Möchten Sie es jetzt öffnen?"
+
+#, sh-format
 msgid "Download failed !"
 msgstr "Herunterladen fehlgeschlagen!"
 
 #, sh-format
 msgid "Downloading language pack, please wait ..."
 msgstr "Herunterladen von Sprachpaket, bitte warten Sie ..."
+
+#, sh-format
+msgid "Drivers"
+msgstr "Treiber"
 
 #, sh-format
 msgid "For more detailed info read Q4OS documentation at https://www.q4os.org"
@@ -139,10 +143,6 @@ msgid "Installation has not completed, package system is busy. You can easily in
 msgstr "Installation wurde nicht abgeschlossen, Paketsystem ist ausgelastet. Sie können das Sprachpaket später einfach unter Verwendung eines Desktop-Icons installieren."
 
 #, sh-format
-msgid "Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved."
-msgstr "Das Installationsprogramm muss Pakete aus den Q4OS-Internetressourcen herunterladen, aber es konnten keine Informationen abgerufen werden."
-
-#, sh-format
 msgid "Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved. You will be asked for ${APD} installation at the next login, or you can install anytime from Software centre."
 msgstr "Das Installationsprogramm muss Pakete aus den Q4OS-Internetressourcen herunterladen, aber es konnten keine Informationen abgerufen werden. Sie werden bei der nächsten Anmeldung zurr ${APD}-Installation aufgefordert, oder Sie können jederzeit aus dem Software-Center installieren."
 
@@ -167,8 +167,8 @@ msgid "Live media detected. Printers management may be limited within the live m
 msgstr "Live-Medium erkannt. Die Druckerverwaltung ist innerhalb der Live-Medien-Umgebung möglicherweise eingeschränkt. Sie ist nach der Installation von Q4OS vollständig verfügbar."
 
 #, sh-format
-msgid "Look Switcher installer and icons will be removed from control panel now, you can download it anytime from Q4OS software centre."
-msgstr "Das Look Switcher-Installationsprogramm und die Icons werden jetzt aus der Systemsteuerung entfernt. Sie können dies jederzeit aus dem Q4OS-Software-Center herunterladen."
+msgid "NVIDIA graphics driver"
+msgstr "NVIDIA-Grafiktreiber"
 
 #, sh-format
 msgid "Newly created items will appear in the start menu <b>after closing</b> the MenuEditor window."
@@ -179,20 +179,12 @@ msgid "No desktop profile has been applied yet. It's highly recommended to run <
 msgstr "Es ist noch kein Desktop-Profil angewendet worden. Es wird dringend empfohlen, das Tool <b>Desktop-Profiler</b> auszuführen und eines der verfügbaren Profile so bald wie möglich anzuwenden."
 
 #, sh-format
-msgid "Package system is busy now, setup cannot continue. You can install anytime from Q4OS software centre."
-msgstr "Paketsystem ist jetzt ausgelastet, Setup kann nicht fortgesetzt werden. Sie können jederzeit aus dem Q4OS-Software-Center installieren."
-
-#, sh-format
 msgid "Package system is busy now, setup cannot continue. You will be asked for ${APD} installation at the next login, or you can install anytime from Software centre."
 msgstr "Paketsystem ist jetzt ausgelastet, Setup kann nicht fortgesetzt werden. Sie werden bei der nächsten Anmeldung zur ${APD}-Installation aufgefordert, oder Sie können jederzeit aus dem Software-Center installieren."
 
 #, sh-format
 msgid "Package system is busy now, setup cannot continue. You will be asked for ${APF1} installation later again, or you can install anytime from Q4OS Software Centre."
 msgstr "Paketsystem ist jetzt ausgelastet, Setup kann nicht fortgesetzt werden. Sie werden später erneut zur ${APF1}-Installation aufgefordert, oder Sie können jederzeit aus dem Q4OS-Software-Center installieren."
-
-#, sh-format
-msgid "Package system is busy now, some other setup is running ! You will be asked for ${APD} installation later again, or you can install anytime from Q4OS software centre."
-msgstr "Paketsystem ist jetzt ausgelastet, ein anderes Setup wird ausgeführt! Sie werden später erneut zur ${APD}-Installation aufgefordert, oder Sie können jederzeit aus dem Q4OS-Software-Center installieren."
 
 #, sh-format
 msgid "Package system is busy now, some other setup is running ! You will be asked for ${APF1} installation later again, or you can install anytime from Q4OS Software Centre."
@@ -207,8 +199,8 @@ msgid "Printing subsystem is now deactivated, you need to install <b>CUPS layer 
 msgstr "Druck-Subsystem ist jetzt deaktiviert, Sie müssen zuerst <b>CUPS-Layer und Druckertreiber</b> installieren. Wenn Sie das Druck-Subsystem und den vollständigen Satz von Treibern aktivieren möchten, installieren Sie folgende Pakete:"
 
 #, sh-format
-msgid "Q4OS autodetected <b>${APF}</b> available <b>!</b>"
-msgstr "Q4OS automatisch erkannt <b>${APF}</b> verfügbar<b>!</b>"
+msgid "Q4OS autodetected <b>drivers</b> available <b>!</b>"
+msgstr "Q4OS hat automatisch verfügbare <b>Treiber</b> erkannt<b>!</b>"
 
 #, sh-format
 msgid "Select your language:"
@@ -239,16 +231,8 @@ msgid "Thank you for using Konqueror web browser. Konqueror is a minimalist and 
 msgstr "Vielen Dank, dass Sie den Webbrowser Konqueror verwenden. Konqueror ist ein minimalistischer und sehr schneller Browser für Benutzer, die einen leichtgewichtigen Internetzugang benötigen."
 
 #, sh-format
-msgid "Thank you for using Q4OS operating system. After setup of <b>Look Switcher</b>, you will be able to switch between different visual themes."
-msgstr "Vielen Dank, dass Sie das Betriebssystem Q4OS verwenden. Nach der Einrichtung von <b>Look Switcher</b>werden Sie in der Lage sein, zwischen verschiedenen visuellen Themen zu wechseln."
-
-#, sh-format
 msgid "Trinity session not detected. Please run this tool within Trinity desktop."
 msgstr "Trinity-Sitzung nicht erkannt. Bitte führen Sie dieses Tool innerhalb des Trinity-Desktops aus."
-
-#, sh-format
-msgid "Trying to setup wireless network ..."
-msgstr "Versuch, drahtloses Netzwerk einzurichten ..."
 
 #, sh-format
 msgid "Unable to download ${APD}, check Internet connection, please."
@@ -271,6 +255,10 @@ msgid "Would you like to be <b>notified at the next login</b> ? If you say \"No\
 msgstr "Möchten Sie <b>bei der nächsten Anmeldung benachrichtigt</b> werden? Wenn Sie \"Nein\" sagen, erscheint dieser Dialog nie wieder. Sie können ${APD} jederzeit aus dem <b>Software-Center</b> installieren."
 
 #, sh-format
+msgid "Would you like to be <b>notified at the next login</b> ? If you say \"No\", this dialog never appears again. You can review the drivers anytime in the <b>Hardware info</b> tool."
+msgstr "Möchten Sie <b>bei der nächsten Anmeldung benachrichtigt</b> werden? Wenn Sie \"Nein\" sagen, erscheint dieser Dialog nie wieder. Sie können die Treiber jederzeit im Werkzeug <b>Hardware-Info</b> einsehen."
+
+#, sh-format
 msgid "Would you like to be notified later ?"
 msgstr "Möchten Sie später benachrichtigt werden?"
 
@@ -287,12 +275,12 @@ msgid "Yes, this is the right way to test Q4OS operating system. It is <b>highly
 msgstr "Ja, das ist der richtige Weg, um das Betriebssystem Q4OS zu testen.. Es wird <b>dringend empfohlen</b>, <b>${APD}</b>innerhalb dieser virtuellen Maschine zu installieren. Es wird möglich sein, im Vollbildmodus anzuzeigen, ${APF}-Networking, Maustreiber und andere Funktionalität zu verwenden."
 
 #, sh-format
-msgid "Yes, you can install proprietary NVIDIA video drivers right now. This setup will download and auto-install all the needed."
-msgstr "Ja, Sie können sofort proprietäre NVIDIA-Grafiktreiber installieren. Dieses Setup wird alle benötigten Komponenten herunterladen und automatisch installieren."
-
-#, sh-format
 msgid "You are going to edit Start Menu."
 msgstr "Sie werden das Startmenü bearbeiten."
+
+#, sh-format
+msgid "You can review and install them in the <b>Hardware info</b> tool, on its <b>Drivers</b> tab."
+msgstr "Sie können sie im Werkzeug <b>Hardware-Info</b> auf der Registerkarte <b>Treiber</b> einsehen und installieren."
 
 #, sh-format
 msgid "You may want to enlarge text and widgets size to improve readability. Click OK to run a configuration tool for screen setup and scaling."
@@ -313,6 +301,46 @@ msgstr "Wird heruntergeladen ..."
 #, sh-format
 msgid "message"
 msgstr "Nachricht"
+
+#, sh-format
+#~ msgid "Connection not successful, check the Wifi password please."
+#~ msgstr "Verbindung nicht erfolgreich, überprüfen Sie bitte das WiFi-Passwort."
+
+#, sh-format
+#~ msgid "Do you want to download and install <b>Look Switcher</b> just now ?"
+#~ msgstr "Möchten Sie <b>Look Switcher</b> gerade jetzt herunterladen und installieren?"
+
+#, sh-format
+#~ msgid "Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved."
+#~ msgstr "Das Installationsprogramm muss Pakete aus den Q4OS-Internetressourcen herunterladen, aber es konnten keine Informationen abgerufen werden."
+
+#, sh-format
+#~ msgid "Look Switcher installer and icons will be removed from control panel now, you can download it anytime from Q4OS software centre."
+#~ msgstr "Das Look Switcher-Installationsprogramm und die Icons werden jetzt aus der Systemsteuerung entfernt. Sie können dies jederzeit aus dem Q4OS-Software-Center herunterladen."
+
+#, sh-format
+#~ msgid "Package system is busy now, setup cannot continue. You can install anytime from Q4OS software centre."
+#~ msgstr "Paketsystem ist jetzt ausgelastet, Setup kann nicht fortgesetzt werden. Sie können jederzeit aus dem Q4OS-Software-Center installieren."
+
+#, sh-format
+#~ msgid "Package system is busy now, some other setup is running ! You will be asked for ${APD} installation later again, or you can install anytime from Q4OS software centre."
+#~ msgstr "Paketsystem ist jetzt ausgelastet, ein anderes Setup wird ausgeführt! Sie werden später erneut zur ${APD}-Installation aufgefordert, oder Sie können jederzeit aus dem Q4OS-Software-Center installieren."
+
+#, sh-format
+#~ msgid "Q4OS autodetected <b>${APF}</b> available <b>!</b>"
+#~ msgstr "Q4OS automatisch erkannt <b>${APF}</b> verfügbar<b>!</b>"
+
+#, sh-format
+#~ msgid "Thank you for using Q4OS operating system. After setup of <b>Look Switcher</b>, you will be able to switch between different visual themes."
+#~ msgstr "Vielen Dank, dass Sie das Betriebssystem Q4OS verwenden. Nach der Einrichtung von <b>Look Switcher</b>werden Sie in der Lage sein, zwischen verschiedenen visuellen Themen zu wechseln."
+
+#, sh-format
+#~ msgid "Trying to setup wireless network ..."
+#~ msgstr "Versuch, drahtloses Netzwerk einzurichten ..."
+
+#, sh-format
+#~ msgid "Yes, you can install proprietary NVIDIA video drivers right now. This setup will download and auto-install all the needed."
+#~ msgstr "Ja, Sie können sofort proprietäre NVIDIA-Grafiktreiber installieren. Dieses Setup wird alle benötigten Komponenten herunterladen und automatisch installieren."
 
 #, sh-format
 #~ msgid "Click \"Ok\" button to run the tool."

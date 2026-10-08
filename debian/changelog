@@ -1,3 +1,26 @@
+q4os-i18n (3.17.6-a1) UNRELEASED; urgency=medium
+
+  [ Q4OS Team ]
+  * Stop shipping q4os-base.mo: q4os-base 4.31.15 compiles and installs that
+    domain itself now, from its own src/po corpus, at the same /usr/share/locale
+    path. It was the last catalog shipped from here: the package is empty from
+    this version on, a transitional package that can be removed.
+    The .po sources stay here so volunteers keep translating them with the rest;
+    the 18 languages q4os-base ships (Czech and Hebrew are new) are synced back
+    here complete, the regenerated template is merged into the other languages.
+  * New catalog for the volunteers: wificonnect, the WiFi connection tool of the
+    first login. q4os-wificonnect-common compiles and ships it; template and its
+    18 languages are mirrored here.
+  * calamares-debian synced from q4os_live_calamares: six new languages (he, id,
+    ja, tr, uk, zh_CN), the eight fuzzy ones reviewed and unmarked.
+  * q4os-shortcuts is used now: a_q4os/apply_shortcuts.sh writes its translations
+    into the .desktop and .directory files of a package source tree
+    (Name[xx]=, GenericName[xx]=, Comment[xx]=); first applied to q4os-base 4.31.15.
+    Its template is regenerated without the names of wallpapers, themes and icon
+    sets and without entries that no longer exist: 42 strings instead of 111.
+
+ -- Q4OS Team <devteam@q4os.org>  Mon, 05 Oct 2026 18:00:00 +0200
+
 q4os-i18n (3.17.5-a1) UNRELEASED; urgency=medium
 
   [ Q4OS Team ]

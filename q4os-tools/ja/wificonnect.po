@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Q4OS WiFi connect\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Close"
+msgstr "閉じる"
+
+msgid "Connect"
+msgstr "接続"
+
+msgid "Connected"
+msgstr "接続済み"
+
+msgid "Connection not successful, check the Wifi password please."
+msgstr "接続に失敗しました。WiFiのパスワードを確認してください。"
+
+msgid "Enter the password of the wireless network."
+msgstr "ワイヤレスネットワークのパスワードを入力してください。"
+
+msgid "Network"
+msgstr "ネットワーク"
+
+msgid "Network settings tool not found."
+msgstr "ネットワーク設定ツールが見つかりません。"
+
+msgid "No wireless networks found."
+msgstr "ワイヤレスネットワークが見つかりません。"
+
+msgid "Other network settings ..."
+msgstr "その他のネットワーク設定 ..."
+
+msgid "Password:"
+msgstr "パスワード:"
+
+msgid "Search again"
+msgstr "再検索"
+
+msgid "Searching for wireless networks ..."
+msgstr "ワイヤレスネットワークを検索しています ..."
+
+msgid "Searching for wireless networks failed."
+msgstr "ワイヤレスネットワークの検索に失敗しました。"
+
+msgid "Security"
+msgstr "セキュリティ"
+
+msgid "Select the wireless network to connect to:"
+msgstr "接続するワイヤレスネットワークを選択してください:"
+
+msgid "Show password"
+msgstr "パスワードを表示"
+
+msgid "Signal"
+msgstr "信号"
+
+msgid "The network tool 'nmcli' could not be started, wireless networks cannot be listed."
+msgstr "ネットワークツール 'nmcli' を起動できないため、ワイヤレスネットワークを一覧表示できません。"
+
+msgid "The password must have at least 8 characters."
+msgstr "パスワードは8文字以上である必要があります。"
+
+msgid "This network needs an enterprise login. The network settings will be opened to set it up."
+msgstr "このネットワークにはエンタープライズ認証が必要です。設定のためにネットワーク設定を開きます。"
+
+msgid "Trying to setup wireless network ..."
+msgstr "ワイヤレスネットワークを設定しようとしています..."
+
+msgid "WiFi setup"
+msgstr "WiFi設定"
+
+msgid "open"
+msgstr "オープン"
+
+msgid "This network needs an enterprise login, which cannot be set up here. Use the network manager of your desktop."
+msgstr "このネットワークにはエンタープライズ認証が必要ですが、ここでは設定できません。デスクトップのネットワークマネージャーを使用してください。"
+
+msgid "Disconnect"
+msgstr "切断"
+
+msgid "Disconnecting from the wireless network ..."
+msgstr "ワイヤレスネットワークから切断しています ..."
+
+msgid "Disconnecting failed."
+msgstr "切断に失敗しました。"
+
+msgid "Connected to the wireless network:"
+msgstr "ワイヤレスネットワークに接続しました:"
+
+msgid "saved"
+msgstr "保存済み"

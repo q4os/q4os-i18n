@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Q4OS WiFi connect\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "Connect"
+msgstr "Подключиться"
+
+msgid "Connected"
+msgstr "Подключено"
+
+msgid "Connection not successful, check the Wifi password please."
+msgstr "Подключение не удалось, проверьте, пожалуйста, пароль Wi-Fi."
+
+msgid "Enter the password of the wireless network."
+msgstr "Введите пароль беспроводной сети."
+
+msgid "Network"
+msgstr "Сеть"
+
+msgid "Network settings tool not found."
+msgstr "Средство настройки сети не найдено."
+
+msgid "No wireless networks found."
+msgstr "Беспроводные сети не найдены."
+
+msgid "Other network settings ..."
+msgstr "Другие параметры сети ..."
+
+msgid "Password:"
+msgstr "Пароль:"
+
+msgid "Search again"
+msgstr "Искать снова"
+
+msgid "Searching for wireless networks ..."
+msgstr "Поиск беспроводных сетей ..."
+
+msgid "Searching for wireless networks failed."
+msgstr "Не удалось выполнить поиск беспроводных сетей."
+
+msgid "Security"
+msgstr "Защита"
+
+msgid "Select the wireless network to connect to:"
+msgstr "Выберите беспроводную сеть для подключения:"
+
+msgid "Show password"
+msgstr "Показать пароль"
+
+msgid "Signal"
+msgstr "Сигнал"
+
+msgid "The network tool 'nmcli' could not be started, wireless networks cannot be listed."
+msgstr "Не удалось запустить сетевую утилиту 'nmcli', список беспроводных сетей недоступен."
+
+msgid "The password must have at least 8 characters."
+msgstr "Пароль должен содержать не менее 8 символов."
+
+msgid "This network needs an enterprise login. The network settings will be opened to set it up."
+msgstr "Для этой сети требуется корпоративный вход. Для его настройки будут открыты параметры сети."
+
+msgid "Trying to setup wireless network ..."
+msgstr "Попытка настроить беспроводную сеть…"
+
+msgid "WiFi setup"
+msgstr "Настройка Wi-Fi"
+
+msgid "open"
+msgstr "открытая"
+
+msgid "This network needs an enterprise login, which cannot be set up here. Use the network manager of your desktop."
+msgstr "Для этой сети требуется корпоративный вход, который здесь настроить нельзя. Воспользуйтесь сетевым менеджером рабочего стола."
+
+msgid "Disconnect"
+msgstr "Отключиться"
+
+msgid "Disconnecting from the wireless network ..."
+msgstr "Отключение от беспроводной сети ..."
+
+msgid "Disconnecting failed."
+msgstr "Не удалось отключиться."
+
+msgid "Connected to the wireless network:"
+msgstr "Подключено к беспроводной сети:"
+
+msgid "saved"
+msgstr "сохранена"

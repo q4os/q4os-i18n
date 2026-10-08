@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Q4OS WiFi connect\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Close"
+msgstr "Zamknij"
+
+msgid "Connect"
+msgstr "Połącz"
+
+msgid "Connected"
+msgstr "Połączono"
+
+msgid "Connection not successful, check the Wifi password please."
+msgstr "Połączenie nieudane, sprawdź hasło WiFi."
+
+msgid "Enter the password of the wireless network."
+msgstr "Wpisz hasło sieci bezprzewodowej."
+
+msgid "Network"
+msgstr "Sieć"
+
+msgid "Network settings tool not found."
+msgstr "Nie znaleziono narzędzia ustawień sieci."
+
+msgid "No wireless networks found."
+msgstr "Nie znaleziono sieci bezprzewodowych."
+
+msgid "Other network settings ..."
+msgstr "Inne ustawienia sieci ..."
+
+msgid "Password:"
+msgstr "Hasło:"
+
+msgid "Search again"
+msgstr "Szukaj ponownie"
+
+msgid "Searching for wireless networks ..."
+msgstr "Wyszukiwanie sieci bezprzewodowych ..."
+
+msgid "Searching for wireless networks failed."
+msgstr "Wyszukiwanie sieci bezprzewodowych nie powiodło się."
+
+msgid "Security"
+msgstr "Zabezpieczenia"
+
+msgid "Select the wireless network to connect to:"
+msgstr "Wybierz sieć bezprzewodową, z którą chcesz się połączyć:"
+
+msgid "Show password"
+msgstr "Pokaż hasło"
+
+msgid "Signal"
+msgstr "Sygnał"
+
+msgid "The network tool 'nmcli' could not be started, wireless networks cannot be listed."
+msgstr "Nie udało się uruchomić narzędzia sieciowego 'nmcli', nie można wyświetlić sieci bezprzewodowych."
+
+msgid "The password must have at least 8 characters."
+msgstr "Hasło musi mieć co najmniej 8 znaków."
+
+msgid "This network needs an enterprise login. The network settings will be opened to set it up."
+msgstr "Ta sieć wymaga logowania firmowego. Aby je skonfigurować, zostaną otwarte ustawienia sieci."
+
+msgid "Trying to setup wireless network ..."
+msgstr "Próba skonfigurowania sieci bezprzewodowej ..."
+
+msgid "WiFi setup"
+msgstr "Konfiguracja WiFi"
+
+msgid "open"
+msgstr "otwarta"
+
+msgid "This network needs an enterprise login, which cannot be set up here. Use the network manager of your desktop."
+msgstr "Ta sieć wymaga logowania firmowego, którego nie można tutaj skonfigurować. Użyj menedżera sieci swojego pulpitu."
+
+msgid "Disconnect"
+msgstr "Rozłącz"
+
+msgid "Disconnecting from the wireless network ..."
+msgstr "Rozłączanie z siecią bezprzewodową ..."
+
+msgid "Disconnecting failed."
+msgstr "Rozłączenie nie powiodło się."
+
+msgid "Connected to the wireless network:"
+msgstr "Połączono z siecią bezprzewodową:"
+
+msgid "saved"
+msgstr "zapisana"

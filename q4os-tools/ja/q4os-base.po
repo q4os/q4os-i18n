@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: q4os-base\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-27 16:49+0200\n"
+"POT-Creation-Date: 2026-10-05 17:31+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -32,6 +32,10 @@ msgstr "<b>警告</b>"
 #, sh-format
 msgid "Asus Eee PC laptop detected, extra configuration will be performed."
 msgstr "Asus Eee PCノートパソコンが検出されました。追加の設定が行われます。"
+
+#, sh-format
+msgid "Broadcom WiFi driver"
+msgstr "Broadcom WiFiドライバー"
 
 #, sh-format
 msgid "Check Internet connection, please."
@@ -70,10 +74,6 @@ msgid "Congratulations, setup has finished."
 msgstr "おめでとうございます、セットアップが完了しました。"
 
 #, sh-format
-msgid "Connection not successful, check the Wifi password please."
-msgstr "接続に失敗しました。WiFiのパスワードを確認してください。"
-
-#, sh-format
 msgid "Current system language: <b>English</b>"
 msgstr "現在のシステム言語: <b>英語</b>"
 
@@ -90,10 +90,6 @@ msgid "Do you want to continue ?"
 msgstr "続行しますか?"
 
 #, sh-format
-msgid "Do you want to download and install <b>Look Switcher</b> just now ?"
-msgstr "今すぐ<b>Look Switcher</b>をダウンロードしてインストールしますか?"
-
-#, sh-format
 msgid "Do you want to install <b>${APF1}</b> just now ?"
 msgstr "今すぐ<b>${APF1}</b>をインストールしますか?"
 
@@ -102,12 +98,20 @@ msgid "Do you want to keep English as default system language ?"
 msgstr "英語をデフォルトのシステム言語のままにしますか?"
 
 #, sh-format
+msgid "Do you want to open it now ?"
+msgstr "今すぐ開きますか?"
+
+#, sh-format
 msgid "Download failed !"
 msgstr "ダウンロードに失敗しました！"
 
 #, sh-format
 msgid "Downloading language pack, please wait ..."
 msgstr "言語パックをダウンロードしています。しばらくお待ちください..."
+
+#, sh-format
+msgid "Drivers"
+msgstr "ドライバー"
 
 #, sh-format
 msgid "For more detailed info read Q4OS documentation at https://www.q4os.org"
@@ -138,10 +142,6 @@ msgid "Installation has not completed, package system is busy. You can easily in
 msgstr "インストールが完了していません。パッケージシステムがビジー状態です。後でデスクトップアイコンを使って言語パックを簡単にインストールできます。"
 
 #, sh-format
-msgid "Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved."
-msgstr "インストーラーはQ4OSのインターネットリソースからパッケージをダウンロードする必要がありますが、情報を取得できませんでした。"
-
-#, sh-format
 msgid "Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved. You will be asked for ${APD} installation at the next login, or you can install anytime from Software centre."
 msgstr "インストーラーはQ4OSのインターネットリソースからパッケージをダウンロードする必要がありますが、情報を取得できませんでした。次回のログイン時に${APD}のインストールを求められるか、ソフトウェアセンターからいつでもインストールできます。"
 
@@ -166,8 +166,8 @@ msgid "Live media detected. Printers management may be limited within the live m
 msgstr "ライブメディアが検出されました。ライブメディア環境ではプリンター管理が制限される場合があります。Q4OSのインストール後に完全に利用可能になります。"
 
 #, sh-format
-msgid "Look Switcher installer and icons will be removed from control panel now, you can download it anytime from Q4OS software centre."
-msgstr "Look Switcherのインストーラーとアイコンはコントロールパネルから削除されます。Q4OSソフトウェアセンターからいつでもダウンロードできます。"
+msgid "NVIDIA graphics driver"
+msgstr "NVIDIAグラフィックドライバー"
 
 #, sh-format
 msgid "Newly created items will appear in the start menu <b>after closing</b> the MenuEditor window."
@@ -178,20 +178,12 @@ msgid "No desktop profile has been applied yet. It's highly recommended to run <
 msgstr "デスクトッププロファイルはまだ適用されていません。<b>Desktop Profiler</b>ツールを実行し、できるだけ早く利用可能なプロファイルのいずれかを適用することを強くお勧めします。"
 
 #, sh-format
-msgid "Package system is busy now, setup cannot continue. You can install anytime from Q4OS software centre."
-msgstr "パッケージシステムが現在ビジー状態のため、セットアップを続行できません。Q4OSソフトウェアセンターからいつでもインストールできます。"
-
-#, sh-format
 msgid "Package system is busy now, setup cannot continue. You will be asked for ${APD} installation at the next login, or you can install anytime from Software centre."
 msgstr "パッケージシステムが現在ビジー状態のため、セットアップを続行できません。次回のログイン時に${APD}のインストールを求められるか、ソフトウェアセンターからいつでもインストールできます。"
 
 #, sh-format
 msgid "Package system is busy now, setup cannot continue. You will be asked for ${APF1} installation later again, or you can install anytime from Q4OS Software Centre."
 msgstr "パッケージシステムが現在ビジー状態のため、セットアップを続行できません。後でもう一度${APF1}のインストールを求められるか、Q4OSソフトウェアセンターからいつでもインストールできます。"
-
-#, sh-format
-msgid "Package system is busy now, some other setup is running ! You will be asked for ${APD} installation later again, or you can install anytime from Q4OS software centre."
-msgstr "パッケージシステムが現在ビジー状態で、他のセットアップが実行されています！後でもう一度${APD}のインストールを求められるか、Q4OSソフトウェアセンターからいつでもインストールできます。"
 
 #, sh-format
 msgid "Package system is busy now, some other setup is running ! You will be asked for ${APF1} installation later again, or you can install anytime from Q4OS Software Centre."
@@ -206,8 +198,8 @@ msgid "Printing subsystem is now deactivated, you need to install <b>CUPS layer 
 msgstr "印刷サブシステムは現在無効になっています。まず<b>CUPSレイヤーとプリンタードライバー</b>をインストールする必要があります。印刷サブシステムと完全なドライバーセットを有効にするには、次のパッケージをインストールしてください:"
 
 #, sh-format
-msgid "Q4OS autodetected <b>${APF}</b> available <b>!</b>"
-msgstr "Q4OSは<b>${APF}</b>が利用可能であることを自動検出しました<b>！</b>"
+msgid "Q4OS autodetected <b>drivers</b> available <b>!</b>"
+msgstr "Q4OSが利用可能な<b>ドライバー</b>を自動検出しました<b>!</b>"
 
 #, sh-format
 msgid "Select your language:"
@@ -238,16 +230,8 @@ msgid "Thank you for using Konqueror web browser. Konqueror is a minimalist and 
 msgstr "Konquerorウェブブラウザをご利用いただきありがとうございます。Konquerorは、軽量なインターネットアクセスを必要とするユーザー向けのミニマルで非常に高速なブラウザです。"
 
 #, sh-format
-msgid "Thank you for using Q4OS operating system. After setup of <b>Look Switcher</b>, you will be able to switch between different visual themes."
-msgstr "Q4OSオペレーティングシステムをご利用いただきありがとうございます。<b>Look Switcher</b>のセットアップ後、さまざまなビジュアルテーマを切り替えられるようになります。"
-
-#, sh-format
 msgid "Trinity session not detected. Please run this tool within Trinity desktop."
 msgstr "Trinityセッションが検出されませんでした。Trinityデスクトップ内でこのツールを実行してください。"
-
-#, sh-format
-msgid "Trying to setup wireless network ..."
-msgstr "ワイヤレスネットワークを設定しようとしています..."
 
 #, sh-format
 msgid "Unable to download ${APD}, check Internet connection, please."
@@ -270,6 +254,10 @@ msgid "Would you like to be <b>notified at the next login</b> ? If you say \"No\
 msgstr "<b>次回のログイン時に通知</b>を受け取りますか? 「いいえ」を選択すると、このダイアログは二度と表示されません。${APD}は<b>ソフトウェアセンター</b>からいつでもインストールできます。"
 
 #, sh-format
+msgid "Would you like to be <b>notified at the next login</b> ? If you say \"No\", this dialog never appears again. You can review the drivers anytime in the <b>Hardware info</b> tool."
+msgstr "<b>次回のログイン時に通知</b>を受け取りますか? 「いいえ」を選択すると、このダイアログは二度と表示されません。ドライバーは<b>ハードウェア情報</b>ツールでいつでも確認できます。"
+
+#, sh-format
 msgid "Would you like to be notified later ?"
 msgstr "後で通知を受け取りますか?"
 
@@ -286,12 +274,12 @@ msgid "Yes, this is the right way to test Q4OS operating system. It is <b>highly
 msgstr "はい、これはQ4OSオペレーティングシステムをテストする正しい方法です。この仮想マシン内に<b>${APD}</b>をインストールすることを<b>強くお勧めします</b>。フルスクリーン表示や、${APF}のネットワーク機能、マウスドライバーなどの機能を利用できるようになります。"
 
 #, sh-format
-msgid "Yes, you can install proprietary NVIDIA video drivers right now. This setup will download and auto-install all the needed."
-msgstr "はい、今すぐNVIDIAのプロプライエタリなビデオドライバーをインストールできます。このセットアップは、必要なものをすべてダウンロードして自動インストールします。"
-
-#, sh-format
 msgid "You are going to edit Start Menu."
 msgstr "スタートメニューを編集しようとしています。"
+
+#, sh-format
+msgid "You can review and install them in the <b>Hardware info</b> tool, on its <b>Drivers</b> tab."
+msgstr "<b>ハードウェア情報</b>ツールの<b>ドライバー</b>タブで確認およびインストールできます。"
 
 #, sh-format
 msgid "You may want to enlarge text and widgets size to improve readability. Click OK to run a configuration tool for screen setup and scaling."
@@ -312,3 +300,43 @@ msgstr "ダウンロード中..."
 #, sh-format
 msgid "message"
 msgstr "メッセージ"
+
+#, sh-format
+#~ msgid "Connection not successful, check the Wifi password please."
+#~ msgstr "接続に失敗しました。WiFiのパスワードを確認してください。"
+
+#, sh-format
+#~ msgid "Do you want to download and install <b>Look Switcher</b> just now ?"
+#~ msgstr "今すぐ<b>Look Switcher</b>をダウンロードしてインストールしますか?"
+
+#, sh-format
+#~ msgid "Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved."
+#~ msgstr "インストーラーはQ4OSのインターネットリソースからパッケージをダウンロードする必要がありますが、情報を取得できませんでした。"
+
+#, sh-format
+#~ msgid "Look Switcher installer and icons will be removed from control panel now, you can download it anytime from Q4OS software centre."
+#~ msgstr "Look Switcherのインストーラーとアイコンはコントロールパネルから削除されます。Q4OSソフトウェアセンターからいつでもダウンロードできます。"
+
+#, sh-format
+#~ msgid "Package system is busy now, setup cannot continue. You can install anytime from Q4OS software centre."
+#~ msgstr "パッケージシステムが現在ビジー状態のため、セットアップを続行できません。Q4OSソフトウェアセンターからいつでもインストールできます。"
+
+#, sh-format
+#~ msgid "Package system is busy now, some other setup is running ! You will be asked for ${APD} installation later again, or you can install anytime from Q4OS software centre."
+#~ msgstr "パッケージシステムが現在ビジー状態で、他のセットアップが実行されています！後でもう一度${APD}のインストールを求められるか、Q4OSソフトウェアセンターからいつでもインストールできます。"
+
+#, sh-format
+#~ msgid "Q4OS autodetected <b>${APF}</b> available <b>!</b>"
+#~ msgstr "Q4OSは<b>${APF}</b>が利用可能であることを自動検出しました<b>！</b>"
+
+#, sh-format
+#~ msgid "Thank you for using Q4OS operating system. After setup of <b>Look Switcher</b>, you will be able to switch between different visual themes."
+#~ msgstr "Q4OSオペレーティングシステムをご利用いただきありがとうございます。<b>Look Switcher</b>のセットアップ後、さまざまなビジュアルテーマを切り替えられるようになります。"
+
+#, sh-format
+#~ msgid "Trying to setup wireless network ..."
+#~ msgstr "ワイヤレスネットワークを設定しようとしています..."
+
+#, sh-format
+#~ msgid "Yes, you can install proprietary NVIDIA video drivers right now. This setup will download and auto-install all the needed."
+#~ msgstr "はい、今すぐNVIDIAのプロプライエタリなビデオドライバーをインストールできます。このセットアップは、必要なものをすべてダウンロードして自動インストールします。"

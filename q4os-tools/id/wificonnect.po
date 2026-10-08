@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Q4OS WiFi connect\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Close"
+msgstr "Tutup"
+
+msgid "Connect"
+msgstr "Sambungkan"
+
+msgid "Connected"
+msgstr "Tersambung"
+
+msgid "Connection not successful, check the Wifi password please."
+msgstr "Koneksi tidak berhasil, silakan periksa kata sandi Wifi."
+
+msgid "Enter the password of the wireless network."
+msgstr "Masukkan kata sandi jaringan nirkabel."
+
+msgid "Network"
+msgstr "Jaringan"
+
+msgid "Network settings tool not found."
+msgstr "Alat pengaturan jaringan tidak ditemukan."
+
+msgid "No wireless networks found."
+msgstr "Tidak ada jaringan nirkabel yang ditemukan."
+
+msgid "Other network settings ..."
+msgstr "Pengaturan jaringan lainnya ..."
+
+msgid "Password:"
+msgstr "Kata sandi:"
+
+msgid "Search again"
+msgstr "Cari lagi"
+
+msgid "Searching for wireless networks ..."
+msgstr "Mencari jaringan nirkabel ..."
+
+msgid "Searching for wireless networks failed."
+msgstr "Pencarian jaringan nirkabel gagal."
+
+msgid "Security"
+msgstr "Keamanan"
+
+msgid "Select the wireless network to connect to:"
+msgstr "Pilih jaringan nirkabel yang ingin disambungkan:"
+
+msgid "Show password"
+msgstr "Tampilkan kata sandi"
+
+msgid "Signal"
+msgstr "Sinyal"
+
+msgid "The network tool 'nmcli' could not be started, wireless networks cannot be listed."
+msgstr "Alat jaringan 'nmcli' tidak dapat dijalankan, jaringan nirkabel tidak dapat ditampilkan."
+
+msgid "The password must have at least 8 characters."
+msgstr "Kata sandi harus terdiri dari minimal 8 karakter."
+
+msgid "This network needs an enterprise login. The network settings will be opened to set it up."
+msgstr "Jaringan ini memerlukan login perusahaan. Pengaturan jaringan akan dibuka untuk mengaturnya."
+
+msgid "Trying to setup wireless network ..."
+msgstr "Mencoba mengatur jaringan nirkabel ..."
+
+msgid "WiFi setup"
+msgstr "Pengaturan WiFi"
+
+msgid "open"
+msgstr "terbuka"
+
+msgid "This network needs an enterprise login, which cannot be set up here. Use the network manager of your desktop."
+msgstr "Jaringan ini memerlukan login perusahaan, yang tidak dapat diatur di sini. Gunakan pengelola jaringan desktop Anda."
+
+msgid "Disconnect"
+msgstr "Putuskan"
+
+msgid "Disconnecting from the wireless network ..."
+msgstr "Memutuskan sambungan dari jaringan nirkabel ..."
+
+msgid "Disconnecting failed."
+msgstr "Pemutusan sambungan gagal."
+
+msgid "Connected to the wireless network:"
+msgstr "Tersambung ke jaringan nirkabel:"
+
+msgid "saved"
+msgstr "tersimpan"

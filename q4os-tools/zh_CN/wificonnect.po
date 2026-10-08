@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Q4OS WiFi connect\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Connect"
+msgstr "连接"
+
+msgid "Connected"
+msgstr "已连接"
+
+msgid "Connection not successful, check the Wifi password please."
+msgstr "连接未成功，请检查 Wifi 密码。"
+
+msgid "Enter the password of the wireless network."
+msgstr "请输入无线网络的密码。"
+
+msgid "Network"
+msgstr "网络"
+
+msgid "Network settings tool not found."
+msgstr "未找到网络设置工具。"
+
+msgid "No wireless networks found."
+msgstr "未找到无线网络。"
+
+msgid "Other network settings ..."
+msgstr "其他网络设置 ..."
+
+msgid "Password:"
+msgstr "密码："
+
+msgid "Search again"
+msgstr "重新搜索"
+
+msgid "Searching for wireless networks ..."
+msgstr "正在搜索无线网络 ..."
+
+msgid "Searching for wireless networks failed."
+msgstr "搜索无线网络失败。"
+
+msgid "Security"
+msgstr "安全性"
+
+msgid "Select the wireless network to connect to:"
+msgstr "请选择要连接的无线网络："
+
+msgid "Show password"
+msgstr "显示密码"
+
+msgid "Signal"
+msgstr "信号"
+
+msgid "The network tool 'nmcli' could not be started, wireless networks cannot be listed."
+msgstr "无法启动网络工具“nmcli”，无法列出无线网络。"
+
+msgid "The password must have at least 8 characters."
+msgstr "密码至少需要 8 个字符。"
+
+msgid "This network needs an enterprise login. The network settings will be opened to set it up."
+msgstr "此网络需要企业登录。将打开网络设置进行配置。"
+
+msgid "Trying to setup wireless network ..."
+msgstr "正在尝试设置无线网络……"
+
+msgid "WiFi setup"
+msgstr "WiFi 设置"
+
+msgid "open"
+msgstr "开放"
+
+msgid "This network needs an enterprise login, which cannot be set up here. Use the network manager of your desktop."
+msgstr "此网络需要企业登录，无法在此处设置。请使用桌面的网络管理器。"
+
+msgid "Disconnect"
+msgstr "断开连接"
+
+msgid "Disconnecting from the wireless network ..."
+msgstr "正在断开无线网络 ..."
+
+msgid "Disconnecting failed."
+msgstr "断开连接失败。"
+
+msgid "Connected to the wireless network:"
+msgstr "已连接到无线网络："
+
+msgid "saved"
+msgstr "已保存"

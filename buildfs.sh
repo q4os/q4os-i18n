@@ -70,6 +70,15 @@ find . -name desktop-profiler.mo -execdir rm '{}' \;
 #only the generated .mo output is dropped before packaging, exactly as for
 #desktop-profiler above.
 find . -name appsetup2.mo -execdir rm '{}' \;
+#remove q4os-base files - q4os-base now compiles and ships this itself (same
+#install path, /usr/share/locale), so this package must never produce it too.
+#The .po sources stay in q4os-tools/ so volunteers can keep translating them
+#here with the rest - only the generated .mo output is dropped before packaging.
+find . -name q4os-base.mo -execdir rm '{}' \;
+#remove wificonnect files - the catalog is q4os-wificonnect-common's, it was
+#never shipped from here; its .po sources are mirrored in q4os-tools/ for the
+#volunteers only.
+find . -name wificonnect.mo -execdir rm '{}' \;
 
 #remove untranslated files - 1
 cd $BUILDDIR1/
@@ -116,7 +125,6 @@ for CFDIR in * ; do
     rm -f $CFDIR/LC_MESSAGES/welcome-screen.mo
     #software-centre.mo is q4os-swcentre-common's now, the same way
     rm -f $CFDIR/LC_MESSAGES/software-centre.mo
-    mv $CFDIR/LC_MESSAGES/q4os-base.mo $BUILDDIR2/usr/share/locale/$CFDIR/LC_MESSAGES/
     cp -r $CFDIR/LC_MESSAGES $BUILDDIR2/opt/trinity/share/locale/$CFDIR/
     rm -r $CFDIR
   fi
@@ -124,3 +132,6 @@ done
 cd ../
 rm -r $BUILDDIR1
 mv $BUILDDIR2 $BUILDDIR1
+#every catalog is compiled and shipped by its own package now: nothing is left
+#to install, drop the empty locale directories
+find $BUILDDIR1 -mindepth 1 -type d -empty -delete

@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Q4OS WiFi connect\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Close"
+msgstr "Bezárás"
+
+msgid "Connect"
+msgstr "Csatlakozás"
+
+msgid "Connected"
+msgstr "Csatlakozva"
+
+msgid "Connection not successful, check the Wifi password please."
+msgstr "A csatlakozás nem sikerül, ellenőrizd a Wifi jelszót."
+
+msgid "Enter the password of the wireless network."
+msgstr "Add meg a vezeték nélküli hálózat jelszavát."
+
+msgid "Network"
+msgstr "Hálózat"
+
+msgid "Network settings tool not found."
+msgstr "A hálózati beállítások eszköze nem található."
+
+msgid "No wireless networks found."
+msgstr "Nem található vezeték nélküli hálózat."
+
+msgid "Other network settings ..."
+msgstr "További hálózati beállítások ..."
+
+msgid "Password:"
+msgstr "Jelszó:"
+
+msgid "Search again"
+msgstr "Keresés újra"
+
+msgid "Searching for wireless networks ..."
+msgstr "Vezeték nélküli hálózatok keresése ..."
+
+msgid "Searching for wireless networks failed."
+msgstr "A vezeték nélküli hálózatok keresése nem sikerült."
+
+msgid "Security"
+msgstr "Biztonság"
+
+msgid "Select the wireless network to connect to:"
+msgstr "Válaszd ki a vezeték nélküli hálózatot, amelyhez csatlakozni szeretnél:"
+
+msgid "Show password"
+msgstr "Jelszó megjelenítése"
+
+msgid "Signal"
+msgstr "Jelerősség"
+
+msgid "The network tool 'nmcli' could not be started, wireless networks cannot be listed."
+msgstr "Az 'nmcli' hálózati eszközt nem sikerült elindítani, a vezeték nélküli hálózatok nem listázhatók."
+
+msgid "The password must have at least 8 characters."
+msgstr "A jelszónak legalább 8 karakterből kell állnia."
+
+msgid "This network needs an enterprise login. The network settings will be opened to set it up."
+msgstr "Ez a hálózat vállalati bejelentkezést igényel. A beállításához megnyílnak a hálózati beállítások."
+
+msgid "Trying to setup wireless network ..."
+msgstr "Vezeték nélküli hálózat beállítása ..."
+
+msgid "WiFi setup"
+msgstr "WiFi beállítása"
+
+msgid "open"
+msgstr "nyílt"
+
+msgid "This network needs an enterprise login, which cannot be set up here. Use the network manager of your desktop."
+msgstr "Ez a hálózat vállalati bejelentkezést igényel, amely itt nem állítható be. Használd az asztali környezet hálózatkezelőjét."
+
+msgid "Disconnect"
+msgstr "Leválasztás"
+
+msgid "Disconnecting from the wireless network ..."
+msgstr "Leválasztás a vezeték nélküli hálózatról ..."
+
+msgid "Disconnecting failed."
+msgstr "A leválasztás nem sikerült."
+
+msgid "Connected to the wireless network:"
+msgstr "Csatlakozva a vezeték nélküli hálózathoz:"
+
+msgid "saved"
+msgstr "mentett"

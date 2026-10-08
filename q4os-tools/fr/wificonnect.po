@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Q4OS WiFi connect\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Close"
+msgstr "Fermer"
+
+msgid "Connect"
+msgstr "Connecter"
+
+msgid "Connected"
+msgstr "Connecté"
+
+msgid "Connection not successful, check the Wifi password please."
+msgstr "La connexion a échoué, veuillez vérifier le mot de passe Wifi."
+
+msgid "Enter the password of the wireless network."
+msgstr "Saisissez le mot de passe du réseau sans fil."
+
+msgid "Network"
+msgstr "Réseau"
+
+msgid "Network settings tool not found."
+msgstr "Outil de configuration réseau introuvable."
+
+msgid "No wireless networks found."
+msgstr "Aucun réseau sans fil trouvé."
+
+msgid "Other network settings ..."
+msgstr "Autres paramètres réseau ..."
+
+msgid "Password:"
+msgstr "Mot de passe :"
+
+msgid "Search again"
+msgstr "Rechercher à nouveau"
+
+msgid "Searching for wireless networks ..."
+msgstr "Recherche des réseaux sans fil ..."
+
+msgid "Searching for wireless networks failed."
+msgstr "La recherche des réseaux sans fil a échoué."
+
+msgid "Security"
+msgstr "Sécurité"
+
+msgid "Select the wireless network to connect to:"
+msgstr "Sélectionnez le réseau sans fil auquel vous connecter :"
+
+msgid "Show password"
+msgstr "Afficher le mot de passe"
+
+msgid "Signal"
+msgstr "Signal"
+
+msgid "The network tool 'nmcli' could not be started, wireless networks cannot be listed."
+msgstr "L'outil réseau 'nmcli' n'a pas pu être lancé, impossible de lister les réseaux sans fil."
+
+msgid "The password must have at least 8 characters."
+msgstr "Le mot de passe doit comporter au moins 8 caractères."
+
+msgid "This network needs an enterprise login. The network settings will be opened to set it up."
+msgstr "Ce réseau nécessite une authentification d'entreprise. Les paramètres réseau vont s'ouvrir pour la configurer."
+
+msgid "Trying to setup wireless network ..."
+msgstr "Tentative de configuration du réseau sans fil ..."
+
+msgid "WiFi setup"
+msgstr "Configuration du WiFi"
+
+msgid "open"
+msgstr "ouvert"
+
+msgid "This network needs an enterprise login, which cannot be set up here. Use the network manager of your desktop."
+msgstr "Ce réseau nécessite une authentification d'entreprise, qui ne peut pas être configurée ici. Utilisez le gestionnaire de réseau de votre bureau."
+
+msgid "Disconnect"
+msgstr "Déconnecter"
+
+msgid "Disconnecting from the wireless network ..."
+msgstr "Déconnexion du réseau sans fil ..."
+
+msgid "Disconnecting failed."
+msgstr "La déconnexion a échoué."
+
+msgid "Connected to the wireless network:"
+msgstr "Connecté au réseau sans fil :"
+
+msgid "saved"
+msgstr "enregistré"

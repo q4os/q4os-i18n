@@ -113,3 +113,7 @@ msgstr "%n menit"
 msgid "%n hour"
 msgstr "%n jam"
 
+
+#. added 2026-10-06 with the string itself, not yet reviewed by a translator
+msgid "The settings could not be saved. Please check them and apply again."
+msgstr "Pengaturan tidak dapat disimpan. Periksa kembali lalu terapkan lagi."

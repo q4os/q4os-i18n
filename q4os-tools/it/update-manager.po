@@ -288,3 +288,7 @@ msgstr ""
 
 #~ msgid "Update Manager - install progress"
 #~ msgstr "Gestore degli aggiornamenti - progresso dell'installazione"
+
+#. added 2026-10-06 with the string itself, not yet reviewed by a translator
+msgid "Checking for updates"
+msgstr "Ricerca aggiornamenti"

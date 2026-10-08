@@ -1,0 +1,105 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Q4OS WiFi connect package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Q4OS WiFi connect\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-04 17:35+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hsb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "WiFi setup"
+msgstr ""
+
+msgid "Select the wireless network to connect to:"
+msgstr ""
+
+msgid "Network"
+msgstr ""
+
+msgid "Signal"
+msgstr ""
+
+msgid "Security"
+msgstr ""
+
+msgid "Password:"
+msgstr ""
+
+msgid "Show password"
+msgstr ""
+
+msgid "Search again"
+msgstr ""
+
+msgid "Other network settings ..."
+msgstr ""
+
+msgid "Connect"
+msgstr ""
+
+msgid "Disconnect"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Connected"
+msgstr ""
+
+msgid "saved"
+msgstr ""
+
+msgid "open"
+msgstr ""
+
+msgid "Searching for wireless networks ..."
+msgstr ""
+
+msgid "Disconnecting from the wireless network ..."
+msgstr ""
+
+msgid "This network needs an enterprise login. The network settings will be opened to set it up."
+msgstr ""
+
+msgid "This network needs an enterprise login, which cannot be set up here. Use the network manager of your desktop."
+msgstr ""
+
+msgid "Enter the password of the wireless network."
+msgstr ""
+
+msgid "The password must have at least 8 characters."
+msgstr ""
+
+msgid "Trying to setup wireless network ..."
+msgstr ""
+
+msgid "Network settings tool not found."
+msgstr ""
+
+msgid "The network tool 'nmcli' could not be started, wireless networks cannot be listed."
+msgstr ""
+
+msgid "Searching for wireless networks failed."
+msgstr ""
+
+msgid "No wireless networks found."
+msgstr ""
+
+msgid "Connected to the wireless network:"
+msgstr ""
+
+msgid "Connection not successful, check the Wifi password please."
+msgstr ""
+
+msgid "Disconnecting failed."
+msgstr ""

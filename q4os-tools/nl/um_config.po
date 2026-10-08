@@ -123,3 +123,7 @@ msgstr "%n minuut"
 #, c-format
 msgid "%n hour"
 msgstr "%n uur"
+
+#. added 2026-10-06 with the string itself, not yet reviewed by a translator
+msgid "The settings could not be saved. Please check them and apply again."
+msgstr "De instellingen konden niet worden opgeslagen. Controleer ze en pas ze opnieuw toe."

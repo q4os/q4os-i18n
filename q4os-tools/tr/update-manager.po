@@ -284,3 +284,7 @@ msgstr ""
 
 #~ msgid "Please install \"q4os-updater-plasma\" package in order to get better experience."
 #~ msgstr "Daha iyi bir deneyim için lütfen \"q4os-updater-plasma\" paketini kurun."
+
+#. added 2026-10-06 with the string itself, not yet reviewed by a translator
+msgid "Checking for updates"
+msgstr "Güncellemeler denetleniyor"

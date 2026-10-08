@@ -321,3 +321,7 @@ msgstr ""
 
 #~ msgid "Start updater window minimized"
 #~ msgstr "Démarrer la fenêtre de mise à jour en mode réduit"
+
+#. added 2026-10-06 with the string itself, not yet reviewed by a translator
+msgid "Checking for updates"
+msgstr "Recherche de mises à jour"

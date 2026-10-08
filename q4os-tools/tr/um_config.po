@@ -113,3 +113,7 @@ msgstr "%n dakika"
 msgid "%n hour"
 msgstr "%n saat"
 
+
+#. added 2026-10-06 with the string itself, not yet reviewed by a translator
+msgid "The settings could not be saved. Please check them and apply again."
+msgstr "Ayarlar kaydedilemedi. Lütfen kontrol edip yeniden uygulayın."

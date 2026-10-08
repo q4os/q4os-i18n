@@ -269,3 +269,6 @@ msgstr ""
 
 msgid "Q4OS Update Notifier for Trinity does not run under a Plasma desktop session. Please install the \"q4os-updater-plasma\" package to get update notifications here."
 msgstr ""
+
+msgid "Checking for updates"
+msgstr ""

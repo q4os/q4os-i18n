@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: q4os-shortcuts\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-09 11:25+0200\n"
+"POT-Creation-Date: 2026-10-05 18:39+0200\n"
 "PO-Revision-Date: 2024-05-06 20:28+0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -18,38 +18,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.4.2\n"
 
-msgid "A KDE panel applet for a WINE menu"
-msgstr "Апплет панели KDE для меню WINE"
-
-msgid "Access the Internet"
-msgstr "Доступ в Интернет"
-
 msgid "Accessories"
 msgstr "Вспомогательные"
 
-msgid "Air"
-msgstr "Воздух"
+msgid "Configure the Q4OS Update Manager"
+msgstr ""
 
-msgid "Autumn Leaves"
-msgstr "Осенние листья"
-
-msgid "Blueman Bluetooth Manager"
-msgstr "Менеджер Bluetooth Blueman"
-
-msgid "Bluetooth Manager"
-msgstr "Менеджер Bluetooth"
-
-msgid "Browse the World Wide Web"
-msgstr "Просмотр всемирной паутины"
-
-msgid "Burning tool"
-msgstr "Средство записи"
-
-msgid "Centaurus constellation"
-msgstr "Созвездие Центавра"
-
-msgid "Configure NVIDIA X Server Settings"
-msgstr "Настройка параметров NVIDIA X Server"
+msgid "Contains personal documents"
+msgstr ""
 
 msgid "Control Panel"
 msgstr "Панель управления"
@@ -57,44 +33,11 @@ msgstr "Панель управления"
 msgid "Control panel"
 msgstr "Панель управления"
 
-msgid "Create, reorganize, and delete partitions"
-msgstr "Создание, преобразование и удаление разделов"
-
-msgid "Curls on Green"
-msgstr "Завитки на зелёном"
-
-msgid "Damselfly"
-msgstr "Стрекоза"
-
-msgid "Debian Future prototype"
-msgstr "Прототип будущего Debian"
-
-msgid "Debian Lines"
-msgstr "Линии Debian"
-
-msgid "Debian Softwaves"
-msgstr "Мягкие волны Debian"
-
-msgid "Debonaire"
-msgstr "Жизнерадостность"
+msgid "Displays a tray icon when software updates are available"
+msgstr ""
 
 msgid "Documents"
 msgstr "Документы"
-
-msgid "Dolomiti"
-msgstr "Доломиты"
-
-msgid "Dolomiti Cimerlo"
-msgstr "Доломиты Чимерло"
-
-msgid "Dropbox"
-msgstr "Dropbox"
-
-msgid "Ethais"
-msgstr "Итаис"
-
-msgid "File Synchronizer"
-msgstr "Синхронизатор файлов"
 
 msgid "Files and folders"
 msgstr "Файлы и каталоги"
@@ -102,20 +45,8 @@ msgstr "Файлы и каталоги"
 msgid "Find"
 msgstr "Поиск"
 
-msgid "Firefox"
-msgstr "Firefox"
-
-msgid "GParted"
-msgstr "GParted"
-
 msgid "Games"
 msgstr "Игры"
-
-msgid "Google Chrome"
-msgstr "Google Chrome"
-
-msgid "Green curtain"
-msgstr "Зелёный занавес"
 
 msgid "Help"
 msgstr "Справка"
@@ -123,17 +54,8 @@ msgstr "Справка"
 msgid "Install Applications"
 msgstr "Установить приложения"
 
-msgid "Install Q4OS to Pinebook"
-msgstr "Установка Q4OS на Pinebook"
-
-msgid "Install, remove and upgrade software packages"
-msgstr "Установка, удаление и обновление пакетов программного обеспечения"
-
 msgid "Internet"
 msgstr "Интернет"
-
-msgid "K3B"
-msgstr "K3B"
 
 msgid "Konqueror"
 msgstr "Konqueror"
@@ -141,32 +63,11 @@ msgstr "Konqueror"
 msgid "Konsole"
 msgstr "Konsole"
 
-msgid "Landscape Keltern"
-msgstr "Ландшафт Келтерн"
-
 msgid "Language Pack installation"
 msgstr "Установка языкового пакета"
 
-msgid "Lineart Logo"
-msgstr "Логотип Lineart"
-
 msgid "Look Switcher"
 msgstr "Переключатель внешнего вида"
-
-msgid "Mail Client"
-msgstr "Почтовый клиент"
-
-msgid "Media player"
-msgstr "Проигрыватель мультимедиа"
-
-msgid "Mozilla Thunderbird"
-msgstr "Mozilla Thunderbird"
-
-msgid "My Documents"
-msgstr "Мои документы"
-
-msgid "NVIDIA X Server Settings"
-msgstr "Настройки NVIDIA X Server"
 
 msgid "Network Shares"
 msgstr "Сетевые ресурсы"
@@ -174,26 +75,8 @@ msgstr "Сетевые ресурсы"
 msgid "Network connections"
 msgstr "Сетевые подключения"
 
-msgid "Nightfear"
-msgstr "Ночной страх"
-
 msgid "Open Terminal"
 msgstr "Открыть терминал"
-
-msgid "Origami 1"
-msgstr "Оригами 1"
-
-msgid "Origami 2"
-msgstr "Оригами 2"
-
-msgid "Origami 3"
-msgstr "Оригами 3"
-
-msgid "Package Manager"
-msgstr "Менеджер пакетов"
-
-msgid "Partition Editor"
-msgstr "Редактор разделов"
 
 msgid "Pictures"
 msgstr "Изображения"
@@ -204,26 +87,11 @@ msgstr "Система печати"
 msgid "Programs"
 msgstr "Программы"
 
-msgid "Q-Blue flat"
-msgstr "Q-Blue flat"
-
-msgid "Q4OS Centaurus1"
-msgstr "Q4OS Centaurus1"
-
-msgid "Q4OS Design 1"
-msgstr "Q4OS Дизайн 1"
-
-msgid "Q4OS Design 2"
-msgstr "Q4OS Дизайн 2"
-
-msgid "Q4OS Hex2"
-msgstr "Q4OS Hex2"
-
-msgid "Q4OS Matrix"
-msgstr "Q4OS Matrix"
-
 msgid "Q4OS Software Centre"
 msgstr "Центр программного обеспечения Q4OS"
+
+msgid "Q4OS Update Notifier"
+msgstr ""
 
 msgid "Q4OS Welcome Screen"
 msgstr "Экран приветствия Q4OS"
@@ -231,56 +99,17 @@ msgstr "Экран приветствия Q4OS"
 msgid "Q4OS documentation on-line"
 msgstr "Документация Q4OS в сети"
 
-msgid "Read, capture, broadcast your multimedia streams"
-msgstr "Чтение, захват и вещание мультимедийных потоков"
-
-msgid "Read/Write Mail/News with Thunderbird"
-msgstr "Чтение и написание писем и новостей через Thunderbird"
-
 msgid "Screen scaling"
 msgstr "Масштаб экрана"
 
 msgid "Settings"
 msgstr "Настройки"
 
-msgid "Simple Screen Recorder"
-msgstr "Simple Screen Recorder"
-
-msgid "SimpleOutlook Glass"
-msgstr "SimpleOutlook Glass"
-
-msgid "SimpleOutlook Glass Adaptive"
-msgstr "SimpleOutlook Glass Adaptive"
-
-msgid "SimpleOutlook Pyramids"
-msgstr "SimpleOutlook Pyramids"
-
-msgid "SimpleOutlook Ridge"
-msgstr "SimpleOutlook Ridge"
-
-msgid "SimpleOutlook Sunset"
-msgstr "SimpleOutlook Sunset"
-
-msgid "Skype"
-msgstr "Скайп"
-
-msgid "Skype Internet Telephony"
-msgstr "Интернет-телефония Skype"
-
 msgid "Start menu"
 msgstr "Меню запуска"
 
 msgid "StartUp"
 msgstr "StartUp"
-
-msgid "Storm Blue"
-msgstr "Синий шторм"
-
-msgid "Synaptic Package Manager"
-msgstr "Менеджер пакетов Synaptic"
-
-msgid "Sync your files across computers and to the web"
-msgstr "Синхронизация файлов на разных компьютерах и в Интернете"
 
 msgid "System"
 msgstr "Система"
@@ -294,12 +123,6 @@ msgstr "TDevelop Q4OS"
 msgid "Terminal Program"
 msgstr "Программа терминала"
 
-msgid "The Bay"
-msgstr "The Bay"
-
-msgid "Thunderbird"
-msgstr "Thunderbird"
-
 msgid "Trash"
 msgstr "Корзина"
 
@@ -309,44 +132,237 @@ msgstr "Удаление"
 msgid "Uninstall Chromium"
 msgstr "Удалить Chromium"
 
-msgid "Uninstall Q4OS Development Pack"
-msgstr "Удалить пакет разработки Q4OS"
-
-msgid "Uninstall substitute_application_name_desc"
-msgstr "Удалить substitute_application_name_desc"
-
 msgid "Update Manager"
+msgstr "Менеджер обновлений"
+
+#, fuzzy
+msgid "Update Manager Settings"
 msgstr "Менеджер обновлений"
 
 msgid "Users and groups"
 msgstr "Пользователи и группы"
 
-msgid "VLC media player"
-msgstr "VLC медиапроигрыватель"
-
-msgid "Vector 2"
-msgstr "Вектор 2"
-
 msgid "Web Browser"
 msgstr "Веб-браузер"
 
-msgid "Wine Configuration"
-msgstr "Настройка Wine"
+#~ msgid "A KDE panel applet for a WINE menu"
+#~ msgstr "Апплет панели KDE для меню WINE"
 
-msgid "Wine Menu"
-msgstr "Меню Wine"
+#~ msgid "Access the Internet"
+#~ msgstr "Доступ в Интернет"
 
-msgid "Wine control panel"
-msgstr "Панель управления Wine"
+#~ msgid "Air"
+#~ msgstr "Воздух"
 
-msgid "X2Go Client"
-msgstr "Клиент X2Go"
+#~ msgid "Autumn Leaves"
+#~ msgstr "Осенние листья"
 
-msgid "crystalsvg-kde4"
-msgstr "crystalsvg-kde4"
+#~ msgid "Blueman Bluetooth Manager"
+#~ msgstr "Менеджер Bluetooth Blueman"
 
-msgid "substitute_application_name for Q4OS"
-msgstr "substitute_application_name для Q4OS"
+#~ msgid "Bluetooth Manager"
+#~ msgstr "Менеджер Bluetooth"
 
-msgid "substitute_application_name_desc"
-msgstr "substitute_application_name_desc"
+#~ msgid "Browse the World Wide Web"
+#~ msgstr "Просмотр всемирной паутины"
+
+#~ msgid "Burning tool"
+#~ msgstr "Средство записи"
+
+#~ msgid "Centaurus constellation"
+#~ msgstr "Созвездие Центавра"
+
+#~ msgid "Configure NVIDIA X Server Settings"
+#~ msgstr "Настройка параметров NVIDIA X Server"
+
+#~ msgid "Create, reorganize, and delete partitions"
+#~ msgstr "Создание, преобразование и удаление разделов"
+
+#~ msgid "Curls on Green"
+#~ msgstr "Завитки на зелёном"
+
+#~ msgid "Damselfly"
+#~ msgstr "Стрекоза"
+
+#~ msgid "Debian Future prototype"
+#~ msgstr "Прототип будущего Debian"
+
+#~ msgid "Debian Lines"
+#~ msgstr "Линии Debian"
+
+#~ msgid "Debian Softwaves"
+#~ msgstr "Мягкие волны Debian"
+
+#~ msgid "Debonaire"
+#~ msgstr "Жизнерадостность"
+
+#~ msgid "Dolomiti"
+#~ msgstr "Доломиты"
+
+#~ msgid "Dolomiti Cimerlo"
+#~ msgstr "Доломиты Чимерло"
+
+#~ msgid "Dropbox"
+#~ msgstr "Dropbox"
+
+#~ msgid "Ethais"
+#~ msgstr "Итаис"
+
+#~ msgid "File Synchronizer"
+#~ msgstr "Синхронизатор файлов"
+
+#~ msgid "Firefox"
+#~ msgstr "Firefox"
+
+#~ msgid "GParted"
+#~ msgstr "GParted"
+
+#~ msgid "Google Chrome"
+#~ msgstr "Google Chrome"
+
+#~ msgid "Green curtain"
+#~ msgstr "Зелёный занавес"
+
+#~ msgid "Install Q4OS to Pinebook"
+#~ msgstr "Установка Q4OS на Pinebook"
+
+#~ msgid "Install, remove and upgrade software packages"
+#~ msgstr "Установка, удаление и обновление пакетов программного обеспечения"
+
+#~ msgid "K3B"
+#~ msgstr "K3B"
+
+#~ msgid "Landscape Keltern"
+#~ msgstr "Ландшафт Келтерн"
+
+#~ msgid "Lineart Logo"
+#~ msgstr "Логотип Lineart"
+
+#~ msgid "Mail Client"
+#~ msgstr "Почтовый клиент"
+
+#~ msgid "Media player"
+#~ msgstr "Проигрыватель мультимедиа"
+
+#~ msgid "Mozilla Thunderbird"
+#~ msgstr "Mozilla Thunderbird"
+
+#~ msgid "My Documents"
+#~ msgstr "Мои документы"
+
+#~ msgid "NVIDIA X Server Settings"
+#~ msgstr "Настройки NVIDIA X Server"
+
+#~ msgid "Nightfear"
+#~ msgstr "Ночной страх"
+
+#~ msgid "Origami 1"
+#~ msgstr "Оригами 1"
+
+#~ msgid "Origami 2"
+#~ msgstr "Оригами 2"
+
+#~ msgid "Origami 3"
+#~ msgstr "Оригами 3"
+
+#~ msgid "Package Manager"
+#~ msgstr "Менеджер пакетов"
+
+#~ msgid "Partition Editor"
+#~ msgstr "Редактор разделов"
+
+#~ msgid "Q-Blue flat"
+#~ msgstr "Q-Blue flat"
+
+#~ msgid "Q4OS Centaurus1"
+#~ msgstr "Q4OS Centaurus1"
+
+#~ msgid "Q4OS Design 1"
+#~ msgstr "Q4OS Дизайн 1"
+
+#~ msgid "Q4OS Design 2"
+#~ msgstr "Q4OS Дизайн 2"
+
+#~ msgid "Q4OS Hex2"
+#~ msgstr "Q4OS Hex2"
+
+#~ msgid "Q4OS Matrix"
+#~ msgstr "Q4OS Matrix"
+
+#~ msgid "Read, capture, broadcast your multimedia streams"
+#~ msgstr "Чтение, захват и вещание мультимедийных потоков"
+
+#~ msgid "Read/Write Mail/News with Thunderbird"
+#~ msgstr "Чтение и написание писем и новостей через Thunderbird"
+
+#~ msgid "Simple Screen Recorder"
+#~ msgstr "Simple Screen Recorder"
+
+#~ msgid "SimpleOutlook Glass"
+#~ msgstr "SimpleOutlook Glass"
+
+#~ msgid "SimpleOutlook Glass Adaptive"
+#~ msgstr "SimpleOutlook Glass Adaptive"
+
+#~ msgid "SimpleOutlook Pyramids"
+#~ msgstr "SimpleOutlook Pyramids"
+
+#~ msgid "SimpleOutlook Ridge"
+#~ msgstr "SimpleOutlook Ridge"
+
+#~ msgid "SimpleOutlook Sunset"
+#~ msgstr "SimpleOutlook Sunset"
+
+#~ msgid "Skype"
+#~ msgstr "Скайп"
+
+#~ msgid "Skype Internet Telephony"
+#~ msgstr "Интернет-телефония Skype"
+
+#~ msgid "Storm Blue"
+#~ msgstr "Синий шторм"
+
+#~ msgid "Synaptic Package Manager"
+#~ msgstr "Менеджер пакетов Synaptic"
+
+#~ msgid "Sync your files across computers and to the web"
+#~ msgstr "Синхронизация файлов на разных компьютерах и в Интернете"
+
+#~ msgid "The Bay"
+#~ msgstr "The Bay"
+
+#~ msgid "Thunderbird"
+#~ msgstr "Thunderbird"
+
+#~ msgid "Uninstall Q4OS Development Pack"
+#~ msgstr "Удалить пакет разработки Q4OS"
+
+#~ msgid "Uninstall substitute_application_name_desc"
+#~ msgstr "Удалить substitute_application_name_desc"
+
+#~ msgid "VLC media player"
+#~ msgstr "VLC медиапроигрыватель"
+
+#~ msgid "Vector 2"
+#~ msgstr "Вектор 2"
+
+#~ msgid "Wine Configuration"
+#~ msgstr "Настройка Wine"
+
+#~ msgid "Wine Menu"
+#~ msgstr "Меню Wine"
+
+#~ msgid "Wine control panel"
+#~ msgstr "Панель управления Wine"
+
+#~ msgid "X2Go Client"
+#~ msgstr "Клиент X2Go"
+
+#~ msgid "crystalsvg-kde4"
+#~ msgstr "crystalsvg-kde4"
+
+#~ msgid "substitute_application_name for Q4OS"
+#~ msgstr "substitute_application_name для Q4OS"
+
+#~ msgid "substitute_application_name_desc"
+#~ msgstr "substitute_application_name_desc"

@@ -124,3 +124,7 @@ msgstr "%n perc"
 #, c-format
 msgid "%n hour"
 msgstr "%n óra"
+
+#. added 2026-10-06 with the string itself, not yet reviewed by a translator
+msgid "The settings could not be saved. Please check them and apply again."
+msgstr "A beállításokat nem sikerült menteni. Ellenőrizze őket, majd alkalmazza újra."

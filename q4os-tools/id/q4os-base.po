@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: q4os-base\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-27 16:49+0200\n"
+"POT-Creation-Date: 2026-10-05 17:31+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -32,6 +32,10 @@ msgstr "<b>Peringatan</b>"
 #, sh-format
 msgid "Asus Eee PC laptop detected, extra configuration will be performed."
 msgstr "Laptop Asus Eee PC terdeteksi, konfigurasi tambahan akan dilakukan."
+
+#, sh-format
+msgid "Broadcom WiFi driver"
+msgstr "Driver WiFi Broadcom"
 
 #, sh-format
 msgid "Check Internet connection, please."
@@ -70,10 +74,6 @@ msgid "Congratulations, setup has finished."
 msgstr "Selamat, pengaturan telah selesai."
 
 #, sh-format
-msgid "Connection not successful, check the Wifi password please."
-msgstr "Koneksi tidak berhasil, silakan periksa kata sandi Wifi."
-
-#, sh-format
 msgid "Current system language: <b>English</b>"
 msgstr "Bahasa sistem saat ini: <b>Inggris</b>"
 
@@ -90,10 +90,6 @@ msgid "Do you want to continue ?"
 msgstr "Apakah Anda ingin melanjutkan?"
 
 #, sh-format
-msgid "Do you want to download and install <b>Look Switcher</b> just now ?"
-msgstr "Apakah Anda ingin mengunduh dan menginstal <b>Look Switcher</b> sekarang?"
-
-#, sh-format
 msgid "Do you want to install <b>${APF1}</b> just now ?"
 msgstr "Apakah Anda ingin menginstal <b>${APF1}</b> sekarang?"
 
@@ -102,12 +98,20 @@ msgid "Do you want to keep English as default system language ?"
 msgstr "Apakah Anda ingin mempertahankan bahasa Inggris sebagai bahasa default sistem?"
 
 #, sh-format
+msgid "Do you want to open it now ?"
+msgstr "Apakah Anda ingin membukanya sekarang?"
+
+#, sh-format
 msgid "Download failed !"
 msgstr "Unduhan gagal!"
 
 #, sh-format
 msgid "Downloading language pack, please wait ..."
 msgstr "Mengunduh paket bahasa, harap tunggu ..."
+
+#, sh-format
+msgid "Drivers"
+msgstr "Driver"
 
 #, sh-format
 msgid "For more detailed info read Q4OS documentation at https://www.q4os.org"
@@ -138,10 +142,6 @@ msgid "Installation has not completed, package system is busy. You can easily in
 msgstr "Instalasi belum selesai, sistem paket sedang sibuk. Anda dapat dengan mudah menginstal paket bahasa nanti menggunakan ikon desktop."
 
 #, sh-format
-msgid "Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved."
-msgstr "Installer perlu mengunduh paket dari sumber daya Internet Q4OS, tetapi informasi tidak dapat diperoleh."
-
-#, sh-format
 msgid "Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved. You will be asked for ${APD} installation at the next login, or you can install anytime from Software centre."
 msgstr "Installer perlu mengunduh paket dari sumber daya Internet Q4OS, tetapi informasi tidak dapat diperoleh. Anda akan diminta untuk menginstal ${APD} pada login berikutnya, atau Anda dapat menginstalnya kapan saja dari Pusat Perangkat Lunak."
 
@@ -166,8 +166,8 @@ msgid "Live media detected. Printers management may be limited within the live m
 msgstr "Media live terdeteksi. Manajemen printer mungkin terbatas dalam lingkungan media live. Fitur ini akan tersedia sepenuhnya setelah instalasi Q4OS."
 
 #, sh-format
-msgid "Look Switcher installer and icons will be removed from control panel now, you can download it anytime from Q4OS software centre."
-msgstr "Installer dan ikon Look Switcher akan dihapus dari panel kontrol sekarang, Anda dapat mengunduhnya kapan saja dari pusat perangkat lunak Q4OS."
+msgid "NVIDIA graphics driver"
+msgstr "Driver grafis NVIDIA"
 
 #, sh-format
 msgid "Newly created items will appear in the start menu <b>after closing</b> the MenuEditor window."
@@ -178,20 +178,12 @@ msgid "No desktop profile has been applied yet. It's highly recommended to run <
 msgstr "Belum ada profil desktop yang diterapkan. Sangat disarankan untuk menjalankan alat <b>Desktop Profiler</b> dan menerapkan salah satu profil yang tersedia sesegera mungkin."
 
 #, sh-format
-msgid "Package system is busy now, setup cannot continue. You can install anytime from Q4OS software centre."
-msgstr "Sistem paket sedang sibuk sekarang, pengaturan tidak dapat dilanjutkan. Anda dapat menginstalnya kapan saja dari pusat perangkat lunak Q4OS."
-
-#, sh-format
 msgid "Package system is busy now, setup cannot continue. You will be asked for ${APD} installation at the next login, or you can install anytime from Software centre."
 msgstr "Sistem paket sedang sibuk sekarang, pengaturan tidak dapat dilanjutkan. Anda akan diminta untuk menginstal ${APD} pada login berikutnya, atau Anda dapat menginstalnya kapan saja dari Pusat Perangkat Lunak."
 
 #, sh-format
 msgid "Package system is busy now, setup cannot continue. You will be asked for ${APF1} installation later again, or you can install anytime from Q4OS Software Centre."
 msgstr "Sistem paket sedang sibuk sekarang, pengaturan tidak dapat dilanjutkan. Anda akan diminta lagi untuk menginstal ${APF1} nanti, atau Anda dapat menginstalnya kapan saja dari Pusat Perangkat Lunak Q4OS."
-
-#, sh-format
-msgid "Package system is busy now, some other setup is running ! You will be asked for ${APD} installation later again, or you can install anytime from Q4OS software centre."
-msgstr "Sistem paket sedang sibuk sekarang, ada pengaturan lain yang sedang berjalan! Anda akan diminta lagi untuk menginstal ${APD} nanti, atau Anda dapat menginstalnya kapan saja dari pusat perangkat lunak Q4OS."
 
 #, sh-format
 msgid "Package system is busy now, some other setup is running ! You will be asked for ${APF1} installation later again, or you can install anytime from Q4OS Software Centre."
@@ -206,8 +198,8 @@ msgid "Printing subsystem is now deactivated, you need to install <b>CUPS layer 
 msgstr "Subsistem pencetakan sekarang dinonaktifkan, Anda perlu menginstal <b>lapisan CUPS dan driver printer</b> terlebih dahulu. Jika Anda ingin mengaktifkan subsistem pencetakan dan set lengkap driver, instal paket berikut:"
 
 #, sh-format
-msgid "Q4OS autodetected <b>${APF}</b> available <b>!</b>"
-msgstr "Q4OS mendeteksi otomatis <b>${APF}</b> tersedia<b>!</b>"
+msgid "Q4OS autodetected <b>drivers</b> available <b>!</b>"
+msgstr "Q4OS mendeteksi secara otomatis <b>driver</b> yang tersedia<b>!</b>"
 
 #, sh-format
 msgid "Select your language:"
@@ -238,16 +230,8 @@ msgid "Thank you for using Konqueror web browser. Konqueror is a minimalist and 
 msgstr "Terima kasih telah menggunakan peramban web Konqueror. Konqueror adalah peramban minimalis dan sangat cepat untuk pengguna yang membutuhkan akses Internet ringan."
 
 #, sh-format
-msgid "Thank you for using Q4OS operating system. After setup of <b>Look Switcher</b>, you will be able to switch between different visual themes."
-msgstr "Terima kasih telah menggunakan sistem operasi Q4OS. Setelah pengaturan <b>Look Switcher</b>, Anda akan dapat beralih di antara berbagai tema visual."
-
-#, sh-format
 msgid "Trinity session not detected. Please run this tool within Trinity desktop."
 msgstr "Sesi Trinity tidak terdeteksi. Silakan jalankan alat ini di dalam desktop Trinity."
-
-#, sh-format
-msgid "Trying to setup wireless network ..."
-msgstr "Mencoba mengatur jaringan nirkabel ..."
 
 #, sh-format
 msgid "Unable to download ${APD}, check Internet connection, please."
@@ -270,6 +254,10 @@ msgid "Would you like to be <b>notified at the next login</b> ? If you say \"No\
 msgstr "Apakah Anda ingin <b>diberi tahu pada login berikutnya</b>? Jika Anda memilih \"Tidak\", dialog ini tidak akan muncul lagi. Anda dapat menginstal ${APD} kapan saja dari <b>Pusat Perangkat Lunak</b>."
 
 #, sh-format
+msgid "Would you like to be <b>notified at the next login</b> ? If you say \"No\", this dialog never appears again. You can review the drivers anytime in the <b>Hardware info</b> tool."
+msgstr "Apakah Anda ingin <b>diberi tahu pada login berikutnya</b>? Jika Anda memilih \"Tidak\", dialog ini tidak akan muncul lagi. Anda dapat meninjau driver kapan saja di alat <b>Info perangkat keras</b>."
+
+#, sh-format
 msgid "Would you like to be notified later ?"
 msgstr "Apakah Anda ingin diberi tahu nanti?"
 
@@ -286,12 +274,12 @@ msgid "Yes, this is the right way to test Q4OS operating system. It is <b>highly
 msgstr "Ya, ini adalah cara yang tepat untuk menguji sistem operasi Q4OS. <b>Sangat disarankan</b> untuk menginstal <b>${APD}</b> di dalam mesin virtual ini. Anda akan dapat menampilkannya dalam mode layar penuh, menggunakan jaringan ${APF}, driver mouse, dan fungsi lainnya."
 
 #, sh-format
-msgid "Yes, you can install proprietary NVIDIA video drivers right now. This setup will download and auto-install all the needed."
-msgstr "Ya, Anda dapat menginstal driver video NVIDIA berpemilik sekarang. Pengaturan ini akan mengunduh dan menginstal otomatis semua yang diperlukan."
-
-#, sh-format
 msgid "You are going to edit Start Menu."
 msgstr "Anda akan mengedit Menu Start."
+
+#, sh-format
+msgid "You can review and install them in the <b>Hardware info</b> tool, on its <b>Drivers</b> tab."
+msgstr "Anda dapat meninjau dan menginstalnya di alat <b>Info perangkat keras</b>, pada tab <b>Driver</b>."
 
 #, sh-format
 msgid "You may want to enlarge text and widgets size to improve readability. Click OK to run a configuration tool for screen setup and scaling."
@@ -312,3 +300,43 @@ msgstr "mengunduh ..."
 #, sh-format
 msgid "message"
 msgstr "pesan"
+
+#, sh-format
+#~ msgid "Connection not successful, check the Wifi password please."
+#~ msgstr "Koneksi tidak berhasil, silakan periksa kata sandi Wifi."
+
+#, sh-format
+#~ msgid "Do you want to download and install <b>Look Switcher</b> just now ?"
+#~ msgstr "Apakah Anda ingin mengunduh dan menginstal <b>Look Switcher</b> sekarang?"
+
+#, sh-format
+#~ msgid "Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved."
+#~ msgstr "Installer perlu mengunduh paket dari sumber daya Internet Q4OS, tetapi informasi tidak dapat diperoleh."
+
+#, sh-format
+#~ msgid "Look Switcher installer and icons will be removed from control panel now, you can download it anytime from Q4OS software centre."
+#~ msgstr "Installer dan ikon Look Switcher akan dihapus dari panel kontrol sekarang, Anda dapat mengunduhnya kapan saja dari pusat perangkat lunak Q4OS."
+
+#, sh-format
+#~ msgid "Package system is busy now, setup cannot continue. You can install anytime from Q4OS software centre."
+#~ msgstr "Sistem paket sedang sibuk sekarang, pengaturan tidak dapat dilanjutkan. Anda dapat menginstalnya kapan saja dari pusat perangkat lunak Q4OS."
+
+#, sh-format
+#~ msgid "Package system is busy now, some other setup is running ! You will be asked for ${APD} installation later again, or you can install anytime from Q4OS software centre."
+#~ msgstr "Sistem paket sedang sibuk sekarang, ada pengaturan lain yang sedang berjalan! Anda akan diminta lagi untuk menginstal ${APD} nanti, atau Anda dapat menginstalnya kapan saja dari pusat perangkat lunak Q4OS."
+
+#, sh-format
+#~ msgid "Q4OS autodetected <b>${APF}</b> available <b>!</b>"
+#~ msgstr "Q4OS mendeteksi otomatis <b>${APF}</b> tersedia<b>!</b>"
+
+#, sh-format
+#~ msgid "Thank you for using Q4OS operating system. After setup of <b>Look Switcher</b>, you will be able to switch between different visual themes."
+#~ msgstr "Terima kasih telah menggunakan sistem operasi Q4OS. Setelah pengaturan <b>Look Switcher</b>, Anda akan dapat beralih di antara berbagai tema visual."
+
+#, sh-format
+#~ msgid "Trying to setup wireless network ..."
+#~ msgstr "Mencoba mengatur jaringan nirkabel ..."
+
+#, sh-format
+#~ msgid "Yes, you can install proprietary NVIDIA video drivers right now. This setup will download and auto-install all the needed."
+#~ msgstr "Ya, Anda dapat menginstal driver video NVIDIA berpemilik sekarang. Pengaturan ini akan mengunduh dan menginstal otomatis semua yang diperlukan."

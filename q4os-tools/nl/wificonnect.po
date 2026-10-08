@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Q4OS WiFi connect\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Close"
+msgstr "Sluiten"
+
+msgid "Connect"
+msgstr "Verbinden"
+
+msgid "Connected"
+msgstr "Verbonden"
+
+msgid "Connection not successful, check the Wifi password please."
+msgstr "Verbinding mislukt, controleer het wifiwachtwoord alstublieft."
+
+msgid "Enter the password of the wireless network."
+msgstr "Voer het wachtwoord van het draadloze netwerk in."
+
+msgid "Network"
+msgstr "Netwerk"
+
+msgid "Network settings tool not found."
+msgstr "Hulpmiddel voor netwerkinstellingen niet gevonden."
+
+msgid "No wireless networks found."
+msgstr "Geen draadloze netwerken gevonden."
+
+msgid "Other network settings ..."
+msgstr "Andere netwerkinstellingen ..."
+
+msgid "Password:"
+msgstr "Wachtwoord:"
+
+msgid "Search again"
+msgstr "Opnieuw zoeken"
+
+msgid "Searching for wireless networks ..."
+msgstr "Bezig met zoeken naar draadloze netwerken ..."
+
+msgid "Searching for wireless networks failed."
+msgstr "Het zoeken naar draadloze netwerken is mislukt."
+
+msgid "Security"
+msgstr "Beveiliging"
+
+msgid "Select the wireless network to connect to:"
+msgstr "Selecteer het draadloze netwerk waarmee u verbinding wilt maken:"
+
+msgid "Show password"
+msgstr "Wachtwoord tonen"
+
+msgid "Signal"
+msgstr "Signaal"
+
+msgid "The network tool 'nmcli' could not be started, wireless networks cannot be listed."
+msgstr "Het netwerkhulpmiddel 'nmcli' kon niet worden gestart, draadloze netwerken kunnen niet worden weergegeven."
+
+msgid "The password must have at least 8 characters."
+msgstr "Het wachtwoord moet minstens 8 tekens bevatten."
+
+msgid "This network needs an enterprise login. The network settings will be opened to set it up."
+msgstr "Dit netwerk vereist een zakelijke aanmelding. De netwerkinstellingen worden geopend om deze in te stellen."
+
+msgid "Trying to setup wireless network ..."
+msgstr "Bezig met het instellen van het draadloze netwerk ..."
+
+msgid "WiFi setup"
+msgstr "Wifi instellen"
+
+msgid "open"
+msgstr "open"
+
+msgid "This network needs an enterprise login, which cannot be set up here. Use the network manager of your desktop."
+msgstr "Dit netwerk vereist een zakelijke aanmelding, die hier niet kan worden ingesteld. Gebruik het netwerkbeheer van uw bureaublad."
+
+msgid "Disconnect"
+msgstr "Verbinding verbreken"
+
+msgid "Disconnecting from the wireless network ..."
+msgstr "Bezig met verbreken van de verbinding met het draadloze netwerk ..."
+
+msgid "Disconnecting failed."
+msgstr "Verbinding verbreken mislukt."
+
+msgid "Connected to the wireless network:"
+msgstr "Verbonden met het draadloze netwerk:"
+
+msgid "saved"
+msgstr "opgeslagen"

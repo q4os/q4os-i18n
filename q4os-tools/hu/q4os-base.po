@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: q4os-base\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-27 16:49+0200\n"
+"POT-Creation-Date: 2026-10-05 17:31+0200\n"
 "PO-Revision-Date: 2025-02-12 18:03+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -33,6 +33,10 @@ msgstr "<b>Figyelmeztetés</b>"
 #, sh-format
 msgid "Asus Eee PC laptop detected, extra configuration will be performed."
 msgstr "Asus Eee PC laptop észlelése, extra konfiguráció kerül végrehajtásra."
+
+#, sh-format
+msgid "Broadcom WiFi driver"
+msgstr "Broadcom WiFi illesztőprogram"
 
 #, sh-format
 msgid "Check Internet connection, please."
@@ -71,10 +75,6 @@ msgid "Congratulations, setup has finished."
 msgstr "Gratulálunk, a telepítés befejeződött."
 
 #, sh-format
-msgid "Connection not successful, check the Wifi password please."
-msgstr "A csatlakozás nem sikerül, ellenőrizd a Wifi jelszót."
-
-#, sh-format
 msgid "Current system language: <b>English</b>"
 msgstr "A jelenlegi rendszer nyelve: <b>Angol</b>"
 
@@ -91,10 +91,6 @@ msgid "Do you want to continue ?"
 msgstr "Szeretnéd folytatni ?"
 
 #, sh-format
-msgid "Do you want to download and install <b>Look Switcher</b> just now ?"
-msgstr "Szeretnéd letölteni és telepíteni a <b>Megjelenés váltót</b> most rögtön ?"
-
-#, sh-format
 msgid "Do you want to install <b>${APF1}</b> just now ?"
 msgstr "Most szeretnéd telepíteni a <b>${APF1}</b>-t ?"
 
@@ -103,12 +99,20 @@ msgid "Do you want to keep English as default system language ?"
 msgstr "Szeretnéd az angol nyelvet megtartani a rendszer alapértelmezett nyelveként ?"
 
 #, sh-format
+msgid "Do you want to open it now ?"
+msgstr "Szeretnéd most megnyitni ?"
+
+#, sh-format
 msgid "Download failed !"
 msgstr "A letöltés nem sikerült !"
 
 #, sh-format
 msgid "Downloading language pack, please wait ..."
 msgstr "Nyelvi csomag letöltése, kérlek várj ..."
+
+#, sh-format
+msgid "Drivers"
+msgstr "Illesztőprogramok"
 
 #, sh-format
 msgid "For more detailed info read Q4OS documentation at https://www.q4os.org"
@@ -139,10 +143,6 @@ msgid "Installation has not completed, package system is busy. You can easily in
 msgstr "A telepítés nem fejeződött be, a csomagtelepítő rendszer foglalt. A nyelvi csomagot később könnyen telepítheted, egy asztali ikon segítségével."
 
 #, sh-format
-msgid "Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved."
-msgstr "A telepítőnek csomagokat kell letöltenie a Q4OS internetes erőforrásaiból, de nem sikerült információt szerezni."
-
-#, sh-format
 msgid "Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved. You will be asked for ${APD} installation at the next login, or you can install anytime from Software centre."
 msgstr "A telepítőnek csomagokat kell letöltenie a Q4OS internetes erőforrásaiból, de nem sikerült információt szerezni. A ${APD} telepítésre a következő bejelentkezéskor kérni fogja, vagy bármikor telepítheted a Szoftverközpontból."
 
@@ -167,8 +167,8 @@ msgid "Live media detected. Printers management may be limited within the live m
 msgstr "Live média észlelve. A nyomtatók kezelése korlátozott lehet az adathordozókról futtatott Live környezetben. A Q4OS telepítése után teljes mértékben elérhető lesz."
 
 #, sh-format
-msgid "Look Switcher installer and icons will be removed from control panel now, you can download it anytime from Q4OS software centre."
-msgstr "A megjelenésváltó telepítője és ikonjai mostantól eltávolításra kerülnek a vezérlőpultról, bármikor letöltheted a Q4OS szoftverközpontból."
+msgid "NVIDIA graphics driver"
+msgstr "NVIDIA grafikus illesztőprogram"
 
 #, sh-format
 msgid "Newly created items will appear in the start menu <b>after closing</b> the MenuEditor window."
@@ -179,20 +179,12 @@ msgid "No desktop profile has been applied yet. It's highly recommended to run <
 msgstr "Nincs vagy még nem alkalmaztál Asztali profil-t . Erősen ajánlott az <b>Asztali profilkészítő</b> eszköz futtatása és a rendelkezésre álló profilok egyikének mielőbbi alkalmazása."
 
 #, sh-format
-msgid "Package system is busy now, setup cannot continue. You can install anytime from Q4OS software centre."
-msgstr "A csomagkezelő rendszer most foglalt, a telepítés nem folytatható. A telepítést bármikor elvégezheted a Q4OS szoftverközpontból."
-
-#, sh-format
 msgid "Package system is busy now, setup cannot continue. You will be asked for ${APD} installation at the next login, or you can install anytime from Software centre."
 msgstr "A csomagkezelő rendszer most foglalt, a telepítés nem folytatható. A ${APD} telepítését a következő bejelentkezéskor kérni fogja, vagy bármikor telepítheted a szoftverközpontból."
 
 #, sh-format
 msgid "Package system is busy now, setup cannot continue. You will be asked for ${APF1} installation later again, or you can install anytime from Q4OS Software Centre."
 msgstr "A csomagkezelő rendszer most foglalt, a telepítés nem folytatható. A ${APF1} telepítésre később újra felkérünk, vagy bármikor telepítheted a Q4OS szoftverközpontból."
-
-#, sh-format
-msgid "Package system is busy now, some other setup is running ! You will be asked for ${APD} installation later again, or you can install anytime from Q4OS software centre."
-msgstr "A csomagkezelő rendszer most foglalt, valami más beállítás fut ! A ${APD} telepítését később újra kérni fogja, vagy bármikor telepítheted a Q4OS szoftverközpontból."
 
 #, sh-format
 msgid "Package system is busy now, some other setup is running ! You will be asked for ${APF1} installation later again, or you can install anytime from Q4OS Software Centre."
@@ -207,8 +199,8 @@ msgid "Printing subsystem is now deactivated, you need to install <b>CUPS layer 
 msgstr "A nyomtatási alrendszer mostantól ki van kapcsolva, először telepítened kell a <b>CUPS réteget és a nyomtatóillesztőt</b>. Ha aktiválni szeretnéd a nyomtatási alrendszert és a teljes illesztőprogramkészletet, telepítsd a következő csomagokat:"
 
 #, sh-format
-msgid "Q4OS autodetected <b>${APF}</b> available <b>!</b>"
-msgstr "Q4OS automatikusan észlelve <b>${APF}</b> elérhető <b>!</b>"
+msgid "Q4OS autodetected <b>drivers</b> available <b>!</b>"
+msgstr "A Q4OS elérhető <b>illesztőprogramokat</b> észlelt<b>!</b>"
 
 #, sh-format
 msgid "Select your language:"
@@ -239,16 +231,8 @@ msgid "Thank you for using Konqueror web browser. Konqueror is a minimalist and 
 msgstr "Köszönjük, hogy a Konqueror webböngészőt használod. A Konqueror egy minimalista és nagyon gyors böngésző azoknak a felhasználóknak, akiknek könnyű internet-hozzáférésre van szükségük."
 
 #, sh-format
-msgid "Thank you for using Q4OS operating system. After setup of <b>Look Switcher</b>, you will be able to switch between different visual themes."
-msgstr "Köszönjük, hogy a Q4OS operációs rendszert használod. A <b>Megjelenésváltó</b> beállítása után válthatsz a különböző vizuális témák között."
-
-#, sh-format
 msgid "Trinity session not detected. Please run this tool within Trinity desktop."
 msgstr "A Trinity munkamenet nem található. Kérlek, futtasd ezt az eszközt a Trinity asztalon belül."
-
-#, sh-format
-msgid "Trying to setup wireless network ..."
-msgstr "Vezeték nélküli hálózat beállítása ..."
 
 #, sh-format
 msgid "Unable to download ${APD}, check Internet connection, please."
@@ -271,6 +255,10 @@ msgid "Would you like to be <b>notified at the next login</b> ? If you say \"No\
 msgstr "Szeretnél <b>értesítést kapni a következő bejelentkezéskor</b>? Ha „Nem”-et mondasz, ez a párbeszédablak többet nem jelenik meg. A ${APD}-t bármikor telepítheted a <b>Szoftverközpontból</b>."
 
 #, sh-format
+msgid "Would you like to be <b>notified at the next login</b> ? If you say \"No\", this dialog never appears again. You can review the drivers anytime in the <b>Hardware info</b> tool."
+msgstr "Szeretnél <b>értesítést kapni a következő bejelentkezéskor</b>? Ha „Nem”-et mondasz, ez a párbeszédablak többet nem jelenik meg. Az illesztőprogramokat bármikor áttekintheted a <b>Hardver információk</b> eszközben."
+
+#, sh-format
 msgid "Would you like to be notified later ?"
 msgstr "Szeretnéd, ha később értesítenénk ?"
 
@@ -287,12 +275,12 @@ msgid "Yes, this is the right way to test Q4OS operating system. It is <b>highly
 msgstr "Igen, ez a megfelelő módja a Q4OS operációs rendszer tesztelésének. <b>Erősen ajánlott</b> a(z) <b>${APD}</b> telepítése ezen a virtuális gépen. Így lehetővé válik a teljes képernyős megjelenítés, a ${APF} hálózat, az egérillesztőprogramok és egyéb funkciók használata."
 
 #, sh-format
-msgid "Yes, you can install proprietary NVIDIA video drivers right now. This setup will download and auto-install all the needed."
-msgstr "Igen, már most is telepíthetsz saját NVIDIA videóillesztő-programokat. Ez a telepítő letölti és automatikusan telepíti az összes szükséges fájlt."
-
-#, sh-format
 msgid "You are going to edit Start Menu."
 msgstr "A Start menü szerkesztése."
+
+#, sh-format
+msgid "You can review and install them in the <b>Hardware info</b> tool, on its <b>Drivers</b> tab."
+msgstr "Áttekintheted és telepítheted őket a <b>Hardver információk</b> eszköz <b>Illesztőprogramok</b> lapján."
 
 #, sh-format
 msgid "You may want to enlarge text and widgets size to improve readability. Click OK to run a configuration tool for screen setup and scaling."
@@ -313,6 +301,46 @@ msgstr "letöltés ..."
 #, sh-format
 msgid "message"
 msgstr "üzenet"
+
+#, sh-format
+#~ msgid "Connection not successful, check the Wifi password please."
+#~ msgstr "A csatlakozás nem sikerül, ellenőrizd a Wifi jelszót."
+
+#, sh-format
+#~ msgid "Do you want to download and install <b>Look Switcher</b> just now ?"
+#~ msgstr "Szeretnéd letölteni és telepíteni a <b>Megjelenés váltót</b> most rögtön ?"
+
+#, sh-format
+#~ msgid "Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved."
+#~ msgstr "A telepítőnek csomagokat kell letöltenie a Q4OS internetes erőforrásaiból, de nem sikerült információt szerezni."
+
+#, sh-format
+#~ msgid "Look Switcher installer and icons will be removed from control panel now, you can download it anytime from Q4OS software centre."
+#~ msgstr "A megjelenésváltó telepítője és ikonjai mostantól eltávolításra kerülnek a vezérlőpultról, bármikor letöltheted a Q4OS szoftverközpontból."
+
+#, sh-format
+#~ msgid "Package system is busy now, setup cannot continue. You can install anytime from Q4OS software centre."
+#~ msgstr "A csomagkezelő rendszer most foglalt, a telepítés nem folytatható. A telepítést bármikor elvégezheted a Q4OS szoftverközpontból."
+
+#, sh-format
+#~ msgid "Package system is busy now, some other setup is running ! You will be asked for ${APD} installation later again, or you can install anytime from Q4OS software centre."
+#~ msgstr "A csomagkezelő rendszer most foglalt, valami más beállítás fut ! A ${APD} telepítését később újra kérni fogja, vagy bármikor telepítheted a Q4OS szoftverközpontból."
+
+#, sh-format
+#~ msgid "Q4OS autodetected <b>${APF}</b> available <b>!</b>"
+#~ msgstr "Q4OS automatikusan észlelve <b>${APF}</b> elérhető <b>!</b>"
+
+#, sh-format
+#~ msgid "Thank you for using Q4OS operating system. After setup of <b>Look Switcher</b>, you will be able to switch between different visual themes."
+#~ msgstr "Köszönjük, hogy a Q4OS operációs rendszert használod. A <b>Megjelenésváltó</b> beállítása után válthatsz a különböző vizuális témák között."
+
+#, sh-format
+#~ msgid "Trying to setup wireless network ..."
+#~ msgstr "Vezeték nélküli hálózat beállítása ..."
+
+#, sh-format
+#~ msgid "Yes, you can install proprietary NVIDIA video drivers right now. This setup will download and auto-install all the needed."
+#~ msgstr "Igen, már most is telepíthetsz saját NVIDIA videóillesztő-programokat. Ez a telepítő letölti és automatikusan telepíti az összes szükséges fájlt."
 
 #, sh-format
 #~ msgid "Click \"Ok\" button to run the tool."

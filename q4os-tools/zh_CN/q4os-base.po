@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: q4os-base\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-27 16:49+0200\n"
+"POT-Creation-Date: 2026-10-05 17:31+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -32,6 +32,10 @@ msgstr "<b>警告</b>"
 #, sh-format
 msgid "Asus Eee PC laptop detected, extra configuration will be performed."
 msgstr "检测到华硕 Eee PC 笔记本电脑，将执行额外的配置。"
+
+#, sh-format
+msgid "Broadcom WiFi driver"
+msgstr "Broadcom WiFi 驱动程序"
 
 #, sh-format
 msgid "Check Internet connection, please."
@@ -70,10 +74,6 @@ msgid "Congratulations, setup has finished."
 msgstr "恭喜，安装已完成。"
 
 #, sh-format
-msgid "Connection not successful, check the Wifi password please."
-msgstr "连接未成功，请检查 Wifi 密码。"
-
-#, sh-format
 msgid "Current system language: <b>English</b>"
 msgstr "当前系统语言：<b>英语</b>"
 
@@ -90,10 +90,6 @@ msgid "Do you want to continue ?"
 msgstr "您想继续吗？"
 
 #, sh-format
-msgid "Do you want to download and install <b>Look Switcher</b> just now ?"
-msgstr "您想现在下载并安装 <b>Look Switcher</b> 吗？"
-
-#, sh-format
 msgid "Do you want to install <b>${APF1}</b> just now ?"
 msgstr "您想现在安装 <b>${APF1}</b> 吗？"
 
@@ -102,12 +98,20 @@ msgid "Do you want to keep English as default system language ?"
 msgstr "您想保留英语作为默认系统语言吗？"
 
 #, sh-format
+msgid "Do you want to open it now ?"
+msgstr "您想现在打开它吗？"
+
+#, sh-format
 msgid "Download failed !"
 msgstr "下载失败！"
 
 #, sh-format
 msgid "Downloading language pack, please wait ..."
 msgstr "正在下载语言包，请稍候……"
+
+#, sh-format
+msgid "Drivers"
+msgstr "驱动程序"
 
 #, sh-format
 msgid "For more detailed info read Q4OS documentation at https://www.q4os.org"
@@ -138,10 +142,6 @@ msgid "Installation has not completed, package system is busy. You can easily in
 msgstr "安装尚未完成，软件包系统正忙。您可以稍后通过桌面图标轻松安装语言包。"
 
 #, sh-format
-msgid "Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved."
-msgstr "安装程序需要从 Q4OS 网络资源下载软件包，但无法获取信息。"
-
-#, sh-format
 msgid "Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved. You will be asked for ${APD} installation at the next login, or you can install anytime from Software centre."
 msgstr "安装程序需要从 Q4OS 网络资源下载软件包，但无法获取信息。系统将在下次登录时询问您是否安装 ${APD}，您也可以随时从软件中心安装。"
 
@@ -166,8 +166,8 @@ msgid "Live media detected. Printers management may be limited within the live m
 msgstr "检测到实时介质。在实时介质环境中，打印机管理功能可能受到限制。安装 Q4OS 后即可完全使用。"
 
 #, sh-format
-msgid "Look Switcher installer and icons will be removed from control panel now, you can download it anytime from Q4OS software centre."
-msgstr "Look Switcher 安装程序及图标现在将从控制面板中移除，您可以随时从 Q4OS 软件中心下载它。"
+msgid "NVIDIA graphics driver"
+msgstr "NVIDIA 显卡驱动程序"
 
 #, sh-format
 msgid "Newly created items will appear in the start menu <b>after closing</b> the MenuEditor window."
@@ -178,20 +178,12 @@ msgid "No desktop profile has been applied yet. It's highly recommended to run <
 msgstr "尚未应用任何桌面配置文件。强烈建议尽快运行 <b>Desktop Profiler</b> 工具并应用一个可用的配置文件。"
 
 #, sh-format
-msgid "Package system is busy now, setup cannot continue. You can install anytime from Q4OS software centre."
-msgstr "软件包系统当前正忙，安装无法继续。您可以随时从 Q4OS 软件中心安装。"
-
-#, sh-format
 msgid "Package system is busy now, setup cannot continue. You will be asked for ${APD} installation at the next login, or you can install anytime from Software centre."
 msgstr "软件包系统当前正忙，安装无法继续。系统将在下次登录时询问您是否安装 ${APD}，您也可以随时从软件中心安装。"
 
 #, sh-format
 msgid "Package system is busy now, setup cannot continue. You will be asked for ${APF1} installation later again, or you can install anytime from Q4OS Software Centre."
 msgstr "软件包系统当前正忙，安装无法继续。稍后系统会再次询问您是否安装 ${APF1}，您也可以随时从 Q4OS 软件中心安装。"
-
-#, sh-format
-msgid "Package system is busy now, some other setup is running ! You will be asked for ${APD} installation later again, or you can install anytime from Q4OS software centre."
-msgstr "软件包系统当前正忙，有其他安装程序正在运行！稍后系统会再次询问您是否安装 ${APD}，您也可以随时从 Q4OS 软件中心安装。"
 
 #, sh-format
 msgid "Package system is busy now, some other setup is running ! You will be asked for ${APF1} installation later again, or you can install anytime from Q4OS Software Centre."
@@ -206,8 +198,8 @@ msgid "Printing subsystem is now deactivated, you need to install <b>CUPS layer 
 msgstr "打印子系统当前已停用，您需要先安装 <b>CUPS 层和打印机驱动程序</b>。如果您想启用打印子系统和完整的驱动程序集，请安装以下软件包："
 
 #, sh-format
-msgid "Q4OS autodetected <b>${APF}</b> available <b>!</b>"
-msgstr "Q4OS 自动检测到 <b>${APF}</b> 可用<b>！</b>"
+msgid "Q4OS autodetected <b>drivers</b> available <b>!</b>"
+msgstr "Q4OS 自动检测到可用的<b>驱动程序</b><b>！</b>"
 
 #, sh-format
 msgid "Select your language:"
@@ -238,16 +230,8 @@ msgid "Thank you for using Konqueror web browser. Konqueror is a minimalist and 
 msgstr "感谢您使用 Konqueror 网络浏览器。Konqueror 是一款简约且速度极快的浏览器，适合需要轻量级互联网访问的用户。"
 
 #, sh-format
-msgid "Thank you for using Q4OS operating system. After setup of <b>Look Switcher</b>, you will be able to switch between different visual themes."
-msgstr "感谢您使用 Q4OS 操作系统。安装 <b>Look Switcher</b> 后，您将能够在不同的视觉主题之间切换。"
-
-#, sh-format
 msgid "Trinity session not detected. Please run this tool within Trinity desktop."
 msgstr "未检测到 Trinity 会话。请在 Trinity 桌面环境中运行此工具。"
-
-#, sh-format
-msgid "Trying to setup wireless network ..."
-msgstr "正在尝试设置无线网络……"
 
 #, sh-format
 msgid "Unable to download ${APD}, check Internet connection, please."
@@ -270,6 +254,10 @@ msgid "Would you like to be <b>notified at the next login</b> ? If you say \"No\
 msgstr "您希望<b>在下次登录时收到通知</b>吗？如果您选择\"否\"，此对话框将不再出现。您可以随时从<b>软件中心</b>安装 ${APD}。"
 
 #, sh-format
+msgid "Would you like to be <b>notified at the next login</b> ? If you say \"No\", this dialog never appears again. You can review the drivers anytime in the <b>Hardware info</b> tool."
+msgstr "您希望<b>在下次登录时收到通知</b>吗？如果您选择\"否\"，此对话框将不再出现。您可以随时在<b>硬件信息</b>工具中查看驱动程序。"
+
+#, sh-format
 msgid "Would you like to be notified later ?"
 msgstr "您希望稍后收到通知吗？"
 
@@ -286,12 +274,12 @@ msgid "Yes, this is the right way to test Q4OS operating system. It is <b>highly
 msgstr "是的，这是测试 Q4OS 操作系统的正确方式。<b>强烈建议</b>在此虚拟机中安装 <b>${APD}</b>。这样便可以全屏显示，并使用 ${APF} 网络、鼠标驱动程序和其他功能。"
 
 #, sh-format
-msgid "Yes, you can install proprietary NVIDIA video drivers right now. This setup will download and auto-install all the needed."
-msgstr "是的，您现在可以安装 NVIDIA 专有显卡驱动程序。此安装程序将下载并自动安装所有需要的内容。"
-
-#, sh-format
 msgid "You are going to edit Start Menu."
 msgstr "您即将编辑开始菜单。"
+
+#, sh-format
+msgid "You can review and install them in the <b>Hardware info</b> tool, on its <b>Drivers</b> tab."
+msgstr "您可以在<b>硬件信息</b>工具的<b>驱动程序</b>选项卡中查看并安装它们。"
 
 #, sh-format
 msgid "You may want to enlarge text and widgets size to improve readability. Click OK to run a configuration tool for screen setup and scaling."
@@ -312,3 +300,43 @@ msgstr "正在下载……"
 #, sh-format
 msgid "message"
 msgstr "消息"
+
+#, sh-format
+#~ msgid "Connection not successful, check the Wifi password please."
+#~ msgstr "连接未成功，请检查 Wifi 密码。"
+
+#, sh-format
+#~ msgid "Do you want to download and install <b>Look Switcher</b> just now ?"
+#~ msgstr "您想现在下载并安装 <b>Look Switcher</b> 吗？"
+
+#, sh-format
+#~ msgid "Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved."
+#~ msgstr "安装程序需要从 Q4OS 网络资源下载软件包，但无法获取信息。"
+
+#, sh-format
+#~ msgid "Look Switcher installer and icons will be removed from control panel now, you can download it anytime from Q4OS software centre."
+#~ msgstr "Look Switcher 安装程序及图标现在将从控制面板中移除，您可以随时从 Q4OS 软件中心下载它。"
+
+#, sh-format
+#~ msgid "Package system is busy now, setup cannot continue. You can install anytime from Q4OS software centre."
+#~ msgstr "软件包系统当前正忙，安装无法继续。您可以随时从 Q4OS 软件中心安装。"
+
+#, sh-format
+#~ msgid "Package system is busy now, some other setup is running ! You will be asked for ${APD} installation later again, or you can install anytime from Q4OS software centre."
+#~ msgstr "软件包系统当前正忙，有其他安装程序正在运行！稍后系统会再次询问您是否安装 ${APD}，您也可以随时从 Q4OS 软件中心安装。"
+
+#, sh-format
+#~ msgid "Q4OS autodetected <b>${APF}</b> available <b>!</b>"
+#~ msgstr "Q4OS 自动检测到 <b>${APF}</b> 可用<b>！</b>"
+
+#, sh-format
+#~ msgid "Thank you for using Q4OS operating system. After setup of <b>Look Switcher</b>, you will be able to switch between different visual themes."
+#~ msgstr "感谢您使用 Q4OS 操作系统。安装 <b>Look Switcher</b> 后，您将能够在不同的视觉主题之间切换。"
+
+#, sh-format
+#~ msgid "Trying to setup wireless network ..."
+#~ msgstr "正在尝试设置无线网络……"
+
+#, sh-format
+#~ msgid "Yes, you can install proprietary NVIDIA video drivers right now. This setup will download and auto-install all the needed."
+#~ msgstr "是的，您现在可以安装 NVIDIA 专有显卡驱动程序。此安装程序将下载并自动安装所有需要的内容。"

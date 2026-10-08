@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: q4os-base\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-27 16:49+0200\n"
+"POT-Creation-Date: 2026-10-05 17:31+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,296 +19,284 @@ msgstr ""
 
 #, sh-format
 msgid "<b>Press Yes</b> button to run auto-install wizard, which will guide you through installation process of the latest stable version with automatic updates. Otherwise click No and use Konqueror as a default option. It is possible to get ${APF1} installer from Q4OS Software Centre anytime."
-msgstr ""
+msgstr "<b>Stiskněte Ano</b> pro spuštění průvodce automatickou instalací, který vás provede instalací nejnovější stabilní verze s automatickými aktualizacemi. Jinak klikněte na Ne a používejte Konqueror jako výchozí volbu. Instalátor ${APF1} je kdykoli k dispozici v Softwarovém centru Q4OS."
 
 #, sh-format
 msgid "<b>Q4OS optimized</b> ${APD} is preferred to original Oracle's CD, to achieve the best performance. This setup will download and auto-install all the needed just now."
-msgstr ""
+msgstr "Pro dosažení nejlepšího výkonu je vhodnější ${APD} <b>optimalizovaný pro Q4OS</b> než originální CD od Oraclu. Tento instalátor nyní stáhne a automaticky nainstaluje vše potřebné."
 
 #, sh-format
 msgid "<b>Warning</b>"
-msgstr ""
+msgstr "<b>Varování</b>"
 
 #, sh-format
 msgid "Asus Eee PC laptop detected, extra configuration will be performed."
-msgstr ""
+msgstr "Byl rozpoznán notebook Asus Eee PC, provede se dodatečné nastavení."
+
+#, sh-format
+msgid "Broadcom WiFi driver"
+msgstr "Ovladač WiFi Broadcom"
 
 #, sh-format
 msgid "Check Internet connection, please."
-msgstr ""
+msgstr "Zkontrolujte prosím připojení k Internetu."
 
 #, sh-format
 msgid "Click \"Ok\" button to show the MenuEditor window."
-msgstr ""
+msgstr "Kliknutím na tlačítko \"Ok\" zobrazíte okno Editoru nabídky."
 
 #, sh-format
 msgid "Click OK to get login screen now."
-msgstr ""
+msgstr "Kliknutím na OK přejdete na přihlašovací obrazovku."
 
 #, sh-format
 msgid "Click OK to run WiFi connection tool to create a network connection."
-msgstr ""
+msgstr "Kliknutím na OK spustíte nástroj pro připojení k WiFi a vytvoříte síťové připojení."
 
 #, sh-format
 msgid "Click Ok to reboot your computer now."
-msgstr ""
+msgstr "Kliknutím na Ok nyní restartujete počítač."
 
 #, sh-format
 msgid "Configuring desktop theme ..."
-msgstr ""
+msgstr "Nastavuje se motiv plochy ..."
 
 #, sh-format
 msgid "Configuring the profile ..."
-msgstr ""
+msgstr "Nastavuje se profil ..."
 
 #, sh-format
 msgid "Configuring the system ..."
-msgstr ""
+msgstr "Nastavuje se systém ..."
 
 #, sh-format
 msgid "Congratulations, setup has finished."
-msgstr ""
-
-#, sh-format
-msgid "Connection not successful, check the Wifi password please."
-msgstr ""
+msgstr "Gratulujeme, instalace byla dokončena."
 
 #, sh-format
 msgid "Current system language: <b>English</b>"
-msgstr ""
+msgstr "Aktuální jazyk systému: <b>angličtina</b>"
 
 #, sh-format
 msgid "Default language: <b>${LANC}</b>"
-msgstr ""
+msgstr "Výchozí jazyk: <b>${LANC}</b>"
 
 #, sh-format
 msgid "Display setup"
-msgstr ""
+msgstr "Nastavení zobrazení"
 
 #, sh-format
 msgid "Do you want to continue ?"
-msgstr ""
-
-#, sh-format
-msgid "Do you want to download and install <b>Look Switcher</b> just now ?"
-msgstr ""
+msgstr "Chcete pokračovat ?"
 
 #, sh-format
 msgid "Do you want to install <b>${APF1}</b> just now ?"
-msgstr ""
+msgstr "Chcete nyní nainstalovat <b>${APF1}</b> ?"
 
 #, sh-format
 msgid "Do you want to keep English as default system language ?"
-msgstr ""
+msgstr "Chcete ponechat angličtinu jako výchozí jazyk systému ?"
+
+#, sh-format
+msgid "Do you want to open it now ?"
+msgstr "Chcete jej nyní otevřít ?"
 
 #, sh-format
 msgid "Download failed !"
-msgstr ""
+msgstr "Stahování se nezdařilo !"
 
 #, sh-format
 msgid "Downloading language pack, please wait ..."
-msgstr ""
+msgstr "Stahuje se jazykový balíček, čekejte prosím ..."
+
+#, sh-format
+msgid "Drivers"
+msgstr "Ovladače"
 
 #, sh-format
 msgid "For more detailed info read Q4OS documentation at https://www.q4os.org"
-msgstr ""
+msgstr "Podrobnější informace najdete v dokumentaci Q4OS na https://www.q4os.org"
 
 #, sh-format
 msgid "Generating system wide locales, please wait ..."
-msgstr ""
+msgstr "Generují se systémová národní prostředí, čekejte prosím ..."
 
 #, sh-format
 msgid "IBM Thinkpad R51 laptop detected, extra configuration will be performed."
-msgstr ""
+msgstr "Byl rozpoznán notebook IBM Thinkpad R51, provede se dodatečné nastavení."
 
 #, sh-format
 msgid "If you want to get the best experience and latest Internet technologies, we recommend you to install <b>${APF1}</b> within Q4OS system."
-msgstr ""
+msgstr "Pokud chcete získat nejlepší zážitek a nejnovější internetové technologie, doporučujeme nainstalovat do systému Q4OS <b>${APF1}</b>."
 
 #, sh-format
 msgid "Install wizard"
-msgstr ""
+msgstr "Průvodce instalací"
 
 #, sh-format
 msgid "Installation has not completed, package system is busy. Try it few minutes later please."
-msgstr ""
+msgstr "Instalace nebyla dokončena, balíčkovací systém je zaneprázdněn. Zkuste to prosím za několik minut."
 
 #, sh-format
 msgid "Installation has not completed, package system is busy. You can easily install language pack later, using a desktop icon."
-msgstr ""
-
-#, sh-format
-msgid "Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved."
-msgstr ""
+msgstr "Instalace nebyla dokončena, balíčkovací systém je zaneprázdněn. Jazykový balíček můžete snadno nainstalovat později pomocí ikony na ploše."
 
 #, sh-format
 msgid "Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved. You will be asked for ${APD} installation at the next login, or you can install anytime from Software centre."
-msgstr ""
+msgstr "Instalátor potřebuje stáhnout balíčky z internetových zdrojů Q4OS, ale nepodařilo se získat žádné informace. Na instalaci ${APD} budete dotázáni při příštím přihlášení, nebo můžete instalovat kdykoli ze Softwarového centra."
 
 #, sh-format
 msgid "Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved. You will be prompted for ${APF1} installation at next Konqueror run, or you can install anytime from Q4OS Software Centre."
-msgstr ""
+msgstr "Instalátor potřebuje stáhnout balíčky z internetových zdrojů Q4OS, ale nepodařilo se získat žádné informace. K instalaci ${APF1} budete vyzváni při příštím spuštění Konqueroru, nebo můžete instalovat kdykoli ze Softwarového centra Q4OS."
 
 #, sh-format
 msgid "Language"
-msgstr ""
+msgstr "Jazyk"
 
 #, sh-format
 msgid "Language <b>${LANC}</b> has been added to system."
-msgstr ""
+msgstr "Jazyk <b>${LANC}</b> byl přidán do systému."
 
 #, sh-format
 msgid "Language pack"
-msgstr ""
+msgstr "Jazykový balíček"
 
 #, sh-format
 msgid "Live media detected. Printers management may be limited within the live media environment. It will be fully available after Q4OS installation."
-msgstr ""
+msgstr "Bylo rozpoznáno živé médium. Správa tiskáren může být v prostředí živého média omezená. Plně dostupná bude po instalaci Q4OS."
 
 #, sh-format
-msgid "Look Switcher installer and icons will be removed from control panel now, you can download it anytime from Q4OS software centre."
-msgstr ""
+msgid "NVIDIA graphics driver"
+msgstr "Grafický ovladač NVIDIA"
 
 #, sh-format
 msgid "Newly created items will appear in the start menu <b>after closing</b> the MenuEditor window."
-msgstr ""
+msgstr "Nově vytvořené položky se v nabídce Start objeví <b>po zavření</b> okna Editoru nabídky."
 
 #, sh-format
 msgid "No desktop profile has been applied yet. It's highly recommended to run <b>Desktop Profiler</b> tool and apply one of available profiles as soon as possible."
-msgstr ""
-
-#, sh-format
-msgid "Package system is busy now, setup cannot continue. You can install anytime from Q4OS software centre."
-msgstr ""
+msgstr "Zatím nebyl použit žádný profil plochy. Důrazně doporučujeme co nejdříve spustit nástroj <b>Desktop Profiler</b> a použít některý z dostupných profilů."
 
 #, sh-format
 msgid "Package system is busy now, setup cannot continue. You will be asked for ${APD} installation at the next login, or you can install anytime from Software centre."
-msgstr ""
+msgstr "Balíčkovací systém je nyní zaneprázdněn, instalace nemůže pokračovat. Na instalaci ${APD} budete dotázáni při příštím přihlášení, nebo můžete instalovat kdykoli ze Softwarového centra."
 
 #, sh-format
 msgid "Package system is busy now, setup cannot continue. You will be asked for ${APF1} installation later again, or you can install anytime from Q4OS Software Centre."
-msgstr ""
-
-#, sh-format
-msgid "Package system is busy now, some other setup is running ! You will be asked for ${APD} installation later again, or you can install anytime from Q4OS software centre."
-msgstr ""
+msgstr "Balíčkovací systém je nyní zaneprázdněn, instalace nemůže pokračovat. Na instalaci ${APF1} budete dotázáni později znovu, nebo můžete instalovat kdykoli ze Softwarového centra Q4OS."
 
 #, sh-format
 msgid "Package system is busy now, some other setup is running ! You will be asked for ${APF1} installation later again, or you can install anytime from Q4OS Software Centre."
-msgstr ""
+msgstr "Balíčkovací systém je nyní zaneprázdněn, běží jiná instalace ! Na instalaci ${APF1} budete dotázáni později znovu, nebo můžete instalovat kdykoli ze Softwarového centra Q4OS."
 
 #, sh-format
 msgid "Please login again to take changes effect."
-msgstr ""
+msgstr "Aby se změny projevily, přihlaste se prosím znovu."
 
 #, sh-format
 msgid "Printing subsystem is now deactivated, you need to install <b>CUPS layer and printer driver</b> first. If you want to activate printing subsystem and full set of drivers, install following packages:"
-msgstr ""
+msgstr "Tiskový subsystém je nyní vypnutý, nejprve je třeba nainstalovat <b>vrstvu CUPS a ovladač tiskárny</b>. Pokud chcete aktivovat tiskový subsystém a úplnou sadu ovladačů, nainstalujte následující balíčky:"
 
 #, sh-format
-msgid "Q4OS autodetected <b>${APF}</b> available <b>!</b>"
-msgstr ""
+msgid "Q4OS autodetected <b>drivers</b> available <b>!</b>"
+msgstr "Q4OS automaticky rozpoznal dostupné <b>ovladače</b> <b>!</b>"
 
 #, sh-format
 msgid "Select your language:"
-msgstr ""
+msgstr "Vyberte svůj jazyk:"
 
 #, sh-format
 msgid "Setup cannot continue ..."
-msgstr ""
+msgstr "Instalace nemůže pokračovat ..."
 
 #, sh-format
 msgid "Setup cannot continue."
-msgstr ""
+msgstr "Instalace nemůže pokračovat."
 
 #, sh-format
 msgid "Sound card not detected, system sound was disabled."
-msgstr ""
+msgstr "Zvuková karta nebyla rozpoznána, systémový zvuk byl vypnut."
 
 #, sh-format
 msgid "Start menu structure consists of two logical parts mixed, the <b>system global and user part</b>. You can edit, delete and add custom menu entries for the user part only, global menu entries are not visible in the MenuEditor."
-msgstr ""
+msgstr "Struktura nabídky Start se skládá ze dvou promíchaných logických částí, <b>globální systémové a uživatelské</b>. Upravovat, mazat a přidávat vlastní položky lze pouze v uživatelské části, globální položky nabídky nejsou v Editoru nabídky vidět."
 
 #, sh-format
 msgid "System is ready to download and install ${LANC} language pack, you need an active Internet link."
-msgstr ""
+msgstr "Systém je připraven stáhnout a nainstalovat jazykový balíček ${LANC}, potřebujete aktivní připojení k Internetu."
 
 #, sh-format
 msgid "Thank you for using Konqueror web browser. Konqueror is a minimalist and very fast browser for users who need lightweight Internet access."
-msgstr ""
-
-#, sh-format
-msgid "Thank you for using Q4OS operating system. After setup of <b>Look Switcher</b>, you will be able to switch between different visual themes."
-msgstr ""
+msgstr "Děkujeme, že používáte webový prohlížeč Konqueror. Konqueror je minimalistický a velmi rychlý prohlížeč pro uživatele, kteří potřebují nenáročný přístup k Internetu."
 
 #, sh-format
 msgid "Trinity session not detected. Please run this tool within Trinity desktop."
-msgstr ""
-
-#, sh-format
-msgid "Trying to setup wireless network ..."
-msgstr ""
+msgstr "Relace Trinity nebyla rozpoznána. Spusťte prosím tento nástroj v prostředí Trinity."
 
 #, sh-format
 msgid "Unable to download ${APD}, check Internet connection, please."
-msgstr ""
+msgstr "${APD} se nepodařilo stáhnout, zkontrolujte prosím připojení k Internetu."
 
 #, sh-format
 msgid "Unable to download, check Internet connection please. You can easily install language pack later, using a desktop icon."
-msgstr ""
+msgstr "Stahování se nezdařilo, zkontrolujte prosím připojení k Internetu. Jazykový balíček můžete snadno nainstalovat později pomocí ikony na ploše."
 
 #, sh-format
 msgid "Unable to update, check Internet connection please."
-msgstr ""
+msgstr "Aktualizace se nezdařila, zkontrolujte prosím připojení k Internetu."
 
 #, sh-format
 msgid "Wireless network card detected, WiFi support enabled."
-msgstr ""
+msgstr "Byla rozpoznána bezdrátová síťová karta, podpora WiFi je zapnuta."
 
 #, sh-format
 msgid "Would you like to be <b>notified at the next login</b> ? If you say \"No\", this dialog never appears again. You can install ${APD} anytime from <b>Software centre</b>."
-msgstr ""
+msgstr "Chcete být <b>upozorněni při příštím přihlášení</b> ? Pokud zvolíte \"Ne\", tento dialog se již nikdy nezobrazí. ${APD} můžete nainstalovat kdykoli ze <b>Softwarového centra</b>."
+
+#, sh-format
+msgid "Would you like to be <b>notified at the next login</b> ? If you say \"No\", this dialog never appears again. You can review the drivers anytime in the <b>Hardware info</b> tool."
+msgstr "Chcete být <b>upozorněni při příštím přihlášení</b> ? Pokud zvolíte \"Ne\", tento dialog se již nikdy nezobrazí. Ovladače si můžete kdykoli prohlédnout v nástroji <b>Informace o hardwaru</b>."
 
 #, sh-format
 msgid "Would you like to be notified later ?"
-msgstr ""
+msgstr "Chcete být upozorněni později ?"
 
 #, sh-format
 msgid "Would you like to install the language right now ?"
-msgstr ""
+msgstr "Chcete jazyk nainstalovat hned teď ?"
 
 #, sh-format
 msgid "Wow, Q4OS autodetected, that it is running inside <b>${APF}</b> host <b>!</b>"
-msgstr ""
+msgstr "Q4OS automaticky rozpoznal, že běží uvnitř hostitele <b>${APF}</b> <b>!</b>"
 
 #, sh-format
 msgid "Yes, this is the right way to test Q4OS operating system. It is <b>highly recommended</b> to install <b>${APD}</b> within this virtual machine. It will be possible to display in fullscreen mode, use ${APF} networking, mouse drivers and other functionality."
-msgstr ""
-
-#, sh-format
-msgid "Yes, you can install proprietary NVIDIA video drivers right now. This setup will download and auto-install all the needed."
-msgstr ""
+msgstr "Ano, toto je správný způsob, jak vyzkoušet operační systém Q4OS. <b>Důrazně doporučujeme</b> nainstalovat do tohoto virtuálního stroje <b>${APD}</b>. Bude možné zobrazení na celou obrazovku, síť ${APF}, ovladače myši a další funkce."
 
 #, sh-format
 msgid "You are going to edit Start Menu."
-msgstr ""
+msgstr "Chystáte se upravit nabídku Start."
+
+#, sh-format
+msgid "You can review and install them in the <b>Hardware info</b> tool, on its <b>Drivers</b> tab."
+msgstr "Můžete si je prohlédnout a nainstalovat v nástroji <b>Informace o hardwaru</b> na kartě <b>Ovladače</b>."
 
 #, sh-format
 msgid "You may want to enlarge text and widgets size to improve readability. Click OK to run a configuration tool for screen setup and scaling."
-msgstr ""
+msgstr "Pro lepší čitelnost můžete chtít zvětšit text a ovládací prvky. Kliknutím na OK spustíte nástroj pro nastavení obrazovky a měřítka."
 
 #, sh-format
 msgid "You will be able to create new custom submenus/folders structure and fill it with desired menu entries. You can create new shortcuts using right mouse click, or drag&drop icons from start menu or desktop into the MenuEditor window."
-msgstr ""
+msgstr "Budete moci vytvořit vlastní strukturu podnabídek a složek a naplnit ji požadovanými položkami. Nové zástupce vytvoříte kliknutím pravým tlačítkem myši nebo přetažením ikon z nabídky Start či z plochy do okna Editoru nabídky."
 
 #, sh-format
 msgid "download"
-msgstr ""
+msgstr "stahování"
 
 #, sh-format
 msgid "downloading ..."
-msgstr ""
+msgstr "stahuje se ..."
 
 #, sh-format
 msgid "message"
-msgstr ""
+msgstr "zpráva"

@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Q4OS WiFi connect\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Close"
+msgstr "סגירה"
+
+msgid "Connect"
+msgstr "התחברות"
+
+msgid "Connected"
+msgstr "מחובר"
+
+msgid "Connection not successful, check the Wifi password please."
+msgstr "החיבור לא הצליח, נא לבדוק את סיסמת ה-Wifi."
+
+msgid "Enter the password of the wireless network."
+msgstr "נא להזין את הסיסמה של הרשת האלחוטית."
+
+msgid "Network"
+msgstr "רשת"
+
+msgid "Network settings tool not found."
+msgstr "כלי הגדרות הרשת לא נמצא."
+
+msgid "No wireless networks found."
+msgstr "לא נמצאו רשתות אלחוטיות."
+
+msgid "Other network settings ..."
+msgstr "הגדרות רשת נוספות ..."
+
+msgid "Password:"
+msgstr "סיסמה:"
+
+msgid "Search again"
+msgstr "חיפוש חוזר"
+
+msgid "Searching for wireless networks ..."
+msgstr "מחפש רשתות אלחוטיות ..."
+
+msgid "Searching for wireless networks failed."
+msgstr "חיפוש הרשתות האלחוטיות נכשל."
+
+msgid "Security"
+msgstr "אבטחה"
+
+msgid "Select the wireless network to connect to:"
+msgstr "נא לבחור את הרשת האלחוטית שאליה להתחבר:"
+
+msgid "Show password"
+msgstr "הצגת הסיסמה"
+
+msgid "Signal"
+msgstr "אות"
+
+msgid "The network tool 'nmcli' could not be started, wireless networks cannot be listed."
+msgstr "לא ניתן היה להפעיל את כלי הרשת 'nmcli', לא ניתן להציג את הרשתות האלחוטיות."
+
+msgid "The password must have at least 8 characters."
+msgstr "הסיסמה חייבת להכיל 8 תווים לפחות."
+
+msgid "This network needs an enterprise login. The network settings will be opened to set it up."
+msgstr "רשת זו דורשת התחברות ארגונית. הגדרות הרשת ייפתחו כדי להגדיר אותה."
+
+msgid "Trying to setup wireless network ..."
+msgstr "מנסה להגדיר רשת אלחוטית ..."
+
+msgid "WiFi setup"
+msgstr "הגדרת WiFi"
+
+msgid "open"
+msgstr "פתוחה"
+
+msgid "This network needs an enterprise login, which cannot be set up here. Use the network manager of your desktop."
+msgstr "רשת זו דורשת התחברות ארגונית, שלא ניתן להגדיר כאן. יש להשתמש במנהל הרשת של שולחן העבודה."
+
+msgid "Disconnect"
+msgstr "התנתקות"
+
+msgid "Disconnecting from the wireless network ..."
+msgstr "מתנתק מהרשת האלחוטית ..."
+
+msgid "Disconnecting failed."
+msgstr "ההתנתקות נכשלה."
+
+msgid "Connected to the wireless network:"
+msgstr "מחובר לרשת האלחוטית:"
+
+msgid "saved"
+msgstr "שמורה"

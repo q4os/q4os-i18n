@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Q4OS WiFi connect\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Close"
+msgstr "Закрити"
+
+msgid "Connect"
+msgstr "Підключитися"
+
+msgid "Connected"
+msgstr "Підключено"
+
+msgid "Connection not successful, check the Wifi password please."
+msgstr "З'єднання не вдалося, перевірте, будь ласка, пароль Wifi."
+
+msgid "Enter the password of the wireless network."
+msgstr "Введіть пароль бездротової мережі."
+
+msgid "Network"
+msgstr "Мережа"
+
+msgid "Network settings tool not found."
+msgstr "Засіб налаштування мережі не знайдено."
+
+msgid "No wireless networks found."
+msgstr "Бездротових мереж не знайдено."
+
+msgid "Other network settings ..."
+msgstr "Інші параметри мережі ..."
+
+msgid "Password:"
+msgstr "Пароль:"
+
+msgid "Search again"
+msgstr "Шукати знову"
+
+msgid "Searching for wireless networks ..."
+msgstr "Пошук бездротових мереж ..."
+
+msgid "Searching for wireless networks failed."
+msgstr "Не вдалося виконати пошук бездротових мереж."
+
+msgid "Security"
+msgstr "Захист"
+
+msgid "Select the wireless network to connect to:"
+msgstr "Виберіть бездротову мережу для підключення:"
+
+msgid "Show password"
+msgstr "Показати пароль"
+
+msgid "Signal"
+msgstr "Сигнал"
+
+msgid "The network tool 'nmcli' could not be started, wireless networks cannot be listed."
+msgstr "Не вдалося запустити мережеву утиліту 'nmcli', список бездротових мереж недоступний."
+
+msgid "The password must have at least 8 characters."
+msgstr "Пароль має містити щонайменше 8 символів."
+
+msgid "This network needs an enterprise login. The network settings will be opened to set it up."
+msgstr "Ця мережа потребує корпоративного входу. Для його налаштування буде відкрито параметри мережі."
+
+msgid "Trying to setup wireless network ..."
+msgstr "Спроба налаштування бездротової мережі ..."
+
+msgid "WiFi setup"
+msgstr "Налаштування Wi-Fi"
+
+msgid "open"
+msgstr "відкрита"
+
+msgid "This network needs an enterprise login, which cannot be set up here. Use the network manager of your desktop."
+msgstr "Ця мережа потребує корпоративного входу, який тут налаштувати неможливо. Скористайтеся мережевим менеджером робочого столу."
+
+msgid "Disconnect"
+msgstr "Відключитися"
+
+msgid "Disconnecting from the wireless network ..."
+msgstr "Відключення від бездротової мережі ..."
+
+msgid "Disconnecting failed."
+msgstr "Не вдалося відключитися."
+
+msgid "Connected to the wireless network:"
+msgstr "Підключено до бездротової мережі:"
+
+msgid "saved"
+msgstr "збережена"
