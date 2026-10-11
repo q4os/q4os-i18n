@@ -19,13 +19,13 @@ msgstr ""
 "X-Generator: Poedit 2.2.4\n"
 
 msgid "<font size=\"4\"><p align=justify><b>Welcome to Q4OS</b>, fast and powerful desktop operating system focused on long-term stability, reliability and classic style user interface.</p><p align=justify>Q4OS is installed as a very basic and clean desktop environment with the minimal software kit. Now it's the right time to adjust your new desktop, you might want to make use of tweaking shortcuts below.</p></font>"
-msgstr "<font size=\"4\"><p align=justify><b>Bem-vindo ao Q4OS</b>, um sistema operacional rápido e poderoso focado na estabilidade a longo prazo, interface de utilizador clássica e confiável.</p><p align=justify>Q4OS é instalado como um ambiente de trabalho muito limpo e básico com um conjunto de programas reduzido. Agora é o momento certo para ajustar o seu novo ambiente de trabalho, você pode querer fazer uso dos atalhos de ajustes abaixo.</p></font>"
+msgstr "<font size=\"4\"><p align=justify><b>Bem-vindo ao Q4OS</b>, um sistema operacional rápido e poderoso, focado em estabilidade de longo prazo, confiabilidade e uma interface clássica.</p><p align=justify>O Q4OS é instalado com um desktop básico e limpo, contendo apenas o conjunto mínimo de programas. Agora é o momento ideal para ajustar seu novo desktop usando os atalhos abaixo.</p></font>"
 
 msgid "<font size=\"4\"><p>Bypass login screen and login without entering your password after the system boot.</p></font>"
 msgstr "<font size=\"4\"><p>Evita a tela de início de sessão e inicia a sessão sem introduzir a sua senha após a inicialização do sistema.</p></font>"
 
 msgid "<font size=\"4\"><p>Desktop Profiler will automatically install and configure set of additional Applications and tools, all in single click.</p><p>You will be allowed to select between different desktop profiles.</p></font>"
-msgstr "<font size=\"4\"><p>O Perfil do ambiente de trabalho irá instalar e configurar automaticamente um conjunto de Aplicações e ferramentas adicionais, tudo num simples clique.</p><p>Você terá permissão para selecionar entre diferentes perfis do ambiente de trabalho.</p></font>"
+msgstr "<font size=\"4\"><p>O Desktop Profiler instala e configura automaticamente um conjunto de aplicativos e ferramentas adicionais com um único clique.</p><p>Você poderá escolher entre diferentes perfis de desktop.</p></font>"
 
 msgid "<font size=\"4\"><p>Other useful configuration options.</p></font>"
 msgstr "<font size=\"4\"><p>Outras opções úteis de configuração.</p></font>"
@@ -37,7 +37,7 @@ msgid "<font size=\"4\"><p>Switch to alternative Kickoff Start menu.</p><p>Well 
 msgstr "<font size=\"4\"><p>Muda para um menu Iniciar Kickoff alternativo.</p><p>Bem organizado, menu iniciar de estilo moderno oferece uma barra de pesquisa, separador de favoritos, histórico e muito mais.</p></font>"
 
 msgid "<font size=\"4\"><p>You will be directed to Q4OS web resources to download and install standalone useful applications.</p></font>"
-msgstr "<font size=\"4\"><p>Você será direcionado para os recursos da rede Q4OS para transferir e instalar aplicações úteis independentes.</p></font>"
+msgstr "<font size=\"4\"><p>Você será direcionado aos recursos on-line do Q4OS para baixar e instalar aplicativos úteis independentes.</p></font>"
 
 msgid "<p>Automatic login is now disabled.</p>"
 msgstr "<p>O início de sessão automático está desativado.</p>"
@@ -46,10 +46,10 @@ msgid "<p>Automatic login is now enabled.</p>"
 msgstr "<p>O início de sessão automático está ativado.</p>"
 
 msgid "<p>Desktop effects have been disabled.</p>"
-msgstr "<p>Os efeitos do ambiente de trabalho foram desativados.</p>"
+msgstr "<p>Os efeitos do desktop foram desativados.</p>"
 
 msgid "<p>Desktop effects have been enabled. Please login again to take changes effect.</p>"
-msgstr "<p>Os efeitos do ambiente de trabalho foram ativados. Por favor, reinicie a sessão para que as alterações entrem em vigor.</p>"
+msgstr "<p>Os efeitos do desktop foram ativados. Inicie uma nova sessão para que as alterações entrem em vigor.</p>"
 
 msgid "<p>Do you want to enable Automatic login ?</p>"
 msgstr "<p>Quer ativar o início de sessão automático ?</p>"
@@ -70,7 +70,7 @@ msgid "<p>This action is available for Trinity and Plasma desktops only.</p>"
 msgstr "<p>Esta ação está disponível apenas para os ambientes de trabalho Trinity e Plasma.</p>"
 
 msgid "<p>This action is available for Trinity desktop only.</p>"
-msgstr "<p>Esta ação está disponível somente para o ambiente de trabalho Trinity.</p>"
+msgstr "<p>Esta ação está disponível somente no desktop Trinity.</p>"
 
 msgid "Apply"
 msgstr "Aplicar"
@@ -97,10 +97,10 @@ msgid "Classic style cascading menu"
 msgstr "Menu em cascata de estilo clássico"
 
 msgid "Desktop effects"
-msgstr "Efeitos do ambiente de trabalho"
+msgstr "Efeitos do desktop"
 
 msgid "Do you really want to turn Desktop Effects on ?"
-msgstr "Tem a certeza que quer ativar os efeitos do ambiente de trabalho ?"
+msgstr "Tem certeza de que deseja ativar os efeitos do desktop?"
 
 msgid "Do you want to turn Desktop Effects on ?"
 msgstr "Deseja ativar os efeitos da área de trabalho?"
@@ -169,7 +169,7 @@ msgid "Revert to defaults"
 msgstr "Reverter para predefinição"
 
 msgid "Run Desktop Profiler"
-msgstr "Executar o perfil de ambiente de trabalho"
+msgstr "Executar o Desktop Profiler"
 
 msgid "Screen scaling"
 msgstr "Escala da tela"
@@ -211,7 +211,7 @@ msgid "Warning !"
 msgstr "Aviso !"
 
 msgid "Welcome screen"
-msgstr "Ecrã de boas-vindas"
+msgstr "Tela de boas-vindas"
 
 msgid "Welcome to Q4OS"
 msgstr "Bem-vindo ao Q4OS"

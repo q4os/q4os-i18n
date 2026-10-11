@@ -10,13 +10,12 @@ msgstr ""
 "PO-Revision-Date: 2019-10-08 11:52+0100\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <kde-i18n-doc@kde.org>\n"
-"Language: pt\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.2.4\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Language: pt_PT\n"
 "X-Source-Language: C\n"
 
 #, c-format
@@ -146,10 +145,10 @@ msgid "Checking permissions"
 msgstr "Verificando permissões"
 
 msgid "Checking SW database to be free"
-msgstr "Verificando o banco de dados de software ficar livre"
+msgstr "Verificando se o banco de dados de software está livre"
 
 msgid "Locking SW database"
-msgstr "Bloqueando a base de dados de software"
+msgstr "Bloqueando o banco de dados de software"
 
 msgid "System updater has been started.."
 msgstr "O atualizador do sistema foi iniciado.."
@@ -247,7 +246,7 @@ msgid "<p>Package system is busy, not ready to install now. Setup cannot continu
 msgstr "<p>O sistema de pacotes está ocupado, não está pronto para instalar agora. A configuração não pode continuar.</p><p>O bloqueio é muito provavelmente causado por atualizações do sistema em andamento em segundo plano. Se for esse o caso, você precisa esperar um momento até o sistema de pacotes terminar essas operações.</p><p>Certifique-se de que não está instalando outro aplicativo e repita a configuração daqui a alguns minutos.</p>"
 
 msgid "Canceled !"
-msgstr "Cancelado !"
+msgstr "Cancelado!"
 
 msgid "! Reboot required"
 msgstr "! Reinicialização necessária"
@@ -259,10 +258,10 @@ msgid "Please, try to run Update Manager a few minutes later again."
 msgstr "Por favor, tente executar o Gerenciador de atualização alguns minutos depois."
 
 msgid "Update manager has been exited with <b>error code: "
-msgstr "O gerenciador de atualizações foi encerrado com o código de erro <b>: "
+msgstr "O Gerenciador de atualizações foi encerrado com <b>código de erro: "
 
 msgid "<b>Reboot is required<b> to complete the upgrade."
-msgstr "<b> A reinicialização é necessária<b> para concluir a atualização."
+msgstr "<b>É necessário reiniciar<b> para concluir a atualização."
 
 msgid "Success. The most recent update has been implemented."
 msgstr "Sucesso. A atualização mais recente foi implementada."
@@ -283,7 +282,7 @@ msgid "Q4OS Update Notifier"
 msgstr "Notificador de Atualizações do Q4OS"
 
 msgid "Q4OS Update Notifier for Trinity does not run under a Plasma desktop session. Please install the \"q4os-updater-plasma\" package to get update notifications here."
-msgstr ""
+msgstr "O Notificador de atualizações do Q4OS para Trinity não funciona em uma sessão do Plasma. Instale o pacote \"q4os-updater-plasma\" para receber notificações de atualização aqui."
 
 #~ msgid "Please install \"q4os-updater-plasma\" package in order to get better experience."
 #~ msgstr "Instale o pacote \\\"q4os-updater-plasma\\\" para obter uma experiência melhor."

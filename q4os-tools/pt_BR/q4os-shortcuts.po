@@ -11,7 +11,7 @@ msgstr ""
 "PO-Revision-Date: 2019-10-11 16:06+0100\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: \n"
-"Language: pt\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,25 +21,25 @@ msgid "Accessories"
 msgstr "Acessórios"
 
 msgid "Configure the Q4OS Update Manager"
-msgstr ""
+msgstr "Configurar o Gerenciador de atualizações do Q4OS"
 
 msgid "Contains personal documents"
-msgstr ""
+msgstr "Contém documentos pessoais"
 
 msgid "Control Panel"
-msgstr "Painel de Controlo"
+msgstr "Painel de controle"
 
 msgid "Control panel"
-msgstr "Painel de controlo"
+msgstr "Painel de controle"
 
 msgid "Displays a tray icon when software updates are available"
-msgstr ""
+msgstr "Exibe um ícone na área de notificação quando há atualizações de software disponíveis"
 
 msgid "Documents"
 msgstr "Documentos"
 
 msgid "Files and folders"
-msgstr "Ficheiros e pastas"
+msgstr "Arquivos e pastas"
 
 msgid "Find"
 msgstr "Localizar"
@@ -51,7 +51,7 @@ msgid "Help"
 msgstr "Ajuda"
 
 msgid "Install Applications"
-msgstr "Instalar Aplicações"
+msgstr "Instalar aplicativos"
 
 msgid "Internet"
 msgstr "Internet"
@@ -69,10 +69,10 @@ msgid "Look Switcher"
 msgstr "Look Switcher"
 
 msgid "Network Shares"
-msgstr "Partilhas de rede"
+msgstr "Compartilhamentos de rede"
 
 msgid "Network connections"
-msgstr "Ligações de rede"
+msgstr "Conexões de rede"
 
 msgid "Open Terminal"
 msgstr "Abrir Terminal"
@@ -90,16 +90,16 @@ msgid "Q4OS Software Centre"
 msgstr "Centro de software Q4OS"
 
 msgid "Q4OS Update Notifier"
-msgstr ""
+msgstr "Notificador de atualizações do Q4OS"
 
 msgid "Q4OS Welcome Screen"
-msgstr "Ecrã de boas-vindas Q4OS"
+msgstr "Tela de boas-vindas do Q4OS"
 
 msgid "Q4OS documentation on-line"
 msgstr "Documentação on-line do Q4OS"
 
 msgid "Screen scaling"
-msgstr "Escala de ecrã"
+msgstr "Escala da tela"
 
 msgid "Settings"
 msgstr "Definições"
@@ -120,7 +120,7 @@ msgid "TDevelop Q4OS"
 msgstr "TDevelop Q4OS"
 
 msgid "Terminal Program"
-msgstr "Programa Terminal"
+msgstr "Terminal"
 
 msgid "Trash"
 msgstr "Lixo"
@@ -132,17 +132,16 @@ msgid "Uninstall Chromium"
 msgstr "Desinstalar o Chromium"
 
 msgid "Update Manager"
-msgstr "Gestor de atualizações"
+msgstr "Gerenciador de atualizações"
 
-#, fuzzy
 msgid "Update Manager Settings"
-msgstr "Gestor de atualizações"
+msgstr "Configurações do Gerenciador de atualizações"
 
 msgid "Users and groups"
-msgstr "Utilizadores e grupos"
+msgstr "Usuários e grupos"
 
 msgid "Web Browser"
-msgstr "Navegador de internet"
+msgstr "Navegador da Internet"
 
 #~ msgid "A KDE panel applet for a WINE menu"
 #~ msgstr "Uma mini-aplicação de painel do KDE para um menu WINE"
