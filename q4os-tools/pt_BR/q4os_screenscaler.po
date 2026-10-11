@@ -37,13 +37,13 @@ msgid "Form1"
 msgstr "Form1"
 
 msgid "If you align the scale, fonts and elements on primary screen will match the real size."
-msgstr "Se você alinhar a escala, as fontes e os elementos no ecrã principal corresponderão ao tamanho real."
+msgstr "Ajuste a escala para que as fontes e os elementos da tela principal correspondam ao tamanho real."
 
 msgid "Reset screen scaling configuration to system defaults"
-msgstr "Redefinir a configuração de escala do ecrã para os padrões do sistema"
+msgstr "Restaurar a escala de tela padrão do sistema"
 
 msgid "Reset screen scaling configuration to system defaults now?"
-msgstr "Redefinir agora a configuração de escala do ecrã para os padrões do sistema?"
+msgstr "Restaurar agora a escala de tela padrão do sistema?"
 
 msgid "Ruler [cm]:"
 msgstr "Régua [cm]:"
@@ -52,25 +52,25 @@ msgid "Sample:"
 msgstr "Amostra:"
 
 msgid "Save changes, you will need to login again"
-msgstr "Guardar alterações, você precisará de iniciar sessão novamente"
+msgstr "Salvar as alterações; será necessário iniciar uma nova sessão"
 
 msgid "Scaling factor"
 msgstr "Fator de escala"
 
 msgid "Scaling factor  /  DPI value to apply  /  Primary screen guessed"
-msgstr "Fator de escala / valor de DPI a aplicar / Ecrã principal adivinhado"
+msgstr "Fator de escala / valor de DPI a ser aplicado / tela principal estimada"
 
 msgid "Screen scaling configuration has been saved. You need to login again for changes to take effect."
-msgstr "A configuração de escala do ecrã foi guardada. Você precisa de iniciar sessão novamente para que as alterações tenham efeito."
+msgstr "A configuração da escala de tela foi salva. É necessário iniciar uma nova sessão para que as alterações entrem em vigor."
 
 msgid "Screen scaling setup"
-msgstr "Configuração da escala do ecrã"
+msgstr "Configuração da escala da tela"
 
 msgid "Show advanced options"
 msgstr "Mostrar opções avançadas"
 
 msgid "This tool sets screen scaling up for Trinity desktop only, exiting ..."
-msgstr "Esta ferramenta define o redimensionamento do ecrã para o ambiente de trabalho Trinity apenas, a sair ..."
+msgstr "Esta ferramenta configura a escala de tela somente no desktop Trinity. Encerrando..."
 
 #~ msgid "Reset"
 #~ msgstr "Repor"

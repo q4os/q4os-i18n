@@ -22,7 +22,7 @@ msgid "  Install >"
 msgstr "  Instalar >"
 
 msgid "* select please *"
-msgstr "* selecione por favor *"
+msgstr "* selecione *"
 
 msgid "--- General ---"
 msgstr "--- Geral ---"
@@ -70,7 +70,7 @@ msgid "<"
 msgstr "<"
 
 msgid "<p align=justify>This dialog lets you choose an additional desktop environment (DE) to install alongside the default Q4OS desktop.</p><p align=justify>Please do not use this option, unless you are absolutely sure what you are doing.</p>"
-msgstr "<p align=justify> Esta caixa de diálogo permite que você escolha um ambiente de trabalho adicional (DE) para instalar juntamente com o ambiente de trabalho padrão do Q4OS.</p><p align=justify> Por favor, não use esta opção, a menos que você tenha certeza absoluta do que está fazendo.</p>"
+msgstr "<p align=justify>Esta janela permite escolher um ambiente de desktop (DE) adicional para instalar junto com o desktop padrão do Q4OS.</p><p align=justify>Use esta opção somente se souber exatamente o que está fazendo.</p>"
 
 msgid "<p>Couldn't open file.</p>"
 msgstr "<p>Não foi possível abrir o arquivo.</p>"
@@ -79,16 +79,16 @@ msgid "<p>Do you want to cancel pending operation ?</p>"
 msgstr "<p>Deseja cancelar a operação pendente?</p>"
 
 msgid "<p>Install and set <span style=\"font-weight:600\">KDE Plasma</span> environment as default and leave the Trinity desktop as an option.</p>"
-msgstr "<p>Instale e defina <span style=\"font-weight:600\"> o ambiente KDE Plasma</span> como padrão e deixe o ambiente de trabalho Trinity como uma opção.</p>"
+msgstr "<p>Instale e defina o ambiente <span style=\"font-weight:600\">KDE Plasma</span> como padrão, mantendo o desktop Trinity como opção.</p>"
 
 msgid "<p>Insufficient hardware detected !</p><p>Your CPU lacks SSE2 support, SSE2 is necessary for required software.</p>"
-msgstr "<p>Hardware insuficiente detectado !</p><p>A sua CPU não possui suporte a SSE2, o SSE2 é necessário para o software exigido.</p>"
+msgstr "<p>Hardware insuficiente!</p><p>A CPU não oferece suporte a SSE2, requisito do software necessário.</p>"
 
 msgid "<p>Insufficient hardware detected !</p><p>Your computer is low in hardware resources for profile you have selected, it's not recommended to install the profile.</p>"
 msgstr "<p>Hardware insuficiente detectado !</p><p>O seu computador está com poucos recursos de hardware para o perfil que você selecionou, não é recomendado instalar o perfil.</p>"
 
 msgid "<p>Keep the <span style=\"font-weight:600\">Trinity</span> desktop as default, no Plasma will be installed. You can start Plasma installation later using the Desktop profiler tool.</p>"
-msgstr "<p>Mantenha o ambiente de trabalho <span style=\"font-weight:600\">Trinity</span> como padrão, o Plasma será instalado. Você pode iniciar a instalação do Plasma posteriormente usando a ferramenta do Perfil de ambiente de trabalho.</p>"
+msgstr "<p>Mantenha o desktop <span style=\"font-weight:600\">Trinity</span> como padrão; o Plasma não será instalado. Você poderá iniciar a instalação do Plasma mais tarde com a ferramenta Desktop Profiler.</p>"
 
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, most likely, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p>"
 msgstr "<p>Sistema de pacotes ocupado, não está pronto para instalar agora. A instalação não pode continuar.</p><p>O bloqueio é causado, muito provavelmente, por atualizações em segundo plano do sistema. Se este for o caso, você tem que esperar um momento para o sistema de pacotes concluir essas operações. Por favor, verifique se você não está instalando outro aplicativo e repita a configuração alguns minutos depois.</p>"

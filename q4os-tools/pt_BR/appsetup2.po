@@ -107,7 +107,7 @@ msgid "Calculating progress ..."
 msgstr "Calculando o progresso ..."
 
 msgid "Cancel"
-msgstr "Cancelando"
+msgstr "Cancelar"
 
 msgid "Canceling installation ..."
 msgstr "Cancelando a instalação ..."
@@ -188,7 +188,7 @@ msgid "Distro"
 msgstr "Distribuição"
 
 msgid "Do you really want to cancel pending operation ?"
-msgstr "Tem a certeza que deseja cancelar a operação pendente ?"
+msgstr "Tem certeza de que deseja cancelar a operação pendente?"
 
 msgid "Done"
 msgstr "Concluído"
@@ -242,7 +242,7 @@ msgid "Flatpak isn't installed, exiting ..."
 msgstr "O Flatpak não está instalado, saindo ..."
 
 msgid "I Agree"
-msgstr "Eu Concordo"
+msgstr "Concordo"
 
 msgid "If you accept the terms of the agreement, click I Agree to continue. You must accept the agreement to install _SUBST_SWNAME_ software."
 msgstr "Se aceita os termos do contrato, clique em Concordo para continuar. Você tem de aceitar o contrato para instalar o programa _SUBST_SWNAME_."
@@ -287,7 +287,7 @@ msgid "Not ready"
 msgstr "Não está pronto"
 
 msgid "Package"
-msgstr "O pacote"
+msgstr "Pacote"
 
 msgid "Package system ... Busy !"
 msgstr "Sistema de pacotes ... Ocupado !"
@@ -425,7 +425,7 @@ msgid "Update system cache ... Done"
 msgstr "Atualizar o cache do sistema ... Concluído"
 
 msgid "Upgrade Apt database ..."
-msgstr "Atualizando os pacotes do Apt ..."
+msgstr "Atualizando o banco de dados do APT..."
 
 msgid "Verified ... OK"
 msgstr "Verificado ... OK"

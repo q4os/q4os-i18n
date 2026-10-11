@@ -14,3 +14,6 @@ The calamares-debian sources of 18 languages are synced from q4os_live_calamares
 
 q4os-shortcuts: new tool `a_q4os/apply_shortcuts.sh` (the directory is git-ignored, the tool lives in the working tree only). Run on scratch copies of 75 Q4OS desktop files: 54 gain lines, a second run changes nothing, existing lines are kept. Applied for real to q4os-base 4.31.15-a1 only. Not checked in a session: a translated Trinity menu showing the new names.
 
+# Untested changes (2026-10-11)
+
+Edited pt_BR catalogs: appsetup2, calamares-debian, cpuqinfo, desktop-profiler, q4os-base, q4os-shortcuts, q4os_lookswitcher, q4os_screenscaler, software-centre, um_config, update-manager, and welcome-screen. All 13 catalogs pass `msgfmt -c --check-format`. Runtime behavior in Q4OS desktop sessions was not tested. The lookswitcher placeholder header fields were removed without adding authorship or revision metadata. These catalog copies require synchronization by their owning packages.

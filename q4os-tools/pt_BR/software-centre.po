@@ -34,16 +34,16 @@ msgid "<p>%1 is already installed, do you want to uninstall ?</p>"
 msgstr "<p>%1 já está instalado, deseja desinstalá-lo?</p>"
 
 msgid "<p>NVIDIA installation has been detected !</p><p>Actions are disabled during NVIDIA setup, please wait until end of the NVIDIA installation.</p>"
-msgstr "<p>A instalação NVIDIA foi detetada !</p><p>As ações estão desativadas durante a configuração da NVIDIA, aguarde até o final da instalação da NVIDIA.</p>"
+msgstr "<p>Foi detectada uma instalação da NVIDIA!</p><p>As ações ficam desativadas durante a instalação. Aguarde até que ela seja concluída.</p>"
 
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, most likely, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations. Please make sure you are not installing another application and repeat setup few minutes later.</p>"
-msgstr "<p>Sistema de pacotes ocupado, não está pronto para instalar agora. A instalação não pode continuar.</p><p>O bloqueio é causado, muito provavelmente, por atualizações em segundo plano do sistema em curso. Se este for o caso, você tem que esperar um momento para o sistema de pacotes concluir essas operações. Por favor, verifique se você não está a instalar outro aplicativo e repita a configuração alguns minutos depois.</p>"
+msgstr "<p>O sistema de pacotes está ocupado e não pode instalar agora. A instalação não pode continuar.</p><p>O bloqueio provavelmente foi causado por atualizações do sistema em andamento em segundo plano. Aguarde até que o sistema de pacotes conclua essas operações. Verifique se nenhum outro aplicativo está sendo instalado e tente novamente em alguns minutos.</p>"
 
 msgid "<p>Select an application to install from the list of featured applications.</p>"
 msgstr "<p>Selecione um aplicativo para instalar na lista de aplicativos em destaque.</p>"
 
 msgid "<p>Virtualbox installation has been detected !</p><p>Actions are disabled during Virtualbox setup, please wait until end of the Virtualbox installation.</p>"
-msgstr "<p>Uma instalação Virtualbox foi detectada !</p><p>As ações estão desativadas durante a configuração do Virtualbox, por favor aguarde até ao final da instalação do Virtualbox.</p>"
+msgstr "<p>Foi detectada uma instalação do VirtualBox!</p><p>As ações ficam desativadas durante a instalação. Aguarde até que ela seja concluída.</p>"
 
 msgid "<p>You have applied no desktop profile yet. It's highly recommended to apply a desktop profile before installing applications.</p><p>Please run <b>Desktop Profiler</b> tool to choose and apply a profile.</p>"
 msgstr "<p>Você ainda não aplicou nenhum perfil de área de trabalho. É altamente recomendável aplicar um perfil de área de trabalho antes de instalar aplicativos.</p><p>Execute a ferramenta <b>Desktop Profiler</b> para escolher e aplicar um perfil.</p>"
@@ -55,7 +55,7 @@ msgid "APT database hasn't been updated yet."
 msgstr "O banco de dados do APT ainda não foi atualizado."
 
 msgid "Application"
-msgstr "Aplicação"
+msgstr "Aplicativo"
 
 msgid "Building Apt database ..."
 msgstr "Construindo o banco de dados do Apt ..."
@@ -76,7 +76,7 @@ msgid "Description"
 msgstr "Descrição"
 
 msgid "Desktop profiler"
-msgstr "Perfil de ambiente de trabalho"
+msgstr "Desktop Profiler"
 
 msgid "Discover manager"
 msgstr "Gerenciador Discover"
@@ -115,7 +115,7 @@ msgid "Install Synaptic ?"
 msgstr "Instalar o Synaptic?"
 
 msgid "Install application"
-msgstr "Instalar aplicação"
+msgstr "Instalar aplicativo"
 
 msgid "Install or uninstall selected application from the featured applications list below"
 msgstr "Instalar ou desinstalar o aplicativo selecionado na lista de aplicativos em destaque abaixo"
@@ -148,7 +148,7 @@ msgid "Rating"
 msgstr "Classificação"
 
 msgid "Run 'Desktop Profiler' tool"
-msgstr "Execute a ferramenta 'Perfil de ambiente de trabalho'"
+msgstr "Execute a ferramenta 'Desktop Profiler'"
 
 msgid "Run 'Discover' advanced software manager"
 msgstr "Executar o gerenciador de software avançado 'Discover'"

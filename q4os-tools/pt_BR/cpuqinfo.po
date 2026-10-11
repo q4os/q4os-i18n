@@ -48,7 +48,7 @@ msgid "Cache"
 msgstr "Cache"
 
 msgid "Clocks"
-msgstr "Clocks"
+msgstr "Frequências"
 
 msgid "Close"
 msgstr "Fechar"
@@ -132,7 +132,7 @@ msgid "Kernel"
 msgstr "Kernel"
 
 msgid "L1 Data"
-msgstr "L1 Dados"
+msgstr "Dados L1"
 
 msgid "L1 Inst."
 msgstr "L1 Instr."
@@ -177,7 +177,7 @@ msgid "Not installable"
 msgstr "Não instalável"
 
 msgid "Package"
-msgstr "Encapsulamento"
+msgstr "Pacote"
 
 msgid "Processor"
 msgstr "Processador"
