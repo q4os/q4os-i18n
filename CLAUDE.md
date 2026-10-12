@@ -24,6 +24,9 @@ file wherever they differ, and "Cloud sessions" below does not apply. The repo-s
 ## Commits and pull requests
 
 - Use the ambient git identity (`Q4OS Team <q4os@q4os.org>`). Never pass `-c user.name=` / `-c user.email=`.
+- In a cloud session the VM's default git identity is not ours: before the first commit, if
+  `git config user.email` is not `q4os@q4os.org`, set it repo-locally with
+  `git config user.name "Q4OS Team"` and `git config user.email q4os@q4os.org`.
 - **No AI attribution anywhere:** no `Co-Authored-By: Claude` and no `Claude-Session:` trailer in commits; no
   "Generated with Claude Code" line in PR descriptions. A commit message ends with its last line of real content.
 
