@@ -16,7 +16,7 @@ msgid "Connected"
 msgstr "Verbunden"
 
 msgid "Connection not successful, check the Wifi password please."
-msgstr "Verbindung nicht erfolgreich, überprüfen Sie bitte das WiFi-Passwort."
+msgstr "Verbindung nicht erfolgreich, überprüfen Sie bitte das Drahtlos-Netzwerk-Passwort."
 
 msgid "Enter the password of the wireless network."
 msgstr "Geben Sie das Passwort des drahtlosen Netzwerks ein."
@@ -70,7 +70,7 @@ msgid "Trying to setup wireless network ..."
 msgstr "Versuch, drahtloses Netzwerk einzurichten ..."
 
 msgid "WiFi setup"
-msgstr "WLAN-Einrichtung"
+msgstr "Einrichtung drahtloses Netzwerk"
 
 msgid "open"
 msgstr "offen"
