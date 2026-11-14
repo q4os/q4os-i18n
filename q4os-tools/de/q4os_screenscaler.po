@@ -31,7 +31,7 @@ msgid "Defaults"
 msgstr "Voreinstellungen"
 
 msgid "Form (ui_form1)"
-msgstr "Form (ui_form1)"
+msgstr "Formular (ui_form1)"
 
 msgid "Form1"
 msgstr "Form1"
@@ -40,10 +40,10 @@ msgid "If you align the scale, fonts and elements on primary screen will match t
 msgstr "Wenn Sie den Maßstab ausrichten, stimmen Schriftarten und Elemente auf dem primären Bildschirm mit der realen Größe überein."
 
 msgid "Reset screen scaling configuration to system defaults"
-msgstr "Konfiguration der Bildschirmskalierung auf Systemdefaults zurücksetzen"
+msgstr "Konfiguration der Bildschirmskalierung auf Systemvoreinstellungen zurücksetzen"
 
 msgid "Reset screen scaling configuration to system defaults now?"
-msgstr "Konfiguration der Bildschirmskalierung jetzt auf Systemdefaults zurücksetzen?"
+msgstr "Konfiguration der Bildschirmskalierung jetzt auf Systemvoreinstellungen zurücksetzen?"
 
 msgid "Ruler [cm]:"
 msgstr "Lineal [cm]:"
@@ -58,7 +58,7 @@ msgid "Scaling factor"
 msgstr "Skalierungsfaktor"
 
 msgid "Scaling factor  /  DPI value to apply  /  Primary screen guessed"
-msgstr "Skalierungsfaktor  /  Anzuwendender DPI-Wert  /  Primärer Bildschirm vermutet"
+msgstr "Skalierungsfaktor  /  Anzuwendender PPZ-Wert  /  Hauptbildschirm vermutet"
 
 msgid "Screen scaling configuration has been saved. You need to login again for changes to take effect."
 msgstr "Konfiguration der Bildschirmskalierung ist gespeichert worden. Sie müssen sich erneut anmelden, damit die Änderungen wirksam werden."
@@ -70,7 +70,7 @@ msgid "Show advanced options"
 msgstr "Erweiterte Optionen zeigen"
 
 msgid "This tool sets screen scaling up for Trinity desktop only, exiting ..."
-msgstr "Dieses Tool richtet die Bildschirmskalierung nur für den Trinity-Desktop ein, wird beendet ..."
+msgstr "Dieses Werkzeug richtet die Bildschirmskalierung nur für den Trinity-Schreibtisch ein, wird beendet ..."
 
 #~ msgid "Reset"
 #~ msgstr "Zurücksetzen"
