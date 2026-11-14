@@ -36,16 +36,16 @@ msgid "Next check scheduled in %1."
 msgstr "Nächste Prüfung geplant in %1."
 
 msgid "Update Manager - configuration"
-msgstr "Update-Manager - Konfiguration"
+msgstr "Aktualisierungs-Verwaltung - Konfiguration"
 
 msgid ""
 "<b>Note:</b> Plasma's Discover update notifier is installed and already "
 "shows update notifications on this system, so the Q4OS Updater tray icon "
 "stays hidden here to avoid showing two icons for the same thing."
-msgstr "<b>Hinweis:</b> Die Discover-Update-Benachrichtigung von Plasma ist installiert und zeigt auf diesem System bereits Update-Benachrichtigungen an. Das Q4OS-Updater-Symbol bleibt daher hier verborgen, um nicht zwei Symbole für dieselbe Sache anzuzeigen."
+msgstr "<b>Hinweis:</b> Die Discover-Aktualisierungs-Benachrichtigung von Plasma ist installiert und zeigt auf diesem System bereits Aktualisierungs-Benachrichtigungen an. Das Q4OS-Aktualisierungs-Symbol bleibt daher hier verborgen, um nicht zwei Symbole für dieselbe Sache anzuzeigen."
 
 msgid "Updater mode: Standard"
-msgstr "Updater-Modus: Standard"
+msgstr "Aktualisierungs-Modus: Standard"
 
 msgid "Standard interactive mode"
 msgstr "Standardmäßiger interaktiver Modus"
@@ -57,22 +57,22 @@ msgid "Standard mode options"
 msgstr "Optionen für den Standardmodus"
 
 msgid "Hide updater tray icon when no updates are available"
-msgstr "Symbol im Infobereich ausblenden, wenn keine Aktualisierungen verfügbar sind"
+msgstr "Symbol im Informationsbereich ausblenden, wenn keine Aktualisierungen verfügbar sind"
 
 msgid "Add all repositories to Allowed-origins"
-msgstr "Alle Repositorys zu den erlaubten Ursprüngen hinzufügen"
+msgstr "Alle Ablagen zu den erlaubten Ursprüngen hinzufügen"
 
 msgid "Hide upgradable packages lists and confirmation dialogs"
 msgstr "Listen aktualisierbarer Pakete und Bestätigungsdialoge ausblenden"
 
 msgid "Start updater window minimized"
-msgstr "Updater-Fenster minimiert starten"
+msgstr "Aktualisierungs-Fenster minimiert starten"
 
 msgid "Auto close updater window on finish"
-msgstr "Updater-Fenster bei Beendigung automatisch schließen"
+msgstr "Aktualisierungs-Fenster bei Beendigung automatisch schließen"
 
 msgid "Make use of Synaptic package manager, if available"
-msgstr "Synaptic-Paketmanager zunutze machen, falls verfügbar"
+msgstr "Synaptic-Paketverwaltung zunutze machen, falls verfügbar"
 
 msgid "Update Flatpak applications"
 msgstr "Flatpak-Anwendungen aktualisieren"
@@ -100,10 +100,10 @@ msgid ""
 "repository, matching the interactive updater, and stays current if a "
 "repository is added later. Unchecked: restrict to unattended-upgrades' own "
 "already-configured allowed origins (e.g. security updates only)."
-msgstr "Aktiviert: unattended-upgrades installiert aus jedem derzeit konfigurierten Repository, so wie der interaktive Updater, und bleibt aktuell, wenn später ein Repository hinzugefügt wird. Deaktiviert: Beschränkung auf die bereits konfigurierten erlaubten Ursprünge von unattended-upgrades (z. B. nur Sicherheitsaktualisierungen)."
+msgstr "Aktiviert: unattended-upgrades installiert aus jeder derzeit konfigurierten Ablage, so wie die interaktive Aktualisierung, und bleibt aktuell, wenn später eine Ablage hinzugefügt wird. Deaktiviert: Beschränkung auf die bereits konfigurierten erlaubten Ursprünge von unattended-upgrades (z. B. nur Sicherheitsaktualisierungen)."
 
 msgid "Updater mode: Unattended"
-msgstr "Updater-Modus: Automatisch"
+msgstr "Aktualisierungs-Modus: Automatisch"
 
 msgid "Unattended upgrades options"
 msgstr "Optionen für automatische Aktualisierungen"
