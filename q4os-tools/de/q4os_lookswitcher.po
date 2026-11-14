@@ -18,4 +18,4 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Launching Look Switcher..."
-msgstr "Look Switcher wird gestartet..."
+msgstr "Erscheinungs-Schalter wird gestartet..."
