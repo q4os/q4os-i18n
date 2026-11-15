@@ -19,18 +19,18 @@ msgstr ""
 
 #, c-format
 msgid "%n important update available"
-msgstr "%n wichtiges Update verfügbar"
+msgstr "%n wichtige Aktualisierung verfügbar"
 
 #, c-format
 msgid "%n other update available"
-msgstr "%n weiteres Update verfügbar"
+msgstr "%n weitere Aktualisierung verfügbar"
 
 #, c-format
 msgid "%n update available"
-msgstr "%n Update verfügbar"
+msgstr "%n Aktualisierung verfügbar"
 
 msgid "No updates available."
-msgstr "Keine Updates verfügbar."
+msgstr "Keine Aktualisierungen verfügbar."
 
 msgid "&Configure"
 msgstr "&Konfigurieren"
@@ -54,7 +54,7 @@ msgid "&Reboot now"
 msgstr "Jetzt &neu starten"
 
 msgid "No updates available"
-msgstr "Keine Updates verfügbar"
+msgstr "Keine Aktualisierungen verfügbar"
 
 msgid "&Update now"
 msgstr "Jetzt &aktualisieren"
@@ -63,7 +63,7 @@ msgid "Update Manager"
 msgstr "Update-Manager"
 
 msgid "Another instance of Update Manager is running, leaving ..."
-msgstr "Eine weitere Instanz des Update-Managers wird bereits ausgeführt, wird beendet ..."
+msgstr "Eine weitere Instanz der Aktualisierungs-Verwaltung wird bereits ausgeführt; wird beendet ..."
 
 msgid "Checking apt pinning"
 msgstr "Überprüfung des apt-Pinning"
@@ -81,7 +81,7 @@ msgid "Not available!"
 msgstr "Nicht verfügbar!"
 
 msgid "Update SW database"
-msgstr "SW-Datenbank aktualisieren"
+msgstr "Software-Datenbank aktualisieren"
 
 msgid "Done"
 msgstr "Erledigt"
@@ -123,10 +123,10 @@ msgid "Running Synaptic"
 msgstr "Ausführen von Synaptic"
 
 msgid "Synaptic package manager is not installed"
-msgstr "Der Paketmanager Synaptic ist nicht installiert"
+msgstr "Die Paketverwaltung Synaptic ist nicht installiert"
 
 msgid "using default updater instead"
-msgstr "stattdessen wird der Standard-Updater verwendet"
+msgstr "stattdessen wird die Standard-Aktualisierungs-Verwaltung verwendet"
 
 msgid "Show details"
 msgstr "Details zeigen"
@@ -144,13 +144,13 @@ msgid "Checking permissions"
 msgstr "Überprüfung der Berechtigungen"
 
 msgid "Checking SW database to be free"
-msgstr "Überprüfung der SW-Datenbank, frei zu sein"
+msgstr "Überprüfung der Software-Datenbank, frei zu sein"
 
 msgid "Locking SW database"
-msgstr "Sperren der SW-Datenbank"
+msgstr "Sperren der Software-Datenbank"
 
 msgid "System updater has been started.."
-msgstr "System-Updater ist gestartet worden ..."
+msgstr "System-Aktualisierung ist gestartet worden ..."
 
 msgid ""
 "Package system is busy, not ready to install now. Setup cannot continue.\n"
@@ -173,9 +173,9 @@ msgid ""
 "\n"
 "Please, try to run Update Manager a few minutes later again."
 msgstr ""
-"Der Update-Manager wurde mit Fehlercode %1 beendet.\n"
+"Die Aktualisierungs-Verwaltung wurde mit Fehlercode %1 beendet.\n"
 "\n"
-"Bitte versuchen Sie, den Update-Manager einige Minuten später erneut auszuführen."
+"Bitte versuchen Sie, die Aktualisierungs-Verwaltung einige Minuten später erneut auszuführen."
 
 msgid "Available updates"
 msgstr "Verfügbare Aktualisierungen"
@@ -184,10 +184,10 @@ msgid "Additional updates have been detected"
 msgstr "Zusätzliche Aktualisierungen sind erkannt worden"
 
 msgid "Synaptic package manager is not installed so using default updater for now ..."
-msgstr "Synaptic-Paketmanager ist nicht installiert, daher wird für jetzt der per Default vorgegebene Updater verwendet ..."
+msgstr "Synaptic-Paketverwaltung ist nicht installiert, daher wird für jetzt die per Voreinstellung vorgegebene Aktualisierungs-Verwaltung verwendet ..."
 
 msgid "Couldn't run Synaptic. Using default updater for now ..."
-msgstr "Synaptic konnte nicht gestartet werden. Es wird vorerst der Standard-Updater verwendet..."
+msgstr "Synaptic konnte nicht gestartet werden. Es wird vorerst die Aktualisierungs-Verwaltung verwendet..."
 
 msgid "Closing.."
 msgstr "Schließen ..."
@@ -215,7 +215,7 @@ msgid ""
 "You can also configure update manager later."
 msgstr ""
 "Falls aktiviert, werden zukünftige Aktualisierungen ohne Bestätigung durch den Benutzer durchgeführt.\n"
-"Sie können den Update-Manager auch später konfigurieren."
+"Sie können die Aktualisierungs-Verwaltung auch später konfigurieren."
 
 msgid "No"
 msgstr "Nein"
@@ -236,10 +236,10 @@ msgstr ""
 "Bitte starten Sie Ihren Computer so bald wie möglich neu, um die Aktualisierung abzuschließen."
 
 msgid "<p>Another instance of Update Manager is running, leaving ...<p>"
-msgstr "<p>Eine weitere Instanz von Update-Manager wird ausgeführt, Verlassen ...<p>"
+msgstr "<p>Eine weitere Instanz von Aktualisierungs-Verwaltung wird ausgeführt, Verlassen ...<p>"
 
 msgid "<p>You are not allowed to perform system upgrades. You need to be member of administrative group \"sudo\" first, please contact system administrator.</p>"
-msgstr "<p>Sie sind nicht berechtigt, System-Upgrades durchzuführen. Sie müssen zuerst Mitglied der administrativen Gruppe \"sudo\" sein, bitte kontaktieren Sie den Systemadministrator.</p>"
+msgstr "<p>Sie sind nicht berechtigt, System-Aktualisierungen durchzuführen. Sie müssen zuerst Mitglied der administrativen Gruppe \"sudo\" sein, bitte kontaktieren Sie den Systemadministrator.</p>"
 
 msgid "<p>Package system is busy, not ready to install now. Setup cannot continue.</p><p>The lock is caused, very probably, by ongoing background system updates. If this is the case, you have to wait a moment for package system to finish these operations.</p><p>Please make sure you are not installing another application and repeat setup a few minutes later.</p>"
 msgstr "<p>Das Paketsystem ist ausgelastet und derzeit nicht bereit für die Installation. Die Einrichtung kann nicht fortgesetzt werden.</p><p>Die Sperre wird höchstwahrscheinlich durch laufende Hintergrund-Systemaktualisierungen verursacht. Falls dies der Fall ist, müssen Sie einen Moment warten, bis das Paketsystem diese Vorgänge abgeschlossen hat.</p><p>Bitte stellen Sie sicher, dass Sie gerade keine andere Anwendung installieren, und wiederholen Sie die Einrichtung einige Minuten später.</p>"
@@ -251,16 +251,16 @@ msgid "! Reboot required"
 msgstr "! Neustart erforderlich"
 
 msgid "<p>System has received security fixes and important updates.</p><p>Please <b>Reboot</b> your computer as soon as possible to complete the upgrade.</p>"
-msgstr "<p>Das System hat Sicherheitskorrekturen und wichtige Aktualisierungen bekommen.</p><p>Bitte <b>neustarten</b>Sie Ihren Computer so bald wie möglich, um das Upgrade abzuschließen.</p>"
+msgstr "<p>Das System hat Sicherheitskorrekturen und wichtige Aktualisierungen bekommen.</p><p>Bitte <b>neustarten</b>Sie Ihren Computer so bald wie möglich, um die Aktualisierung abzuschließen.</p>"
 
 msgid "Please, try to run Update Manager a few minutes later again."
-msgstr "Versuchen Sie bitte, den Update-Manager wenige Minuten später erneut auszuführen."
+msgstr "Versuchen Sie bitte, die Aktualisierungs-Verwaltung in wenigen Minuten später erneut auszuführen."
 
 msgid "Update manager has been exited with <b>error code: "
-msgstr "Update-Manager ist beendet worden mit <b>Fehlercode: "
+msgstr "Aktualisierungs-Verwaltung ist beendet worden mit <b>Fehlercode: "
 
 msgid "<b>Reboot is required<b> to complete the upgrade."
-msgstr "<b>Neustart ist erforderlich<b>, um das Upgrade abzuschließen."
+msgstr "<b>Neustart ist erforderlich<b>, um die Aktualisierung abzuschließen."
 
 msgid "Success. The most recent update has been implemented."
 msgstr "Erfolg. Die jüngste Aktualisierung ist implementiert worden."
@@ -278,16 +278,16 @@ msgid "Installing.."
 msgstr "Installation ..."
 
 msgid "Q4OS Update Notifier"
-msgstr "Q4OS Update-Benachrichtigung"
+msgstr "Q4OS Aktualisierungs-Benachrichtigung"
 
 msgid "Q4OS Update Notifier for Trinity does not run under a Plasma desktop session. Please install the \"q4os-updater-plasma\" package to get update notifications here."
-msgstr ""
+msgstr "Die Q4OS-Aktualisierungs-Benachrichtigung für Trinity läuft nicht unter einer Plasma-Schreibtisch-Sitzung. Bitte installieren Sie das Paket „q4os-updater-plasma“, um hier Aktualisierungs-Benachrichtigungen zu erhalten."
 
 #~ msgid "Please install \"q4os-updater-plasma\" package in order to get better experience."
 #~ msgstr "Bitte installieren Sie das Paket „q4os-updater-plasma“, um eine bessere Erfahrung zu erhalten."
 
 #~ msgid "Update Manager - install progress"
-#~ msgstr "Update-Manager - Installationsfortschritt"
+#~ msgstr "Aktualisierungs-Verwaltung - Installationsfortschritt"
 
 #~ msgid "textLabel1"
 #~ msgstr "textLabel1"
@@ -306,4 +306,4 @@ msgstr ""
 
 #. added 2026-10-06 with the string itself, not yet reviewed by a translator
 msgid "Checking for updates"
-msgstr "Suche nach Updates"
+msgstr "Suche nach Aktualisierungen"
