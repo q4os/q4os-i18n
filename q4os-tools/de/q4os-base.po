@@ -20,11 +20,11 @@ msgstr ""
 
 #, sh-format
 msgid "<b>Press Yes</b> button to run auto-install wizard, which will guide you through installation process of the latest stable version with automatic updates. Otherwise click No and use Konqueror as a default option. It is possible to get ${APF1} installer from Q4OS Software Centre anytime."
-msgstr "<b>Drücken Sie die Schaltfläche Ja</b>, um den Assistenten für die automatische Installation auszuführen, welcher Sie durch den Installationsprozess der neuesten stabilen Version mit automatischen Updates führt. Andernfalls klicken Sie auf Nein und verwenden Konqueror als per Default vorgegebene Option. Es ist jederzeit möglich, das ${APF1}-Installationsprogramm aus dem Q4OS-Software-Center zu erhalten."
+msgstr "<b>Drücken Sie die Schaltfläche Ja</b>, um den Assistenten für die automatische Installation auszuführen, welcher Sie durch den Installationsprozess der neuesten stabilen Version mit automatischen Updates führt. Andernfalls klicken Sie auf Nein und verwenden Konqueror als per Voreinstellung vorgegebene Option. Es ist jederzeit möglich, das ${APF1}-Installationsprogramm aus dem Q4OS-Software-Center zu erhalten."
 
 #, sh-format
 msgid "<b>Q4OS optimized</b> ${APD} is preferred to original Oracle's CD, to achieve the best performance. This setup will download and auto-install all the needed just now."
-msgstr "<b>Q4OS optimiert</b> ${APD} wird der Original-CD von Oracle vorgezogen, um die beste Leistung zu erzielen. Dieses Setup wird alle benötigten Komponenten gerade jetzt herunterladen und automatisch installieren."
+msgstr "<b>Q4OS optimiert</b> ${APD} wird der Original-CD von Oracle vorgezogen, um die beste Leistung zu erzielen. Diese Aktualisierung wird alle benötigten Komponenten gerade jetzt herunterladen und automatisch installieren."
 
 #, sh-format
 msgid "<b>Warning</b>"
@@ -36,7 +36,7 @@ msgstr "Asus Eee PC Laptop erkannt, zusätzliche Konfiguration wird durchgeführ
 
 #, sh-format
 msgid "Broadcom WiFi driver"
-msgstr "Broadcom-WLAN-Treiber"
+msgstr "Broadcom-drahtlos-Netzwerk-Treiber"
 
 #, sh-format
 msgid "Check Internet connection, please."
@@ -52,7 +52,7 @@ msgstr "Klicken Sie auf OK, um jetzt zum Anmeldebildschirm zu gelangen."
 
 #, sh-format
 msgid "Click OK to run WiFi connection tool to create a network connection."
-msgstr "Klicken Sie auf OK, um das WiFi-Verbindungstool zum Erstellen einer Netzwerkverbindung auszuführen."
+msgstr "Klicken Sie auf OK, um das Drahtlos-Netzwerk-Verbindungswerkzeug zum Erstellen einer Netzwerkverbindung auszuführen."
 
 #, sh-format
 msgid "Click Ok to reboot your computer now."
@@ -60,7 +60,7 @@ msgstr "Klicken Sie auf OK, um Ihren Computer jetzt neu zu starten."
 
 #, sh-format
 msgid "Configuring desktop theme ..."
-msgstr "Konfigurieren des Desktop-Themas ..."
+msgstr "Konfigurieren des Schreibtisch-Themas ..."
 
 #, sh-format
 msgid "Configuring the profile ..."
@@ -80,7 +80,7 @@ msgstr "Aktuelle Systemsprache: <b>English</b>"
 
 #, sh-format
 msgid "Default language: <b>${LANC}</b>"
-msgstr "Sprache per Default: <b>${LANC}</b>"
+msgstr "Sprache per Voreinstellung: <b>${LANC}</b>"
 
 #, sh-format
 msgid "Display setup"
@@ -96,7 +96,7 @@ msgstr "Möchten Sie <b>${APF1}</b> gerade jetzt installieren?"
 
 #, sh-format
 msgid "Do you want to keep English as default system language ?"
-msgstr "Möchten Sie Englisch als per Default vorgegebene Systemsprache beibehalten?"
+msgstr "Möchten Sie Englisch als per Voreinstellung vorgegebene Systemsprache beibehalten?"
 
 #, sh-format
 msgid "Do you want to open it now ?"
@@ -140,7 +140,7 @@ msgstr "Installation wurde nicht abgeschlossen, Paketsystem ist ausgelastet. Ver
 
 #, sh-format
 msgid "Installation has not completed, package system is busy. You can easily install language pack later, using a desktop icon."
-msgstr "Installation wurde nicht abgeschlossen, Paketsystem ist ausgelastet. Sie können das Sprachpaket später einfach unter Verwendung eines Desktop-Icons installieren."
+msgstr "Installation wurde nicht abgeschlossen, Paketsystem ist ausgelastet. Sie können das Sprachpaket später einfach unter Verwendung eines Schreibtisch-Symbols installieren."
 
 #, sh-format
 msgid "Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved. You will be asked for ${APD} installation at the next login, or you can install anytime from Software centre."
@@ -176,19 +176,19 @@ msgstr "Neu erstellte Elemente erscheinen im Startmenü <b>nach Schließen</b> d
 
 #, sh-format
 msgid "No desktop profile has been applied yet. It's highly recommended to run <b>Desktop Profiler</b> tool and apply one of available profiles as soon as possible."
-msgstr "Es ist noch kein Desktop-Profil angewendet worden. Es wird dringend empfohlen, das Tool <b>Desktop-Profiler</b> auszuführen und eines der verfügbaren Profile so bald wie möglich anzuwenden."
+msgstr "Es ist noch kein Schreibtisch-Profil angewendet worden. Es wird dringend empfohlen, das <b>Schreibtisch-Werkzeug</b> auszuführen und eines der verfügbaren Profile so bald wie möglich anzuwenden."
 
 #, sh-format
 msgid "Package system is busy now, setup cannot continue. You will be asked for ${APD} installation at the next login, or you can install anytime from Software centre."
-msgstr "Paketsystem ist jetzt ausgelastet, Setup kann nicht fortgesetzt werden. Sie werden bei der nächsten Anmeldung zur ${APD}-Installation aufgefordert, oder Sie können jederzeit aus dem Software-Center installieren."
+msgstr "Paketsystem ist jetzt ausgelastet, Aktualisierung kann nicht fortgesetzt werden. Sie werden bei der nächsten Anmeldung zur ${APD}-Installation aufgefordert, oder Sie können jederzeit aus dem Software-Center installieren."
 
 #, sh-format
 msgid "Package system is busy now, setup cannot continue. You will be asked for ${APF1} installation later again, or you can install anytime from Q4OS Software Centre."
-msgstr "Paketsystem ist jetzt ausgelastet, Setup kann nicht fortgesetzt werden. Sie werden später erneut zur ${APF1}-Installation aufgefordert, oder Sie können jederzeit aus dem Q4OS-Software-Center installieren."
+msgstr "Paketsystem ist jetzt ausgelastet, Aktualisierung kann nicht fortgesetzt werden. Sie werden später erneut zur ${APF1}-Installation aufgefordert, oder Sie können jederzeit aus dem Q4OS-Software-Center installieren."
 
 #, sh-format
 msgid "Package system is busy now, some other setup is running ! You will be asked for ${APF1} installation later again, or you can install anytime from Q4OS Software Centre."
-msgstr "Paketsystem ist jetzt ausgelastet, ein anderes Setup wird ausgeführt! Sie werden später erneut zur ${APF1}-Installation aufgefordert, oder Sie können jederzeit aus dem Q4OS-Software-Center installieren."
+msgstr "Paketsystem ist jetzt ausgelastet, eine andere Aktualisierung wird ausgeführt! Sie werden später erneut zur ${APF1}-Installation aufgefordert, oder Sie können jederzeit aus dem Q4OS-Software-Center installieren."
 
 #, sh-format
 msgid "Please login again to take changes effect."
@@ -208,15 +208,15 @@ msgstr "Ihre Sprache auswählen:"
 
 #, sh-format
 msgid "Setup cannot continue ..."
-msgstr "Setup kann nicht fortgesetzt werden ..."
+msgstr "Aktualisierung kann nicht fortgesetzt werden ..."
 
 #, sh-format
 msgid "Setup cannot continue."
-msgstr "Setup kann nicht fortgesetzt werden."
+msgstr "Aktualisierung kann nicht fortgesetzt werden."
 
 #, sh-format
 msgid "Sound card not detected, system sound was disabled."
-msgstr "Soundkarte nicht erkannt, System-Sound wurde deaktiviert."
+msgstr "Audiokarte nicht erkannt, System-Ton wurde deaktiviert."
 
 #, sh-format
 msgid "Start menu structure consists of two logical parts mixed, the <b>system global and user part</b>. You can edit, delete and add custom menu entries for the user part only, global menu entries are not visible in the MenuEditor."
@@ -228,11 +228,11 @@ msgstr "System ist bereit, das Sprachpaket ${LANC} herunterzuladen und zu instal
 
 #, sh-format
 msgid "Thank you for using Konqueror web browser. Konqueror is a minimalist and very fast browser for users who need lightweight Internet access."
-msgstr "Vielen Dank, dass Sie den Webbrowser Konqueror verwenden. Konqueror ist ein minimalistischer und sehr schneller Browser für Benutzer, die einen leichtgewichtigen Internetzugang benötigen."
+msgstr "Vielen Dank, dass Sie den Webbrauser Konqueror verwenden. Konqueror ist ein minimalistischer und sehr schneller Brauser für Benutzer, die einen leichtgewichtigen Internetzugang benötigen."
 
 #, sh-format
 msgid "Trinity session not detected. Please run this tool within Trinity desktop."
-msgstr "Trinity-Sitzung nicht erkannt. Bitte führen Sie dieses Tool innerhalb des Trinity-Desktops aus."
+msgstr "Trinity-Sitzung nicht erkannt. Bitte führen Sie dieses Werkzeug innerhalb des Trinity-Schreibtisch aus."
 
 #, sh-format
 msgid "Unable to download ${APD}, check Internet connection, please."
@@ -240,7 +240,7 @@ msgstr "${APD} kann nicht heruntergeladen werden, bitte Internetverbindung über
 
 #, sh-format
 msgid "Unable to download, check Internet connection please. You can easily install language pack later, using a desktop icon."
-msgstr "Herunterladen nicht möglich, bitte Internetverbindung überprüfen. Sie können das Sprachpaket später einfach unter Verwendung eines Desktop-Icons installieren."
+msgstr "Herunterladen nicht möglich, bitte Internetverbindung überprüfen. Sie können das Sprachpaket später einfach unter Verwendung eines Schreibtisch-Symbols installieren."
 
 #, sh-format
 msgid "Unable to update, check Internet connection please."
@@ -280,7 +280,7 @@ msgstr "Sie werden das Startmenü bearbeiten."
 
 #, sh-format
 msgid "You can review and install them in the <b>Hardware info</b> tool, on its <b>Drivers</b> tab."
-msgstr "Sie können sie im Werkzeug <b>Hardware-Info</b> auf der Registerkarte <b>Treiber</b> einsehen und installieren."
+msgstr "Sie können sie im Werkzeug <b>Hardware-Information</b> auf der Registerkarte <b>Treiber</b> einsehen und installieren."
 
 #, sh-format
 msgid "You may want to enlarge text and widgets size to improve readability. Click OK to run a configuration tool for screen setup and scaling."
@@ -308,7 +308,7 @@ msgstr "Nachricht"
 
 #, sh-format
 #~ msgid "Do you want to download and install <b>Look Switcher</b> just now ?"
-#~ msgstr "Möchten Sie <b>Look Switcher</b> gerade jetzt herunterladen und installieren?"
+#~ msgstr "Möchten Sie <b>Erscheinungs-Umschalter</b> gerade jetzt herunterladen und installieren?"
 
 #, sh-format
 #~ msgid "Installer needs to download packages from Q4OS Internet resources, but no info could be retrieved."
@@ -316,15 +316,15 @@ msgstr "Nachricht"
 
 #, sh-format
 #~ msgid "Look Switcher installer and icons will be removed from control panel now, you can download it anytime from Q4OS software centre."
-#~ msgstr "Das Look Switcher-Installationsprogramm und die Icons werden jetzt aus der Systemsteuerung entfernt. Sie können dies jederzeit aus dem Q4OS-Software-Center herunterladen."
+#~ msgstr "Das Erscheinungs-Umschalter-Installationsprogramm und die Symbole werden jetzt aus der Systemsteuerung entfernt. Sie können dies jederzeit aus dem Q4OS-Software-Center herunterladen."
 
 #, sh-format
 #~ msgid "Package system is busy now, setup cannot continue. You can install anytime from Q4OS software centre."
-#~ msgstr "Paketsystem ist jetzt ausgelastet, Setup kann nicht fortgesetzt werden. Sie können jederzeit aus dem Q4OS-Software-Center installieren."
+#~ msgstr "Paketsystem ist jetzt ausgelastet, Aktualisierung kann nicht fortgesetzt werden. Sie können jederzeit aus dem Q4OS-Software-Center installieren."
 
 #, sh-format
 #~ msgid "Package system is busy now, some other setup is running ! You will be asked for ${APD} installation later again, or you can install anytime from Q4OS software centre."
-#~ msgstr "Paketsystem ist jetzt ausgelastet, ein anderes Setup wird ausgeführt! Sie werden später erneut zur ${APD}-Installation aufgefordert, oder Sie können jederzeit aus dem Q4OS-Software-Center installieren."
+#~ msgstr "Paketsystem ist jetzt ausgelastet, eine andere Aktualisierung wird ausgeführt! Sie werden später erneut zur ${APD}-Installation aufgefordert, oder Sie können jederzeit aus dem Q4OS-Software-Center installieren."
 
 #, sh-format
 #~ msgid "Q4OS autodetected <b>${APF}</b> available <b>!</b>"
@@ -332,7 +332,7 @@ msgstr "Nachricht"
 
 #, sh-format
 #~ msgid "Thank you for using Q4OS operating system. After setup of <b>Look Switcher</b>, you will be able to switch between different visual themes."
-#~ msgstr "Vielen Dank, dass Sie das Betriebssystem Q4OS verwenden. Nach der Einrichtung von <b>Look Switcher</b>werden Sie in der Lage sein, zwischen verschiedenen visuellen Themen zu wechseln."
+#~ msgstr "Vielen Dank, dass Sie das Betriebssystem Q4OS verwenden. Nach der Einrichtung von <b>Erscheinungs-Umschalter</b>werden Sie in der Lage sein, zwischen verschiedenen visuellen Themen zu wechseln."
 
 #, sh-format
 #~ msgid "Trying to setup wireless network ..."
@@ -340,23 +340,23 @@ msgstr "Nachricht"
 
 #, sh-format
 #~ msgid "Yes, you can install proprietary NVIDIA video drivers right now. This setup will download and auto-install all the needed."
-#~ msgstr "Ja, Sie können sofort proprietäre NVIDIA-Grafiktreiber installieren. Dieses Setup wird alle benötigten Komponenten herunterladen und automatisch installieren."
+#~ msgstr "Ja, Sie können sofort proprietäre NVIDIA-Grafiktreiber installieren. Diese Aktualisierung wird alle benötigten Komponenten herunterladen und automatisch installieren."
 
 #, sh-format
 #~ msgid "Click \"Ok\" button to run the tool."
-#~ msgstr "Klicken Sie auf die Schaltfläche \"OK\", um das Tool auszuführen."
+#~ msgstr "Klicken Sie auf die Schaltfläche \"OK\", um das Werkzeug auszuführen."
 
 #, sh-format
 #~ msgid "External repositories"
-#~ msgstr "Externe Repositories"
+#~ msgstr "Externe Ablagen"
 
 #, sh-format
 #~ msgid "External repositories to add"
-#~ msgstr "Externe Repositories zum Hinzufügen"
+#~ msgstr "Externe Ablagen zum Hinzufügen"
 
 #, sh-format
 #~ msgid "Keep in mind, adding external third party repositories is low level system action, and it could deeply influence package database integrity and dependencies. Fortunately, APT package management system contains strong tools for administrators to fix broken dependencies, so you should be always able to revert into a clean state."
-#~ msgstr "Behalten Sie im Auge, dass das Hinzufügen externer Repositories von Drittanbietern eine Systemaktion auf niedriger Ebene (Low Level) ist und es die Integrität der Paketdatenbank und die Abhängigkeiten stark beeinflussen könnte. Glücklicherweise enthält das APT-Paketverwaltungssystem starke Tools für Administratoren, um beschädigte Abhängigkeiten zu reparieren. So sollten Sie immer in der Lage sein, zu einem cleanen Zustand zurückzukehren."
+#~ msgstr "Behalten Sie im Auge, dass das Hinzufügen externer Ablagen von Drittanbietern eine Systemaktion auf niedriger Ebene (Low Level) ist und es die Integrität der Paketdatenbank und die Abhängigkeiten stark beeinflussen könnte. Glücklicherweise enthält das APT-Paketverwaltungssystem starke Tools für Administratoren, um beschädigte Abhängigkeiten zu reparieren. So sollten Sie immer in der Lage sein, zu einem cleanen Zustand zurückzukehren."
 
 #, sh-format
 #~ msgid "Moving filesystem to RAM, it will take a while. Please wait ..."
@@ -364,11 +364,11 @@ msgstr "Nachricht"
 
 #, sh-format
 #~ msgid "Please use this tool only if you exactly understand what you are doing."
-#~ msgstr "Bitte verwenden Sie dieses Tool nur, wenn Sie genau verstehen, was Sie tun."
+#~ msgstr "Bitte verwenden Sie dieses Werkzeug nur, wenn Sie genau verstehen, was Sie tun."
 
 #, sh-format
 #~ msgid "Select a repository:"
-#~ msgstr "Ein Repository auswählen:"
+#~ msgstr "Eine Ablage auswählen:"
 
 #, sh-format
 #~ msgid "Virtualbox Guest Additions setup"
@@ -376,8 +376,8 @@ msgstr "Nachricht"
 
 #, sh-format
 #~ msgid "Warning: This system is low in memory, it will be most likely unusable with the Plasma desktop. Please use Trinity desktop installation media instead."
-#~ msgstr "Warnung: Dieses System hat nicht genügend Speicher (Memory). Es wird mit dem Plasma-Desktop höchstwahrscheinlich unbenutzbar sein. Bitte verwenden Sie stattdessen das Trinity-Desktop-Installationsmedium."
+#~ msgstr "Warnung: Dieses System hat nicht genügend Speicher (Memory). Es wird mit dem Plasma-Schreibtisch höchstwahrscheinlich unbenutzbar sein. Bitte verwenden Sie stattdessen das Trinity-Schreibtisch-Installationsmedium."
 
 #, sh-format
 #~ msgid "You are going to add an external repository. This is intended specifically for power users familiar to Debian package management system."
-#~ msgstr "Sie werden ein externes Repository hinzufügen. Dies richtet sich speziell an Power-User, die mit dem Debian-Paketverwaltungssystem vertraut sind."
+#~ msgstr "Sie werden eine externe Ablage hinzufügen. Dies richtet sich speziell an erfahrene Benutzer, die mit dem Debian-Paketverwaltungssystem vertraut sind."
