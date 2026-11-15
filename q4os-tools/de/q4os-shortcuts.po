@@ -22,10 +22,10 @@ msgid "Accessories"
 msgstr "Zubehör"
 
 msgid "Configure the Q4OS Update Manager"
-msgstr ""
+msgstr "Die Q4OS-Aktualisierungs-Verwaltung einrichten"
 
 msgid "Contains personal documents"
-msgstr ""
+msgstr "Enthält persönliche Dokumente"
 
 msgid "Control Panel"
 msgstr "Systemsteuerung"
@@ -34,7 +34,7 @@ msgid "Control panel"
 msgstr "Systemsteuerung"
 
 msgid "Displays a tray icon when software updates are available"
-msgstr ""
+msgstr "Zeigt ein Symbol in der Aufgabenleiste an, wenn Software-Aktualisierungen verfügbar sind"
 
 msgid "Documents"
 msgstr "Dokumente"
@@ -67,7 +67,7 @@ msgid "Language Pack installation"
 msgstr "Sprachpaket-Installation"
 
 msgid "Look Switcher"
-msgstr "Look Switcher"
+msgstr "Erscheinungs-Umschalter"
 
 msgid "Network Shares"
 msgstr "Netzwerkfreigaben"
@@ -79,7 +79,7 @@ msgid "Open Terminal"
 msgstr "Terminal öffnen"
 
 msgid "Pictures"
-msgstr "Pictures"
+msgstr "Bilder"
 
 msgid "Print system"
 msgstr "Drucksystem"
@@ -91,7 +91,7 @@ msgid "Q4OS Software Centre"
 msgstr "Q4OS-Software-Center"
 
 msgid "Q4OS Update Notifier"
-msgstr ""
+msgstr "Q4OS-Aktualisierungs-Information"
 
 msgid "Q4OS Welcome Screen"
 msgstr "Q4OS-Willkommensbildschirm"
@@ -115,7 +115,7 @@ msgid "System"
 msgstr "System"
 
 msgid "TDevelop - Q4OS Development Pack"
-msgstr "TDevelop - Q4OS Development-Pack"
+msgstr "TDevelop - Q4OS Entwickler-Paket"
 
 msgid "TDevelop Q4OS"
 msgstr "TDevelop Q4OS"
@@ -124,7 +124,7 @@ msgid "Terminal Program"
 msgstr "Terminal-Programm"
 
 msgid "Trash"
-msgstr ""
+msgstr "Papierkorb"
 
 msgid "Uninstall"
 msgstr "Deinstallieren"
@@ -133,17 +133,17 @@ msgid "Uninstall Chromium"
 msgstr "Chromium deinstallieren"
 
 msgid "Update Manager"
-msgstr "Update-Manager"
+msgstr "Aktualisierungs-Verwaltung"
 
 #, fuzzy
 msgid "Update Manager Settings"
-msgstr "Update-Manager"
+msgstr "Aktualisierungs-Verwaltung Einstellungen"
 
 msgid "Users and groups"
 msgstr "Benutzer und Gruppen"
 
 msgid "Web Browser"
-msgstr "Webbrowser"
+msgstr "Webbrauser"
 
 #~ msgid "A KDE panel applet for a WINE menu"
 #~ msgstr "Ein KDE-Panel-Applet für ein WINE-Menü"
@@ -158,16 +158,16 @@ msgstr "Webbrowser"
 #~ msgstr "Herbstblätter"
 
 #~ msgid "Blueman Bluetooth Manager"
-#~ msgstr "Blueman Bluetooth-Manager"
+#~ msgstr "Blueman Bluetooth-Verwaltung"
 
 #~ msgid "Bluetooth Manager"
-#~ msgstr "Bluetooth-Manager"
+#~ msgstr "Bluetooth-Verwaltung"
 
 #~ msgid "Browse the World Wide Web"
-#~ msgstr "Durchsuchen des World Wide Web"
+#~ msgstr "Durchsuchen des Internets"
 
 #~ msgid "Burning tool"
-#~ msgstr "Tool zum Brennen"
+#~ msgstr "Werkzeug zum Brennen"
 
 #~ msgid "Centaurus constellation"
 #~ msgstr "Sternbild Zentaur"
@@ -182,7 +182,7 @@ msgstr "Webbrowser"
 #~ msgstr "Kleinlibelle"
 
 #~ msgid "Debian Future prototype"
-#~ msgstr "Debian Future Prototype"
+#~ msgstr "Debian Future Prototyp"
 
 #~ msgid "Debian Lines"
 #~ msgstr "Debian Lines"
@@ -215,7 +215,7 @@ msgstr "Webbrowser"
 #~ msgstr "Q4OS auf Pinebook installieren"
 
 #~ msgid "Install, remove and upgrade software packages"
-#~ msgstr "Softwarepakete installieren, entfernen und upgraden"
+#~ msgstr "Softwarepakete installieren, entfernen und aktualisieren"
 
 #~ msgid "K3B"
 #~ msgstr "K3B"
@@ -224,10 +224,10 @@ msgstr "Webbrowser"
 #~ msgstr "Lineart Logo"
 
 #~ msgid "Mail Client"
-#~ msgstr "Mail-Client"
+#~ msgstr "E-Mail-Programm"
 
 #~ msgid "Media player"
-#~ msgstr "Mediaplayer"
+#~ msgstr "Medien-Spieler"
 
 #~ msgid "Mozilla Thunderbird"
 #~ msgstr "Mozilla Thunderbird"
@@ -248,7 +248,7 @@ msgstr "Webbrowser"
 #~ msgstr "Origami 3"
 
 #~ msgid "Package Manager"
-#~ msgstr "Paketmanager"
+#~ msgstr "Paketverwaltung"
 
 #~ msgid "Partition Editor"
 #~ msgstr "Partitionseditor"
@@ -257,10 +257,10 @@ msgstr "Webbrowser"
 #~ msgstr "Q4OS Centaurus1"
 
 #~ msgid "Q4OS Design 1"
-#~ msgstr "Q4OS Design 1"
+#~ msgstr "Q4OS Aufmachung 1"
 
 #~ msgid "Q4OS Design 2"
-#~ msgstr "Q4OS Design 2"
+#~ msgstr "Q4OS Aufmachung 2"
 
 #~ msgid "Q4OS Hex2"
 #~ msgstr "Q4OS Hex2"
@@ -269,13 +269,13 @@ msgstr "Webbrowser"
 #~ msgstr "Q4OS-Matrix"
 
 #~ msgid "Read, capture, broadcast your multimedia streams"
-#~ msgstr "Ihre Multimedia-Streams lesen, erfassen und übertragen"
+#~ msgstr "Ihre Multimedia-Ströme lesen, erfassen und übertragen"
 
 #~ msgid "Read/Write Mail/News with Thunderbird"
-#~ msgstr "Mails/News mit Thunderbird lesen/schreiben"
+#~ msgstr "E-Mails/Nachrichten mit Thunderbird lesen/schreiben"
 
 #~ msgid "Simple Screen Recorder"
-#~ msgstr "Einfacher Bildschirmrecorder"
+#~ msgstr "Einfache Bildschirmaufnahme"
 
 #~ msgid "SimpleOutlook Glass"
 #~ msgstr "Simpler Ausblick - Glas"
@@ -308,13 +308,13 @@ msgstr "Webbrowser"
 #~ msgstr "Thunderbird"
 
 #~ msgid "Uninstall Q4OS Development Pack"
-#~ msgstr "Q4OS Development-Pack deinstallieren"
+#~ msgstr "Q4OS Entwickler-Paket deinstallieren"
 
 #~ msgid "VLC media player"
-#~ msgstr "VLC media player"
+#~ msgstr "VLC Medien-Spieler"
 
 #~ msgid "Vector 2"
-#~ msgstr "Vector 2"
+#~ msgstr "Vektor 2"
 
 #~ msgid "Wine Configuration"
 #~ msgstr "Wine-Konfiguration"
