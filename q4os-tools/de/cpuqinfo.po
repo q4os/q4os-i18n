@@ -46,7 +46,7 @@ msgid "CPU"
 msgstr "CPU"
 
 msgid "Cache"
-msgstr "Cache"
+msgstr "Zwischenspeicher"
 
 msgid "Clocks"
 msgstr "Taktfrequenz"
@@ -64,7 +64,7 @@ msgid "Cores"
 msgstr "Kerne"
 
 msgid "Desktop"
-msgstr "Desktop"
+msgstr "Schreibtisch"
 
 msgid "Details"
 msgstr "Details"
@@ -73,7 +73,7 @@ msgid "Device"
 msgstr "Gerät"
 
 msgid "Distro"
-msgstr "Distro"
+msgstr "Distribution"
 
 msgid "Driver"
 msgstr "Treiber"
@@ -88,10 +88,10 @@ msgid "Family"
 msgstr "Familie"
 
 msgid "Form (ui_form0)"
-msgstr "Form (ui_form0)"
+msgstr "Formular (ui_form0)"
 
 msgid "Form (ui_form1)"
-msgstr "Form (ui_form1)"
+msgstr "Formular (ui_form1)"
 
 msgid "Gathering data ..."
 msgstr "Daten werden gesammelt ..."
@@ -103,10 +103,10 @@ msgid "HW Summary"
 msgstr "HW-Zusammenfassung"
 
 msgid "Hardware Info"
-msgstr "Hardware-Info"
+msgstr "Hardware-Information"
 
 msgid "Hardware info - Details"
-msgstr "Hardware-Info - Details"
+msgstr "Hardware-Information - Details"
 
 msgid "Host"
 msgstr "Host"
@@ -133,13 +133,13 @@ msgid "Kernel"
 msgstr "Kernel"
 
 msgid "L1 Data"
-msgstr "L1 Data"
+msgstr "L1 Daten"
 
 msgid "L1 Inst."
 msgstr "L1 Inst."
 
 msgid "L2 Cache"
-msgstr "L2 Cache"
+msgstr "L2 Zwischenspeicher"
 
 msgid "Level 2"
 msgstr "Level 2"
@@ -148,7 +148,7 @@ msgid "Level 3"
 msgstr "Level 3"
 
 msgid "Mainboard"
-msgstr "Mainboard"
+msgstr "Hauptplatine"
 
 msgid "Max Speed"
 msgstr "Max. Geschwindigkeit"
@@ -178,7 +178,7 @@ msgid "Not installable"
 msgstr "Nicht installierbar"
 
 msgid "Package"
-msgstr "Package"
+msgstr "Paket"
 
 msgid "Processor"
 msgstr "Prozessor"
@@ -210,7 +210,7 @@ msgid "Status"
 msgstr "Status"
 
 msgid "Stepping"
-msgstr "Stepping"
+msgstr "Staffelung"
 
 msgid "Storage Total"
 msgstr "Speicher total"
@@ -222,7 +222,7 @@ msgid "The driver status could not be determined."
 msgstr "Der Treiberstatus konnte nicht ermittelt werden."
 
 msgid "Threads"
-msgstr "Threads"
+msgstr "Diskussionsstränge"
 
 msgid "Topology"
 msgstr "Topologie"
