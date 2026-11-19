@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: q4os-shortcuts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-10-05 18:39+0200\n"
-"PO-Revision-Date: 2022-09-30 15:05+0100\n"
+"PO-Revision-Date: 2026-11-19 13:08+0000\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <hugokarvalho@hotmail.com>\n"
 "Language: pt\n"
@@ -17,16 +17,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.9\n"
 
 msgid "Accessories"
 msgstr "Acessórios"
 
 msgid "Configure the Q4OS Update Manager"
-msgstr ""
+msgstr "Configurar o Gestor de Atualizações do Q4OS"
 
 msgid "Contains personal documents"
-msgstr ""
+msgstr "Contém documentos pessoais"
 
 msgid "Control Panel"
 msgstr "Painel de Controlo"
@@ -35,7 +35,7 @@ msgid "Control panel"
 msgstr "Painel de controlo"
 
 msgid "Displays a tray icon when software updates are available"
-msgstr ""
+msgstr "Apresenta um ícone na área de notificações quando há atualizações de software disponíveis"
 
 msgid "Documents"
 msgstr "Documentos"
@@ -92,13 +92,13 @@ msgid "Q4OS Software Centre"
 msgstr "Centro de software Q4OS"
 
 msgid "Q4OS Update Notifier"
-msgstr ""
+msgstr "Notificador de atualizações do Q4OS"
 
 msgid "Q4OS Welcome Screen"
 msgstr "Ecrã de boas-vindas Q4OS"
 
 msgid "Q4OS documentation on-line"
-msgstr "Documentação on-line do Q4OS"
+msgstr "Documentação online do Q4OS"
 
 msgid "Screen scaling"
 msgstr "Escala de ecrã"
@@ -134,17 +134,16 @@ msgid "Uninstall Chromium"
 msgstr "Desinstalar o Chromium"
 
 msgid "Update Manager"
-msgstr "Gestor de atualizações"
+msgstr "Gestor de Atualizações"
 
-#, fuzzy
 msgid "Update Manager Settings"
-msgstr "Gestor de atualizações"
+msgstr "Atualizar o Gestor de Atualizações"
 
 msgid "Users and groups"
 msgstr "Utilizadores e grupos"
 
 msgid "Web Browser"
-msgstr "Navegador de internet"
+msgstr "Navegador de Internet"
 
 #~ msgid "A KDE panel applet for a WINE menu"
 #~ msgstr "Uma mini-aplicação de painel do KDE para um menu WINE"
